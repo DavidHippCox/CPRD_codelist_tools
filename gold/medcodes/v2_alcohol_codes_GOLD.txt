@@ -6,7 +6,7 @@ original_readcode	Type	cleansed_readcode	snomed_id	medcode	medcodeid	description
 8CAM	Read	8CAM.000	704106009	102564	1724531000000116	Advised to abstain from alcohol consumption	0	check_upd		0
 38DZ	Read	38DZ.00	443504004	102577	409423019	Severity of alcohol dependence questionnaire	0	aud		0
 38DZ	Read	38DZ.11	443504004	102770	409424013	SADQ - Severity of alcohol dependence questionnaire	0	check_upd		0
-8IEA	Read	8IEA.00	781191000000101	103459	1746481000000112	Referral to community alcohol team declined	curr	aud		0
+8IEA	Read	8IEA.00	781191000000101	103459	`	Referral to community alcohol team declined	curr	aud		0
 J671	Read	J670.800	235942001	104611	353687012	Alcohol-induced acute pancreatitis	0	aud		0
 J611	Read	J610.00	50325005	10691	83834016	Alcoholic fatty liver	0	aud		0
 9NJZ	Read	9NJZ.00	892631000000102	108644	2298341000000114	In-house alcohol detoxification	NA	aud		0
@@ -42,6 +42,7 @@ E250	Read	E250.200	191883007	12974	295253017	Nondependent alcohol abuse, episodi
 136Q	Read	136Q.00	228279004	12984	342322012	Very heavy drinker	curr	aud		0
 136O	Read	136O.00	43783005	12985	73012011	Moderate drinker	curr	moderate-drinker		0
 E23	Read	E23..12	7200002	1399	502017010	Alcohol problem drinking	curr	aud		0
+E010-2	Read	E010.12	8635005	1476	15244019	Delirium tremens	0	aud		0
 1365	Read	1365	160577002	1618	250314015	Heavy drinker (7-9u/day)	curr	aud		0
 E010	Read	E010.00	8635005	16225	15243013	Alcohol withdrawal delirium	curr	aud		0
 E01	Read	E01..00	42344001	16237	476741000006111	Alcoholic psychoses	0	aud		0
@@ -69,6 +70,7 @@ E230	Read	E230.200	191805002	21624	295130013	Episodic acute alcoholic intoxicati
 J613	Read	J612.000	235880004	21713	353594015	Alcoholic fibrosis and sclerosis of liver	0	aud		0
 Z786	Read	Z786.200	290051006	21829	5755181000006117	Drinking practice	0	check_upd		0
 EU10	Read	EU10.100	15167005	21879	397881000006114	[X]Mental and behav dis due to use of alcohol: harmful use	curr	aud		0
+E010-1	Read	E010.11	8635005	22277	507053019	DTs - delirium tremens	0	aud		0
 136A	Read	136A.00	160582009	22933	250321015	Ex-trivial drinker (<1u/day)	0	light-drinker		0
 E250	Read	E250.100	191882002	23610	295252010	Nondependent alcohol abuse, continuous	curr	aud		0
 PK83	Read	PK80.00	205788004	23945	669211000006118	Fetal alcohol syndrome. 	NA	NA		0
