@@ -1,4 +1,4 @@
-original_readcode	Type	cleansed_readcode	snomed_id	GOLD_medcode	AURUM_medcode	description	alcstatus	alc_category	ND	strict_phenotype
+original_readcode	Type	cleansed_readcode	snomed_id	medcode	medcodeid	description	alcstatus	alc_category	ND	strict_phenotype
 2577	Read	2577	163184002	10161	254306016	O/E - alcoholic breath	curr	check_upd		0
 136Y	Read	136Y.00	228310006	101718	342361016	Drinks in morning to get rid of hangover	curr	aud		0
 8IAT	Read	8IAT.00	754831000000102	102247	1754191000006119	Extended interven for excessive alcohol consumption declined	curr	aud		0
