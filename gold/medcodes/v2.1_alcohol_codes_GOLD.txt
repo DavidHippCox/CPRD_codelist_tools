@@ -1,0 +1,194 @@
+original_readcode	Type	cleansed_readcode	snomed_id	GOLD_medcode	AURUM_medcode	description	alcstatus	alc_category	ND	strict_phenotype
+2577	Read	2577	163184002	10161	254306016	O/E - alcoholic breath	curr	check_upd		0
+136Y	Read	136Y.00	228310006	101718	342361016	Drinks in morning to get rid of hangover	curr	aud		0
+8IAT	Read	8IAT.00	754831000000102	102247	1754191000006119	Extended interven for excessive alcohol consumption declined	curr	aud		0
+136C	Read	136c.00		102448	1738381000000119	Higher risk drinking	curr	aud		0
+8CAM	Read	8CAM.000	704106009	102564	1724531000000116	Advised to abstain from alcohol consumption	0	check_upd		0
+38DZ	Read	38DZ.00	443504004	102577	409423019	Severity of alcohol dependence questionnaire	0	aud		0
+38DZ	Read	38DZ.11	443504004	102770	409424013	SADQ - Severity of alcohol dependence questionnaire	0	check_upd		0
+8IEA	Read	8IEA.00	781191000000101	103459	1746481000000112	Referral to community alcohol team declined	curr	aud		0
+J671	Read	J670.800	235942001	104611	353687012	Alcohol-induced acute pancreatitis	0	aud		0
+J611	Read	J610.00	50325005	10691	83834016	Alcoholic fatty liver	0	aud		0
+9NJZ	Read	9NJZ.00	892631000000102	108644	2298341000000114	In-house alcohol detoxification	NA	aud		0
+2126	Read	2126.C00	918321000000104	109108	2358251000000115	Alcohol dependence resolved	NA	aud		0
+8CDK	Read	8CDK.00	946101000000100	109668	2419601000000110	Specialist alcohol treatment service signposted	NA	aud		0
+9NZA	Read	9NZA.00	963281000000104	109800	2454281000000112	Hospital attendance related to personal alcohol consumption	NA	aud		0
+9NGZ	Read	9NGZ.H00	719340007	110382	2462911000000112	Withdrawn from alcohol detoxification programme	NA	aud		0
+8BAU	Read	8BAU.00	720175009	110494	2475831000000114	Alcohol harm reduction programme	NA	aud		0
+8BAS	Read	8BAS.00	968891000000109	110624	2467301000000111	Alcohol relapse prevention	NA	aud		0
+E0111	Read	E011.100	191471000	11106	294662017	Korsakov's alcoholic psychosis with peripheral neuritis	0	aud		Korsakov's syndrome
+ZG23	Read	ZG23.100		11140	0	Advice on alcohol consumption	0	check_upd		0
+8BAW	Read	8BAW.00	720178006	115844	2485391000000114	Alcohol twelve step programme	NA	aud		0
+EU10	Read	EU10.611	69482004	11670	394681000006119	[X]Korsakov's psychosis, alcohol induced	0	aud		Korsakov's syndrome
+9K1	Read	9K1..00	166251000000100	11740	236441000000113	Alcohol misuse - enhanced services administration	curr	aud		0
+E250	Read	E250.11	25702006	12271	346931015	Drunkenness NOS	curr	check_upd		0
+EU10	Read	EU10.500	42344001	12353	397621000006111	[X]Mental & behav dis due to use alcohol: psychotic disorder	0	aud		0
+66E	Read	66E..00	413130000	12442	2474678017	Alcohol disorder monitoring	curr	aud		0
+8HHE	Read	8HHE.00	417096006	12554	2549646014	Referral to community drug and alcohol team	0	aud		0
+1361	Read	1361	105542008	12949	291355016	Teetotaller	non	non-drinker		0
+136H	Read	136H.00	160590009	12968	250333013	Drinks beer and spirits	curr	check_upd		0
+136I	Read	136I.00	160591008	12969	250334019	Drinks wine	curr	check_upd		0
+1361-1	Read	1361	105542008	12970	587231000006111	Non drinker alcohol	non	non-drinker	1	0
+136F	Read	136F.00	160588008	12971	250331010	Spirit drinker	curr	check_upd		0
+1363	Read	1363	160575005	12972	250312016	Light drinker - 1-2u/day	curr	light-drinker		0
+E250	Read	E250.200	191883007	12974	295253017	Nondependent alcohol abuse, episodic	curr	aud		0
+1362	Read	1362	266917007	12975	397729013	Trivial drinker <1 u/day	curr	light-drinker		0
+1366	Read	1366	160578007	12977	250316018	Very heavy drinker (>9 u/day)	curr	aud		0
+136M	Read	136M.00	105542008	12979	217461000000118	Current non drinker	non	non-drinker	1	0
+136N	Read	136N.00	228277002	12980	342320016	Light drinker	curr	check_upd		0
+136Z	Read	136Z.00	160573003	12981	476411000006118	Alcohol consumption NOS 	0	check_upd		0
+136K	Read	136K.00	160592001	12982	250335018	Alcohol intake above recommended sensible limits	curr	check_upd		0
+136E	Read	136E.00	160587003	12983	250329018	Ex-very heavy drinker-(>9u/d)	0	aud		0
+136Q	Read	136Q.00	228279004	12984	342322012	Very heavy drinker	curr	aud		0
+136O	Read	136O.00	43783005	12985	73012011	Moderate drinker	curr	moderate-drinker		0
+E23	Read	E23..12	7200002	1399	502017010	Alcohol problem drinking	curr	aud		0
+1365	Read	1365	160577002	1618	250314015	Heavy drinker (7-9u/day)	curr	aud		0
+E010	Read	E010.00	8635005	16225	15243013	Alcohol withdrawal delirium	curr	aud		0
+E01	Read	E01..00	42344001	16237	476741000006111	Alcoholic psychoses	0	aud		0
+ZV11	Read	ZV11.311	371422002	16587	346501000006111	[V]Problems related to lifestyle alcohol use	curr	aud		0
+EU10	Read	EU10.411	8635005	17259	376451000006113	[X]Delirium tremens, alcohol induced	curr	aud		0
+J613	Read	J613.000	235881000	17330	353595019	Alcoholic hepatic failure	0	aud		0
+EU10	Read	EU10.514	42344001	17607	362981000006119	[X]Alcoholic psychosis NOS	0	aud		0
+E250	Read	E250.13	25702006	17777	346930019	Inebriety NOS	curr	check_upd		0
+13Y8	Read	13Y8.00	1099951000000107	18156	251195015	Alcoholics anonymous	0	aud		0
+E011	Read	E011.200	69482004	18636	501294012	Wernicke-Korsakov syndrome	0	aud		Korsakov's syndrome
+67H0	Read	67H0.00	281078001	18711	936001000006111	Lifestyle advice regarding alcohol	0	check_upd		0
+SM0	Read	SM0..00	67426006	19217	500729017	Alcohol causing toxic effect	0	aud		0
+136R	Read	136R.00	228315001	19401	342366014	Binge drinker	curr	check_upd		0
+136D	Read	136D.00	160585006	19493	250324011	Ex-heavy drinker - (7-9u/day)	0	aud		0
+136S	Read	136S.00	198421000000108	19494	299061000000117	Hazardous alcohol use	curr	aud		0
+136C	Read	136C.00	160584005	19495	250323017	Ex-moderate drinker - (3-6u/d)	0	moderate-drinker		0
+EU10	Read	EU10.300	191480000	20514	397811000006119	[X]Mental and behav dis due to use alcohol: withdrawal state	curr	aud		0
+E011	Read	E011.00	69482004	20762	476361000006114	Alcohol amnestic syndrome	0	aud		Korsakov's syndrome
+E23	Read	E23..11	66590003	2081	12878014	Alcoholism	curr	aud		0
+E01Y	Read	E01Y.000	191480000	2082	294674018	Alcohol withdrawal syndrome	curr	aud		0
+8BA8	Read	8BA8.00	64297001	2083	106878015	Alcohol detoxification	0	aud		0
+E23	Read	E23..00	66590003	2084	500478011	Alcohol dependence syndrome	curr	aud		0
+E230	Read	E230.200	191805002	21624	295130013	Episodic acute alcoholic intoxication in alcoholism	curr	aud		0
+8H35	Read	8H35.00	183486001	21650	283559019	Admitted for detox	0	aud		0
+J613	Read	J612.000	235880004	21713	353594015	Alcoholic fibrosis and sclerosis of liver	0	aud		0
+Z786	Read	Z786.200	290051006	21829	5755181000006117	Drinking practice	0	check_upd		0
+EU10	Read	EU10.100	15167005	21879	397881000006114	[X]Mental and behav dis due to use of alcohol: harmful use	curr	aud		0
+136A	Read	136A.00	160582009	22933	250321015	Ex-trivial drinker (<1u/day)	0	light-drinker		0
+E250	Read	E250.100	191882002	23610	295252010	Nondependent alcohol abuse, continuous	curr	aud		0
+PK83	Read	PK80.00	205788004	23945	669211000006118	Fetal alcohol syndrome. 	NA	NA		0
+U81	Read	U81..00	25702006	23978	380031000006116	[X]Evid of alcohol involv determind by level of intoxication	0	check_upd		0
+E231	Read	E231.100	191811004	24064	295139014	Continuous chronic alcoholism	curr	aud		0
+E231	Read	E231.300	191813001	24485	295142015	Chronic alcoholism in remission	0	aud		0
+2577	Read	2577	163184002	24735	254305017	O/E - breath - alcohol smell	curr	check_upd		0
+L254	Read	J671.000	235952002	24984	353698013	Alcohol-induced chronic pancreatitis	0	aud		0
+E013	Read	E013.00	191476005	25110	294669014	Alcohol withdrawal hallucinosis	curr	aud		0
+E231	Read	E231.200	191812006	26106	295141010	Episodic chronic alcoholism	curr	aud		0
+EU10	Read	EU10.711	281004	26323	362941000006113	[X]Alcoholic dementia NOS	0	aud		Alcoholic dementia
+136B	Read	136B.00	160583004	26471	250322010	Ex-light drinker - (1-2u/day)	0	light-drinker		0
+136L	Read	136L.00	160593006	26472	250340014	Alcohol intake within recommended sensible limits	curr	check_upd		0
+136G	Read	136G.00	160589000	2689	250332015	Beer drinker	curr	check_upd		0
+136	Read	136	160573003	27	1221271018	Alcohol consumption 	0	check_upd		0
+E012	Read	E012.11	281004	27342	346929012	Alcoholic dementia NOS	0	aud		Alcoholic dementia
+E250	Read	E250.12	32553006	27518	223671000000110	Hangover (alcohol)	curr	check_upd		0
+PK80	Read	L255.300	173300003	27670	306615012	Maternal care for (suspected) damage to fetus from alcohol	0	check_upd		0
+E250	Read	E250.Z00	268645007	28150	295255012	Nondependent alcohol abuse NOS	curr	aud		0
+EU10	Read	EU10.211	66590003	28780	362921000006118	[X]Alcohol addiction	curr	aud		0
+F394	Read	F375.00	7916009	2925	14103017	Alcoholic polyneuropathy	0	aud		0
+8G32	Read	8G32.00	183388004	29691	283451018	Aversion therapy - alcoholism	0	aud		0
+EU10	Read	EU10.513	42344001	30162	362971000006117	[X]Alcoholic paranoia	curr	aud		0
+E015	Read	E015.00	191478006	30404	294672019	Alcoholic paranoia	curr	aud		0
+Z4B1	Read	Z4B1.00	24165007	30460	461112017	Alcoholism counselling	curr	aud		0
+F375	Read	F25B.00	361268000	30604	478024019	Alcohol-induced epilepsy	0	aud		0
+136T	Read	136T.00	198431000000105	30695	299081000000114	Harmful alcohol use	curr	aud		0
+E231	Read	E231.00	66590003	31443	110629012	Chronic alcoholism	curr	aud		0
+E250	Read	E250.300	191884001	31569	295254011	Nondependent alcohol abuse in remission	0	aud		0
+G555	Read	F394.100	19303008	31742	476701000006114	Alcoholic myopathy	0	aud		0
+J612	Read	J611.00	9953008	3216	17390014	Acute alcoholic hepatitis	0	aud		0
+1364	Read	1364	160576006	322	250313014	Moderate drinker 3-6 u/day	curr	moderate-drinker		0
+EU10	Read	EU10.800	308742005	32927	315091000000117	[X]Alcohol withdrawal-induced seizure	curr	aud		0
+66	Read	66E0.00	247721000000109	32964	405461000000114	Alcohol abuse monitoring	0	aud		0
+E231	Read	E231.Z00	66590003	33635	295143013	Chronic alcoholism NOS	curr	aud		0
+E01Y	Read	E01Y.00	42344001	33670	294673012	Other alcoholic psychosis	0	aud		0
+F25B	Read	F144.000	361272001	33839	478046010	Cerebellar ataxia due to alcoholism	0	aud		0
+9K11	Read	9K11.00	413473000	35330	2532939017	Alcohol consumption counselling	curr	check_upd		0
+E230	Read	E230.Z00	191802004	36296	295132017	Acute alcoholic intoxication in alcoholism NOS	curr	aud		0
+SM0Z	Read	SM0Z.00	67426006	36499	324489011	Alcohol causing toxic effect NOS	0	aud		0
+SM0	Read	SLH3.00	27134008	36687	1225183017	Alcohol deterrent poisoning	0	check_upd		0
+F144	Read	F11X.011	192811002	36748	297011014	Alcoholic encephalopathy	0	aud		0
+E231	Read	E231.11	7200002	37605	502016018	Dipsomania	curr	check_upd		0
+EU10	Read	EU10.712	191475009	37691	370961000006119	[X]Chronic alcoholic brain syndrome	0	aud		Alcoholic dementia
+E250	Read	E250.14	25702006	3782	769451000006111	Intoxication - alcohol	curr	check_upd		0
+E012	Read	E012.000	191475009	37946	294668018	Chronic alcoholic brain syndrome	0	aud		Alcoholic dementia
+1B1C	Read	1B1C.00	417633001	38061	2549849017	Alcohol induced hallucinations	curr	aud		0
+1362-1	Read	1362	266917007	385	629821000006117	Drinks rarely	curr	check_upd		0
+EU10	Read	EU10.200	66590003	39327	397801000006117	[X]Mental and behav dis due to use alcohol: dependence syndr	curr	aud		0
+EU10	Read	EU10.600	73097000	39799	397791000006118	[X]Mental and behav dis due to use alcohol: amnesic syndrome	0	aud		Korsakov's syndrome
+E230	Read	E230.000	191802004	40530	295128011	Acute alcoholic intoxication, unspecified, in alcoholism	curr	aud		0
+ZR1E	Read	ZR1E.11		40602	0	ADS - Alcohol dependence scale	0	aud		0
+E011	Read	E011.Z00	73097000	41920	294664016	Alcohol amnestic syndrome NOS	0	aud		Korsakov's syndrome
+E231	Read	E231.000	66590003	43193	295136019	Unspecified chronic alcoholism (alcohol dependence)	curr	aud		0
+EU10	Read	EU10.000	25702006	44299	397611000006115	[X]Mental & behav dis due to use alcohol: acute intoxication	curr	check_upd		0
+1361-2	Read	1361	105542008	4447	291352018	Non-drinker alcohol	non	non-drinker	1	0
+1D19	Read	1D19.00	315226008	44783	459715013	Pain in lymph nodes after alcohol consumption	0	check_upd		0
+E011	Read	E011.000	69482004	4500	753331000006118	Korsakov's alcoholic psychosis	0	aud		Korsakov's syndrome
+J610	Read	J153.00	2043009	4506	4525015	Alcoholic gastritis	0	aud		0
+EU10	Read	EU10.Y00	29212009	45169	397241000006119	[X]Men & behav dis due to use alcohol: oth men & behav dis	0	aud		0
+9K14	Read	9K14.00	527961000000108	47123	2534258017	Alcohol counselling by other agencies	0	check_upd		0
+J612	Read	J612.00	420054005	4743	476611000006116	Alcoholic cirrhosis of liver	0	aud		0
+F11X	Read	F11X.000	192811002	47555	542611000006114	Cerebral degeneration due to alcoholism	0	aud		Alcoholic dementia
+U60H	Read	U60H.311	292416003	48241	350971000006112	[X] Adverse reaction to alcohol deterrents	0	check_upd		0
+G852	Read	G555.00	83521008	4915	138527014	Alcoholic cardiomyopathy	0	aud		0
+ZR1E	Read	ZR1E.00	273264006	50507	554720100061	Alcohol dependence scale	0	aud		0
+E012	Read	E012.00	281004	54505	401760017	Other alcoholic dementia	0	aud		Alcoholic dementia
+SM01	Read	SM00.Z00	82782008	55536	324467012	Ethyl alcohol causing toxic effect NOS	0	aud		0
+EU10	Read	EU10.00	29212009	5611	295765017	[X]Mental and behavioural disorders due to use of alcohol	0	aud		0
+7P22	Read	7P22.100	231161000000109	56410	371501000000110	Delivery of rehabilitation for alcohol addiction	0	aud		0
+E230	Read	E230.100	191804003	56947	295129015	Continuous acute alcoholic intoxication in alcoholism	curr	aud		0
+E230	Read	E230.00	191802004	5740	295127018	Acute alcoholic intoxication in alcoholism	curr	aud		0
+EU10	Read	EU10.212	66590003	5758	370971000006114	[X]Chronic alcoholism	curr	aud		0
+E230	Read	E230.11	191802004	57714	295126010	Alcohol dependence with acute alcoholic intoxication	curr	aud		0
+E014	Read	E014.00	191477001	57939	294671014	Pathological alcohol intoxication	curr	aud		0
+E230	Read	E230.300	191806001	59574	295131012	Acute alcoholic intoxication in remission, in alcoholism	0	aud		0
+E23Z	Read	E23Z.00	66590003	6169	295144019	Alcohol dependence syndrome NOS	curr	aud		0
+EU10	Read	EU10.700	42344001	62000	397201000006116	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	0	aud		0
+9K12	Read	9K12.00	166471000000105	63529	226571000000116	Alcohol misuse - enhanced service completed	0	aud		0
+EU10	Read	EU10.400	8635005	64101	397211000006118	[X]Men & behav dis due alcohl: withdrawl state with delirium	curr	aud		0
+F11X	Read	EU10.Z00	91388009	64389	397431000006111	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	0	aud		0
+Z191	Read	Z191.400	439903005	64409	7229341000006119	Self-monitoring of alcohol intake	0	check_upd		0
+EU10	Read	EU10.511	7052005	6467	362951000006110	[X]Alcoholic hallucinosis	curr	aud		0
+C150	Read	C150.500	237738005	65754	356292013	Alcohol-induced pseudo-Cushing's syndrome	0	aud		0
+EU10	Read	EU10.512	42344001	65932	362961000006112	[X]Alcoholic jealousy	curr	aud		0
+ZR1G	Read	ZR1G.00	273266008	65980	5547241000006111	Alcohol use inventory	0	check_upd		0
+E250	Read	E250.000	268645007	669	295251015	Nondependent alcohol abuse, unspecified	curr	aud		0
+E01Z	Read	E01Z.00	42344001	67651	294676016	Alcoholic psychosis NOS	0	aud		0
+E01Y	Read	E01Y.Z00	42344001	68111	294675017	Other alcoholic psychosis NOS	0	aud		0
+EU10	Read	EU10.213	66590003	69691	377081000006114	[X]Dipsomania	0	check_upd		0
+ZV11	Read	ZV11.300	371422002	7123	460276013	[V]Personal history of alcoholism	0	aud		0
+U60H	Read	U60H.300	292416003	73876	362931000006115	[X]Alcohol deterrents caus adverse effects in therapeut use	0	check_upd		0
+1362	Read	1362	228276006	749	629811000006113	Drinks occasionally	curr	check_upd		0
+ZV4K	Read	ZV4K.C00	219006	7545	451082013	[V] Alcohol use 	0	check_upd		0
+J61Y	Read	J617.000	307757001	7602	451124014	Chronic alcoholic hepatitis	0	aud		0
+E250	Read	E250.00	268645007	7746	401797010	Nondependent alcohol abuse	curr	aud		0
+J613	Read	J613.00	41309000	7885	303399018	Alcoholic liver damage unspecified	0	aud		0
+J617	Read	J617.00	235875008	7943	353587018	Alcoholic hepatitis	0	aud		0
+ZV6D	Read	ZV6D.600	24165007	8030	461112017	[V]Alcohol abuse counselling and surveillance	curr	aud		0
+J153	Read	G852.300	309783001	8363	453265010	Oesophageal varices in alcoholic cirrhosis of the liver	0	aud		0
+ZV57	Read	ZV57.A00	471691000000107	8388	460926018	[V]Alcohol rehabilitation	0	aud		0
+13ZY	Read	13ZY.00	279651000000104	84218	480271000000113	Disqualified from driving due to excess alcohol	0	aud		0
+1462	Read	1462	161466001	8430	251626014	H/O: alcoholism	0	aud		0
+SM00	Read	SM00.00	82782008	8984	649311000006115	Ethyl alcohol causing toxic effect	0	aud		0
+136P	Read	136P.00	86933000	8999	144179014	Heavy drinker	curr	aud		0
+SLH3	Read	R103.00	441685000	9169	317636014	[D]Alcohol blood level excessive	0	check_upd		0
+136V	Read	136V.00	1082641000000106	93415	556651000000116	Alcohol units per week.  	0	check_upd		0
+8HKG	Read	8HKG.00	431260004	94553	622961000000116	Referral to specialist alcohol treatment service	0	aud		0
+136W	Read	136W.00	15167005	94670	606991000000117	Alcohol misuse	curr	aud		0
+9NN2	Read	9NN2.00	135827004	9489	216585018	Under care of community alcohol team	0	aud		0
+EU10	Read	EU10.011	25702006	9508	362251000006117	[X]Acute alcoholic drunkenness	curr	aud		0
+Z191	Read	Z191.211	707166002	95181	7613321000006119	Alcohol reduction programme	curr	aud		0
+136J	Read	136J.00	28127009	956	47085011	Social drinker	curr	check_upd		0
+9K19	Read	9K19.00	361731000000101	95944	1680101000006117	Alcohol assesment declined - enhanced services admin	0	check_upd		0
+9K1A	Read	9K1A.00	366371000000105	96053	1680121000006110	Brief intervention for excessive alcohol consumptn completed	0	aud		0
+9K1B	Read	9K1B.00	366421000000103	96054	1680131000006113	Extended intervention for excessive alcohol consumptn complt	0	aud		0
+1367	Read	1367	160579004	967	250317010	Stopped drinking alcohol	ex	check_upd		0
+8HKJ	Read	8HKJ.00	376401000000103	96993	740641000000115	Referral to alcohol brief intervention service	0	aud		0
+136X	Read	136X.00	442547005	97126	750721000000118	Alcohol units consumed on heaviest drinking day	0	check_upd		0
+8IAF	Read	8IAF.00	379411000000105	97261	1704281000006117	Brief intervention for excessive alcohol consumptn declined	curr	aud		0
+8CAV	Read	8CAV.00	375941000000101	97309	739501000000112	Advised to contact primary care alcohol worker	curr	aud		0
+8IAJ	Read	8IAJ.00	380861000000109	97680	750531000000113	Declined referral to specialist alcohol treatment service	curr	aud		0
+8H7P	Read	8H7P.00	390857005	9849	1484890014	Referral to community alcohol team	0	aud		0

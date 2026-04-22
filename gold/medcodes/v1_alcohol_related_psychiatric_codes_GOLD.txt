@@ -1,0 +1,17 @@
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease
+16225	E010.00	2300	0	90	0	Alcohol withdrawal delirium	February 2009
+22277	E010.11	1305	0	34	0	DTs - delirium tremens	February 2009
+1476	E010.12	2545	0	246	0	Delirium tremens	February 2009
+4500	E011000	2498	0	67	0	Korsakov's alcoholic psychosis	February 2009
+25110	E013.00	417	0	31	0	Alcohol withdrawal hallucinosis	February 2009
+30404	E015.00	226	0	16	0	Alcoholic paranoia	February 2009
+68111	E01yz00	19	0	0	0	Other alcoholic psychosis NOS	February 2009
+67651	E01z.00	169	0	0	0	Alcoholic psychosis NOS	February 2009
+64101	Eu10400	150	0	<5	0	[X]Men & behav dis due alcohl: withdrawl state with delirium	February 2009
+17259	Eu10411	2270	0	55	<5	[X]Delirium tremens, alcohol induced	February 2009
+12353	Eu10500	314	0	<5	0	[X]Mental & behav dis due to use alcohol: psychotic disorder	February 2009
+6467	Eu10511	672	0	10	0	[X]Alcoholic hallucinosis	February 2009
+65932	Eu10512	22	0	0	0	[X]Alcoholic jealousy	February 2009
+30162	Eu10513	161	0	11	0	[X]Alcoholic paranoia	February 2009
+17607	Eu10514	878	0	30	0	[X]Alcoholic psychosis NOS	February 2009
+62000	Eu10700	41	0	0	0	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	February 2009
