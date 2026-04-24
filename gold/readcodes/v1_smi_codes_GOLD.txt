@@ -1,0 +1,241 @@
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease
+17385	E114.11	689	0	53	0	Manic-depressive - now manic	February 2009
+12831	E115.11	1093	0	67	0	Manic-depressive - now depressed	February 2009
+60178	E11y.00	402	0	<5	0	Other and unspecified manic-depressive psychoses	February 2009
+11596	E11y000	1061	0	<5	0	Unspecified manic-depressive psychoses	February 2009
+70925	E11y100	6	0	0	0	Atypical manic disorder	February 2009
+70399	E11y300	28	0	0	0	Other mixed manic-depressive psychoses	February 2009
+33426	E11yz00	83	0	<5	0	Other and unspecified manic-depressive psychoses NOS	February 2009
+41992	E11z.00	219	0	<5	0	Other and unspecified affective psychoses	February 2009
+54607	E11z000	154	0	<5	0	Unspecified affective psychoses NOS	February 2009
+33425	E11zz00	404	0	<5	0	Other affective psychosis NOS	February 2009
+3890	E121.00	2324	0	316	<5	Chronic paranoid psychosis	February 2009
+62680	E123.00	13	0	0	0	Shared paranoid disorder	February 2009
+31589	E12y.00	175	0	<5	0	Other paranoid states	February 2009
+66766	E12y000	10	0	<5	0	Paranoia querulans	February 2009
+12771	E12z.00	8092	0	479	0	Paranoid psychosis NOS	February 2009
+31984	E13..00	527	0	<5	0	Other nonorganic psychoses	February 2009
+20572	Eu20211	141	0	7	0	[X]Catatonic stupor	February 2009
+20785	Eu20400	69	0	0	0	[X]Post-schizophrenic depression	February 2009
+2114	E03y300	2485	0	148	0	Unspecified puerperal psychosis	February 2009
+94299	E105200	<5	0	0	0	Chronic latent schizophrenia	February 2009
+37070	E110.00	1673	0	13	0	Manic disorder, single episode	February 2009
+20110	E110000	1193	0	217	0	Single manic episode, unspecified	February 2009
+14728	E110100	4024	0	579	0	Single manic episode, mild	February 2009
+18909	E110.11	1529	0	56	0	Hypomanic psychoses	February 2009
+24640	E110200	29	0	<5	0	Single manic episode, moderate	February 2009
+43093	E110300	14	0	<5	0	Single manic episode, severe without mention of psychosis	February 2009
+50218	E110400	61	0	<5	0	Single manic episode, severe, with psychosis	February 2009
+70000	E110600	886	0	0	0	Single manic episode in full remission	February 2009
+36611	E110z00	118	0	<5	0	Manic disorder, single episode NOS	February 2009
+26227	E111.00	347	0	6	0	Recurrent manic episodes	February 2009
+19967	E111000	317	0	18	0	Recurrent manic episodes, unspecified	February 2009
+46425	E111100	25	0	0	0	Recurrent manic episodes, mild	February 2009
+27739	E111200	36	0	0	0	Recurrent manic episodes, moderate	February 2009
+65811	E111300	35	0	0	0	Recurrent manic episodes, severe without mention psychosis	February 2009
+32295	E111400	44	0	0	0	Recurrent manic episodes, severe, with psychosis	February 2009
+58863	E111500	<5	0	0	0	Recurrent manic episodes, partial or unspecified remission	February 2009
+37178	E111600	193	0	<5	0	Recurrent manic episodes, in full remission	February 2009
+46415	E111z00	300	0	<5	0	Recurrent manic episode NOS	February 2009
+854	E10..00	73956	0	4295	7	Schizophrenic disorders	February 2009
+32222	E100.00	1293	0	22	0	Simple schizophrenia	February 2009
+15733	E100000	4077	0	110	0	Unspecified schizophrenia	February 2009
+23616	E100100	293	0	0	0	Subchronic schizophrenia	February 2009
+73295	E100.11	8	0	0	0	Schizophrenia simplex	February 2009
+3984	E100200	4464	0	248	0	Chronic schizophrenic	February 2009
+57666	E100300	20	0	0	0	Acute exacerbation of subchronic schizophrenia	February 2009
+44498	E100400	123	0	<5	0	Acute exacerbation of chronic schizophrenia	February 2009
+58687	E100500	2098	0	<5	0	Schizophrenia in remission	February 2009
+53625	E100z00	125	0	0	0	Simple schizophrenia NOS	February 2009
+30619	E101.00	554	0	5	0	Hebephrenic schizophrenia	February 2009
+66506	E101000	<5	0	0	0	Unspecified hebephrenic schizophrenia	February 2009
+97919	E101400	<5	0	0	0	Acute exacerbation of chronic hebephrenic schizophrenia	October 2009
+67768	E101500	19	0	0	0	Hebephrenic schizophrenia in remission	February 2009
+48054	E101z00	14	0	0	0	Hebephrenic schizophrenia NOS	February 2009
+25546	E102.00	387	0	14	0	Catatonic schizophrenia	February 2009
+58716	E102000	6	0	0	0	Unspecified catatonic schizophrenia	February 2009
+99199	E102100	<5	0	0	0	Subchronic catatonic schizophrenia	April 2010
+102427	E102500	14	0	0	0	Catatonic schizophrenia in remission	June 2011
+63867	E102z00	13	0	0	0	Catatonic schizophrenia NOS	February 2009
+1494	E103.00	38083	0	1178	0	Paranoid schizophrenia	February 2009
+33383	E103000	166	0	<5	0	Unspecified paranoid schizophrenia	February 2009
+31362	E103200	412	0	5	0	Chronic paranoid schizophrenia	February 2009
+51322	E103300	23	0	0	0	Acute exacerbation of subchronic paranoid schizophrenia	February 2009
+53032	E103400	159	0	0	0	Acute exacerbation of chronic paranoid schizophrenia	February 2009
+36172	E103500	545	0	0	0	Paranoid schizophrenia in remission	February 2009
+9281	E103z00	670	0	<5	0	Paranoid schizophrenia NOS	February 2009
+576	E104.00	1559	0	84	0	Acute schizophrenic episode	February 2009
+66410	E105.00	26	0	0	0	Latent schizophrenia	February 2009
+102311	E105000	6	0	0	0	Unspecified latent schizophrenia	June 2011
+96883	E105500	28	0	0	0	Latent schizophrenia in remission	May 2009
+102446	E105z00	<5	0	0	0	Latent schizophrenia NOS	June 2011
+38063	E106.00	439	0	<5	0	Residual schizophrenia	February 2009
+2117	E107.00	8336	0	608	0	Schizo-affective schizophrenia	February 2009
+58862	E107000	199	0	<5	0	Unspecified schizo-affective schizophrenia	February 2009
+61098	E107100	12	0	0	0	Subchronic schizo-affective schizophrenia	February 2009
+99000	E107.11	<5	0	0	0	Cyclic schizophrenia	April 2010
+43800	E107200	136	0	<5	0	Chronic schizo-affective schizophrenia	February 2009
+58866	E107300	10	0	0	0	Acute exacerbation subchronic schizo-affective schizophrenia	February 2009
+63478	E107400	33	0	0	0	Acute exacerbation of chronic schizo-affective schizophrenia	February 2009
+56438	E107500	322	0	0	0	Schizo-affective schizophrenia in remission	February 2009
+10575	E107z00	356	0	<5	0	Schizo-affective schizophrenia NOS	February 2009
+39062	E10y.00	155	0	<5	0	Other schizophrenia	February 2009
+33338	E10y000	108	0	16	0	Atypical schizophrenia	February 2009
+99070	E10y100	<5	0	0	0	Coenesthopathic schizophrenia	April 2010
+92994	E10y.11	<5	0	0	0	Cenesthopathic schizophrenia	February 2009
+49761	E10yz00	73	0	0	0	Other schizophrenia NOS	February 2009
+8407	E10z.00	21752	0	244	0	Schizophrenia NOS	February 2009
+3702	E114.00	771	0	48	0	Bipolar affective disorder, currently manic	February 2009
+35738	E114000	129	0	<5	0	Bipolar affective disorder, currently manic, unspecified	February 2009
+36126	E114100	65	0	<5	0	Bipolar affective disorder, currently manic, mild	February 2009
+46434	E114200	64	0	<5	0	Bipolar affective disorder, currently manic, moderate	February 2009
+16347	E114300	38	0	<5	0	Bipolar affect disord, currently manic, severe, no psychosis	February 2009
+55829	E114400	72	0	<5	0	Bipolar affect disord, currently manic,severe with psychosis	February 2009
+59011	E114500	14	0	0	0	Bipolar affect disord,currently manic, part/unspec remission	February 2009
+63784	E114600	94	0	<5	0	Bipolar affective disorder, currently manic, full remission	February 2009
+57605	E114z00	109	0	<5	0	Bipolar affective disorder, currently manic, NOS	February 2009
+4677	E115.00	826	0	41	0	Bipolar affective disorder, currently depressed	February 2009
+15923	E115000	110	0	<5	0	Bipolar affective disorder, currently depressed, unspecified	February 2009
+35734	E115100	88	0	<5	0	Bipolar affective disorder, currently depressed, mild	February 2009
+27890	E115200	93	0	<5	0	Bipolar affective disorder, currently depressed, moderate	February 2009
+35607	E115300	39	0	0	0	Bipolar affect disord, now depressed, severe, no psychosis	February 2009
+63701	E115400	23	0	0	0	Bipolar affect disord, now depressed, severe with psychosis	February 2009
+72026	E115500	10	0	0	0	Bipolar affect disord, now depressed, part/unspec remission	February 2009
+57465	E115600	138	0	0	0	Bipolar affective disorder, now depressed, in full remission	February 2009
+37296	E115z00	125	0	<5	0	Bipolar affective disorder, currently depressed, NOS	February 2009
+31316	E116.00	2141	0	52	0	Mixed bipolar affective disorder	February 2009
+31535	E116000	737	0	<5	0	Mixed bipolar affective disorder, unspecified	February 2009
+24689	E116100	44	0	0	0	Mixed bipolar affective disorder, mild	February 2009
+63150	E116200	65	0	0	0	Mixed bipolar affective disorder, moderate	February 2009
+63284	E116300	31	0	0	0	Mixed bipolar affective disorder, severe, without psychosis	February 2009
+54195	E116400	63	0	0	0	Mixed bipolar affective disorder, severe, with psychosis	February 2009
+63651	E116500	10	0	0	0	Mixed bipolar affective disorder, partial/unspec remission	February 2009
+55064	E116600	161	0	0	0	Mixed bipolar affective disorder, in full remission	February 2009
+63583	E116z00	257	0	<5	0	Mixed bipolar affective disorder, NOS	February 2009
+14784	E117.00	7387	0	566	0	Unspecified bipolar affective disorder	February 2009
+49763	E117000	142	0	0	0	Unspecified bipolar affective disorder, unspecified	February 2009
+63698	E117100	17	0	0	0	Unspecified bipolar affective disorder, mild	February 2009
+68647	E117200	21	0	0	0	Unspecified bipolar affective disorder, moderate	February 2009
+73423	E117300	5	0	0	0	Unspecified bipolar affective disorder, severe, no psychosis	February 2009
+68326	E117400	17	0	0	0	Unspecified bipolar affective disorder,severe with psychosis	February 2009
+70721	E117500	8	0	0	0	Unspecified bipolar affect disord, partial/unspec remission	February 2009
+24230	E117600	461	0	0	0	Unspecified bipolar affective disorder, in full remission	February 2009
+27986	E117z00	501	0	11	0	Unspecified bipolar affective disorder, NOS	February 2009
+71819	E14y.00	<5	0	<5	0	Other childhood psychoses	February 2009
+24244	E14y000	<5	0	0	0	Atypical childhood psychoses	February 2009
+69155	E14y100	13	0	0	0	Borderline psychosis of childhood	February 2009
+66757	E14yz00	5	0	0	0	Other childhood psychoses NOS	February 2009
+52849	E14z.00	51	0	<5	0	Child psychosis NOS	February 2009
+37395	E14z.11	67	0	<5	0	Childhood schizophrenia NOS	February 2009
+16537	E1y..00	65	0	<5	0	Other specified non-organic psychoses	February 2009
+22188	E1z..00	623	0	20	0	Non-organic psychosis NOS	February 2009
+34236	Eu20.00	5569	0	106	0	[X]Schizophrenia	February 2009
+16764	Eu20000	2895	0	36	0	[X]Paranoid schizophrenia	February 2009
+50060	Eu20011	24	0	0	0	[X]Paraphrenic schizophrenia	February 2009
+43405	Eu20100	45	0	0	0	[X]Hebephrenic schizophrenia	February 2009
+53985	Eu20111	9	0	<5	0	[X]Disorganised schizophrenia	February 2009
+61501	Eu20200	36	0	0	0	[X]Catatonic schizophrenia	February 2009
+64533	Eu20212	<5	0	0	0	[X]Schizophrenic catalepsy	February 2009
+35877	Eu20213	114	0	<5	0	[X]Schizophrenic catatonia	February 2009
+31493	Eu20214	<5	0	0	0	[X]Schizophrenic flexibilatis cerea	February 2009
+60013	Eu20300	77	0	0	0	[X]Undifferentiated schizophrenia	February 2009
+91547	Eu20311	5	0	0	0	[X]Atypical schizophrenia	February 2009
+64264	Eu20500	39	0	0	0	[X]Residual schizophrenia	February 2009
+24107	Eu20511	713	0	23	0	[X]Chronic undifferentiated schizophrenia	February 2009
+35848	Eu20600	233	0	6	0	[X]Simple schizophrenia	February 2009
+49420	Eu20y00	60	0	<5	0	[X]Other schizophrenia	February 2009
+94001	Eu20y12	20	0	0	0	[X]Schizophreniform disord NOS	February 2009
+18053	Eu20y13	176	0	21	0	[X]Schizophrenifrm psychos NOS	February 2009
+34966	Eu20z00	280	0	<5	0	[X]Schizophrenia, unspecified	February 2009
+21595	Eu23100	214	0	<5	0	[X]Acute polymorphic psychot disord with symp of schizophren	February 2009
+26143	Eu23112	14	0	<5	0	[X]Cycloid psychosis with symptoms of schizophrenia	February 2009
+94604	Eu23214	24	0	0	0	[X]Schizophrenic reaction	February 2009
+98821	Eu22200	12	0	<5	0	[X]Cotard syndrome	March 2010
+9521	Eu30.11	1164	0	77	0	[X]Bipolar disorder, single manic episode	February 2009
+9422	Eu25.00	14173	0	352	0	[X]Schizoaffective disorders	February 2009
+91511	Eu21.11	7	0	0	0	[X]Latent schizophrenic reaction	February 2009
+8567	E11..11	9636	0	607	0	Bipolar psychoses	February 2009
+73924	Eu31y11	194	0	<5	0	[X]Bipolar II disorder	February 2009
+71250	Eu21.17	<5	0	0	0	[X]Pseudopsychopathic schizophrenia	February 2009
+694	Eu2z.11	27185	0	1874	<5	[X]Psychosis NOS	February 2009
+6874	Eu31.00	71803	0	2381	0	[X]Bipolar affective disorder	February 2009
+6710	Eu31.12	1973	0	35	0	[X]Manic-depressive psychosis	February 2009
+66153	Eu31.13	27	0	<5	0	[X]Manic-depressive reaction	February 2009
+66077	Eu22y00	49	0	0	0	[X]Other persistent delusional disorders	February 2009
+65127	Eu22014	9	0	0	0	[X]Sensitiver Beziehungswahn	February 2009
+64993	Eu21.13	<5	0	0	0	[X]Latent schizophrenia	February 2009
+6325	1464.00	12707	0	580	0	H/O: schizophrenia	February 2009
+62449	Eu21.14	6	0	0	0	[X]Prepsychotic schizophrenia	February 2009
+62405	Eu22100	8	0	0	0	[X]Delusional misidentification syndrome	February 2009
+58532	Eu25y00	76	0	0	0	[X]Other schizoaffective disorders	February 2009
+57376	ZS7C611	<5	0	0	0	Schizophrenic language	February 2009
+54387	Eu21.12	22	0	0	0	[X]Borderline schizophrenia	February 2009
+53848	Eu84314	12	0	<5	0	[X]Symbiotic psychosis	February 2009
+53840	Eu31y00	198	0	<5	0	[X]Other bipolar affective disorders	February 2009
+51903	Eu25012	58	0	<5	0	[X]Schizophreniform psychosis, manic type	February 2009
+51032	Eu31y12	272	0	9	0	[X]Recurrent manic episodes	February 2009
+50248	Eu22y12	22	0	0	0	[X]Involutional paranoid state	February 2009
+49852	Eu21.16	11	0	0	0	[X]Pseudoneurotic schizophrenia	February 2009
+49223	Eu22z00	165	0	<5	0	[X]Persistent delusional disorder, unspecified	February 2009
+48632	Eu30212	24	0	0	0	[X]Mania with mood-incongruent psychotic symptoms	February 2009
+4732	Eu31500	145	0	<5	<5	[X]Bipolar affect dis cur epi severe depres with psyc symp	February 2009
+4678	Eu30z11	2382	0	258	0	[X]Mania NOS	February 2009
+44693	Eu31600	179	0	<5	0	[X]Bipolar affective disorder, current episode mixed	February 2009
+44513	Eu30z00	314	0	<5	0	[X]Manic episode, unspecified	February 2009
+41022	Eu25112	61	0	<5	0	[X]Schizophreniform psychosis, depressive type	February 2009
+40981	Eu22y11	181	0	7	0	[X]Delusional dysmorphophobia	February 2009
+40386	Eu21.15	40	0	0	0	[X]Prodromal schizophrenia	February 2009
+39316	Eu21.00	333	0	<5	0	[X]Schizotypal disorder	February 2009
+37681	Eu25z00	1027	0	<5	0	[X]Schizoaffective disorder, unspecified	February 2009
+37580	Eu25212	183	0	5	0	[X]Mixed schizophrenic and affective psychosis	February 2009
+37102	Eu30211	40	0	<5	0	[X]Mania with mood-congruent psychotic symptoms	February 2009
+3636	E13z.11	24376	0	553	0	Psychotic episode NOS	February 2009
+35274	Eu25111	182	0	8	0	[X]Schizoaffective psychosis, depressive type	February 2009
+34389	Eu22000	2902	0	41	0	[X]Delusional disorder	February 2009
+33847	Eu25000	221	0	0	0	[X]Schizoaffective disorder, manic type	February 2009
+33751	Eu31z00	969	0	5	0	[X]Bipolar affective disorder, unspecified	February 2009
+33693	Eu25200	307	0	<5	0	[X]Schizoaffective disorder, mixed type	February 2009
+33410	Eu25z11	325	0	8	0	[X]Schizoaffective psychosis NOS	February 2009
+32088	Eu30y00	69	0	0	0	[X]Other manic episodes	February 2009
+31757	Eu33314	60	0	<5	0	[X]Recurr severe episodes/psychogenic depressive psychosis	February 2009
+31738	Eu2y.11	163	0	10	0	[X]Chronic hallucinatory psychosis	February 2009
+30985	Eu2y.00	550	0	6	0	[X]Other nonorganic psychotic disorders	February 2009
+30282	ZRby100	384	0	48	0	Profile of mood states, bipolar	February 2009
+29451	Eu33213	148	0	7	0	[X]Manic-depress psychosis,depressd,no psychotic symptoms	February 2009
+28677	Eu33312	159	0	<5	0	[X]Manic-depress psychosis,depressed type+psychotic symptoms	February 2009
+28562	Eu22.00	1024	0	9	0	[X]Persistent delusional disorders	February 2009
+28277	Eu31200	221	0	<5	0	[X]Bipolar affect disorder cur epi manic with psychotic symp	February 2009
+27584	Eu31700	2516	0	<5	0	[X]Bipolar affective disorder, currently in remission	February 2009
+2741	Eu30000	18712	0	1238	<5	[X]Hypomania	February 2009
+26299	Eu31100	93	0	0	0	[X]Bipolar affect disorder cur epi manic wout psychotic symp	February 2009
+26161	E11..13	861	0	28	0	Manic psychoses	February 2009
+23963	ZV11111	312	0	5	0	[V]Personal history of manic-depressive psychosis	February 2009
+23713	Eu31400	157	0	9	0	[X]Bipol aff disord, curr epis sev depress, no psychot symp	February 2009
+22104	ZV11000	1519	0	27	0	[V]Personal history of schizophrenia	February 2009
+22080	ZV11112	140	0	7	0	[V]Personal history of manic-depressive psychosis	February 2009
+2113	Eu22011	14511	0	798	<5	[X]Paranoid psychosis	February 2009
+21065	Eu30200	1348	0	38	0	[X]Mania with psychotic symptoms	February 2009
+17281	Eu2..00	2267	0	57	0	[X]Schizophrenia, schizotypal and delusional disorders	February 2009
+16905	Eu25011	72	0	<5	0	[X]Schizoaffective psychosis, manic type	February 2009
+16808	Eu31000	1462	0	19	0	[X]Bipolar affective disorder, current episode hypomanic	February 2009
+16562	Eu31300	558	0	9	0	[X]Bipolar affect disorder cur epi mild or moderate depressn	February 2009
+15958	E1...00	2514	0	82	0	Non-organic psychoses	February 2009
+1531	Eu31.11	9120	0	776	14	[X]Manic-depressive illness	February 2009
+14965	E13z.00	13268	0	1711	0	Nonorganic psychosis NOS	February 2009
+13024	Eu30100	1265	0	146	0	[X]Mania without psychotic symptoms	February 2009
+12777	146H.00	6244	0	417	0	H/O: psychosis	February 2009
+12173	Eu30.00	3842	0	64	0	[X]Manic episode	February 2009
+11548	146D.00	2349	0	103	0	H/O: manic depressive disorder	February 2009
+115050	Eu23111	<5	0	0	0	[X]Bouffee delirante with symptoms of schizophrenia	July 2020
+114206	E105400	<5	0	0	0	Acute exacerbation of chronic latent schizophrenia	October 2019
+113781	E101200	<5	0	0	0	Chronic hebephrenic schizophrenia	May 2019
+113529	E102200	<5	0	0	0	Chronic catatonic schizophrenia	April 2019
+11265	9H6..00	22182	0	14	0	On national service framework mental health register	February 2009
+11244	Eu2z.00	1983	0	19	0	[X]Unspecified nonorganic psychosis	February 2009
+11166	9H8..00	63303	0	49	0	On severe mental illness register	February 2009
+11055	Eu25100	586	0	<5	0	[X]Schizoaffective disorder, depressive type	February 2009
+109634	E121.11	<5	0	0	0	Sander's disease	May 2015
+109485	E110500	<5	0	0	0	Single manic episode in partial or unspecified remission	April 2015
+107222	E102400	<5	0	0	0	Acute exacerbation of chronic catatonic schizophrenia	November 2013
+104763	Eu25211	<5	0	0	0	[X]Cyclic schizophrenia	August 2012
+104760	E103100	5	0	0	0	Subchronic paranoid schizophrenia	August 2012

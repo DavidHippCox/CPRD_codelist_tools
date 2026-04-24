@@ -2,6 +2,16 @@ gold/medcodes/compare
 gold/medcodes/medical
 gold/medcodes/product
 
+gold/readcodes/compare
+gold/readcodes/medical
+gold/readcodes/product
+
 aurum/medcodes/compare
 aurum/medcodes/medical
 aurum/medcodes/product
+
+aurum/readcodes/compare
+aurum/readcodes/medical
+aurum/readcodes/product
+
+icd10\icd10.txt
