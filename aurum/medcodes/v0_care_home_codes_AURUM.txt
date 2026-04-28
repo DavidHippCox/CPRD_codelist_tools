@@ -1,5 +1,4 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
-284057019	276715	8HT	8HT..00	Referral to clinic	183851006	284057019		40
 1692851000000118	29814	8Ht	8HT..00	Admission to nursing home	763301000000108	1692851000000118		40
 1227796013	190	ZV703-7	ZV70317	[V]Old age home admission medical	171391001	265576011		1
 2290551000000116	98020	9NFW0	9NFW000	Care home visit for initial patient assessment	889331000000101	2290551000000116		37
