@@ -6,6 +6,7 @@ library(purrr)
 library(stringr)
 library(readr)
 library(tibble)
+library(tidyr)
 
 # -----------------------------
 # Settings
@@ -13,24 +14,24 @@ library(tibble)
 
 base_url <- "https://openprescribing.net"
 
-parent_urls <- list(
-  vmp  = "https://openprescribing.net/dmd/?q=0401&obj_types=vmp",
-  vmpp = "https://openprescribing.net/dmd/?q=0401&obj_types=vmpp",
-  amp  = "https://openprescribing.net/dmd/?q=0401&obj_types=amp",
-  ampp = "https://openprescribing.net/dmd/?q=0401&obj_types=ampp"
-)
-
-output_files <- list(
-  vmp  = "dmd_vmp_0401.csv",
-  vmpp = "dmd_vmpp_0401.csv",
-  amp  = "dmd_amp_0401.csv",
-  ampp = "dmd_ampp_0401.csv"
-)
+# Define combinations of object types and q values
+config <- expand_grid(
+  object_type = c("vmp", "vmpp", "amp", "ampp"),
+  q = c("0401", "0402", "0403") # <-- extend this as needed
+) |>
+  mutate(
+    parent_url = paste0(
+      base_url,
+      "/dmd/?q=", q,
+      "&obj_types=", object_type
+    ),
+    output_file = paste0("dmd_", object_type, "_", q, ".csv")
+  )
 
 output_dir <- "openprescribing_dmd_output"
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 
-sleep_seconds <- 0.5
+sleep_seconds <- 0.2
 max_tries <- 3
 
 errors <- list()
@@ -165,6 +166,7 @@ parse_detail_page <- function(detail_url, parent_url, object_type, result_name) 
 
   metadata <- tibble(
     object_type = object_type,
+    q = str_extract(parent_url, "(?<=q=)[0-9]+"),
     dmd_id = extract_dmd_id(detail_url),
     detail_url = detail_url,
     source_url = parent_url,
@@ -234,17 +236,22 @@ scrape_object_type <- function(object_type, parent_url) {
 # Run scrape
 # -----------------------------
 
-for (object_type in names(parent_urls)) {
+for (i in seq_len(nrow(config))) {
+  object_type <- config$object_type[i]
+  parent_url <- config$parent_url[i]
+  out_file <- config$output_file[i]
+  q_val <- config$q[i]
+
   message("\n==============================")
-  message("Scraping object type: ", object_type)
+  message("Scraping: ", object_type, " | q=", q_val)
   message("==============================")
 
   data <- scrape_object_type(
     object_type = object_type,
-    parent_url = parent_urls[[object_type]]
+    parent_url = parent_url
   )
 
-  out_path <- file.path(output_dir, output_files[[object_type]])
+  out_path <- file.path(output_dir, out_file)
 
   write_csv(data, out_path, na = "")
 
