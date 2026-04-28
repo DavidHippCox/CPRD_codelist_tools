@@ -1,0 +1,27 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+294679011	2102	E021	E021.00	Drug-induced paranoia or hallucinatory states	191484009	294679011		32
+294680014	4309	E0210	E021000	Drug-induced paranoid state	191485005	294680014		32
+294681013	981	E0211	E021100	Drug-induced hallucinosis	191486006	294681013		32
+294682018	499	E021z	E021Z00	Drug-induced paranoia or hallucinatory state NOS	191484009	294679011		32
+294687012	781	E02y0	E02Y000	Drug-induced delirium	191492000	294687012		32
+294692014	201	E02yz	E02YZ00	Other drug psychoses NOS	191483003	294677013		32
+294693016	27588	E02z	E02Z.00	Drug psychosis NOS	191483003	294678015		32
+397141000006111	79	Eu147	EU14700	[X]Men & beh dis due cocaine: resid & late-onset psychot dis	91388009	151411015		32
+397161000006110	14	Eu117	EU11700	[X]Men & beh dis due opioids: resid & late-onset psychot dis	943071000000104	2412771000000116		32
+397171000006115	<5	Eu134	EU13400	[X]Men & beh dis due seds/hypns: withdrwl state wth delirium	91388009	151411015		32
+397191000006119	9	Eu184	EU18400	[X]Men & beh dis vol solvents: withdrawal state wth delirium	74934004	3533677015		32
+397231000006112	43	Eu114	EU11400	[X]Men & behav dis due opioid: withdrawl state with delirium	91388009	151411015		32
+397311000006110	58	Eu197	EU19700	[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis	91388009	151411015		32
+397541000006117	545	Eu195	EU19500	[X]Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: psychotic disorder	191483003	294677013		32
+397581000006111	3439	Eu125	EU12500	Cannabis-induced psychosis	943081000000102	2412791000000117		32
+397591000006114	131	Eu165	EU16500	[X]Mental and behavioural disorders due to use of hallucinogens: psychotic disorder	943131000000102	2412891000000113		32
+397601000006118	38	Eu135	EU13500	[X]Mental and behavioural disorders due to use of sedatives or hypnotics: psychotic disorder	943091000000100	2412811000000116		32
+397641000006116	535	Eu145	EU14500	Cocaine-induced psychosis	943101000000108	2412831000000112		32
+397661000006117	527	Eu115	EU11500	Opioid-induced psychosis	943071000000104	2412771000000116		32
+397691000006113	12	Eu185	EU18500	Volatile inhalant-induced psychosis	943151000000109	2412931000000115		32
+398281000006112	68	Eu155	EU15500	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: psychotic disorder	762325009	3636410011		32
+398691000006112	66	Eu127	EU12700	[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis	91388009	151411015		32
+398721000006119	<5	Eu194	EU19400	[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium	91388009	151411015		32
+398741000006114	11	Eu157	EU15700	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: residual and late onset psychotic disorder	762325009	3636410011		32
+423031000006112	87	Eu167-1	EU16711	[X]Post hallucinogen perception disorder	91388009	151411015		32
+980141000006119	69	Eu1A5	EU1A500	[X]Mental and behavioural disorders due to use of crack cocaine: psychotic disorder	46975003	78284013		32
