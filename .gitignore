@@ -1,17 +1,27 @@
 gold/medcodes/compare
 gold/medcodes/medical
-gold/medcodes/product
+
+gold/prodcodes/compare
+gold/prodcodes/product
 
 gold/readcodes/compare
 gold/readcodes/medical
-gold/readcodes/product
+
+gold/dmdcodes/compare
+gold/dmdcodes/product
 
 aurum/medcodes/compare
 aurum/medcodes/medical
-aurum/medcodes/product
+
+aurum/prodcodes/compare
+aurum/prodcodes/product
 
 aurum/readcodes/compare
 aurum/readcodes/medical
-aurum/readcodes/product
+
+aurum/dmdcodes/compare
+aurum/dmdcodes/product
 
 icd10\icd10.txt
+
+openprescribing_dmd_output
