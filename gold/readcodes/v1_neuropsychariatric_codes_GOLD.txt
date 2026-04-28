@@ -1,0 +1,337 @@
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease	nsp_subtype
+50868	E123.11	36	0	<5	0	Folie a deux	February 2009	psychosis
+31455	E12yz00	202	0	<5	0	Other paranoid states NOS	February 2009	psychosis
+1915	1BH..00	14854	0	1639	<5	Delusions	February 2009	psychosis
+93167	E104.11	<5	0	0	0	Oneirophrenia	February 2009	psychosis
+2455	R001.00	4253	0	272	0	[D]Hallucinations	February 2009	psychosis
+12120	R001000	16697	0	1138	0	[D]Hallucinations, auditory	February 2009	psychosis
+53990	R001100	23	0	<5	0	[D]Hallucinations, gustatory	February 2009	psychosis
+25283	R001200	440	0	49	0	[D]Hallucinations, olfactory	February 2009	psychosis
+64131	R001300	45	0	0	0	[D]Hallucinations, tactile	February 2009	psychosis
+12064	R001400	6566	0	372	0	[D]Visual hallucinations	February 2009	psychosis
+19916	R001z00	991	0	132	0	[D]Hallucinations NOS	February 2009	psychosis
+43462	1BH0.00	395	0	13	0	Delusion of persecution	February 2009	psychosis
+32875	1BH1.00	229	0	<5	0	Grandiose delusions	February 2009	psychosis
+17982	1BH..11	2513	0	215	0	Delusion	February 2009	psychosis
+55479	1BH2.00	155	0	21	0	Ideas of reference	February 2009	psychosis
+22643	1BH3.00	10069	0	674	0	Paranoid ideation	February 2009	psychosis
+49513	E001100	209	0	8	0	Presenile dementia with delirium	February 2009	delirium
+30032	E001200	172	0	31	0	Presenile dementia with paranoia	February 2009	psychosis
+18386	E002000	678	0	59	0	Senile dementia with paranoia	February 2009	psychosis
+41089	E002z00	57	0	<5	0	Senile dementia with depressive or paranoid features NOS	February 2009	psychosis
+37015	E003.00	1124	0	10	0	Senile dementia with delirium	February 2009	delirium
+56912	E004100	45	0	<5	0	Arteriosclerotic dementia with delirium	February 2009	delirium
+55467	E004200	57	0	6	0	Arteriosclerotic dementia with paranoia	February 2009	psychosis
+15249	E00y.00	2174	0	286	0	Other senile and presenile organic psychoses	February 2009	psychosis
+51494	E00y.11	<5	0	0	0	Presbyophrenic psychosis	February 2009	psychosis
+2882	E00z.00	13233	0	2070	<5	Senile or presenile psychoses NOS	February 2009	psychosis
+55150	E03..00	1264	0	<5	0	Transient organic psychoses	February 2009	psychosis
+4033	E030.00	23121	0	1218	0	Acute confusional state	February 2009	delirium
+22466	E030.11	8004	0	68	0	Delirium - acute organic	February 2009	delirium
+41537	E030z00	1931	0	44	0	Acute confusional state NOS	February 2009	delirium
+17021	E031.00	2087	0	208	0	Subacute confusional state	February 2009	delirium
+24077	E031.11	669	0	11	0	Delirium - subacute organic	February 2009	delirium
+55784	E031z00	128	0	<5	0	Subacute confusional state NOS	February 2009	delirium
+68201	E03y.00	95	0	0	0	Other transient organic psychoses	February 2009	psychosis
+10543	E03y000	1122	0	41	0	Organic delusional syndrome	February 2009	psychosis
+47109	E03y100	173	0	<5	0	Organic hallucinosis syndrome	February 2009	psychosis
+24510	E03y200	110	0	<5	0	Organic affective syndrome	February 2009	affective
+59197	E03yz00	9	0	0	0	Other transient organic psychoses NOS	February 2009	psychosis
+57637	E03z.00	61	0	0	0	Transient organic psychoses NOS	February 2009	psychosis
+62087	E04..00	200	0	<5	0	Other chronic organic psychoses	February 2009	psychosis
+23677	E04y.00	8	0	0	0	Other specified chronic organic psychoses	February 2009	psychosis
+39625	E04z.00	136	0	<5	0	Chronic organic psychosis NOS	February 2009	psychosis
+66545	E0y..00	29	0	0	0	Other specified organic psychoses	February 2009	psychosis
+36861	E0z..00	552	0	22	0	Organic psychoses NOS	February 2009	psychosis
+4261	E12..00	13733	0	1152	0	Paranoid states	February 2009	psychosis
+14743	E120.00	3670	0	634	0	Simple paranoid state	February 2009	psychosis
+14971	E122.00	2684	0	203	0	Paraphrenia	February 2009	psychosis
+29937	E131.00	287	0	<5	0	Acute hysterical psychosis	February 2009	psychosis
+15053	E133.00	890	0	90	<5	Acute paranoid reaction	February 2009	psychosis
+24345	E134.00	93	0	<5	0	Psychogenic paranoid psychosis	February 2009	psychosis
+16333	E13y.00	263	0	48	0	Other reactive psychoses	February 2009	psychosis
+23538	E13y100	110	0	8	0	Brief reactive psychosis	February 2009	psychosis
+26119	E13yz00	86	0	0	0	Other reactive psychoses NOS	February 2009	psychosis
+56143	E141.00	13	0	0	0	Disintegrative psychosis	February 2009	psychosis
+41207	E141100	<5	0	0	0	Residual disintegrative psychoses	February 2009	psychosis
+25066	Eu04.00	2188	0	5	0	[X]Delirium, not induced by alcohol+other psychoactive subs	February 2009	delirium
+68125	Eu04000	45	0	0	0	[X]Delirium not superimposed on dementia, so described	February 2009	delirium
+53446	Eu04100	333	0	<5	0	[X]Delirium superimposed on dementia	February 2009	delirium
+39337	Eu04.11	65	0	<5	0	[X]Acute / subacute brain syndrome	February 2009	delirium
+7389	Eu04.12	9077	0	1075	0	[X]Acute / subacute confusional state, nonalcoholic	February 2009	delirium
+21933	Eu04.14	72	0	<5	0	[X]Acute / subacute organic reaction	February 2009	delirium
+22065	Eu04.15	45	0	5	0	[X]Acute / subacute psycho-organic reaction	February 2009	delirium
+52394	Eu04y00	2145	0	<5	0	[X]Other delirium	February 2009	delirium
+53924	Eu04z00	5450	0	15	0	[X]Delirium, unspecified	February 2009	delirium
+25338	Eu05000	130	0	<5	0	[X]Organic hallucinosis	February 2009	psychosis
+21986	Eu05200	1591	0	19	0	[X]Organic delusional [schizophrenia-like] disorder	February 2009	psychosis
+25019	Eu23.00	2482	0	35	0	[X]Acute and transient psychotic disorders	February 2009	psychosis
+36720	Eu23000	286	0	0	0	[X]Acute polymorphic psychot disord without symp of schizoph	February 2009	psychosis
+50023	Eu23011	<5	0	<5	0	[X]Bouffee delirante	February 2009	psychosis
+21455	Eu23012	50	0	<5	0	[X]Cycloid psychosis	February 2009	psychosis
+11778	Eu23200	271	0	<5	0	[X]Acute schizophrenia-like psychotic disorder	February 2009	psychosis
+59096	Eu23211	7	0	0	0	[X]Brief schizophreniform disorder	February 2009	psychosis
+70884	Eu23212	6	0	0	0	[X]Brief schizophrenifrm psych	February 2009	psychosis
+44307	Eu23300	121	0	<5	0	[X]Other acute predominantly delusional psychotic disorders	February 2009	psychosis
+27770	Eu23312	208	0	8	0	[X]Psychogenic paranoid psychosis	February 2009	psychosis
+44503	Eu23y00	93	0	<5	0	[X]Other acute and transient psychotic disorders	February 2009	psychosis
+34168	Eu23z00	402	0	<5	0	[X]Acute and transient psychotic disorder, unspecified	February 2009	psychosis
+31707	Eu23z11	189	0	<5	0	[X]Brief reactive psychosis NOS	February 2009	psychosis
+29651	Eu23z12	546	0	20	0	[X]Reactive psychosis	February 2009	psychosis
+51302	Eu24.00	127	0	0	0	[X]Induced delusional disorder	February 2009	psychosis
+47230	Eu24.12	34	0	<5	0	[X]Induced paranoid disorder	February 2009	psychosis
+11973	Eu24.13	438	0	<5	0	[X]Induced psychotic disorder	February 2009	psychosis
+25638	Eu41z11	21521	0	280	0	[X]Anxiety NOS	February 2009	affective
+28167	Eu41y11	229	0	<5	0	[X]Anxiety hysteria	February 2009	affective
+15665	E292z00	46	0	6	0	Adjustment reaction with disturbance of other emotion NOS	February 2009	challenging 
+48588	E292y00	84	0	<5	0	Adjustment reaction with mixed disturbance of emotion	February 2009	challenging 
+26138	E28z.00	16363	0	44	0	Acute stress reaction NOS	February 2009	affective
+50191	Eu41113	6479	0	<5	0	[X]Anxiety state	February 2009	affective
+27588	Eu44.13	85	0	<5	0	[X]Hysteria	February 2009	affective
+20773	Eu05400	534	0	18	0	[X]Organic anxiety disorder	February 2009	affective
+35825	Eu41112	1556	0	68	0	[X]Anxiety reaction	February 2009	affective
+7749	Eu41211	12286	0	73	0	[X]Mild anxiety depression	February 2009	affective
+23354	E201z00	370	0	14	0	Hysteria NOS	February 2009	affective
+4081	Eu41012	4336	0	482	<5	[X]Panic state	February 2009	affective
+962	Eu41111	7509	0	313	0	[X]Anxiety neurosis	February 2009	affective
+18399	Eu42200	1313	0	123	0	[X]Mixed obsessional thoughts and acts	February 2009	affective
+4534	E200z00	159524	0	3692	0	Anxiety state NOS	February 2009	affective
+6408	Eu41011	12501	0	177	0	[X]Panic attack	February 2009	affective
+20634	Eu42000	1636	0	147	0	[X]Predominantly obsessional thoughts or ruminations	February 2009	affective
+66398	E293200	9	0	<5	0	Adjustment reaction with destructiveness	February 2009	challenging 
+35914	E293100	135	0	11	0	Adjustment reaction with antisocial behaviour	February 2009	challenging 
+6075	E293000	1810	0	265	0	Adjustment reaction with aggression	February 2009	challenging 
+20245	E283000	5664	0	124	0	Acute situational disturbance	February 2009	affective
+6221	E292000	1406	0	83	0	Separation anxiety disorder	February 2009	affective
+45603	E294.00	67	0	<5	0	Adjustment reaction with disturbance emotion and conduct	February 2009	challenging 
+16415	E293.00	127	0	5	0	Adjustment reaction with predominant disturbance of conduct	February 2009	challenging 
+11940	E280.00	1957	0	34	0	Acute panic state due to acute stress reaction	February 2009	affective
+462	E200111	327246	0	12398	23	Panic attack	February 2009	affective
+6939	E200000	43706	0	572	0	Anxiety state unspecified	February 2009	affective
+2188	E201.00	4594	0	294	<5	Hysteria	February 2009	affective
+636	E200.00	1639567	0	53648	18	Anxiety states	February 2009	affective
+13124	2258.00	17163	0	170	0	O/E - anxious	February 2009	affective
+19000	225J.00	634	0	8	0	O/E - panic attack	February 2009	affective
+1996	1B17.00	554690	0	18306	0	Depressed	February 2009	affective
+4824	1B17.11	372686	0	15440	0	C/O - feeling depressed	February 2009	affective
+2930	1B17.12	17865	0	966	0	C/O - feeling unhappy	February 2009	affective
+9796	1B1U.00	312270	0	12791	0	Symptoms of depression	February 2009	affective
+10438	1B1U.11	36740	0	1733	0	Depressive symptoms	February 2009	affective
+10015	1BT..00	650297	0	18703	0	Depressed mood	February 2009	affective
+19439	212S.00	79704	0	101	0	Depression resolved	February 2009	affective
+1366	ZV40.11	151617	0	20557	0	[V]Behavioural problems	February 2009	challenging 
+1363	E2C..11	113044	0	25216	8	Behaviour disorder	February 2009	challenging 
+11054	1B1X.00	101447	0	5701	0	Behavioural problem	February 2009	challenging 
+3881	1B16.00	100017	0	4755	0	Agitated	February 2009	challenging 
+5811	1B16.11	79697	0	2495	<5	Agitated - symptom	February 2009	challenging 
+15196	E273100	1484	0	157	<5	Head-banging	February 2009	challenging 
+3566	1469.00	38756	0	4737	0	H/O: behaviour problem	February 2009	challenging 
+10577	1P5..00	39036	0	1689	0	Aggressive behaviour	February 2009	challenging 
+7383	R00zD00	33236	0	1248	0	[D]Restlessness and agitation	February 2009	challenging 
+12080	1BE1.00	100925	0	762	0	Problem situation	February 2009	challenging 
+2641	E2C0000	18943	0	2627	0	Aggressive outburst	February 2009	challenging 
+2831	1B1I.00	71288	0	2383	0	Crying, excessive	February 2009	challenging 
+10918	1P00.00	12540	0	1133	0	Hyperactive behaviour	February 2009	challenging 
+6416	E2C0100	47616	0	5556	0	Anger reaction	February 2009	challenging 
+1329	E2C1200	12366	0	1247	0	Tantrums	February 2009	challenging 
+2235	E2C..00	17383	0	356	0	Disturbance of conduct NEC	February 2009	challenging 
+6339	E213.11	8527	0	910	0	Aggressive personality	February 2009	challenging 
+36745	E274F00	38	0	0	0	Inversion of sleep rhythm	February 2009	challenging 
+7724	R00z800	31461	0	2482	0	[D]Irritability and anger	February 2009	challenging 
+8123	1B1O.00	20572	0	351	0	Restless	February 2009	challenging 
+6142	1B15.11	23761	0	598	0	Irritable - symptom	February 2009	challenging 
+99528	1B1f.00	16509	0	1476	0	Anger	May 2010	challenging 
+8215	R00zA00	3869	0	224	0	[D]Physical violence	February 2009	challenging 
+11681	ZX17100	1398	0	83	0	Banging own head against object	February 2009	challenging 
+15834	3AB1.00	931	0	21	0	Mildy abnormal behaviour	February 2009	challenging 
+17721	E2Cz.00	1725	0	7	0	Unspecified disturbance of conduct	February 2009	challenging 
+7230	Ry18.00	6712	0	371	0	[D]Self neglect	February 2009	challenging 
+7169	E2Cy000	9905	0	484	0	Breath holder	February 2009	challenging 
+25859	ZX1G.00	1052	0	15	0	Scratches self	February 2009	challenging 
+28680	ZX1LD00	682	0	13	0	[X]Self mutilation	February 2009	challenging 
+17086	2256.00	3475	0	116	0	O/E - agitated	February 2009	challenging 
+14667	ZV40300	2824	0	169	0	[V]Other behavioural problems	February 2009	challenging 
+20882	E27z300	598	0	28	0	Masturbation	February 2009	challenging 
+23597	E213.00	1957	0	55	0	Explosive personality disorder	February 2009	challenging 
+32987	E274E00	126	0	0	0	'Short-sleeper'	February 2009	challenging 
+28865	1P50.00	1993	0	43	0	Violent acts towards others	February 2009	challenging 
+22654	1P3..00	3005	0	260	0	Compulsive behaviour	February 2009	challenging 
+10581	288..11	711	0	30	0	Uncooperative	February 2009	challenging 
+22888	14X4.00	1460	0	0	0	On sex offenders register	February 2009	challenging 
+39016	Eu70y00	50	0	0	0	[X]Mild mental retardation, other impairments of behaviour	February 2009	challenging 
+24546	Ry13.00	735	0	38	0	[D]Overactivity	February 2009	challenging 
+3667	1B15.00	6450	0	174	0	Irritable	February 2009	challenging 
+49027	3AB2.00	311	0	24	0	Severely abnormal behaviour	February 2009	challenging 
+3165	Eu63300	4414	0	346	0	[X]Trichotillomania	February 2009	challenging 
+12005	1P51.00	1313	0	19	0	Physically abusive behaviour	February 2009	challenging 
+25471	1P52.00	3279	0	7	0	Verbally abusive behaviour	February 2009	challenging 
+10850	1P40.00	1413	0	53	0	Inappropriate shouting	February 2009	challenging 
+13122	225B.00	3050	0	93	0	O/E - angry	February 2009	challenging 
+37934	Z4A9.00	696	0	22	0	Discussion about behaviour	February 2009	challenging 
+35247	ZX1..00	556	0	7	0	Self-injurious behaviour	February 2009	challenging 
+32350	ZX1D.00	578	0	27	0	Picking own skin	February 2009	challenging 
+5242	U2E..00	2868	0	368	0	[X]Self mutilation	February 2009	challenging 
+18790	1P11.00	386	0	7	0	Uncooperative behaviour	February 2009	challenging 
+31014	Ry12.00	853	0	68	0	[D]Strange and inexplicable behaviour	February 2009	challenging 
+52617	14XA.00	710	0	<5	0	Alleged perpetrator of sexual abuse	February 2009	challenging 
+47283	ZX11.11	166	0	<5	0	Bites self	February 2009	challenging 
+16631	13HN000	1111	0	21	0	Theft	February 2009	challenging 
+11360	13Z8000	1813	0	94	0	Social adjustment problem	February 2009	challenging 
+21665	E216.12	715	0	<5	0	Dependent personality	February 2009	challenging 
+19931	E216.13	2126	0	180	0	Labile personality	February 2009	challenging 
+4835	E275200	3168	0	141	0	Pica	February 2009	challenging 
+45362	E275711	158	0	7	0	Compulsive water drinking	February 2009	challenging 
+27724	E2Czz00	1910	0	14	0	Disturbance of conduct NOS	February 2009	challenging 
+12510	E27z400	1143	0	20	0	Nail-biting	February 2009	challenging 
+50751	Eu72100	32	0	0	0	[X]Sev mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
+17724	J08z100	686	0	13	0	Lip biting	February 2009	challenging 
+18883	ZX1P.00	864	0	23	0	Swallowing substances	February 2009	challenging 
+49657	1P02.00	662	0	29	0	Disinhibited behaviour	February 2009	challenging 
+46060	1Q0..00	615	0	23	0	Impulsive character	February 2009	challenging 
+4911	E2Cy.00	372	0	37	0	Other conduct disturbances	February 2009	challenging 
+39412	Eu70100	32	0	0	0	[X]Mld mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
+55848	Eu72y00	41	0	0	0	[X]Severe mental retardation, other impairments of behaviour	February 2009	challenging 
+25432	ZX11500	998	0	38	0	Biting own tongue	February 2009	challenging 
+39030	1P53.00	1365	0	15	0	Argumentative behaviour	February 2009	challenging 
+45263	E2E2.00	296	0	7	0	Hyperkinetic conduct disorder	February 2009	challenging 
+26155	28L..00	680	0	52	0	O/E - impulsive behaviour	February 2009	challenging 
+30634	14XC.00	2368	0	6	0	Alleged perpetrator of domestic violence	February 2009	challenging 
+12722	ZX14200	5188	0	12	<5	Pulling out sutures	February 2009	challenging 
+22281	ZX11.00	98	0	<5	0	Biting self	February 2009	challenging 
+20286	E27z000	905	0	74	0	Hair plucking	February 2009	challenging 
+54881	Eu71100	25	0	<5	0	[X]Mod mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
+66383	Eu7zy00	26	0	0	0	[X]Unspecified mental retardatn, other impairments of behav	February 2009	challenging 
+91580	Eu92.11	231	0	<5	0	[X]Emotional behavioural problems	February 2009	affective
+42520	Eu7yy00	11	0	0	0	[X]Other mental retardation, other impairments of behaviour	February 2009	challenging 
+45950	ZX17200	34	0	<5	0	Banging own head against own body parts	February 2009	challenging 
+22911	13HN100	958	0	51	0	Shoplifting	February 2009	challenging 
+28683	ZX1..14	86	0	<5	0	Self-abusive behaviour	February 2009	challenging 
+58077	ZX17.00	80	0	0	0	Head-banging	February 2009	challenging 
+35072	ZX1O.00	342	0	<5	0	Swallowing objects	February 2009	challenging 
+32142	Eu63100	93	0	<5	0	[X]Pathological fire-setting	February 2009	challenging 
+32626	ZX1..11	81	0	<5	0	Self-destructive behaviour	February 2009	challenging 
+53282	ZX14.00	27	0	<5	0	Damaging own wounds	February 2009	challenging 
+35290	ZX17300	70	0	<5	0	Head-butting other person	February 2009	challenging 
+25854	ZX19.00	66	0	0	0	Hitting self	February 2009	challenging 
+32574	ZX19300	138	0	<5	0	Head-hitting	February 2009	challenging 
+45243	ZX1F.00	87	0	<5	0	Rubbing own skin	February 2009	challenging 
+26147	14X9.00	309	0	<5	0	Alleged perpetrator of physical abuse	February 2009	challenging 
+59407	Eu71y00	13	0	0	0	[X]Mod retard oth behav impair	February 2009	challenging 
+22055	J08z000	386	0	15	0	Cheek biting	February 2009	challenging 
+18296	R00z700	1023	0	22	0	[D]Demoralization and apathy	February 2009	challenging 
+2777	R2y3.11	955	0	179	0	[D] Self neglect	February 2009	challenging 
+47623	ZX1..12	34	0	<5	0	SIB - Self-injurious behaviour	February 2009	challenging 
+20090	28C..00	96	0	18	0	O/E - embarrassing behaviour	February 2009	challenging 
+66783	Eu7z100	<5	0	0	0	[X]Unsp mentl retard sig impairment behav req attent/treatmt	February 2009	challenging 
+41448	R00z900	204	0	14	0	[D]Hostility	February 2009	challenging 
+25289	ZX11200	205	0	<5	0	Biting own fingers	February 2009	challenging 
+59525	ZX11400	13	0	<5	0	Biting own arm	February 2009	challenging 
+11939	ZX16211	17	0	0	0	Poking own eyes	February 2009	challenging 
+50601	ZX19200	13	0	<5	0	Slapping self	February 2009	challenging 
+9769	E2C1100	342	0	37	0	Solitary stealing	February 2009	challenging 
+41599	E2C4.00	94	0	5	0	Mixed disturbance of conduct and emotion	February 2009	challenging 
+6121	E2C4z00	73	0	<5	0	Mixed disturbance of conduct and emotion NOS	February 2009	challenging 
+98100	Eu73100	<5	0	0	0	[X]Profound ment retard sig impairmnt behav req attent/treat	November 2009	challenging 
+56547	Eu7y100	9	0	0	0	[X]Oth mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
+43397	Z7CCC00	109	0	<5	0	Found wandering the streets	February 2009	challenging 
+35439	ZX11100	49	0	0	0	Biting own hand	February 2009	challenging 
+39545	ZX11111	44	0	0	0	Hand biting	February 2009	challenging 
+35506	ZX11300	22	0	0	0	Biting own toes	February 2009	challenging 
+103185	ZX16300	<5	0	0	0	Gouging own rectum	October 2011	challenging 
+32267	ZX1L.00	103	0	<5	0	Self-mutilation	February 2009	challenging 
+20473	E2C3300	84	0	<5	0	Pyromania	February 2009	challenging 
+90276	Eu73y00	5	0	0	0	[X]Profound mental retardation, other impairments of behavr	February 2009	challenging 
+26009	Z7CCB00	112	0	<5	0	Wandering	February 2009	challenging 
+72559	ZX19100	14	0	<5	0	Punching self	February 2009	challenging 
+39199	ZX1A.00	46	0	<5	0	Inserting foreign bodies into own orifices	February 2009	challenging 
+64331	ZX1E.00	15	0	0	0	Pinching self	February 2009	challenging 
+35123	ZX1L100	43	0	<5	0	Self-mutilation of hands	February 2009	challenging 
+51192	ZX1S.00	6	0	0	0	Throwing self onto floor	February 2009	challenging 
+61002	14XB.00	56	0	0	0	Alleged perpetrator of emotional abuse	February 2009	challenging 
+54172	1B1M.00	15	0	<5	<5	Resents authority	February 2009	challenging 
+22212	1P10.00	271	0	<5	0	Clinging behaviour	February 2009	challenging 
+46713	28C..11	24	0	<5	0	O/E - irreverent behaviour	February 2009	challenging 
+36043	E213.12	13	0	<5	0	Quarrelsome personality	February 2009	challenging 
+11608	E275111	777	0	43	0	Compulsive eating disorder	February 2009	challenging 
+104891	E293z00	8	0	0	0	Adjustment reaction with predominant disturbance conduct NOS	August 2012	challenging 
+53590	E2C3400	58	0	<5	0	Intermittent explosive disorder	February 2009	challenging 
+94096	E2C3500	<5	0	0	0	Isolated explosive disorder	February 2009	challenging 
+54696	E2Cyz00	41	0	0	0	Other conduct disturbances NOS	February 2009	challenging 
+46715	E2D1.13	7	0	<5	0	Taunting / tormenting	February 2009	challenging 
+35434	Z43C.00	106	0	0	0	Questioning the client about his or her behaviour	February 2009	challenging 
+115912	Z43C.11	<5	0	0	0	Challenging the client about his or her behaviour	November 2021	challenging 
+102028	Z43G800	<5	0	0	0	Smacking	April 2011	challenging 
+38035	ZX11600	31	0	<5	0	Biting sides of own cheeks	February 2009	challenging 
+36926	ZX14100	66	0	8	0	Reopening scars	February 2009	challenging 
+39515	ZX14300	9	0	0	0	Poking fingers into wound	February 2009	challenging 
+113558	ZX14400	<5	0	0	0	Inserting objects into wound	April 2019	challenging 
+94778	ZX16.00	<5	0	0	0	Gouging own body parts	February 2009	challenging 
+97397	ZX16100	<5	0	0	0	Gouging own flesh	August 2009	challenging 
+107141	ZX16200	<5	0	0	0	Gouging own eyes	October 2013	challenging 
+58039	ZX1C.00	6	0	0	0	Nipping self	February 2009	challenging 
+57479	ZX1L200	13	0	0	0	Self-mutilation of genitalia	February 2009	challenging 
+90704	ZX1L300	9	0	0	0	Self-mutilation of penis	February 2009	challenging 
+64200	ZX1L600	6	0	<5	0	Self-mutilation of ears	February 2009	challenging 
+35438	ZX1LA00	75	0	<5	0	Removing own nails	February 2009	challenging 
+45924	ZX1LB00	5	0	0	0	Eating own flesh	February 2009	challenging 
+46855	ZX1LC00	<5	0	0	0	Stripping own skin	February 2009	challenging 
+30580	14OE.00	489	0	5	0	At risk of harming others	February 2009	challenging 
+9090	1BN..00	4560	0	220	0	Wandering	February 2009	challenging 
+46758	1BN0.00	704	0	<5	0	Wanders during the day	February 2009	challenging 
+30385	1BN1.00	791	0	20	0	Wanders at night	February 2009	challenging 
+94508	1BN2.00	82	0	<5	0	Wanders during the day and at night	February 2009	challenging 
+20202	E224.00	461	0	39	0	Exhibitionism	February 2009	challenging 
+24656	E224.11	280	0	41	0	Flasher	February 2009	challenging 
+2765	E22y100	50	0	<5	0	Voyeurism	February 2009	challenging 
+104436	Eu65000	<5	0	0	0	[X]Fetishism	June 2012	challenging 
+94271	Eu65200	12	0	0	0	[X]Exhibitionism	February 2009	challenging 
+95548	Eu65300	<5	0	0	0	[X]Voyeurism	February 2009	challenging 
+40093	Eu65y11	7	0	0	0	[X]Frotteurism	February 2009	challenging 
+52651	Eu65z11	17	0	<5	0	[X]Sexual deviation NOS	February 2009	challenging 
+31719	E2C1111	241	0	5	0	Shop lifting	February 2009	challenging 
+44967	Z7CC900	77	0	0	0	Getting lost	February 2009	challenging 
+62110	Z7CCA00	13	0	0	0	Getting lost inside the home	February 2009	challenging 
+21305	1B1B.00	86242	0	243	0	Cannot sleep - insomnia	February 2009	challenging 
+4537	1B1B.11	752565	0	3688	0	C/O - insomnia	February 2009	challenging 
+3523	1B1B000	5191	0	21	0	Initial insomnia	February 2009	challenging 
+5675	1B1B100	1145	0	<5	0	Middle insomnia	February 2009	challenging 
+4597	1B1B200	5038	0	28	<5	Late insomnia	February 2009	challenging 
+7725	1B1Q.00	186350	0	1607	0	Poor sleep pattern	February 2009	challenging 
+42847	1BX0.00	3003	0	<5	0	Delayed onset of sleep	February 2009	challenging 
+7819	E274.00	49898	0	694	0	Non-organic sleep disorders	February 2009	challenging 
+26546	E274.12	196	0	0	0	Insomnia due to nonorganic sleep disorder	February 2009	challenging 
+16434	E274000	121	0	<5	0	Unspecified non-organic sleep disorder	February 2009	challenging 
+4023	E274111	178576	0	755	0	Insomnia NOS	February 2009	challenging 
+16115	E274200	3017	0	10	0	Persistent insomnia	February 2009	challenging 
+19514	E274D11	946	0	20	0	Restless sleep	February 2009	challenging 
+43098	E274y00	105	0	0	0	Other non-organic sleep disorder	February 2009	challenging 
+27649	E274z00	136	0	<5	0	Non-organic sleep disorder NOS	February 2009	challenging 
+24894	Eu51.00	572	0	10	0	[X]Nonorganic sleep disorders	February 2009	challenging 
+30626	Eu51000	2652	0	5	0	[X]Nonorganic insomnia	February 2009	challenging 
+23923	Eu51200	49	0	<5	0	[X]Nonorganic disorder of the sleep-wake schedule	February 2009	challenging 
+62925	Eu51y00	11	0	0	0	[X]Other nonorganic sleep disorders	February 2009	challenging 
+22819	Eu51z00	90	0	0	0	[X]Nonorganic sleep disorder, unspecified	February 2009	challenging 
+21032	Eu51z11	164	0	<5	0	[X]Emotional sleep disorder NOS	February 2009	challenging 
+2329	Fy0..00	86214	0	2935	7	Sleep disorders	February 2009	challenging 
+5921	Fy00.00	85473	0	1306	0	Disorders of initiating and maintaining sleep	February 2009	challenging 
+8997	Fy02.00	859	0	12	0	Disorders of the sleep-wake schedule	February 2009	challenging 
+53912	Fyu5800	169	0	<5	0	[X]Other sleep disorders	February 2009	challenging 
+8084	R005.00	239249	0	613	0	[D]Sleep disturbances	February 2009	challenging 
+31236	R005.12	738	0	<5	0	[D]Sleep rhythm problems	February 2009	challenging 
+1244	R005000	77507	0	1776	0	[D]Sleep disturbance, unspecified	February 2009	challenging 
+54458	R005800	59	0	0	0	[D]Sleep dysfunction with sleep stage disturbance	February 2009	challenging 
+41737	R005900	53	0	0	0	[D]Sleep dysfunction with arousal disturbance	February 2009	challenging 
+15407	R005z00	1509	0	23	0	[D]Sleep dysfunction NOS	February 2009	challenging 
+51397	ZV1B100	38	0	<5	0	[V]Personal history of unhealthy sleep-wake schedule	February 2009	challenging 
+68058	E133.11	5	0	<5	0	Bouffee delirante	February 2009	psychosis
+55236	Eu22y13	14	0	<5	0	[X]Paranoia querulans	February 2009	psychosis
+55221	Eu22111	58	0	<5	0	[X]Capgras syndrome	February 2009	psychosis
+4843	Eu22015	15432	0	2049	0	[X]Paranoia	February 2009	psychosis
+47947	Eu22013	91	0	0	0	[X]Paraphrenia - late	February 2009	psychosis
+28168	Eu44.14	110	0	<5	0	[X]Hysterical psychosis	February 2009	psychosis
+20228	E13..11	406	0	36	<5	Reactive psychoses	February 2009	psychosis
+11172	Eu22012	2444	0	225	0	[X]Paranoid state	February 2009	psychosis
+105606	Eu24.11	<5	0	0	0	[X]Folie a deux	January 2013	psychosis
+112783	Eu04y11	14	0	0	0	[X]Delirium of mixed origin	July 2018	delirium
+5188	R009.00	64996	0	4045	0	[D]Confusion	February 2009	delirium
+5367	2233.00	3110	0	83	0	O/E - delirious	February 2009	delirium

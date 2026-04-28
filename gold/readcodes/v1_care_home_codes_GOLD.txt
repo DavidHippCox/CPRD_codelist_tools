@@ -1,0 +1,10 @@
+medcode	readcode	description	type	clinicalevents	immunisationevents	referralevents	testevents
+102493	8Ht..00	Admission to nursing home	R	1018	0	0	0
+107443	9NFW000	Care home visit for initial patient assessment	R	9554	0	13	0
+42191	ZLG3.00	Discharge to residential home	R	534	0	<5	0
+48549	ZLG3100	Discharge to private residential home	R	21	0	0	0
+69028	ZLG3200	Discharge to part III residential home	R	5	0	0	0
+10993	ZLG4.00	Discharge to nursing home	R	2171	0	<5	0
+43915	ZLG4100	Discharge to private nursing home	R	95	0	<5	0
+54948	ZLG5200	Discharge to part III accommodation	R	<5	0	0	0
+13562	ZV70317	[V]Old age home admission medical	R	271	0	7	0

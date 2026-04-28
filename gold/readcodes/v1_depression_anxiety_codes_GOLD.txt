@@ -1,0 +1,63 @@
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease
+32159	E112400	548	0	5	0	Single major depressive episode, severe, with psychosis	February 2009
+24171	E113400	830	0	9	0	Recurrent major depressive episodes, severe, with psychosis	February 2009
+8478	E130.00	2314	0	54	0	Reactive depressive psychosis	February 2009
+17770	E130.11	2864	0	87	0	Psychotic reactive depression	February 2009
+27491	E11y200	253	0	14	0	Atypical depressive disorder	February 2009
+22721	Eu42z00	514	0	11	0	[X]Obsessive-compulsive disorder, unspecified	February 2009
+23838	Eu41z00	13874	0	624	0	[X]Anxiety disorder, unspecified	February 2009
+38809	Eu42y00	63	0	0	0	[X]Other obsessive-compulsive disorders	February 2009
+34064	Eu40z00	976	0	17	0	[X]Phobic anxiety disorder, unspecified	February 2009
+24066	Eu41y00	330	0	<5	0	[X]Other specified anxiety disorders	February 2009
+27685	Eu40y00	149	0	<5	0	[X]Other phobic anxiety disorders	February 2009
+15220	Eu34114	8355	0	317	0	[X]Persistant anxiety depression	February 2009
+101785	Eu43300	12	0	<5	0	[X]Acute post-traumatic stress disorder follow military comb	February 2011
+14729	E202z00	5031	0	438	0	Phobic disorder NOS	February 2009
+44321	Eu41300	438	0	<5	0	[X]Other mixed anxiety disorders	February 2009
+4171	Eu43100	99956	0	6600	0	[X]Post - traumatic stress disorder	February 2009
+14890	Eu40012	1671	0	61	0	[X]Panic disorder with agoraphobia	February 2009
+11913	Eu41200	58545	0	2086	<5	[X]Mixed anxiety and depressive disorder	February 2009
+16729	Eu40011	362	0	18	0	[X]Agoraphobia without history of panic disorder	February 2009
+10344	Eu41100	29341	0	637	0	[X]Generalized anxiety disorder	February 2009
+11602	Eu40100	8277	0	431	0	[X]Social phobias	February 2009
+8205	Eu41000	8085	0	235	0	[X]Panic disorder [episodic paroxysmal anxiety]	February 2009
+2571	Eu40000	24066	0	1463	0	[X]Agoraphobia	February 2009
+5304	Eu42.00	69302	0	4886	0	[X]Obsessive - compulsive disorder	February 2009
+42410	E2z..00	172	0	<5	0	Neuroses or other mental disorder NOS	February 2009
+5385	Eu41.00	16497	0	311	0	[X]Other anxiety disorders	February 2009
+50106	E2y..00	138	0	<5	0	Other specified neuroses or other mental disorders	February 2009
+9386	Eu40.00	15987	0	1112	0	[X]Phobic anxiety disorders	February 2009
+23808	Eu4..00	848	0	33	0	[X]Neurotic, stress - related and somoform disorders	February 2009
+31957	E202400	248	0	<5	0	Social phobia, fear of public speaking	February 2009
+4634	E200500	15232	0	381	0	Recurrent anxiety	February 2009
+16199	E202300	410	0	65	0	Social phobia, fear of eating in public	February 2009
+1758	E200400	64852	0	2503	0	Chronic anxiety	February 2009
+12838	E202200	7340	0	855	0	Agoraphobia without mention of panic attacks	February 2009
+655	E200300	1224236	0	31428	5	Anxiety with depression	February 2009
+3076	E202100	30893	0	1797	0	Agoraphobia with panic attacks	February 2009
+9944	E202.12	6028	0	264	0	Phobic anxiety	February 2009
+4659	E200200	70837	0	2018	0	Generalised anxiety disorder	February 2009
+2300	E202000	19942	0	3039	0	Phobia unspecified	February 2009
+16638	E202.11	4296	0	356	0	Social phobic disorders	February 2009
+4069	E200100	159481	0	8589	<5	Panic disorder	February 2009
+3208	E203.00	21425	0	2505	0	Obsessive-compulsive disorders	February 2009
+1907	E202.00	11499	0	712	<5	Phobic disorders	February 2009
+2716	1465.00	419882	0	12983	13	H/O: depression	February 2009
+10610	E112.00	58599	0	1092	0	Single major depressive episode	February 2009
+15155	E112200	19369	0	173	0	Single major depressive episode, moderate	February 2009
+1131	E204.00	312163	0	8023	<5	Neurotic depression reactive type	February 2009
+324	E2B..00	2138913	0	93992	94	Depressive disorder NEC	February 2009
+98417	Eu32800	707	0	5	0	[X]Major depression, severe with psychotic symptoms	January 2010
+52678	Eu32312	88	0	<5	0	[X]Single episode of psychogenic depressive psychosis	February 2009
+47009	Eu33300	1319	0	11	0	[X]Recurrent depress disorder cur epi severe with psyc symp	February 2009
+37764	Eu33316	106	0	7	0	[X]Recurrent severe episodes/reactive depressive psychosis	February 2009
+32941	Eu33313	426	0	27	0	[X]Recurr severe episodes/major depression+psychotic symptom	February 2009
+31633	Eu3z.11	289	0	6	0	[X]Affective psychosis NOS	February 2009
+28863	Eu32314	242	0	<5	0	[X]Single episode of reactive depressive psychosis	February 2009
+2560	E11..12	6948	0	410	0	Depressive psychoses	February 2009
+24117	Eu32311	350	0	20	0	[X]Single episode of major depression and psychotic symptoms	February 2009
+24112	Eu32313	1042	0	12	0	[X]Single episode of psychotic depression	February 2009
+23731	Eu33311	671	0	32	0	[X]Endogenous depression with psychotic symptoms	February 2009
+16861	Eu33315	615	0	20	0	[X]Recurrent severe episodes of psychotic depression	February 2009
+14656	E11..00	6780	0	251	0	Affective psychoses	February 2009
+12099	Eu32300	6688	0	86	0	[X]Severe depressive episode with psychotic symptoms	February 2009

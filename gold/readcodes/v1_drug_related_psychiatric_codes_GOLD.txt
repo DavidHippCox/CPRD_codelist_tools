@@ -1,0 +1,27 @@
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease
+45997	E021.00	296	0	<5	0	Drug-induced paranoia or hallucinatory states	February 2009
+12628	E021000	1056	0	41	0	Drug-induced paranoid state	February 2009
+20026	E021100	471	0	35	0	Drug-induced hallucinosis	February 2009
+26481	E021z00	97	0	<5	0	Drug-induced paranoia or hallucinatory state NOS	February 2009
+29783	E02y000	568	0	<5	0	Drug-induced delirium	February 2009
+28767	E02yz00	57	0	0	0	Other drug psychoses NOS	February 2009
+26002	E02z.00	3951	0	12	0	Drug psychosis NOS	February 2009
+97488	Eu11400	5	0	0	0	[X]Men & behav dis due opioid: withdrawl state with delirium	August 2009
+50964	Eu11500	72	0	0	0	[X]Mental & behav dis due to use opioids: psychotic disorder	February 2009
+27652	Eu11700	8	0	0	0	[X]Men & beh dis due opioids: resid & late-onset psychot dis	February 2009
+38429	Eu12500	235	0	<5	0	[X]Mental & behav dis due to cannabinoids: psychotic disordr	February 2009
+57574	Eu12700	12	0	0	0	[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis	February 2009
+44131	Eu13400	14	0	0	0	[X]Men & beh dis due seds/hypns: withdrwl state wth delirium	February 2009
+69138	Eu13500	8	0	<5	0	[X]Mental & behav dis due to seds/hypntcs: psychotic disordr	February 2009
+49565	Eu14500	56	0	<5	0	[X]Mental & behav dis due to use cocaine: psychotic disorder	February 2009
+102591	Eu14700	<5	0	0	0	[X]Men & beh dis due cocaine: resid & late-onset psychot dis	July 2011
+49879	Eu15500	11	0	0	0	[X]Mental/behav dis oth stims inc caffeine: psychotic dis	February 2009
+59163	Eu15700	7	0	0	0	[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis	February 2009
+54983	Eu16500	24	0	<5	0	[X]Mental & behav dis due to hallucinogens: psychotic disord	February 2009
+35196	Eu16711	20	0	<5	0	[X]Post hallucinogen perception disorder	February 2009
+62106	Eu18400	0	0	0	0	[X]Men & beh dis vol solvents: withdrawal state wth delirium	February 2009
+98618	Eu18500	<5	0	0	0	[X]Mental & behav dis due to vol solvents: psychotic disordr	March 2010
+65950	Eu19400	<5	0	0	0	[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium	February 2009
+24637	Eu19500	143	0	<5	0	[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis	February 2009
+56948	Eu19700	15	0	0	0	[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis	February 2009
+102475	Eu1A500	<5	0	0	0	[X]Mental behav disord due crack cocaine: psychotic disorder	June 2011
