@@ -28,14 +28,14 @@ readcode_tool <- function(fileA,
       return(col)
     }
 
-    if ("cleansed_readcode" %in% names(dt)) {
-      return("cleansed_readcode")
+    if ("CleansedReadCode" %in% names(dt)) {
+      return("CleansedReadCode")
     }
     if ("readcode" %in% names(dt)) {
       return("readcode")
     }
 
-    stop(paste0(name, " must contain 'readcode' or 'cleansed_readcode', or specify column manually"))
+    stop(paste0(name, " must contain 'readcode' or 'CleansedReadCode', or specify column manually"))
   }
 
   colA_used <- pick_col(A, colA, "File A")
@@ -198,7 +198,7 @@ oxcprd_001b_aurum_read <- file.path(oxcprd_001b_codelist_tools, "aurum/readcodes
 gold_txt <- file.path(oxcprd_001b_gold_read, "medical/medical_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_read, "medical/CPRDAurumMedical_202601.txt")
 
-group_A <- file.path(oxcprd_001b_gold_read, "v1_smi_codes_GOLD.txt")
+group_A <- file.path(oxcprd_001b_gold_read, "v1_neuropsychariatric_codes_GOLD.txt")
 
 group_B <- file.path(aurum_txt)
 
@@ -206,18 +206,18 @@ save_gold <- file.path(oxcprd_001b_gold_read, "compare")
 
 save_aurum <- file.path(oxcprd_001b_aurum_read, "compare")
 
-# # A not B
-# readcode_tool(
-#   group_A,
-#   group_B,
-#   colA = "readcode",
-#   colB = "CleansedReadCode",
-#   mode = "A_not_B",
-#   lookup_file = aurum_txt,
-#   lookup_readcode_col = "CleansedReadCode",
-#   lookup_id_col = "MedCodeId",
-#   save_dir = save_gold
-# )
+# A not B
+readcode_tool(
+  group_A,
+  group_B,
+  colA = "readcode",
+  colB = "CleansedReadCode",
+  mode = "A_not_B",
+  lookup_file = gold_txt,
+  lookup_readcode_col = "readcode",
+  lookup_id_col = "medcode",
+  save_dir = save_gold
+)
 
 # # Union
 # readcode_tool(
@@ -245,15 +245,15 @@ save_aurum <- file.path(oxcprd_001b_aurum_read, "compare")
 #   save_dir = save_gold
 # )
 
-# Intersection
-readcode_tool(
-  group_A,
-  group_B,
-  colA = "readcode",
-  colB = "CleansedReadCode",
-  mode = "intersect",
-  lookup_file = aurum_txt,
-  lookup_readcode_col = "CleansedReadCode",
-  lookup_id_col = "MedCodeId",
-  save_dir = save_gold
-)
+# # Intersection
+# readcode_tool(
+#   group_A,
+#   group_B,
+#   colA = "readcode",
+#   colB = "CleansedReadCode",
+#   mode = "intersect",
+#   lookup_file = aurum_txt,
+#   lookup_readcode_col = "CleansedReadCode",
+#   lookup_id_col = "MedCodeId",
+#   save_dir = save_gold
+# )
