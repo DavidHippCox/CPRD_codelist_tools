@@ -1,3 +1,5 @@
+rm(list = ls())
+gc()
 library(data.table)
 
 prodcode_tool <- function(fileA,
@@ -228,23 +230,23 @@ save_aurum <- file.path(oxcprd_001b_aurum_prodcodes, "compare")
 lookup_file <- aurum_txt 
 
 
-# # ---- A not B ----
-# prodcode_tool(
-#   group_A,
-#   group_B,
-#   mode = "A_not_B",
-#   save_dir = save_aurum,
-#   lookup_file = lookup_file
-# )
-
-# ---- Union ----
+# ---- A not B ----
 prodcode_tool(
   group_A,
   group_B,
-  mode = "union",
+  mode = "A_not_B",
   save_dir = save_aurum,
   lookup_file = lookup_file
 )
+
+# # ---- Union ----
+# prodcode_tool(
+#   group_A,
+#   group_B,
+#   mode = "union",
+#   save_dir = save_aurum,
+#   lookup_file = lookup_file
+# )
 
 # ---- B not A ----
 # prodcode_tool(

@@ -1,3 +1,7 @@
+rm(list = ls())
+gc()
+library(data.table)
+
 dmdcode_tool <- function(fileA,
                          fileB,
                          colA = NULL,
@@ -10,7 +14,6 @@ dmdcode_tool <- function(fileA,
                          lookup_dmdcode_col = NULL,
                          lookup_id_col = NULL,
                          log_file = NULL) {
-  library(data.table)
 
   mode <- match.arg(mode)
 
@@ -185,7 +188,7 @@ gold_txt <- file.path(oxcprd_001b_gold_dmd, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_dmd, "product/CPRDAurumProduct_202601.txt")
 
 # group_A <- file.path(oxcprd_001b_gold_dmd, "v1_medication_codes_GOLD.txt")
-group_A <- file.path(oxcprd_001b_aurum_dmd, "open_prescribing_04010_scrape.txt")
+group_A <- file.path(oxcprd_001b_codelist_tools,"openprescribing_dmd_output/table.txt")
 
 group_B <- file.path(aurum_txt)
 
@@ -193,18 +196,18 @@ save_gold <- file.path(oxcprd_001b_gold_dmd, "compare")
 
 save_aurum <- file.path(oxcprd_001b_aurum_dmd, "compare")
 
-# A not B
-dmdcode_tool(
-  group_A,
-  group_B,
-  colA = "dmdcode",
-  colB = "dmdid",
-  mode = "A_not_B",
-  lookup_file = gold_txt,
-  lookup_dmdcode_col = "dmdcode",
-  lookup_id_col = "prodcode",
-  save_dir = save_aurum
-)
+# # A not B
+# dmdcode_tool(
+#   group_A,
+#   group_B,
+#   colA = "dmdid",
+#   colB = "dmdid",
+#   mode = "A_not_B",
+#   lookup_file = aurum_txt,
+#   lookup_dmdcode_col = "dmdid",
+#   lookup_id_col = "ProdCodeId",
+#   save_dir = save_aurum
+# )
 
 # # Union
 # dmdcode_tool(
@@ -232,15 +235,15 @@ dmdcode_tool(
 #   save_dir = save_aurum
 # )
 
-# # Intersection
-# dmdcode_tool(
-#   group_A,
-#   group_B,
-#   colA = "dmdcode",
-#   colB = "dmdid",
-#   mode = "intersect",
-#   lookup_file = aurum_txt,
-#   lookup_dmdcode_col = "dmdid",
-#   lookup_id_col = "ProdCodeId",
-#   save_dir = save_aurum
-# )
+# Intersection
+dmdcode_tool(
+  group_A,
+  group_B,
+  colA = "dmdid",
+  colB = "dmdid",
+  mode = "intersect",
+  lookup_file = aurum_txt,
+  lookup_dmdcode_col = "dmdid",
+  lookup_id_col = "ProdCodeId",
+  save_dir = save_aurum
+)

@@ -1,3 +1,5 @@
+rm(list = ls())
+gc()
 library(data.table)
 
 icd10_tool <- function(fileA,

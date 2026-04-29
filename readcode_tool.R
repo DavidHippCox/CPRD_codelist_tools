@@ -1,3 +1,7 @@
+rm(list = ls())
+gc()
+library(data.table)
+
 readcode_tool <- function(fileA,
                           fileB,
                           colA = NULL,
@@ -11,7 +15,6 @@ readcode_tool <- function(fileA,
                           lookup_readcode_col = NULL,
                           lookup_id_col = NULL,
                           log_file = NULL) {
-  library(data.table)
 
   mode <- match.arg(mode)
 

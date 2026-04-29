@@ -1,3 +1,5 @@
+rm(list = ls())
+gc()
 library(data.table)
 
 medcode_tool <- function(fileA,
