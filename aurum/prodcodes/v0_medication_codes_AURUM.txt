@@ -789,7 +789,6 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 981641000033117	4182911000001102	Nozinan 25mg/1ml solution for injection ampoules (Neuraxpharm UK Ltd)	Nozinan 25mg/1ml solution for injection ampoules	Solution for injection	Subcutaneous/ Intravenous/ Intramuscular	Levomepromazine hydrochloride	25.000mg/1.000ml		30986	antipsychotics	
 989141000033111	39701411000001105	Nortriptyline 10mg tablets	Nortriptyline 10mg tablets	Tablet/ Oral Tablet	Oral	Nortriptyline hydrochloride	10.000mg	04030100	2794009	antidepressants	
 989241000033116	39701511000001109	Nortriptyline 25mg tablets	Nortriptyline 25mg tablets	Tablet/ Oral Tablet	Oral	Nortriptyline hydrochloride	25.000mg	04030100	1205538	antidepressants	
-ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues	drugtypes	alcohol_detoxification
 11275941000033119	12141711000001106	Oxazepam 10mg/5ml oral suspension	Oxazepam 10mg/5ml oral suspension	Oral suspension	Oral	Oxazepam	2.000mg/1.000ml	04010200	34	anxiety_and_hypnotics	
 12679241000033111	8304411000001106	Buspirone 5mg/5ml oral solution	Buspirone 5mg/5ml oral solution	Oral solution	Oral	Buspirone hydrochloride	1.000mg/1.000ml	04010200	349	anxiety_and_hypnotics	
 14244641000033118	42235111000001105	Daridorexant 25mg tablets	Daridorexant 25mg tablets	Tablet/ Oral Tablet	Oral	Daridorexant hydrochloride	25.000mg	04010400	17922	anxiety_and_hypnotics	
