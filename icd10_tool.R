@@ -5,7 +5,7 @@ library(data.table)
 icd10_tool <- function(fileA,
                        fileB,
                        mode = c("intersect", "union", "A_not_B", "B_not_A"),
-                       show_source = TRUE,
+                       show_source = FALSE,
                        normalise = TRUE,
                        save_dir = NULL,
                        output_file = NULL,
@@ -139,7 +139,7 @@ icd10_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
-    fwrite(result, out_file_ts)
+    fwrite(result, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts
   }
 

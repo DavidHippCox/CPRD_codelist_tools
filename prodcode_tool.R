@@ -3,13 +3,13 @@ gc()
 library(data.table)
 
 prodcode_tool <- function(fileA,
-                         fileB,
-                         mode = c("intersect", "union", "A_not_B", "B_not_A"),
-                         show_source = TRUE,
-                         save_dir = NULL,
-                         output_file = NULL,
-                         log_file = NULL,
-                         lookup_file = NULL) {
+                          fileB,
+                          mode = c("intersect", "union", "A_not_B", "B_not_A"),
+                          show_source = FALSE,
+                          save_dir = NULL,
+                          output_file = NULL,
+                          log_file = NULL,
+                          lookup_file = NULL) {
   mode <- match.arg(mode)
 
   # ---- Read files ----
@@ -165,7 +165,7 @@ prodcode_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
-    fwrite(result, out_file_ts)
+    fwrite(result, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts
   }
 
@@ -220,33 +220,33 @@ oxcprd_001b_aurum_prodcodes <- file.path(oxcprd_001b_codelist_tools, "aurum/prod
 gold_txt <- file.path(oxcprd_001b_gold_prodcodes, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_prodcodes, "product/CPRDAurumProduct_202601.txt")
 
-group_A <- file.path(oxcprd_001b_aurum_prodcodes, "product_0401_0402_0403.txt")
+group_A <- file.path(oxcprd_001b_aurum_prodcodes, "nhsbsa_0401_0402_0403_aurum.txt")
 
 group_B <- file.path(oxcprd_001b_aurum_prodcodes, "v0_medication_codes_AURUM.txt")
 
 save_aurum <- file.path(oxcprd_001b_aurum_prodcodes, "compare")
 # ---- Choose lookup depending on type ----
-#lookup_file <- gold_txt 
-lookup_file <- aurum_txt 
+# lookup_file <- gold_txt
+lookup_file <- aurum_txt
 
 
-# ---- A not B ----
-prodcode_tool(
-  group_A,
-  group_B,
-  mode = "A_not_B",
-  save_dir = save_aurum,
-  lookup_file = lookup_file
-)
-
-# # ---- Union ----
+# # ---- A not B ----
 # prodcode_tool(
 #   group_A,
 #   group_B,
-#   mode = "union",
+#   mode = "A_not_B",
 #   save_dir = save_aurum,
 #   lookup_file = lookup_file
 # )
+
+# ---- Union ----
+prodcode_tool(
+  group_A,
+  group_B,
+  mode = "union",
+  save_dir = save_aurum,
+  lookup_file = lookup_file
+)
 
 # ---- B not A ----
 # prodcode_tool(

@@ -7,7 +7,7 @@ dmdcode_tool <- function(fileA,
                          colA = NULL,
                          colB = NULL,
                          mode = c("intersect", "union", "A_not_B", "B_not_A"),
-                         show_source = TRUE,
+                         show_source = FALSE,
                          save_dir = NULL,
                          output_file = NULL,
                          lookup_file = NULL,
@@ -188,7 +188,7 @@ gold_txt <- file.path(oxcprd_001b_gold_dmd, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_dmd, "product/CPRDAurumProduct_202601.txt")
 
 # group_A <- file.path(oxcprd_001b_gold_dmd, "v1_medication_codes_GOLD.txt")
-group_A <- file.path(oxcprd_001b_codelist_tools,"openprescribing_dmd_output/table.txt")
+group_A <- file.path(oxcprd_001b_aurum_dmd, "nhsbsa_0401_0402_0403.txt")
 
 group_B <- file.path(aurum_txt)
 
