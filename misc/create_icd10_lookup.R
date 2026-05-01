@@ -1,3 +1,5 @@
+rm(list = ls())
+gc()
 library(data.table)
 
 #----------------------------
@@ -56,7 +58,6 @@ icd_lookup[, code := clean_icd(code)]
 
 #----------------------------
 # Merge alt_code + usage onto lookup
-# (row-preserving, no accidental aggregation)
 #----------------------------
 setkey(icd_lookup, code)
 
@@ -76,7 +77,7 @@ setcolorder(icd_lookup, col_order)
 
 fwrite(icd_lookup, sep = "\t", file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools/icd10/icd10.txt"))
 #----------------------------
-# OPTIONAL: sanity checks
+# sanity checks
 #----------------------------
 
 # Check for unmatched codes (should be minimal/none)
