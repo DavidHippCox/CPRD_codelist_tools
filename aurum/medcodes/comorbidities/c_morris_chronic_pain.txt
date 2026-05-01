@@ -1,0 +1,62 @@
+MedCodeId	Term
+12122351000006111	Bilateral chronic pain following total hip arthroplasty
+12122361000006113	Chronic pain following bilateral total hip arthroplasty
+12122371000006118	
+12126301000006113	Bilateral chronic pain of upper limbs
+12126311000006111	Chronic pain of bilateral upper limbs
+12126321000006115	Chronic pain of both upper limbs
+12221131000006113	
+136713011	Chronic pain
+1841501000006118	Chronic pain review
+2225421000000111	Chronic pain review
+2724141000006113	Alteration in comfort: chronic pain
+297551015	Chronic painful diabetic neuropathy
+318040019	[X]Other chronic pain
+3515749014	Chronic pain due to malignant neoplastic disease
+3527381016	Primary chronic pain
+3527382011	
+3561159012	Referral to chronic pain management service
+3636662019	Chronic pain following trauma
+3636666016	
+3636901014	Chronic pain following surgical procedure for cancer
+3636902019	Chronic painful chemotherapy-induced polyneuropathy
+3636903012	Chronic painful polyneuropathy following chemotherapy
+3636906016	Chronic pain following radiotherapy
+5009561000006114	Diabetic chronic painful polyneuropathy
+5103021000006116	Chronic pain in female pelvis
+6383361000006117	Chronic pain syndrome
+6770101000006118	Chronic pain control
+6770111000006115	
+6770121000006111	
+6770131000006114	Chronic pain control education
+6770141000006116	
+6770151000006119	Chronic pain control management
+6770161000006117	
+6954401000006113	Consultation for chronic pain
+6954411000006111	
+7062031000006118	
+7138771000006116	Chronic pain due to injury
+7163611000006117	Chronic pain in face
+7254011000006115	
+7567261000006119	Chronic pain clinic
+7716811000006118	Post-mastectomy chronic pain syndrome
+7991631000006113	Chronic pain due to malignancy
+8036281000006111	
+8040761000006111	Chronic pain in coccyx for more than three months
+8042001000006113	Chronic pain in male pelvis
+8253141000006113	
+8435291000006112	
+8435301000006113	
+8435311000006111	Chronic Pain TOM (Therapy Outcome Measure) impairment score
+8435321000006115	
+8435331000006117	
+9493181000006113	Bilateral total knee chronic pain following arthroplasty
+9493191000006111	
+9493211000006112	Chronic pain following left total hip arthroplasty
+9493221000006116	Chronic pain following left total knee arthroplasty
+9493231000006118	Chronic pain following right total hip arthroplasty
+9493251000006113	Chronic pain following right total knee arthroplasty
+9847831000006111	Chronic pain of right upper limb
+9847841000006118	Chronic pain of left upper limb
+9872891000006113	Chronic pain of right foot
+9872911000006110	Chronic pain of left foot

@@ -1,0 +1,20 @@
+MedCodeId	Term
+1495560015	[X]Psychogenic IBS
+18666015	Irritable bowel syndrome
+1927491000006111	Irritable bowel syndrome characterised by alternating bowel habit
+2670911000006112	IBS - Irritable bowel syndrome
+2791650019	Irritable bowel syndrome characterised by constipation
+303071000000118	History of irritable bowel syndrome
+303172010	Irritable bowel syndrome with diarrhoea
+4786241000006112	Irritable bowel syndrome with diarrhea
+5086151000006112	Irritable bowel syndrome variant of childhood
+5086161000006114	Irritable bowel syndrome variant of childhood with diarrhoea
+5086171000006119	
+5086181000006116	Irritable bowel syndrome variant of childhood with constipation
+7238961000006111	Irritable bowel syndrome characterized by alternating bowel habit
+7240101000006111	Constipation predominant irritable bowel syndrome
+7240111000006114	Irritable bowel syndrome characterized by constipation
+742351000006119	Irritable colon - Irritable bowel syndrome
+886361000006114	Irritable bowel - IBS
+906181000006110	[RFC] Reason for care : Irritable bowel syndrome (IBS)
+9326771000006119	
