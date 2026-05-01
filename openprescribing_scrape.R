@@ -14,12 +14,12 @@ library(tidyr)
 
 base_url <- "https://openprescribing.net"
 
-# Define combinations of object types and q values
 config <- expand_grid(
   object_type = c("vmp", "vmpp", "amp", "ampp"),
-  q = c("0401", "0402", "0403") # <-- extend this as needed
+  q = c("0401", "0402", "0403")
 ) |>
   mutate(
+    q = str_pad(q, 4, pad = "0"),
     parent_url = paste0(
       base_url,
       "/dmd/?q=", q,
@@ -31,7 +31,7 @@ config <- expand_grid(
 output_dir <- "openprescribing_dmd_output"
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 
-sleep_seconds <- 0.2
+sleep_seconds <- 0.05
 max_tries <- 3
 
 errors <- list()
@@ -50,7 +50,7 @@ add_error <- function(object_type, url, stage, message) {
   )
 }
 
-fetch_html <- function(url, max_tries = 3, sleep_seconds = 0.5) {
+fetch_html <- function(url, max_tries = max_tries, sleep_seconds = sleep_seconds) {
   last_error <- NULL
 
   for (attempt in seq_len(max_tries)) {
@@ -111,6 +111,36 @@ extract_dmd_id <- function(url) {
   clean_url <- str_remove(url, "[?#].*$")
   str_extract(clean_url, "[0-9]+(?=/?$)")
 }
+
+# -----------------------------
+# BNF FILTER
+# -----------------------------
+
+filter_bnf_prefix <- function(df, prefix) {
+  prefix <- str_pad(as.character(prefix), 4, pad = "0")
+  n <- nchar(prefix)
+
+  if (!"BNF code" %in% names(df)) {
+    stop("Column 'BNF code' not found")
+  }
+
+  df |>
+    filter(!is.na(`BNF code`), `BNF code` != "") |>
+    rowwise() |>
+    filter(
+      any(
+        substr(
+          str_trim(unlist(str_split(`BNF code`, ";"))),
+          1, n
+        ) == prefix
+      )
+    ) |>
+    ungroup()
+}
+
+# -----------------------------
+# Scraping functions
+# -----------------------------
 
 get_detail_links <- function(parent_url, object_type) {
   page <- fetch_html(parent_url, max_tries = max_tries, sleep_seconds = sleep_seconds)
@@ -212,12 +242,7 @@ scrape_object_type <- function(object_type, parent_url) {
     message("[", object_type, "] ", i, "/", nrow(links), ": ", result_name)
 
     one_result <- tryCatch(
-      parse_detail_page(
-        detail_url = detail_url,
-        parent_url = parent_url,
-        object_type = object_type,
-        result_name = result_name
-      ),
+      parse_detail_page(detail_url, parent_url, object_type, result_name),
       error = function(e) {
         add_error(object_type, detail_url, "detail_page", conditionMessage(e))
         NULL
@@ -225,7 +250,6 @@ scrape_object_type <- function(object_type, parent_url) {
     )
 
     results[[i]] <- one_result
-
     Sys.sleep(sleep_seconds)
   }
 
@@ -246,15 +270,25 @@ for (i in seq_len(nrow(config))) {
   message("Scraping: ", object_type, " | q=", q_val)
   message("==============================")
 
-  data <- scrape_object_type(
-    object_type = object_type,
-    parent_url = parent_url
-  )
+  data <- scrape_object_type(object_type, parent_url)
+
+  # Apply strict BNF filter
+  data_filtered <- filter_bnf_prefix(data, q_val)
+
+  # 🔍 QA check (fail if anything slips through)
+  bad <- data_filtered |>
+    filter(substr(`BNF code`, 1, nchar(q_val)) != q_val)
+
+  if (nrow(bad) > 0) {
+    stop("BNF filter failed — invalid codes detected")
+  }
 
   out_path <- file.path(output_dir, out_file)
 
-  write_csv(data, out_path, na = "")
+  write_csv(data_filtered, out_path, na = "")
 
+  message("Rows before filter: ", nrow(data))
+  message("Rows after filter: ", nrow(data_filtered))
   message("Saved: ", out_path)
 }
 
