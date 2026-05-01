@@ -1,0 +1,150 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues	drugtypes
+45841000033119	35901211000001108	Amitriptyline 25mg modified-release capsules	Amitriptyline 25mg modified-release capsules	04030100	89290					antidepressants
+45941000033110	35901511000001106	Amitriptyline 50mg modified-release capsules	Amitriptyline 50mg modified-release capsules	04030100	65024					antidepressants
+55441000033119	35901411000001107	Amitriptyline 25mg/5ml oral solution sugar free	Amitriptyline 25mg/5ml oral solution sugar free	04030100	197761					antidepressants
+55541000033118	35901611000001105	Amitriptyline 50mg/5ml oral solution sugar free	Amitriptyline 50mg/5ml oral solution sugar free	04030100	67840					antidepressants
+60441000033116	42291111000001104	Amitriptyline 10mg tablets	Amitriptyline 10mg tablets	04030100	52086846					antidepressants
+60541000033115	42291311000001102	Amitriptyline 50mg tablets	Amitriptyline 50mg tablets	04030100	13789452					antidepressants
+60641000033119	42291211000001105	Amitriptyline 25mg tablets	Amitriptyline 25mg tablets	04030100	25460304					antidepressants
+60941000033114	42268011000001108	Amoxapine 50mg tablets	Amoxapine 50mg tablets	04030100	11234					antidepressants
+61041000033116	42206311000001108	Amoxapine 100mg tablets	Amoxapine 100mg tablets	04030100	4365					antidepressants
+259241000033111	42269411000001107	Citalopram 20mg tablets	Citalopram 20mg tablets	04030300	58688314					antidepressants
+262041000033115	42269711000001101	Clomipramine 10mg capsules	Clomipramine 10mg capsules	04030100	774554					antidepressants
+262141000033116	42269811000001109	Clomipramine 25mg capsules	Clomipramine 25mg capsules	04030100	1182100					antidepressants
+262241000033111	42269911000001104	Clomipramine 50mg capsules	Clomipramine 50mg capsules	04030100	1234644					antidepressants
+284741000033110	4557811000001105	Clomipramine 25mg/5ml oral solution	Clomipramine 25mg/5ml oral solution	04030100	8085					antidepressants
+285741000033111	36089111000001109	Clomipramine 75mg modified-release tablets	Clomipramine 75mg modified-release tablets	04030100	198761					antidepressants
+473041000033119	42270811000001106	Doxepin 10mg capsules	Doxepin 10mg capsules	04030100	101747					antidepressants
+473141000033115	42270911000001101	Doxepin 25mg capsules	Doxepin 25mg capsules	04030100	326327					antidepressants
+473241000033110	42271011000001109	Doxepin 50mg capsules	Doxepin 50mg capsules	04030100	178134					antidepressants
+473341000033117	42271111000001105	Doxepin 75mg capsules	Doxepin 75mg capsules	04030100	62442					antidepressants
+577841000033114	42271711000001106	Fluoxetine 20mg capsules	Fluoxetine 20mg capsules	04030300	52446542					antidepressants
+579041000033111	42272011000001101	Fluoxetine 60mg capsules	Fluoxetine 60mg capsules	04030300	783966					antidepressants
+592841000033116	42272411000001105	Fluvoxamine 100mg tablets	Fluvoxamine 100mg tablets	04030300	157452					antidepressants
+595541000033113	42272511000001109	Fluvoxamine 50mg tablets	Fluvoxamine 50mg tablets	04030300	185144					antidepressants
+754241000033115	42295411000001107	Imipramine 25mg tablets	Imipramine 25mg tablets	04030100	1707736					antidepressants
+755541000033119	42295311000001100	Imipramine 10mg tablets	Imipramine 10mg tablets	04030100	475489					antidepressants
+787141000033110	42273411000001101	Isocarboxazid 10mg tablets	Isocarboxazid 10mg tablets	04030200	27507					antidepressants
+849241000033115	36040411000001100	Lofepramine 70mg/5ml oral suspension sugar free	Lofepramine 70mg/5ml oral suspension sugar free	04030100	35282					antidepressants
+850141000033116	39699211000001104	Lofepramine 70mg tablets	Lofepramine 70mg tablets	04030100	3810932					antidepressants
+870441000033114	42273711000001107	Maprotiline 10mg tablets	Maprotiline 10mg tablets	04030100	3842					antidepressants
+870741000033119	42273811000001104	Maprotiline 25mg tablets	Maprotiline 25mg tablets	04030100	15047					antidepressants
+870841000033112	42273911000001109	Maprotiline 50mg tablets	Maprotiline 50mg tablets	04030100	8789					antidepressants
+870941000033116	42274011000001107	Maprotiline 75mg tablets	Maprotiline 75mg tablets	04030100	13438					antidepressants
+917541000033110	42274111000001108	Mianserin 10mg tablets	Mianserin 10mg tablets	04030100	101920					antidepressants
+917641000033111	42274211000001102	Mianserin 20mg tablets	Mianserin 20mg tablets	04030100	36353					antidepressants
+917741000033119	42274311000001105	Mianserin 30mg tablets	Mianserin 30mg tablets	04030100	129932					antidepressants
+919641000033115	42274711000001109	Mirtazapine 30mg tablets	Mirtazapine 30mg tablets	04030400	18123735					antidepressants
+937241000033118	42274911000001106	Moclobemide 150mg tablets	Moclobemide 150mg tablets	04030200	153392					antidepressants
+937841000033119	42275011000001106	Moclobemide 300mg tablets	Moclobemide 300mg tablets	04030200	56293					antidepressants
+966141000033116	42275111000001107	Nefazodone 100mg tablets	Nefazodone 100mg tablets	04030400	81911					antidepressants
+966241000033111	42275211000001101	Nefazodone 200mg tablets	Nefazodone 200mg tablets	04030400	91293					antidepressants
+979241000033110	38285811000001101	Nortriptyline 10mg capsules	Nortriptyline 10mg capsules	04030100	12336					antidepressants
+979341000033117	38285911000001106	Nortriptyline 25mg capsules	Nortriptyline 25mg capsules	04030100	9693					antidepressants
+989141000033111	39701411000001105	Nortriptyline 10mg tablets	Nortriptyline 10mg tablets	04030100	2794009					antidepressants
+989241000033116	39701511000001109	Nortriptyline 25mg tablets	Nortriptyline 25mg tablets	04030100	1205538					antidepressants
+1042141000033117	42276511000001105	Paroxetine 20mg tablets	Paroxetine 20mg tablets	04030300	13523874					antidepressants
+1042241000033112	42276611000001109	Paroxetine 30mg tablets	Paroxetine 30mg tablets	04030300	3534147					antidepressants
+1079341000033111	42277211000001109	Phenelzine 15mg tablets	Phenelzine 15mg tablets	04030200	185323					antidepressants
+1165641000033115	39703311000001102	Reboxetine 4mg tablets	Reboxetine 4mg tablets	04030400	371956					antidepressants
+1278741000033112	39704011000001103	Sertraline 100mg tablets	Sertraline 100mg tablets	04030300	38073363					antidepressants
+1278841000033119	39704111000001102	Sertraline 50mg tablets	Sertraline 50mg tablets	04030300	48628154					antidepressants
+1454641000033112	42280711000001105	Trazodone 50mg capsules	Trazodone 50mg capsules	04030100	3468441					antidepressants
+1454741000033115	42281111000001103	Trimipramine 50mg capsules	Trimipramine 50mg capsules	04030100	512284					antidepressants
+1455241000033113	42280411000001104	Trazodone 100mg capsules	Trazodone 100mg capsules	04030100	2290662					antidepressants
+1461941000033113	3909411000001104	Trazodone 50mg/5ml oral solution sugar free	Trazodone 50mg/5ml oral solution sugar free	04030100	426063					antidepressants
+1462241000033110	4557211000001109	Trazodone 150mg modified-release tablets	Trazodone 150mg modified-release tablets	04030100	11585					antidepressants
+1469441000033116	39708811000001101	Tranylcypromine 10mg tablets	Tranylcypromine 10mg tablets	04030200	106911					antidepressants
+1471341000033116	42280911000001107	Trimipramine 10mg tablets	Trimipramine 10mg tablets	04030100	143097					antidepressants
+1471441000033110	42281011000001104	Trimipramine 25mg tablets	Trimipramine 25mg tablets	04030100	430918					antidepressants
+1473641000033113	42280611000001101	Trazodone 150mg tablets	Trazodone 150mg tablets	04030100	1725710					antidepressants
+1474141000033117	41989911000001101	Tryptophan 500mg tablets	Tryptophan 500mg tablets	04030400	42030					antidepressants
+1509241000033110	38750411000001106	Venlafaxine 150mg modified-release capsules	Venlafaxine 150mg modified-release capsules	04030400	4968393					antidepressants
+1509341000033117	38750311000001104	Venlafaxine 75mg modified-release capsules	Venlafaxine 75mg modified-release capsules	04030400	6060523					antidepressants
+1512241000033119	39707611000001104	Venlafaxine 37.5mg tablets	Venlafaxine 37.5mg tablets	04030400	4207044					antidepressants
+1512341000033112	39707411000001102	Venlafaxine 75mg tablets	Venlafaxine 75mg tablets	04030400	4465173					antidepressants
+1512441000033118	39707311000001109	Venlafaxine 50mg tablets	Venlafaxine 50mg tablets	04030400	29327					antidepressants
+1583141000033116	42269511000001106	Citalopram 40mg tablets	Citalopram 40mg tablets	04030300	13331009					antidepressants
+1583341000033118	42269311000001100	Citalopram 10mg tablets	Citalopram 10mg tablets	04030300	27074347					antidepressants
+1662441000033114	36565911000001109	Paroxetine 10mg/5ml oral suspension sugar free	Paroxetine 10mg/5ml oral suspension sugar free	04030300	231699					antidepressants
+1900641000033112	42269611000001105	Citalopram 40mg/ml oral drops sugar free	Citalopram 40mg/ml oral drops sugar free	04030300	504282					antidepressants
+2749541000033116	42271211000001104	Escitalopram 10mg tablets	Escitalopram 10mg tablets	04030300	5197730					antidepressants
+2770641000033114	42271811000001103	Fluoxetine 20mg/5ml oral solution	Fluoxetine 20mg/5ml oral solution	04030300	905859					antidepressants
+2951341000033116	42271311000001107	Escitalopram 20mg tablets	Escitalopram 20mg tablets	04030300	3216225					antidepressants
+2974841000033114	42274611000001100	Mirtazapine 30mg orodispersible tablets	Mirtazapine 30mg orodispersible tablets	04030400	1411006					antidepressants
+3029641000033112	42274411000001103	Mirtazapine 15mg orodispersible tablets	Mirtazapine 15mg orodispersible tablets	04030400	1758867					antidepressants
+3029741000033115	5627911000001100	Mirtazapine 45mg orodispersible tablets	Mirtazapine 45mg orodispersible tablets	04030400	1608379					antidepressants
+3030341000033110	42271411000001100	Escitalopram 5mg tablets	Escitalopram 5mg tablets	04030300	1856024					antidepressants
+3058741000033113	9103511000001102	Mirtazapine 15mg/ml oral solution sugar free	Mirtazapine 15mg/ml oral solution sugar free	04030400	49498					antidepressants
+3088941000033118	42270611000001107	Dosulepin 25mg capsules	Dosulepin 25mg capsules	04030100	7927472					antidepressants
+3089041000033110	42270711000001103	Dosulepin 75mg tablets	Dosulepin 75mg tablets	04030100	8126965					antidepressants
+3089141000033114	8454311000001101	Dosulepin 25mg/5ml oral solution	Dosulepin 25mg/5ml oral solution	04030100	10843					antidepressants
+3089241000033119	8454111000001103	Dosulepin 75mg/5ml oral solution	Dosulepin 75mg/5ml oral solution	04030100	6837					antidepressants
+3091041000033110	39692311000001104	Flupentixol 1mg tablets	Flupentixol 1mg tablets	04030400	567869					antidepressants
+3091141000033114	39692511000001105	Flupentixol 500microgram tablets	Flupentixol 500microgram tablets	04030400	755146					antidepressants
+3179941000033111	39692911000001103	Nortriptyline 10mg / Fluphenazine 500microgram tablets	Nortriptyline 10mg / Fluphenazine 500microgram tablets	04030100	16757					antidepressants
+3180441000033118	39731811000001104	Amitriptyline 25mg / Perphenazine 2mg tablets	Amitriptyline 25mg / Perphenazine 2mg tablets	04030100	23999					antidepressants
+3180541000033117	39731711000001107	Amitriptyline 10mg / Perphenazine 2mg tablets	Amitriptyline 10mg / Perphenazine 2mg tablets	04030100	9620					antidepressants
+3226641000033111	42294111000001101	Duloxetine 30mg gastro-resistant capsules	Duloxetine 30mg gastro-resistant capsules	04030400	4459818					antidepressants
+3226741000033119	42294211000001107	Duloxetine 60mg gastro-resistant capsules	Duloxetine 60mg gastro-resistant capsules	04030400	8228034					antidepressants
+3256741000033118	42274511000001104	Mirtazapine 15mg tablets	Mirtazapine 15mg tablets	04030400	18626331					antidepressants
+3256841000033111	42274811000001101	Mirtazapine 45mg tablets	Mirtazapine 45mg tablets	04030400	13892859					antidepressants
+3928841000033110	10364811000001108	Escitalopram 10mg/ml oral drops sugar free	Escitalopram 10mg/ml oral drops sugar free	04030300	7092					antidepressants
+4079041000033115	39701911000001102	Paroxetine 10mg tablets	Paroxetine 10mg tablets	04030300	848997					antidepressants
+4148341000033116	8721911000001107	Sertraline 50mg/5ml oral suspension	Sertraline 50mg/5ml oral suspension	04030300	40666					antidepressants
+4431541000033115	8377611000001108	Clomipramine 50mg/5ml oral suspension	Clomipramine 50mg/5ml oral suspension	04030100	776					antidepressants
+4498541000033116	8722711000001103	Venlafaxine 37.5mg/5ml oral suspension	Venlafaxine 37.5mg/5ml oral suspension	04030400	3294					antidepressants
+4823541000033110	14985011000001107	Venlafaxine 75mg modified-release tablets	Venlafaxine 75mg modified-release tablets	04030400	2225543					antidepressants
+4823641000033111	14984911000001107	Venlafaxine 150mg modified-release tablets	Venlafaxine 150mg modified-release tablets	04030400	2587249					antidepressants
+4954041000033114	8484811000001101	Doxepin 50mg/5ml oral solution	Doxepin 50mg/5ml oral solution	04030100	274					antidepressants
+5008041000033112	14018011000001106	Venlafaxine 75mg/5ml oral solution	Venlafaxine 75mg/5ml oral solution	04030400	4165					antidepressants
+5052741000033119	15439111000001107	Venlafaxine 225mg modified-release tablets	Venlafaxine 225mg modified-release tablets	04030400	1294167					antidepressants
+5077041000033116	15499111000001100	Agomelatine 25mg tablets	Agomelatine 25mg tablets	04030400	130419					antidepressants
+5128541000033119	15499311000001103	Escitalopram 20mg/ml oral drops sugar free	Escitalopram 20mg/ml oral drops sugar free	04030300	20094					antidepressants
+5328741000033117	36046511000001104	Imipramine 25mg/5ml oral solution	Imipramine 25mg/5ml oral solution	04030100	6071					antidepressants
+5454141000033118	16423411000001100	Imipramine 25mg/5ml oral solution sugar free	Imipramine 25mg/5ml oral solution sugar free	04030100	3299					antidepressants
+5490141000033118	13892411000001104	Amitriptyline 10mg/5ml oral solution	Amitriptyline 10mg/5ml oral solution	04030100	5687					antidepressants
+5749441000033115	11590211000001106	Fluoxetine 20mg/5ml oral solution sugar free	Fluoxetine 20mg/5ml oral solution sugar free	04030300	132479					antidepressants
+5888641000033118	8277811000001102	Amitriptyline 10mg/5ml oral suspension	Amitriptyline 10mg/5ml oral suspension	04030100	595					antidepressants
+5891041000033116	8454211000001109	Dosulepin 25mg/5ml oral suspension	Dosulepin 25mg/5ml oral suspension	04030100	54					antidepressants
+5975341000033119	8721711000001105	Sertraline 100mg/5ml oral suspension	Sertraline 100mg/5ml oral suspension	04030300	8869					antidepressants
+5992241000033114	8454011000001104	Dosulepin 75mg/5ml oral suspension	Dosulepin 75mg/5ml oral suspension	04030100	47					antidepressants
+5996641000033111	12812711000001104	Lofepramine 70mg/5ml oral solution	Lofepramine 70mg/5ml oral solution	04030100	121					antidepressants
+5996741000033119	12812811000001107	Lofepramine 70mg/5ml oral suspension	Lofepramine 70mg/5ml oral suspension	04030100	170					antidepressants
+6000441000033115	14017911000001109	Venlafaxine 37.5mg/5ml oral solution	Venlafaxine 37.5mg/5ml oral solution	04030400	986					antidepressants
+6161741000033111	18765111000001101	Venlafaxine 37.5mg modified-release tablets	Venlafaxine 37.5mg modified-release tablets	04030400	401103					antidepressants
+6496341000033116	42271611000001102	Fluoxetine 10mg tablets	Fluoxetine 10mg tablets	04030300	64205					antidepressants
+8247941000033115	21781311000001109	Tryptophan 500mg capsules	Tryptophan 500mg capsules	04030400	7600					antidepressants
+8867941000033118	14018111000001107	Venlafaxine 75mg/5ml oral suspension	Venlafaxine 75mg/5ml oral suspension	04030400	448					antidepressants
+8885441000033118	23560511000001101	Venlafaxine 37.5mg modified-release capsules	Venlafaxine 37.5mg modified-release capsules	04030400	388691					antidepressants
+9120641000033112	24407811000001108	Fluoxetine 20mg dispersible tablets sugar free	Fluoxetine 20mg dispersible tablets sugar free	04030300	83846					antidepressants
+10332441000033118	29686711000001103	Amitriptyline 10mg/5ml oral solution sugar free	Amitriptyline 10mg/5ml oral solution sugar free	04030100	20374					antidepressants
+10616941000033112	30738811000001109	Vortioxetine 5mg tablets	Vortioxetine 5mg tablets	04030400	172215					antidepressants
+10617041000033113	30738611000001105	Vortioxetine 10mg tablets	Vortioxetine 10mg tablets	04030400	338145					antidepressants
+10617141000033112	30738711000001101	Vortioxetine 20mg tablets	Vortioxetine 20mg tablets	04030400	244736					antidepressants
+10730041000033110	31016011000001103	Venlafaxine 225mg modified-release capsules	Venlafaxine 225mg modified-release capsules	04030400	286914					antidepressants
+11072841000033114	15000611000001107	Nortriptyline 10mg/5ml oral solution	Nortriptyline 10mg/5ml oral solution	04030100	163					antidepressants
+11603841000033119	42271511000001101	Fluoxetine 10mg capsules	Fluoxetine 10mg capsules	04030300	402107					antidepressants
+11707441000033119	32960811000001102	Fluoxetine 30mg capsules	Fluoxetine 30mg capsules	04030300	203725					antidepressants
+11707541000033118	42271911000001108	Fluoxetine 40mg capsules	Fluoxetine 40mg capsules	04030300	464441					antidepressants
+11755441000033119	42276711000001100	Paroxetine 40mg tablets	Paroxetine 40mg tablets	04030300	115672					antidepressants
+12257841000033117	15000711000001103	Nortriptyline 10mg/5ml oral suspension	Nortriptyline 10mg/5ml oral suspension	04030100	113					antidepressants
+12292341000033116	34034111000001108	Nortriptyline 50mg tablets	Nortriptyline 50mg tablets	04030100	49225					antidepressants
+12476541000033119	35113311000001104	Trazodone 100mg/5ml oral solution sugar free	Trazodone 100mg/5ml oral solution sugar free	04030100	2464					antidepressants
+12900941000033117	13045911000001105	Sertraline 25mg/5ml oral suspension	Sertraline 25mg/5ml oral suspension	04030300	1194					antidepressants
+13300841000033111	37868911000001103	Nortriptyline 10mg/5ml oral solution sugar free	Nortriptyline 10mg/5ml oral solution sugar free	04030100	361					antidepressants
+13300941000033115	37869011000001107	Nortriptyline 25mg/5ml oral solution sugar free	Nortriptyline 25mg/5ml oral solution sugar free	04030100	91					antidepressants
+13318341000033119	38003311000001102	Venlafaxine 300mg modified-release tablets	Venlafaxine 300mg modified-release tablets	04030400	76197					antidepressants
+13444241000033119	42280811000001102	Trazodone 50mg tablets	Trazodone 50mg tablets	04030100	33784					antidepressants
+13444341000033112	42280511000001100	Trazodone 100mg tablets	Trazodone 100mg tablets	04030100	11928					antidepressants
+13719241000033117	38976911000001105	Phenelzine 15mg capsules	Phenelzine 15mg capsules	04030200	442					antidepressants
+13743641000033113	39134011000001104	Sertraline 25mg tablets	Sertraline 25mg tablets	04030300	502674					antidepressants
+13898641000033112	39964811000001101	Duloxetine 90mg gastro-resistant capsules	Duloxetine 90mg gastro-resistant capsules	04030400	95322					antidepressants
+13898741000033115	39964711000001109	Duloxetine 120mg gastro-resistant capsules	Duloxetine 120mg gastro-resistant capsules	04030400	44599					antidepressants
+13916241000033115	40111011000001106	Venlafaxine 37.5mg/5ml oral solution sugar free	Venlafaxine 37.5mg/5ml oral solution sugar free	04030400	1544					antidepressants
+13916341000033113	40111111000001107	Venlafaxine 75mg/5ml oral solution sugar free	Venlafaxine 75mg/5ml oral solution sugar free	04030400	2393					antidepressants
+14116141000033111	41166911000001105	Sertraline 150mg tablets	Sertraline 150mg tablets	04030300	49534					antidepressants
+14116241000033116	41167011000001109	Sertraline 200mg tablets	Sertraline 200mg tablets	04030300	33719					antidepressants
+14183941000033115	41535111000001102	Fluoxetine 20mg/5ml oral suspension	Fluoxetine 20mg/5ml oral suspension	04030300	12					antidepressants
+14190441000033119	41557011000001106	Sertraline 100mg/5ml concentrate for oral solution sugar free	Sertraline 100mg/5ml concentrate for oral solution sugar free	04030300	11364					antidepressants
+14507641000033111	43159711000001104	Sertraline 50mg/5ml oral suspension sugar free	Sertraline 50mg/5ml oral suspension sugar free	04030300	2947					antidepressants

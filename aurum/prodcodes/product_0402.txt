@@ -1,0 +1,249 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues	drugtypes
+58941000033117	42267711000001109	Amisulpride 200mg tablets	Amisulpride 200mg tablets	04020100	1284154					antipsychotics
+59041000033114	42267911000001106	Amisulpride 50mg tablets	Amisulpride 50mg tablets	04020100	909787					antipsychotics
+145141000033119	42268611000001101	Benperidol 250microgram tablets	Benperidol 250microgram tablets	04020100	72830					antipsychotics
+240041000033110	36138311000001103	Chlorpromazine 25mg/5ml oral solution	Chlorpromazine 25mg/5ml oral solution	04020100	141120					antipsychotics
+241341000033116	36138411000001105	Chlorpromazine 50mg/2ml solution for injection ampoules	Chlorpromazine 50mg/2ml solution for injection ampoules	04020100	1617					antipsychotics
+246641000033118	36137911000001103	Chlorpromazine 100mg/5ml oral suspension sugar free	Chlorpromazine 100mg/5ml oral suspension sugar free	04020100	16946					antipsychotics
+249041000033117	42268911000001107	Chlorpromazine 10mg tablets	Chlorpromazine 10mg tablets	04020100	190513					antipsychotics
+249141000033118	42268811000001102	Chlorpromazine 100mg tablets	Chlorpromazine 100mg tablets	04020100	915023					antipsychotics
+249241000033113	42269111000001102	Chlorpromazine 25mg tablets	Chlorpromazine 25mg tablets	04020100	1776890					antipsychotics
+249341000033115	42269211000001108	Chlorpromazine 50mg tablets	Chlorpromazine 50mg tablets	04020100	1477468					antipsychotics
+287541000033112	42270011000001100	Clozapine 100mg tablets	Clozapine 100mg tablets	04020100	74084					antipsychotics
+287641000033113	42270111000001104	Clozapine 25mg tablets	Clozapine 25mg tablets	04020100	41103					antipsychotics
+582041000033112	36058511000001100	Fluphenazine decanoate 25mg/1ml solution for injection pre-filled syringes	Fluphenazine decanoate 25mg/1ml solution for injection pre-filled syringes	04020200	1138					antipsychotics
+582141000033111	36058811000001102	Fluphenazine decanoate 50mg/2ml solution for injection pre-filled syringes	Fluphenazine decanoate 50mg/2ml solution for injection pre-filled syringes	04020200	637					antipsychotics
+584641000033111	36058411000001104	Fluphenazine decanoate 25mg/1ml solution for injection ampoules	Fluphenazine decanoate 25mg/1ml solution for injection ampoules	04020200	45109					antipsychotics
+586641000033119	36058211000001103	Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules	Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules	04020200	7811					antipsychotics
+586741000033111	36058311000001106	Fluphenazine decanoate 250mg/10ml solution for injection vials	Fluphenazine decanoate 250mg/10ml solution for injection vials	04020200	13					antipsychotics
+586841000033118	36058711000001105	Fluphenazine decanoate 50mg/2ml solution for injection ampoules	Fluphenazine decanoate 50mg/2ml solution for injection ampoules	04020200	5554					antipsychotics
+586941000033114	36058611000001101	Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules	Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules	04020200	9587					antipsychotics
+587741000033113	36058111000001109	Fluphenazine decanoate 100mg/1ml solution for injection ampoules	Fluphenazine decanoate 100mg/1ml solution for injection ampoules	04020200	38495					antipsychotics
+595441000033112	42272111000001100	Fluphenazine 1mg tablets	Fluphenazine 1mg tablets	04020100	37153					antipsychotics
+595641000033114	42272211000001106	Fluphenazine 2.5mg tablets	Fluphenazine 2.5mg tablets	04020100	4517					antipsychotics
+595741000033117	42272311000001103	Fluphenazine 5mg tablets	Fluphenazine 5mg tablets	04020100	3617					antipsychotics
+658341000033110	42273011000001105	Haloperidol 500microgram capsules	Haloperidol 500microgram capsules	04020100	1007439					antipsychotics
+659641000033111	36053411000001105	Haloperidol 20mg/2ml solution for injection ampoules	Haloperidol 20mg/2ml solution for injection ampoules	04020100	1447					antipsychotics
+659741000033119	36053611000001108	Haloperidol decanoate 100mg/1ml solution for injection ampoules	Haloperidol decanoate 100mg/1ml solution for injection ampoules	04020200	41207					antipsychotics
+659841000033112	36053711000001104	Haloperidol decanoate 50mg/1ml solution for injection ampoules	Haloperidol decanoate 50mg/1ml solution for injection ampoules	04020200	25541					antipsychotics
+660341000033116	42273311000001108	Haloperidol 5mg/5ml oral solution sugar free	Haloperidol 5mg/5ml oral solution sugar free	04020100	164814					antipsychotics
+661341000033112	42272811000001107	Haloperidol 10mg/5ml oral solution sugar free	Haloperidol 10mg/5ml oral solution sugar free	04020100	52324					antipsychotics
+662341000033115	42272611000001108	Haloperidol 1.5mg tablets	Haloperidol 1.5mg tablets	04020100	911078					antipsychotics
+662441000033114	42272911000001102	Haloperidol 20mg tablets	Haloperidol 20mg tablets	04020100	19355					antipsychotics
+662541000033110	42273211000001100	Haloperidol 5mg tablets	Haloperidol 5mg tablets	04020100	908930					antipsychotics
+663241000033118	42272711000001104	Haloperidol 10mg tablets	Haloperidol 10mg tablets	04020100	247836					antipsychotics
+663341000033111	42273111000001106	Haloperidol 500microgram tablets	Haloperidol 500microgram tablets	04020100	235500					antipsychotics
+832941000033117	36040311000001107	Lithium citrate 520mg/5ml oral solution sugar free	Lithium citrate 520mg/5ml oral solution sugar free	04020300	24854					antipsychotics
+835841000033119	42295711000001101	Lithium carbonate 250mg tablets	Lithium carbonate 250mg tablets	04020300	152351					antipsychotics
+835941000033110	39110111000001103	Lithium carbonate 400mg modified-release tablets	Lithium carbonate 400mg modified-release tablets	04020300	1591208					antipsychotics
+837441000033112	39110011000001104	Lithium carbonate 200mg modified-release tablets	Lithium carbonate 200mg modified-release tablets	04020300	899697					antipsychotics
+837641000033114	36040211000001104	Lithium carbonate 450mg modified-release tablets	Lithium carbonate 450mg modified-release tablets	04020300	32198					antipsychotics
+837741000033117	4559411000001104	Lithium citrate 564mg modified-release tablets	Lithium citrate 564mg modified-release tablets	04020300	2171					antipsychotics
+840741000033115	39699511000001101	Loxapine 10mg capsules	Loxapine 10mg capsules	04020100	7856					antipsychotics
+840841000033113	39699611000001102	Loxapine 25mg capsules	Loxapine 25mg capsules	04020100	5393					antipsychotics
+840941000033117	39699711000001106	Loxapine 50mg capsules	Loxapine 50mg capsules	04020100	6906					antipsychotics
+1003641000033113	42275511000001103	Olanzapine 10mg tablets	Olanzapine 10mg tablets	04020100	6185438					antipsychotics
+1003741000033116	42276111000001101	Olanzapine 5mg tablets	Olanzapine 5mg tablets	04020100	4861503					antipsychotics
+1003841000033114	42276211000001107	Olanzapine 7.5mg tablets	Olanzapine 7.5mg tablets	04020100	981659					antipsychotics
+1022741000033116	42276311000001104	Oxypertine 10mg capsules	Oxypertine 10mg capsules	04020100	2445					antipsychotics
+1026941000033117	42276411000001106	Oxypertine 40mg tablets	Oxypertine 40mg tablets	04020100	1683					antipsychotics
+1063541000033113	36027911000001107	Pericyazine 10mg/5ml oral solution	Pericyazine 10mg/5ml oral solution	04020100	6315					antipsychotics
+1065141000033117	42277011000001104	Perphenazine 2mg tablets	Perphenazine 2mg tablets	04020100	67966					antipsychotics
+1065241000033112	42277111000001103	Perphenazine 4mg tablets	Perphenazine 4mg tablets	04020100	31501					antipsychotics
+1066741000033111	42276811000001108	Pericyazine 10mg tablets	Pericyazine 10mg tablets	04020100	77440					antipsychotics
+1067041000033110	42276911000001103	Pericyazine 2.5mg tablets	Pericyazine 2.5mg tablets	04020100	149217					antipsychotics
+1090941000033114	42277411000001108	Pimozide 2mg tablets	Pimozide 2mg tablets	04020100	37572					antipsychotics
+1091041000033116	42277511000001107	Pimozide 4mg tablets	Pimozide 4mg tablets	04020100	67248					antipsychotics
+1129641000033111	35931311000001105	Promazine 25mg/5ml oral solution	Promazine 25mg/5ml oral solution	04020100	649413					antipsychotics
+1134341000033116	42277611000001106	Promazine 25mg tablets	Promazine 25mg tablets	04020100	490117					antipsychotics
+1134441000033110	42277711000001102	Promazine 50mg tablets	Promazine 50mg tablets	04020100	221530					antipsychotics
+1150041000033111	42278011000001103	Quetiapine 100mg tablets	Quetiapine 100mg tablets	04020100	3752435					antipsychotics
+1150141000033110	42278211000001108	Quetiapine 200mg tablets	Quetiapine 200mg tablets	04020100	2552581					antipsychotics
+1150241000033115	42278311000001100	Quetiapine 25mg tablets	Quetiapine 25mg tablets	04020100	8117374					antipsychotics
+1173941000033117	42278811000001109	Risperidone 1mg/ml oral solution sugar free	Risperidone 1mg/ml oral solution sugar free	04020100	486843					antipsychotics
+1176641000033117	42278711000001101	Risperidone 1mg tablets	Risperidone 1mg tablets	04020100	3905424					antipsychotics
+1176741000033114	42278911000001104	Risperidone 2mg tablets	Risperidone 2mg tablets	04020100	2521976					antipsychotics
+1176841000033116	42279011000001108	Risperidone 3mg tablets	Risperidone 3mg tablets	04020100	1162642					antipsychotics
+1176941000033112	42279111000001109	Risperidone 4mg tablets	Risperidone 4mg tablets	04020100	1099906					antipsychotics
+1177741000033111	42279311000001106	Risperidone 6mg tablets	Risperidone 6mg tablets	04020100	144427					antipsychotics
+1277241000033119	4748211000001109	Sertindole 12mg tablets	Sertindole 12mg tablets	04020100	423					antipsychotics
+1277341000033112	4748311000001101	Sertindole 16mg tablets	Sertindole 16mg tablets	04020100	338					antipsychotics
+1277441000033118	4748411000001108	Sertindole 20mg tablets	Sertindole 20mg tablets	04020100	261					antipsychotics
+1277541000033117	4748511000001107	Sertindole 4mg tablets	Sertindole 4mg tablets	04020100	942					antipsychotics
+1396441000033117	42279411000001104	Sulpiride 200mg tablets	Sulpiride 200mg tablets	04020100	1372628					antipsychotics
+1397641000033117	42279611000001101	Sulpiride 400mg tablets	Sulpiride 400mg tablets	04020100	281734					antipsychotics
+1432341000033111	42279811000001102	Thioridazine 100mg/5ml oral suspension	Thioridazine 100mg/5ml oral suspension	04020100	5168					antipsychotics
+1432441000033117	42280211000001103	Thioridazine 25mg/5ml oral suspension	Thioridazine 25mg/5ml oral suspension	04020100	55524					antipsychotics
+1432541000033116	42280111000001109	Thioridazine 25mg/5ml oral solution	Thioridazine 25mg/5ml oral solution	04020100	84941					antipsychotics
+1433641000033111	42279911000001107	Thioridazine 10mg tablets	Thioridazine 10mg tablets	04020100	883117					antipsychotics
+1433741000033119	42279711000001105	Thioridazine 100mg tablets	Thioridazine 100mg tablets	04020100	106774					antipsychotics
+1433841000033112	42280011000001108	Thioridazine 25mg tablets	Thioridazine 25mg tablets	04020100	892032					antipsychotics
+1433941000033116	42280311000001106	Thioridazine 50mg tablets	Thioridazine 50mg tablets	04020100	371894					antipsychotics
+1464141000033113	38750711000001100	Trifluoperazine 5mg/5ml oral solution sugar free	Trifluoperazine 5mg/5ml oral solution sugar free	04020100	155658					antipsychotics
+1466941000033117	36143111000001105	Trifluoperazine 10mg modified-release capsules	Trifluoperazine 10mg modified-release capsules	04020100	105783					antipsychotics
+1467041000033116	36143211000001104	Trifluoperazine 15mg modified-release capsules	Trifluoperazine 15mg modified-release capsules	04020100	60580					antipsychotics
+1467141000033117	36143511000001101	Trifluoperazine 2mg modified-release capsules	Trifluoperazine 2mg modified-release capsules	04020100	227137					antipsychotics
+1467641000033110	36143311000001107	Trifluoperazine 1mg/5ml oral solution sugar free	Trifluoperazine 1mg/5ml oral solution sugar free	04020100	69616					antipsychotics
+1470641000033116	39706011000001108	Trifluoperazine 1mg tablets	Trifluoperazine 1mg tablets	04020100	799100					antipsychotics
+1470741000033113	39706211000001103	Trifluoperazine 5mg tablets	Trifluoperazine 5mg tablets	04020100	610356					antipsychotics
+1563441000033114	36151811000001100	Zuclopenthixol acetate 100mg/2ml solution for injection ampoules	Zuclopenthixol acetate 100mg/2ml solution for injection ampoules	04020100	1962					antipsychotics
+1563541000033110	36152011000001103	Zuclopenthixol acetate 50mg/1ml solution for injection ampoules	Zuclopenthixol acetate 50mg/1ml solution for injection ampoules	04020100	1919					antipsychotics
+1563641000033111	36152111000001102	Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules	Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules	04020200	136650					antipsychotics
+1563741000033119	36152211000001108	Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules	Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules	04020200	102421					antipsychotics
+1564041000033119	39707711000001108	Zuclopenthixol 10mg tablets	Zuclopenthixol 10mg tablets	04020100	312498					antipsychotics
+1564141000033115	39707911000001105	Zuclopenthixol 2mg tablets	Zuclopenthixol 2mg tablets	04020100	180894					antipsychotics
+1564241000033110	39708111000001108	Zuclopenthixol 25mg tablets	Zuclopenthixol 25mg tablets	04020100	72967					antipsychotics
+1661141000033114	42275711000001108	Olanzapine 2.5mg tablets	Olanzapine 2.5mg tablets	04020100	2981819					antipsychotics
+1698441000033110	35931111000001108	Sulpiride 200mg/5ml oral solution sugar free	Sulpiride 200mg/5ml oral solution sugar free	04020100	45757					antipsychotics
+1719341000033115	8359411000001103	Chlorpromazine 100mg/5ml oral solution	Chlorpromazine 100mg/5ml oral solution	04020100	24078					antipsychotics
+1766041000033111	42281411000001108	Zotepine 100mg tablets	Zotepine 100mg tablets	04020100	1858					antipsychotics
+1766141000033110	42281511000001107	Zotepine 25mg tablets	Zotepine 25mg tablets	04020100	3492					antipsychotics
+1766241000033115	42281611000001106	Zotepine 50mg tablets	Zotepine 50mg tablets	04020100	2912					antipsychotics
+1844641000033118	39703111000001104	Quetiapine 150mg tablets	Quetiapine 150mg tablets	04020100	1508027					antipsychotics
+2077741000033115	42276011000001102	Olanzapine 5mg oral lyophilisates sugar free	Olanzapine 5mg oral lyophilisates sugar free	04020100	162709					antipsychotics
+2077841000033113	42275411000001102	Olanzapine 10mg oral lyophilisates sugar free	Olanzapine 10mg oral lyophilisates sugar free	04020100	218649					antipsychotics
+2188241000033110	42279211000001103	Risperidone 500microgram tablets	Risperidone 500microgram tablets	04020100	4014231					antipsychotics
+2216641000033113	42267811000001101	Amisulpride 400mg tablets	Amisulpride 400mg tablets	04020100	383907					antipsychotics
+2640141000033112	38753511000001104	Promazine 50mg/5ml oral solution	Promazine 50mg/5ml oral solution	04020100	172186					antipsychotics
+2644841000033114	35901111000001102	Amisulpride 100mg/ml oral solution sugar free	Amisulpride 100mg/ml oral solution sugar free	04020100	52306					antipsychotics
+2711241000033110	42138011000001104	Valproic acid 250mg gastro-resistant tablets	Valproic acid 250mg gastro-resistant tablets	04020300	835512					antipsychotics
+2711341000033117	42138311000001101	Valproic acid 500mg gastro-resistant tablets	Valproic acid 500mg gastro-resistant tablets	04020300	1010369					antipsychotics
+2758141000033116	30799611000001105	Haloperidol 200micrograms/ml oral solution sugar free	Haloperidol 200micrograms/ml oral solution sugar free	04020100	18844					antipsychotics
+2759641000033117	42275611000001104	Olanzapine 15mg tablets	Olanzapine 15mg tablets	04020100	1277378					antipsychotics
+2759741000033114	3434911000001100	Olanzapine 15mg oral lyophilisates sugar free	Olanzapine 15mg oral lyophilisates sugar free	04020100	58005					antipsychotics
+2760941000033111	42295911000001104	Lithium citrate 509mg/5ml oral solution	Lithium citrate 509mg/5ml oral solution	04020300	7859					antipsychotics
+2761041000033118	42295811000001109	Lithium citrate 1.018g/5ml oral solution	Lithium citrate 1.018g/5ml oral solution	04020300	1579					antipsychotics
+2780141000033112	4559111000001109	Risperidone 25mg powder and solvent for prolonged-release suspension for injection vials	Risperidone 25mg powder and solvent for prolonged-release suspension for injection vials	04020200	22730					antipsychotics
+2780241000033117	4176911000001105	Risperidone 37.5mg powder and solvent for prolonged-release suspension for injection vials	Risperidone 37.5mg powder and solvent for prolonged-release suspension for injection vials	04020200	23607					antipsychotics
+2780341000033110	4177011000001109	Risperidone 50mg powder and solvent for prolonged-release suspension for injection vials	Risperidone 50mg powder and solvent for prolonged-release suspension for injection vials	04020200	29644					antipsychotics
+2835141000033114	42267611000001100	Amisulpride 100mg tablets	Amisulpride 100mg tablets	04020100	755314					antipsychotics
+2868841000033116	4054011000001109	Risperidone 1mg orodispersible tablets sugar free	Risperidone 1mg orodispersible tablets sugar free	04020100	65975					antipsychotics
+2868941000033112	4054111000001105	Risperidone 2mg orodispersible tablets sugar free	Risperidone 2mg orodispersible tablets sugar free	04020100	56613					antipsychotics
+2929741000033118	36053511000001109	Haloperidol 5mg/1ml solution for injection ampoules	Haloperidol 5mg/1ml solution for injection ampoules	04020100	234308					antipsychotics
+2975841000033113	42278511000001106	Quetiapine 300mg tablets	Quetiapine 300mg tablets	04020100	1881258					antipsychotics
+3030841000033118	5818311000001104	Olanzapine 10mg powder for solution for injection vials	Olanzapine 10mg powder for solution for injection vials	04020100	108					antipsychotics
+3063441000033119	38895311000001102	Levomepromazine 25mg/1ml solution for injection ampoules	Levomepromazine 25mg/1ml solution for injection ampoules	04020100	441637					antipsychotics
+3063541000033118	42273511000001102	Levomepromazine 25mg tablets	Levomepromazine 25mg tablets	04020100	217849					antipsychotics
+3063641000033117	9536311000001104	Levomepromazine 6mg tablets	Levomepromazine 6mg tablets	04020100	31733					antipsychotics
+3090541000033111	36058011000001108	Flupentixol 50mg/0.5ml solution for injection ampoules	Flupentixol 50mg/0.5ml solution for injection ampoules	04020200	18965					antipsychotics
+3090641000033112	36068611000001107	Flupentixol 100mg/1ml solution for injection ampoules	Flupentixol 100mg/1ml solution for injection ampoules	04020200	104321					antipsychotics
+3090741000033115	36068711000001103	Flupentixol 200mg/1ml solution for injection ampoules	Flupentixol 200mg/1ml solution for injection ampoules	04020200	36820					antipsychotics
+3090841000033113	36068811000001106	Flupentixol 20mg/1ml solution for injection ampoules	Flupentixol 20mg/1ml solution for injection ampoules	04020200	64746					antipsychotics
+3090941000033117	36068911000001101	Flupentixol 40mg/2ml solution for injection ampoules	Flupentixol 40mg/2ml solution for injection ampoules	04020200	55306					antipsychotics
+3091241000033119	39692411000001106	Flupentixol 3mg tablets	Flupentixol 3mg tablets	04020100	191992					antipsychotics
+3103841000033110	36016711000001103	Pipotiazine 100mg/2ml solution for injection ampoules	Pipotiazine 100mg/2ml solution for injection ampoules	04020200	5092					antipsychotics
+3104041000033117	36016911000001101	Pipotiazine 50mg/1ml solution for injection ampoules	Pipotiazine 50mg/1ml solution for injection ampoules	04020200	13030					antipsychotics
+3137541000033113	42268111000001109	Aripiprazole 10mg tablets	Aripiprazole 10mg tablets	04020100	2791360					antipsychotics
+3137641000033114	42268211000001103	Aripiprazole 15mg tablets	Aripiprazole 15mg tablets	04020100	1640073					antipsychotics
+3137741000033117	42268411000001104	Aripiprazole 30mg tablets	Aripiprazole 30mg tablets	04020100	285245					antipsychotics
+3225241000033118	42268511000001100	Aripiprazole 5mg tablets	Aripiprazole 5mg tablets	04020100	1858384					antipsychotics
+3246041000033119	9045911000001108	Risperidone 500microgram orodispersible tablets sugar free	Risperidone 500microgram orodispersible tablets sugar free	04020100	100326					antipsychotics
+3849441000033112	8359711000001109	Chlorpromazine 50mg/5ml oral solution	Chlorpromazine 50mg/5ml oral solution	04020100	2283					antipsychotics
+3858941000033110	36138211000001106	Chlorpromazine 25mg/1ml solution for injection ampoules	Chlorpromazine 25mg/1ml solution for injection ampoules	04020100	97					antipsychotics
+3866541000033110	42275811000001100	Olanzapine 20mg oral lyophilisates sugar free	Olanzapine 20mg oral lyophilisates sugar free	04020100	55850					antipsychotics
+3892541000033114	14015911000001104	Olanzapine 2.5mg/5ml oral suspension	Olanzapine 2.5mg/5ml oral suspension	04020100	3592					antipsychotics
+3950341000033115	10675311000001102	Aripiprazole 10mg orodispersible tablets sugar free	Aripiprazole 10mg orodispersible tablets sugar free	04020100	38185					antipsychotics
+3950441000033114	10675411000001109	Aripiprazole 15mg orodispersible tablets sugar free	Aripiprazole 15mg orodispersible tablets sugar free	04020100	31697					antipsychotics
+3950541000033110	42268311000001106	Aripiprazole 1mg/ml oral solution	Aripiprazole 1mg/ml oral solution	04020100	123335					antipsychotics
+3996241000033117	42275911000001105	Olanzapine 20mg tablets	Olanzapine 20mg tablets	04020100	1462537					antipsychotics
+4012041000033116	11140811000001105	Risperidone 3mg orodispersible tablets sugar free	Risperidone 3mg orodispersible tablets sugar free	04020100	20251					antipsychotics
+4012141000033117	11140911000001100	Risperidone 4mg orodispersible tablets sugar free	Risperidone 4mg orodispersible tablets sugar free	04020100	19122					antipsychotics
+4200641000033118	11763211000001100	Paliperidone 3mg modified-release tablets	Paliperidone 3mg modified-release tablets	04020100	3925					antipsychotics
+4200741000033110	11763311000001108	Paliperidone 6mg modified-release tablets	Paliperidone 6mg modified-release tablets	04020100	4213					antipsychotics
+4200841000033117	11763411000001101	Paliperidone 9mg modified-release tablets	Paliperidone 9mg modified-release tablets	04020100	2368					antipsychotics
+4422541000033110	14018711000001108	Quetiapine 100mg/5ml oral suspension	Quetiapine 100mg/5ml oral suspension	04020100	4817					antipsychotics
+4424541000033119	12505911000001109	Haloperidol 5mg/5ml oral solution	Haloperidol 5mg/5ml oral solution	04020100	2286					antipsychotics
+4456741000033117	13456411000001100	Aripiprazole 9.75mg/1.3ml solution for injection vials	Aripiprazole 9.75mg/1.3ml solution for injection vials	04020100	510					antipsychotics
+4591741000033114	14042811000001105	Quetiapine 50mg modified-release tablets	Quetiapine 50mg modified-release tablets	04020100	611521					antipsychotics
+4591841000033116	42278111000001102	Quetiapine 200mg modified-release tablets	Quetiapine 200mg modified-release tablets	04020100	350049					antipsychotics
+4591941000033112	42278411000001107	Quetiapine 300mg modified-release tablets	Quetiapine 300mg modified-release tablets	04020100	620134					antipsychotics
+4592041000033118	42278611000001105	Quetiapine 400mg modified-release tablets	Quetiapine 400mg modified-release tablets	04020100	325823					antipsychotics
+4940141000033119	8277211000001103	Amisulpride 25mg/5ml oral solution	Amisulpride 25mg/5ml oral solution	04020100	3064					antipsychotics
+5054641000033118	8527911000001100	Haloperidol 1mg/5ml oral solution	Haloperidol 1mg/5ml oral solution	04020100	2047					antipsychotics
+5055241000033117	15432411000001108	Droperidol 2.5mg/1ml solution for injection ampoules	Droperidol 2.5mg/1ml solution for injection ampoules	04020100	2					antipsychotics
+5077641000033110	15506311000001101	Clozapine 50mg/ml oral suspension sugar free	Clozapine 50mg/ml oral suspension sugar free	04020100	755					antipsychotics
+5077941000033115	15506211000001109	Clozapine 200mg tablets	Clozapine 200mg tablets	04020100	5390					antipsychotics
+5078041000033117	42270211000001105	Clozapine 50mg tablets	Clozapine 50mg tablets	04020100	4920					antipsychotics
+5575741000033110	17037611000001102	Olanzapine embonate 210mg powder and solvent for prolonged-release suspension for injection vials	Olanzapine embonate 210mg powder and solvent for prolonged-release suspension for injection vials	04020200	198					antipsychotics
+5575841000033117	17038211000001100	Olanzapine embonate 300mg powder and solvent for prolonged-release suspension for injection vials	Olanzapine embonate 300mg powder and solvent for prolonged-release suspension for injection vials	04020200	1291					antipsychotics
+5575941000033113	17038711000001107	Olanzapine embonate 405mg powder and solvent for prolonged-release suspension for injection vials	Olanzapine embonate 405mg powder and solvent for prolonged-release suspension for injection vials	04020200	692					antipsychotics
+5814341000033116	8582811000001100	Levomepromazine 2.5mg/5ml oral suspension	Levomepromazine 2.5mg/5ml oral suspension	04020100	1764					antipsychotics
+5889741000033118	13011611000001109	Quetiapine 12.5mg/5ml oral solution	Quetiapine 12.5mg/5ml oral solution	04020100	2349					antipsychotics
+5889841000033111	13011711000001100	Quetiapine 12.5mg/5ml oral suspension	Quetiapine 12.5mg/5ml oral suspension	04020100	2663					antipsychotics
+5890741000033111	8528011000001103	Haloperidol 1mg/5ml oral suspension	Haloperidol 1mg/5ml oral suspension	04020100	372					antipsychotics
+5890941000033114	8277311000001106	Amisulpride 25mg/5ml oral suspension	Amisulpride 25mg/5ml oral suspension	04020100	2110					antipsychotics
+5891141000033117	14018611000001104	Quetiapine 100mg/5ml oral solution	Quetiapine 100mg/5ml oral solution	04020100	1249					antipsychotics
+5909341000033112	17828611000001101	Quetiapine 150mg modified-release tablets	Quetiapine 150mg modified-release tablets	04020100	177451					antipsychotics
+5969441000033117	12504911000001105	Haloperidol 1.5mg/5ml oral solution	Haloperidol 1.5mg/5ml oral solution	04020100	150					antipsychotics
+5969541000033116	12505011000001105	Haloperidol 1.5mg/5ml oral suspension	Haloperidol 1.5mg/5ml oral suspension	04020100	67					antipsychotics
+5969641000033115	12505511000001102	Haloperidol 250micrograms/5ml oral solution	Haloperidol 250micrograms/5ml oral solution	04020100	392					antipsychotics
+5969741000033112	12505611000001103	Haloperidol 250micrograms/5ml oral suspension	Haloperidol 250micrograms/5ml oral suspension	04020100	433					antipsychotics
+5974841000033112	13012211000001100	Quetiapine 25mg/5ml oral solution	Quetiapine 25mg/5ml oral solution	04020100	1421					antipsychotics
+5974941000033116	13012311000001108	Quetiapine 25mg/5ml oral suspension	Quetiapine 25mg/5ml oral suspension	04020100	2725					antipsychotics
+5975041000033116	15452011000001103	Quetiapine 50mg/5ml oral solution	Quetiapine 50mg/5ml oral solution	04020100	562					antipsychotics
+5975141000033117	15452111000001102	Quetiapine 50mg/5ml oral suspension	Quetiapine 50mg/5ml oral suspension	04020100	801					antipsychotics
+5993541000033117	12506011000001101	Haloperidol 5mg/5ml oral suspension	Haloperidol 5mg/5ml oral suspension	04020100	127					antipsychotics
+5997341000033118	14015811000001109	Olanzapine 2.5mg/5ml oral solution	Olanzapine 2.5mg/5ml oral solution	04020100	1085					antipsychotics
+6359441000033116	19223711000001101	Paliperidone 50mg/0.5ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 50mg/0.5ml prolonged-release suspension for injection pre-filled syringes	04020200	8529					antipsychotics
+6359541000033115	19223811000001109	Paliperidone 75mg/0.75ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 75mg/0.75ml prolonged-release suspension for injection pre-filled syringes	04020200	12957					antipsychotics
+6359641000033119	19223511000001106	Paliperidone 100mg/1ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 100mg/1ml prolonged-release suspension for injection pre-filled syringes	04020200	20723					antipsychotics
+6359741000033111	19223611000001105	Paliperidone 150mg/1.5ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 150mg/1.5ml prolonged-release suspension for injection pre-filled syringes	04020200	20293					antipsychotics
+6443041000033115	19504411000001105	Asenapine 5mg sublingual tablets sugar free	Asenapine 5mg sublingual tablets sugar free	04020300	3376					antipsychotics
+6443141000033116	19504311000001103	Asenapine 10mg sublingual tablets sugar free	Asenapine 10mg sublingual tablets sugar free	04020300	2649					antipsychotics
+6445641000033110	12646911000001102	Levomepromazine 6mg/5ml oral suspension	Levomepromazine 6mg/5ml oral suspension	04020100	703					antipsychotics
+6455741000033116	18172311000001105	Ziprasidone 40mg capsules	Ziprasidone 40mg capsules	04020100	23					antipsychotics
+6455841000033114	19525911000001107	Ziprasidone 80mg capsules	Ziprasidone 80mg capsules	04020100	3					antipsychotics
+6465941000033113	19609511000001100	Olanzapine 5mg orodispersible tablets sugar free	Olanzapine 5mg orodispersible tablets sugar free	04020100	53683					antipsychotics
+6466041000033115	19609111000001109	Olanzapine 10mg orodispersible tablets sugar free	Olanzapine 10mg orodispersible tablets sugar free	04020100	51807					antipsychotics
+6466141000033116	19609311000001106	Olanzapine 15mg orodispersible tablets sugar free	Olanzapine 15mg orodispersible tablets sugar free	04020100	23873					antipsychotics
+6466241000033111	19609411000001104	Olanzapine 20mg orodispersible tablets sugar free	Olanzapine 20mg orodispersible tablets sugar free	04020100	39750					antipsychotics
+6469841000033115	19725311000001105	Clotiapine 40mg tablets	Clotiapine 40mg tablets	04020100	1					antipsychotics
+7681641000033116	19626711000001106	Olanzapine 10mg orodispersible tablets	Olanzapine 10mg orodispersible tablets	04020100	86759					antipsychotics
+7681741000033113	19626811000001103	Olanzapine 15mg orodispersible tablets	Olanzapine 15mg orodispersible tablets	04020100	37384					antipsychotics
+7681841000033115	19626911000001108	Olanzapine 20mg orodispersible tablets	Olanzapine 20mg orodispersible tablets	04020100	68238					antipsychotics
+7681941000033111	19627011000001107	Olanzapine 5mg orodispersible tablets	Olanzapine 5mg orodispersible tablets	04020100	88905					antipsychotics
+8885941000033111	42269011000001103	Chlorpromazine 25mg suppositories	Chlorpromazine 25mg suppositories	04020100	21					antipsychotics
+8886041000033118	20176811000001101	Chlorpromazine 10mg capsules	Chlorpromazine 10mg capsules	04020100	96					antipsychotics
+8960241000033117	23661211000001102	Aripiprazole 400mg powder and solvent for prolonged-release suspension for injection vials	Aripiprazole 400mg powder and solvent for prolonged-release suspension for injection vials	04020200	11979					antipsychotics
+9808941000033118	26655311000001106	Lurasidone 18.5mg tablets	Lurasidone 18.5mg tablets	04020100	14443					antipsychotics
+9809041000033110	26655411000001104	Lurasidone 37mg tablets	Lurasidone 37mg tablets	04020100	40434					antipsychotics
+9809141000033114	26655511000001100	Lurasidone 74mg tablets	Lurasidone 74mg tablets	04020100	46262					antipsychotics
+10253841000033119	12797811000001108	Melperone hydrochloride 100mg tablets	Melperone hydrochloride 100mg tablets	04020100	43					antipsychotics
+10493341000033115	8528311000001100	Haloperidol 500micrograms/5ml oral solution	Haloperidol 500micrograms/5ml oral solution	04020100	92					antipsychotics
+10493441000033114	8528411000001107	Haloperidol 500micrograms/5ml oral suspension	Haloperidol 500micrograms/5ml oral suspension	04020100	60					antipsychotics
+10946341000033116	31087211000001107	Aripiprazole 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	Aripiprazole 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	04020200	29514					antipsychotics
+11694341000033111	32878911000001109	Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes	04020200	311					antipsychotics
+11694441000033117	32879011000001100	Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes	04020200	475					antipsychotics
+11694541000033116	32879111000001104	Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes	04020200	769					antipsychotics
+11694641000033115	32879211000001105	Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes	04020200	769					antipsychotics
+11730041000033115	22635511000001100	Quetiapine 200mg/5ml oral suspension	Quetiapine 200mg/5ml oral suspension	04020100	203					antipsychotics
+11753641000033118	33391011000001100	Quetiapine 20mg/ml oral suspension sugar free	Quetiapine 20mg/ml oral suspension sugar free	04020100	16467					antipsychotics
+11798841000033118	13059411000001102	Pimozide 2mg/5ml oral suspension	Pimozide 2mg/5ml oral suspension	04020100	144					antipsychotics
+11821541000033119	33690711000001102	Levomepromazine 62.5mg/5ml oral suspension	Levomepromazine 62.5mg/5ml oral suspension	04020100	64					antipsychotics
+11876741000033116	18956611000001104	Chlorpromazine 25mg/5ml oral solution sugar free	Chlorpromazine 25mg/5ml oral solution sugar free	04020100	5875					antipsychotics
+12665341000033110	35853811000001105	Cariprazine 1.5mg capsules	Cariprazine 1.5mg capsules	04020100	2398					antipsychotics
+12665441000033116	35853911000001100	Cariprazine 3mg capsules	Cariprazine 3mg capsules	04020100	2692					antipsychotics
+12665541000033115	35854011000001102	Cariprazine 4.5mg capsules	Cariprazine 4.5mg capsules	04020100	1365					antipsychotics
+12665641000033119	35854111000001101	Cariprazine 6mg capsules	Cariprazine 6mg capsules	04020100	1452					antipsychotics
+12667641000033113	42268711000001105	Chlorpromazine 100mg suppositories	Chlorpromazine 100mg suppositories	04020100	21					antipsychotics
+12988741000033118	36905011000001104	Olanzapine 2.5mg orodispersible tablets sugar free	Olanzapine 2.5mg orodispersible tablets sugar free	04020100	848					antipsychotics
+12988841000033111	36905111000001103	Olanzapine 7.5mg orodispersible tablets sugar free	Olanzapine 7.5mg orodispersible tablets sugar free	04020100	259					antipsychotics
+13158341000033119	37697511000001102	Clozapine 100mg orodispersible tablets sugar free	Clozapine 100mg orodispersible tablets sugar free	04020100	121					antipsychotics
+13158441000033113	37697711000001107	Clozapine 12.5mg orodispersible tablets sugar free	Clozapine 12.5mg orodispersible tablets sugar free	04020100	276					antipsychotics
+13158541000033114	37697811000001104	Clozapine 200mg orodispersible tablets sugar free	Clozapine 200mg orodispersible tablets sugar free	04020100	181					antipsychotics
+13158641000033110	37697911000001109	Clozapine 25mg orodispersible tablets sugar free	Clozapine 25mg orodispersible tablets sugar free	04020100	62					antipsychotics
+13158741000033118	37698011000001106	Clozapine 50mg orodispersible tablets sugar free	Clozapine 50mg orodispersible tablets sugar free	04020100	65					antipsychotics
+13353241000033112	37249011000001105	Aripiprazole 1mg/ml oral solution sugar free	Aripiprazole 1mg/ml oral solution sugar free	04020100	11217					antipsychotics
+13581641000033117	38696711000001103	Risperidone 250microgram tablets	Risperidone 250microgram tablets	04020100	114597					antipsychotics
+13719041000033113	38931811000001107	Levomepromazine 50mg tablets	Levomepromazine 50mg tablets	04020100	2041					antipsychotics
+13734841000033110	39027411000001105	Quetiapine 600mg modified-release tablets	Quetiapine 600mg modified-release tablets	04020100	14855					antipsychotics
+14023941000033116	40617811000001108	Paliperidone 1g/5ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 1g/5ml prolonged-release suspension for injection pre-filled syringes	04020200	16					antipsychotics
+14024041000033119	40617911000001103	Paliperidone 700mg/3.5ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 700mg/3.5ml prolonged-release suspension for injection pre-filled syringes	04020200	5					antipsychotics
+14025641000033112	40627311000001106	Risperidone 75mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	Risperidone 75mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	04020200	7					antipsychotics
+14025741000033115	40627211000001103	Risperidone 100mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	Risperidone 100mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	04020200	16					antipsychotics
+14174341000033110	41482411000001101	Levomepromazine hydrochloride 25mg/5ml oral solution sugar free	Levomepromazine hydrochloride 25mg/5ml oral solution sugar free	04020100	600					antipsychotics
+14277841000033113	42565811000001102	Levomepromazine 6.25mg tablets	Levomepromazine 6.25mg tablets	04020100	1778					antipsychotics
+14397741000033119	42684111000001102	Quetiapine 50mg tablets	Quetiapine 50mg tablets	04020100	57090					antipsychotics
+14397841000033112	42684011000001103	Quetiapine 400mg tablets	Quetiapine 400mg tablets	04020100	6119					antipsychotics
+14416741000033114	42826411000001100	Aripiprazole 960mg/3.2ml prolonged-release suspension for injection pre-filled syringes	Aripiprazole 960mg/3.2ml prolonged-release suspension for injection pre-filled syringes	04020200	67					antipsychotics
+14429441000033118	42880111000001103	Aripiprazole 720mg/2.4ml prolonged-release suspension for injection pre-filled syringes	Aripiprazole 720mg/2.4ml prolonged-release suspension for injection pre-filled syringes	04020200	37					antipsychotics
