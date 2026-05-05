@@ -129,6 +129,14 @@ dmdcode_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
+    # ---- Sort before writing ----
+    if (!is.null(lookup_file) && lookup_id_col %in% names(result)) {
+      setorderv(result, lookup_id_col)
+    } else {
+      setorderv(result, "dmdcode")
+    }
+
+
     write_dt <- if (show_source) result else result[, !"source"]
     fwrite(write_dt, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts

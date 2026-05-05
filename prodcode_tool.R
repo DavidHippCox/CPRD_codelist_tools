@@ -165,6 +165,10 @@ prodcode_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
+    # ---- Sort before writing ----
+    order_col <- if (typeA == "AURUM") "ProdCodeId" else "prodcode"
+    setorderv(result, order_col)
+
     write_dt <- if (show_source) result else result[, !"source"]
     fwrite(write_dt, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts
@@ -221,7 +225,9 @@ oxcprd_001b_aurum_prodcodes <- file.path(oxcprd_001b_codelist_tools, "aurum/prod
 gold_txt <- file.path(oxcprd_001b_gold_prodcodes, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_prodcodes, "product/CPRDAurumProduct_202601.txt")
 
-group_A <- file.path(oxcprd_001b_aurum_prodcodes, "products_04010.txt")
+# group_A <- file.path(oxcprd_001b_aurum_prodcodes, "products_0411.txt")
+
+group_A <- file.path(oxcprd_001b_aurum_prodcodes, "nhsbsa_0411_aurum.txt")
 
 group_B <- file.path(oxcprd_001b_aurum_prodcodes, "v0_dementia_drug_AURUM.txt")
 
@@ -258,7 +264,7 @@ prodcode_tool(
 #   lookup_file = lookup_file
 # )
 
-# ---- Intersection ----
+# # ---- Intersection ----
 # prodcode_tool(
 #   group_A,
 #   group_B,

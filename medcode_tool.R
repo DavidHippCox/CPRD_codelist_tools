@@ -165,6 +165,10 @@ medcode_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
+    # ---- Sort before writing ----
+    order_col <- if (typeA == "AURUM") "MedCodeId" else "medcode"
+    setorderv(result, order_col)
+
     write_dt <- if (show_source) result else result[, !"source"]
     fwrite(write_dt, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts

@@ -139,6 +139,9 @@ icd10_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
+    # ---- Sort before writing ----
+    setorderv(result, "icd10")
+
     write_dt <- if (show_source) result else result[, !"source"]
     fwrite(write_dt, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts
@@ -194,7 +197,7 @@ group_B <- file.path(oxcprd_001b_gold, "")
 save_gold <- file.path(oxcprd_001b_gold, "")
 
 # A not B
-medcode_tool(
+icd10_tool(
   group_A,
   group_B,
   mode = "A_not_B",
@@ -202,7 +205,7 @@ medcode_tool(
 )
 
 # Union
-medcode_tool(
+icd10_tool(
   group_A,
   group_B,
   mode = "union",
@@ -210,7 +213,7 @@ medcode_tool(
 )
 
 # B not A
-medcode_tool(
+icd10_tool(
   group_A,
   group_B,
   mode = "B_not_A",
@@ -218,7 +221,7 @@ medcode_tool(
 )
 
 # Intersection
-medcode_tool(
+icd10_tool(
   group_A,
   group_B,
   mode = "intersect",
