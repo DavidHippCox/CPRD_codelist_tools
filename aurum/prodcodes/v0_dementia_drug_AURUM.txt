@@ -1,8 +1,46 @@
 ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
-81041000033119	161911000001104	Aricept 10mg tablets (Eisai Ltd)	Aricept 10mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	10.000mg		154726
-81141000033115	734511000001105	Aricept 5mg tablets (Eisai Ltd)	Aricept 5mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	5.000mg		71595
-479941000033116	42035511000001105	Donepezil 10mg tablets	Donepezil 10mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	10.000mg	04110000	8893557
-480041000033117	42035611000001109	Donepezil 5mg tablets	Donepezil 5mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	5.000mg	04110000	3203151
+10217341000033112	28882411000001101	Consion XL 8mg capsules (Dr Reddy's Laboratories (UK) Ltd)	Consion XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		56
+10217441000033118	28882611000001103	Consion XL 16mg capsules (Dr Reddy's Laboratories (UK) Ltd)	Consion XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		74
+10217541000033117	28882811000001104	Consion XL 24mg capsules (Dr Reddy's Laboratories (UK) Ltd)	Consion XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		71
+10642641000033112	30765911000001103	Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd)	Erastig 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour		355
+10674541000033119	27375811000001109	Eluden 4.6mg/24hours transdermal patches (Viatris UK Healthcare Ltd)	Eluden 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		<5
+10674641000033118	27376011000001107	Eluden 9.5mg/24hours transdermal patches (Viatris UK Healthcare Ltd)	Eluden 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		<5
+11403041000033111	32429911000001108	Voleze 13.3mg/24hours transdermal patches (Advanz Pharma)	Voleze 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour		<5
+11492741000033118	32499611000001108	Memantine 10mg orodispersible tablets sugar free	Memantine 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	10.000mg	04110000	35981
+11492841000033111	32499711000001104	Memantine 20mg orodispersible tablets sugar free	Memantine 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	20.000mg	04110000	58753
+11492941000033115	32486211000001101	Valios 10mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	Valios 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	10.000mg		71
+11493041000033113	32486511000001103	Valios 20mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	Valios 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	20.000mg		520
+11720941000033116	22428211000001105	Marixino 20mg tablets (Krka UK Ltd)	Marixino 20mg tablets	Tablet/ Oral Tablet	Oral	Memantine hydrochloride	20.000mg		6
+11721041000033114	22428011000001100	Marixino 10mg tablets (Krka UK Ltd)	Marixino 10mg tablets	Tablet/ Oral Tablet	Oral	Memantine hydrochloride	10.000mg		<5
+11738141000033118	32653111000001106	Nemdatine tablets treatment initiation pack (Actavis UK Ltd)	Nemdatine tablets treatment initiation pack	Not applicable					39
+11825741000033113	24020111000001103	Galzemic XL 8mg capsules (Zentiva Pharma UK Ltd)	Galzemic XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		5691
+11825841000033115	24020511000001107	Galzemic XL 16mg capsules (Zentiva Pharma UK Ltd)	Galzemic XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		12818
+11825941000033111	24021211000001103	Galzemic XL 24mg capsules (Zentiva Pharma UK Ltd)	Galzemic XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		9755
+12198541000033112	34228311000001107	Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd)	Almuriva 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		454
+12198741000033116	34228511000001101	Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd)	Almuriva 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		1205
+12331541000033116	34558011000001100	Alzhok soluble tablets treatment initiation pack (Glenmark Pharmaceuticals Europe Ltd)	Alzhok soluble tablets treatment initiation pack	Not applicable					<5
+12331641000033115	10694911000001108	Memantine 10mg soluble tablets sugar free	Memantine 10mg soluble tablets sugar free	Soluble tablet/	Oral	Memantine hydrochloride	10.000mg	04110000	2983
+12331741000033112	10695111000001109	Memantine 20mg soluble tablets sugar free	Memantine 20mg soluble tablets sugar free	Soluble tablet/	Oral	Memantine hydrochloride	20.000mg	04110000	4086
+12331841000033119	34532311000001101	Alzhok 10mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	Alzhok 10mg soluble tablets	Soluble tablet/	Oral	Memantine hydrochloride	10.000mg		17
+12331941000033110	34532611000001106	Alzhok 20mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	Alzhok 20mg soluble tablets	Soluble tablet/	Oral	Memantine hydrochloride	20.000mg		49
+12484541000033118	35199611000001105	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd)	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack	Not applicable					20
+12532241000033110	14159211000001107	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Not applicable	Route of administration not applicable			04110000	18982
+12603841000033115	35312411000001109	Galzemic 4mg/ml oral solution (Zentiva Pharma UK Ltd)	Galzemic 4mg/ml oral solution	Oral solution	Oral	Galantamine hydrobromide	4.000mg/1.000ml		987
+12640941000033113	35795211000001100	Gaalin 16mg modified-release capsules (Milpharm Ltd)	Gaalin 16mg modified-release capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		97
+12641041000033115	35796711000001104	Gaalin 24mg modified-release capsules (Milpharm Ltd)	Gaalin 24mg modified-release capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		74
+12641141000033116	35795411000001101	Gaalin 8mg modified-release capsules (Milpharm Ltd)	Gaalin 8mg modified-release capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		22
+13316541000033110	35204911000001100	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Not applicable	Route of administration not applicable			04110000	1528
+13812141000033117	39538711000001103	Alzest 13.3mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd)	Alzest 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour		3807
+14116041000033112	41090211000001106	Almuriva 13.3mg/24hours transdermal patches (Sandoz Ltd)	Almuriva 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour		14
+14242041000033117	42254711000001106	Zeyzelf 4.6mg/24hours twice weekly transdermal patches (Luye Pharma Ltd)	Zeyzelf 4.6mg/24hours twice weekly transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		264
+14242141000033118	42255011000001108	Zeyzelf 9.5mg/24hours twice weekly transdermal patches (Luye Pharma Ltd)	Zeyzelf 9.5mg/24hours twice weekly transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		226
+14265641000033111	20346711000001101	Donepezil 10mg orodispersible tablets	Donepezil 10mg orodispersible tablets	Orodispersible tablet	Oral	Donepezil hydrochloride	10.000mg	04110000	821
+14274841000033116	35205111000001104	Memantine 5mg orodispersible tablets sugar free	Memantine 5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	5.000mg	04110000	7338
+14274941000033112	35198111000001109	Valios 5mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	Valios 5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	5.000mg		14
+14516841000033112	43184811000001104	Apozyl 10mg orodispersible tablets (Novumgen Ltd)	Apozyl 10mg orodispersible tablets	Orodispersible tablet	Oral	Donepezil hydrochloride	10.000mg		63
+14516941000033116	43184611000001103	Apozyl 5mg orodispersible tablets (Novumgen Ltd)	Apozyl 5mg orodispersible tablets	Orodispersible tablet	Oral	Donepezil hydrochloride	5.000mg		24
+14941641000033115	44970311000001109	Galantamine 8mg modified-release capsules (Imported)	Galantamine 8mg modified-release capsules	Modified-release capsule		Galantamine hydrobromide	8.000mg		<5
+14941841000033119	44970911000001105	Galantamine 24mg modified-release capsules (Imported)	Galantamine 24mg modified-release capsules	Modified-release capsule		Galantamine hydrobromide	24.000mg		<5
 1609241000033116	3757911000001101	Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd)	Exelon 1.5mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	1.500mg		2365
 1609341000033114	3758511000001107	Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd)	Exelon 3mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	3.000mg		3027
 1609441000033115	3889111000001100	Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd)	Exelon 4.5mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	4.500mg		1806
@@ -42,16 +80,31 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 4607841000033119	13939111000001104	Memantine 20mg tablets	Memantine 20mg tablets	Tablet/ Oral Tablet	Oral	Memantine hydrochloride	20.000mg	04110000	3767803
 4607941000033110	13914311000001106	Ebixa 20mg tablets (Lundbeck Ltd)	Ebixa 20mg tablets	Tablet/ Oral Tablet	Oral	Memantine hydrochloride	20.000mg		7339
 4608041000033113	14065311000001101	Ebixa tablets treatment initiation pack (Lundbeck Ltd)	Ebixa tablets treatment initiation pack	Not applicable					3314
+479941000033116	42035511000001105	Donepezil 10mg tablets	Donepezil 10mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	10.000mg	04110000	8893557
+480041000033117	42035611000001109	Donepezil 5mg tablets	Donepezil 5mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	5.000mg	04110000	3203151
 6435841000033110	19481711000001108	Galsya XL 8mg capsules (Krka UK Ltd)	Galsya XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		102
 6435941000033119	19482311000001100	Galsya XL 16mg capsules (Krka UK Ltd)	Galsya XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		36
 6436041000033112	19482511000001106	Galsya XL 24mg capsules (Krka UK Ltd)	Galsya XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		395
+6469441000033118	19722211000001107	Nimvastid 1.5mg capsules (Krka UK Ltd)	Nimvastid 1.5mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	1.500mg		<5
+6469641000033116	19722911000001103	Nimvastid 4.5mg capsules (Krka UK Ltd)	Nimvastid 4.5mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	4.500mg		50
+6469741000033113	19723711000001108	Nimvastid 6mg capsules (Krka UK Ltd)	Nimvastid 6mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	6.000mg		<5
+6529241000033116	19962311000001100	Zeebral XL 8mg capsules (Teva UK Ltd)	Zeebral XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		6
 6529341000033114	19958411000001104	Zeebral XL 16mg capsules (Teva UK Ltd)	Zeebral XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		14
+6529441000033115	19959311000001100	Zeebral XL 24mg capsules (Teva UK Ltd)	Zeebral XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		46
 7690141000033115	20354611000001104	Acumor XL 24mg capsules (Viatris UK Healthcare Ltd)	Acumor XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		381
 7690441000033111	20354411000001102	Acumor XL 16mg capsules (Viatris UK Healthcare Ltd)	Acumor XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		161
+7690641000033113	20354211000001101	Acumor XL 8mg capsules (Viatris UK Healthcare Ltd)	Acumor XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		200
+81041000033119	161911000001104	Aricept 10mg tablets (Eisai Ltd)	Aricept 10mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	10.000mg		154726
+81141000033115	734511000001105	Aricept 5mg tablets (Eisai Ltd)	Aricept 5mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	5.000mg		71595
 8127241000033112	21384011000001105	Gatalin XL 8mg capsules (Aspire Pharma Ltd)	Gatalin XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		33479
 8127341000033119	21385211000001104	Gatalin XL 16mg capsules (Aspire Pharma Ltd)	Gatalin XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		91520
 8127441000033113	21386611000001107	Gatalin XL 24mg capsules (Aspire Pharma Ltd)	Gatalin XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		119683
+8242941000033118	21709411000001102	Lotprosin XL 8mg capsules (Accord-UK Ltd)	Lotprosin XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		11
 8243041000033111	21709911000001105	Lotprosin XL 16mg capsules (Accord-UK Ltd)	Lotprosin XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		149
+8243141000033110	21710111000001104	Lotprosin XL 24mg capsules (Accord-UK Ltd)	Lotprosin XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		63
+8271941000033112	22054811000001105	Kerstipon 6mg capsules (Aspire Pharma Ltd)	Kerstipon 6mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	6.000mg		<5
+8305441000033119	22358411000001103	Elmino XL 16mg capsules (Zentiva Pharma UK Ltd)	Elmino XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		17
+8306941000033118	22358211000001102	Elmino XL 24mg capsules (Zentiva Pharma UK Ltd)	Elmino XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		26
 8348041000033112	22403511000001106	Rivastigmine 13.3mg/24hours transdermal patches	Rivastigmine 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour	04110000	46194
 8348141000033111	22384311000001109	Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd)	Exelon 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour		1864
 8349341000033119	22351011000001101	Voleze 4.6mg/24hours transdermal patches (Advanz Pharma)	Voleze 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		81
@@ -63,6 +116,8 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 9165441000033111	24435711000001104	Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd)	Alzest 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		72023
 9165541000033112	24435911000001102	Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd)	Alzest 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		92395
 9302241000033114	24687811000001109	Donepezil 1mg/ml oral solution sugar free	Donepezil 1mg/ml oral solution sugar free	Oral solution	Oral	Donepezil hydrochloride	1.000mg/1.000ml	04110000	9798
+9366241000033112	25556011000001109	Somniton 4.6mg/24hours transdermal patches (Zentiva Pharma UK Ltd)	Somniton 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		<5
+9366841000033111	25556211000001104	Somniton 9.5mg/24hours transdermal patches (Zentiva Pharma UK Ltd)	Somniton 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		5
 9411841000033112	25467111000001107	Prometax 4.6mg/24hours transdermal patches (Sandoz Ltd)	Prometax 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		558
 9412041000033110	25466511000001100	Prometax 9.5mg/24hours transdermal patches (Sandoz Ltd)	Prometax 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		1446
 9679141000033112	26525211000001109	Luventa XL 24mg capsules (Fontus Health Ltd)	Luventa XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		39503
@@ -71,29 +126,3 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 9699241000033110	27424811000001100	Gazylan XL 16mg capsules (Teva UK Ltd)	Gazylan XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		19738
 9699441000033111	27425011000001105	Gazylan XL 24mg capsules (Teva UK Ltd)	Gazylan XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		22674
 9699541000033112	27424611000001104	Gazylan XL 8mg capsules (Teva UK Ltd)	Gazylan XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		6166
-10642641000033112	30765911000001103	Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd)	Erastig 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour		355
-10674541000033119	27375811000001109	Eluden 4.6mg/24hours transdermal patches (Viatris UK Healthcare Ltd)	Eluden 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		<5
-10674641000033118	27376011000001107	Eluden 9.5mg/24hours transdermal patches (Viatris UK Healthcare Ltd)	Eluden 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		<5
-11492741000033118	32499611000001108	Memantine 10mg orodispersible tablets sugar free	Memantine 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	10.000mg	04110000	35981
-11492841000033111	32499711000001104	Memantine 20mg orodispersible tablets sugar free	Memantine 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	20.000mg	04110000	58753
-11492941000033115	32486211000001101	Valios 10mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	Valios 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	10.000mg		71
-11493041000033113	32486511000001103	Valios 20mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	Valios 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	20.000mg		520
-11720941000033116	22428211000001105	Marixino 20mg tablets (Krka UK Ltd)	Marixino 20mg tablets	Tablet/ Oral Tablet	Oral	Memantine hydrochloride	20.000mg		6
-11738141000033118	32653111000001106	Nemdatine tablets treatment initiation pack (Actavis UK Ltd)	Nemdatine tablets treatment initiation pack	Not applicable					39
-11825741000033113	24020111000001103	Galzemic XL 8mg capsules (Zentiva Pharma UK Ltd)	Galzemic XL 8mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg		5691
-11825841000033115	24020511000001107	Galzemic XL 16mg capsules (Zentiva Pharma UK Ltd)	Galzemic XL 16mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg		12818
-11825941000033111	24021211000001103	Galzemic XL 24mg capsules (Zentiva Pharma UK Ltd)	Galzemic XL 24mg capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg		9755
-12198541000033112	34228311000001107	Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd)	Almuriva 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		454
-12198741000033116	34228511000001101	Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd)	Almuriva 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		1205
-12331541000033116	34558011000001100	Alzhok soluble tablets treatment initiation pack (Glenmark Pharmaceuticals Europe Ltd)	Alzhok soluble tablets treatment initiation pack	Not applicable					<5
-12331641000033115	10694911000001108	Memantine 10mg soluble tablets sugar free	Memantine 10mg soluble tablets sugar free	Soluble tablet/	Oral	Memantine hydrochloride	10.000mg	04110000	2983
-12331741000033112	10695111000001109	Memantine 20mg soluble tablets sugar free	Memantine 20mg soluble tablets sugar free	Soluble tablet/	Oral	Memantine hydrochloride	20.000mg	04110000	4086
-12484541000033118	35199611000001105	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd)	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack	Not applicable					20
-12532241000033110	14159211000001107	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Not applicable	Route of administration not applicable			04110000	18982
-12603841000033115	35312411000001109	Galzemic 4mg/ml oral solution (Zentiva Pharma UK Ltd)	Galzemic 4mg/ml oral solution	Oral solution	Oral	Galantamine hydrobromide	4.000mg/1.000ml		987
-13316541000033110	35204911000001100	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Not applicable	Route of administration not applicable			04110000	1528
-13812141000033117	39538711000001103	Alzest 13.3mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd)	Alzest 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour		3807
-14242041000033117	42254711000001106	Zeyzelf 4.6mg/24hours twice weekly transdermal patches (Luye Pharma Ltd)	Zeyzelf 4.6mg/24hours twice weekly transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour		264
-14242141000033118	42255011000001108	Zeyzelf 9.5mg/24hours twice weekly transdermal patches (Luye Pharma Ltd)	Zeyzelf 9.5mg/24hours twice weekly transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour		226
-14265641000033111	20346711000001101	Donepezil 10mg orodispersible tablets	Donepezil 10mg orodispersible tablets	Orodispersible tablet	Oral	Donepezil hydrochloride	10.000mg	04110000	821
-14274841000033116	35205111000001104	Memantine 5mg orodispersible tablets sugar free	Memantine 5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	5.000mg	04110000	7338
