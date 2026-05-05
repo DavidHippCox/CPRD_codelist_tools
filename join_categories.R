@@ -5,7 +5,7 @@ library(data.table)
 
 library(data.table)
 
-oxcprd_001b_codelist_tools <- file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools")
+oxcprd_001b_codelist_tools <- getwd()
 
 group_A_file <- file.path(oxcprd_001b_codelist_tools, "aurum/prodcodes/v0_medication_codes_AURUM.txt")
 group_B_file <- file.path(oxcprd_001b_codelist_tools, "aurum/dmdcodes/nhsbsa_0401_0402_0403.txt")

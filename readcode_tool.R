@@ -15,7 +15,6 @@ readcode_tool <- function(fileA,
                           lookup_readcode_col = NULL,
                           lookup_id_col = NULL,
                           log_file = NULL) {
-
   mode <- match.arg(mode)
 
   # ---- Read files ----
@@ -143,7 +142,8 @@ readcode_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
-    fwrite(result, sep = "\t", out_file_ts)
+    write_dt <- if (show_source) result else result[, !"source"]
+    fwrite(write_dt, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts
   }
   # ---- readcode & medcode count after lookup ----
@@ -193,7 +193,7 @@ readcode_tool <- function(fileA,
     return(result[, source := NULL])
   }
 }
-oxcprd_001b_codelist_tools <- file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools")
+oxcprd_001b_codelist_tools <- getwd()
 
 oxcprd_001b_gold_read <- file.path(oxcprd_001b_codelist_tools, "gold/readcodes")
 oxcprd_001b_aurum_read <- file.path(oxcprd_001b_codelist_tools, "aurum/readcodes")

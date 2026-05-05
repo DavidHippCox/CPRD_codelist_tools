@@ -129,7 +129,8 @@ dmdcode_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
-    fwrite(result, sep = "\t", out_file_ts)
+    write_dt <- if (show_source) result else result[, !"source"]
+    fwrite(write_dt, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts
   }
   # ---- dmdcode & prodcode count after lookup ----
@@ -178,7 +179,7 @@ dmdcode_tool <- function(fileA,
     return(result[, source := NULL])
   }
 }
-oxcprd_001b_codelist_tools <- file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools")
+oxcprd_001b_codelist_tools <- getwd()
 
 oxcprd_001b_gold_dmd <- file.path(oxcprd_001b_codelist_tools, "gold/dmdcodes")
 oxcprd_001b_aurum_dmd <- file.path(oxcprd_001b_codelist_tools, "aurum/dmdcodes")
@@ -186,8 +187,8 @@ oxcprd_001b_aurum_dmd <- file.path(oxcprd_001b_codelist_tools, "aurum/dmdcodes")
 gold_txt <- file.path(oxcprd_001b_gold_dmd, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_dmd, "product/CPRDAurumProduct_202601.txt")
 
-group_A <- file.path(oxcprd_001b_gold_dmd, "v1.2_dementia_drugs_GOLD.txt")
-# group_A <- file.path(oxcprd_001b_aurum_dmd, "nhsbsa_0401_0402_0403.txt")
+# group_A <- file.path(oxcprd_001b_gold_dmd, "v1.2_dementia_drugs_GOLD.txt")
+group_A <- file.path(oxcprd_001b_aurum_dmd, "nhsbsa_0411.txt")
 
 group_B <- file.path(aurum_txt)
 
@@ -238,7 +239,7 @@ save_aurum <- file.path(oxcprd_001b_aurum_dmd, "compare")
 dmdcode_tool(
   group_A,
   group_B,
-  colA = "dmdcode",
+  colA = "dmdid",
   colB = "dmdid",
   mode = "intersect",
   lookup_file = aurum_txt,

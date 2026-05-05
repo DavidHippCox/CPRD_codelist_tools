@@ -139,7 +139,8 @@ icd10_tool <- function(fileA,
       paste0(base, "_", timestamp, ".txt")
     }
 
-    fwrite(result, sep = "\t", out_file_ts)
+    write_dt <- if (show_source) result else result[, !"source"]
+    fwrite(write_dt, sep = "\t", out_file_ts)
     attr(result, "output_file") <- out_file_ts
   }
 
@@ -182,7 +183,7 @@ icd10_tool <- function(fileA,
   }
 }
 
-oxcprd_001b_codelist_tools <- file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools")
+oxcprd_001b_codelist_tools <- getwd()
 oxcprd_001b_icd10 <- file.path(oxcprd_001b_codelist_tools, "icd10")
 
 icd10_txt <- file.path(oxcprd_001b_icd10, "icd10.txt")
