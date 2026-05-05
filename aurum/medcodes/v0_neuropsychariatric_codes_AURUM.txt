@@ -96,7 +96,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294721016	2060	E04z	E04Z.00	Chronic organic psychosis NOS	191447007	294630015		32	psychosis
 294722011	117	E0y	E0Y..00	Other specified organic psychoses	191447007	294630015		32	psychosis
 294723018	8441	E0z	E0Z..00	Organic psychoses NOS	191447007	294630015		32	psychosis
-450785011	<5	E104-1	E104.11	Oneirophrenia	307504004	450785011		32	psychosis
 243361000006117	155359	E12	E12..00	Paranoid disorder	191667009	294903010		32	psychosis
 294904016	6750	E120	E120.00	Simple paranoid state	191668004	294904016		32	psychosis
 44335019	8203	E122	E122.00	Paraphrenia	26472000	44335019		32	psychosis
