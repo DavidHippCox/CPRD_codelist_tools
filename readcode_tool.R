@@ -190,7 +190,7 @@ readcode_tool <- function(fileA,
   if (show_source) {
     return(result[])
   } else {
-    return(result[, .(readcode)])
+    return(result[, source := NULL])
   }
 }
 oxcprd_001b_codelist_tools <- file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools")

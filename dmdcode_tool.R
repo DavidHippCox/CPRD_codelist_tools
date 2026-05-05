@@ -14,7 +14,6 @@ dmdcode_tool <- function(fileA,
                          lookup_dmdcode_col = NULL,
                          lookup_id_col = NULL,
                          log_file = NULL) {
-
   mode <- match.arg(mode)
 
   # ---- Read files ----
@@ -176,7 +175,7 @@ dmdcode_tool <- function(fileA,
   if (show_source) {
     return(result[])
   } else {
-    return(result[, .(dmdcode)])
+    return(result[, source := NULL])
   }
 }
 oxcprd_001b_codelist_tools <- file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools")
@@ -187,8 +186,8 @@ oxcprd_001b_aurum_dmd <- file.path(oxcprd_001b_codelist_tools, "aurum/dmdcodes")
 gold_txt <- file.path(oxcprd_001b_gold_dmd, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_dmd, "product/CPRDAurumProduct_202601.txt")
 
-# group_A <- file.path(oxcprd_001b_gold_dmd, "v1_medication_codes_GOLD.txt")
-group_A <- file.path(oxcprd_001b_aurum_dmd, "nhsbsa_0401_0402_0403.txt")
+group_A <- file.path(oxcprd_001b_gold_dmd, "v1.2_dementia_drugs_GOLD.txt")
+# group_A <- file.path(oxcprd_001b_aurum_dmd, "nhsbsa_0401_0402_0403.txt")
 
 group_B <- file.path(aurum_txt)
 
@@ -239,7 +238,7 @@ save_aurum <- file.path(oxcprd_001b_aurum_dmd, "compare")
 dmdcode_tool(
   group_A,
   group_B,
-  colA = "dmdid",
+  colA = "dmdcode",
   colB = "dmdid",
   mode = "intersect",
   lookup_file = aurum_txt,

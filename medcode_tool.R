@@ -205,9 +205,9 @@ medcode_tool <- function(fileA,
     return(result[])
   } else {
     if (typeA == "AURUM") {
-      return(result[, .(MedCodeId)])
+      return(result[, source := NULL])
     } else {
-      return(result[, .(medcode)])
+      return(result[, source := NULL])
     }
   }
 }
@@ -220,22 +220,28 @@ oxcprd_001b_aurum_medcodes <- file.path(oxcprd_001b_codelist_tools, "aurum/medco
 gold_txt <- file.path(oxcprd_001b_gold_medcodes, "medical/medical_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_medcodes, "medical/CPRDAurumMedical_202601.txt")
 
-group_A <- file.path(oxcprd_001b_gold_medcodes, "v1_alcohol_related_psychiatric_codes_GOLD.txt")
+group_A <- file.path(oxcprd_001b_aurum_medcodes, "v0_neuropsychariatric_codes_AURUM.txt")
 
-group_B <- file.path(oxcprd_001b_gold_medcodes, "v2.1_alcohol_codes_GOLD.txt")
+group_B <- file.path(oxcprd_001b_aurum_medcodes, "v0_depression_anxiety_AURUM.txt")
+
+# group_B <- file.path(oxcprd_001b_aurum_medcodes, "v0_alcohol_related_psychiatric_codes_AURUM.txt")
+
+# group_B <- file.path(oxcprd_001b_aurum_medcodes, "v0_drug_related_psychiatric_codes_AURUM.txt")
+
+# group_B <- file.path(oxcprd_001b_aurum_medcodes, "v0_smi_codes_AURUM.txt")
 
 save_gold <- file.path(oxcprd_001b_gold_medcodes, "compare")
-# ---- Choose lookup depending on type ----
-lookup_file <- gold_txt # or aurum_txt for AURUM runs
+save_aurum <- file.path(oxcprd_001b_aurum_medcodes, "compare")
 
-# ---- A not B ----
-medcode_tool(
-  group_A,
-  group_B,
-  mode = "A_not_B",
-  save_dir = save_gold,
-  lookup_file = lookup_file
-)
+
+# # ---- A not B ----
+# medcode_tool(
+#   group_A,
+#   group_B,
+#   mode = "A_not_B",
+#   save_dir = save_gold,
+#   lookup_file = aurum_txt
+# )
 
 # ---- Union ----
 # medcode_tool(
@@ -243,7 +249,7 @@ medcode_tool(
 #   group_B,
 #   mode = "union",
 #   save_dir = save_gold,
-#   lookup_file = lookup_file
+#   lookup_file = aurum_txt
 # )
 
 # ---- B not A ----
@@ -252,14 +258,14 @@ medcode_tool(
 #   group_B,
 #   mode = "B_not_A",
 #   save_dir = save_gold,
-#   lookup_file = lookup_file
+#   lookup_file = aurum_txt
 # )
 
 # ---- Intersection ----
-# medcode_tool(
-#   group_A,
-#   group_B,
-#   mode = "intersect",
-#   save_dir = save_gold,
-#   lookup_file = lookup_file
-# )
+medcode_tool(
+  group_A,
+  group_B,
+  mode = "intersect",
+  save_dir = save_aurum,
+  lookup_file = aurum_txt
+)

@@ -205,9 +205,9 @@ prodcode_tool <- function(fileA,
     return(result[])
   } else {
     if (typeA == "AURUM") {
-      return(result[, .(ProdCodeId)])
+      return(result[, source := NULL])
     } else {
-      return(result[, .(prodcode)])
+      return(result[, source := NULL])
     }
   }
 }

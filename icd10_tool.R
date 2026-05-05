@@ -178,7 +178,7 @@ icd10_tool <- function(fileA,
   if (show_source) {
     return(result[])
   } else {
-    return(result[, .(icd10)])
+    return(result[, source := NULL])
   }
 }
 
