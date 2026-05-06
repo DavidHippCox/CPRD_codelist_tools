@@ -203,7 +203,7 @@ Chronic depression	295537016	Chronic depression	4323	In AURUM and GOLD
 Chronic depression	295537016	Chronic depression	4323	In AURUM and GOLD
 Chronic recurrent major depressive disorder	2540711000006115			Only in AURUM
 Counselling for anxiety	6025551000006116			Only in AURUM
-Counselling for depression	12735821000000000			Only in AURUM
+Counselling for depression	12735821000006110			Only in AURUM
 Depressed	2164006016	Depressed	1996	In AURUM and GOLD
 Depressed	3071801000006112	Depressed	1996	In AURUM and GOLD
 Depressed	2164006016	Depressed	1996	In AURUM and GOLD
@@ -279,19 +279,14 @@ Depressive conduct disorder	5024511000006118			Only in AURUM
 Depressive disorder	295535012	Depressive disorder NEC	324	In AURUM and GOLD
 Depressive disorder	295535012	Depressive disorder NEC	324	In AURUM and GOLD
 Depressive disorder in remission	7515151000006115			Only in AURUM
-Depressive disorder NEC	12727931000000000	Depressive disorder NEC	324	In AURUM and GOLD
+Depressive disorder NEC	12727931000006110	Depressive disorder NEC	324	In AURUM and GOLD
 Depressive episode	376721000006114	[X]Depressive episode	4639	In AURUM and GOLD
-Depressive episode	13974501000000000	[X]Depressive episode	4639	In AURUM and GOLD
+Depressive episode	13974501000006115	[X]Depressive episode	4639	In AURUM and GOLD
 Depressive episode	376721000006114	[X]Depressive episode	4639	In AURUM and GOLD
-Depressive episode	13974501000000000	[X]Depressive episode	4639	In AURUM and GOLD
 Depressive episode	376721000006114	[X]Depressive episode	4639	In AURUM and GOLD
-Depressive episode	13974501000000000	[X]Depressive episode	4639	In AURUM and GOLD
 Depressive episode	376721000006114	[X]Depressive episode	4639	In AURUM and GOLD
-Depressive episode	13974501000000000	[X]Depressive episode	4639	In AURUM and GOLD
 Depressive episode	376721000006114			Only in AURUM
-Depressive episode	13974501000000000			Only in AURUM
 Depressive episode	376721000006114			Only in AURUM
-Depressive episode	13974501000000000			Only in AURUM
 Depressive illness	3071791000006111			Only in AURUM
 Depressive neurosis	399961000006118	[X]Neurotic depression	7737	In AURUM and GOLD
 Depressive neurosis	399961000006118	[X]Neurotic depression	7737	In AURUM and GOLD
@@ -335,7 +330,7 @@ Endogenous depression first episode	642461000006116	Endogenous depression first 
 Endogenous depression first episode	346972018	Endogenous depression first episode	6950	In AURUM and GOLD
 Episodic paroxysmal anxiety disorder	6358151000006115			Only in AURUM
 EuroQol five dimension five level anxiety depression score	2139351000000110	EuroQol five dimension five level anxiety depression score	108928	In AURUM and GOLD
-Follow up for depression	13962531000000000			Only in AURUM
+Follow up for depression	13962531000006113			Only in AURUM
 Free-floating anxiety	3822891000006112			Only in AURUM
 GAD - Generalised anxiety disorder	2848311000006117			Only in AURUM
 GAD - Generalized anxiety disorder	2848301000006115			Only in AURUM
@@ -378,7 +373,7 @@ Mild major depression	1715771000006112	[X]Major depression, mild	98346	In AURUM 
 Mild major depression	1715771000006112	[X]Major depression, mild	98346	In AURUM and GOLD
 Mild major depression, single episode	294825017	Single major depressive episode, mild	16506	In AURUM and GOLD
 Mild major depression, single episode	294825017	Single major depressive episode, mild	16506	In AURUM and GOLD
-Mild major depressive disorder co-occurrent with anxiety single episode	9901161000006120			Only in AURUM
+Mild major depressive disorder co-occurrent with anxiety single episode	9901161000006119			Only in AURUM
 Mild recurrent major depression	3149661000006117			Only in AURUM
 Minimal major depression single episode	7803731000006112			Only in AURUM
 Minor depressive disorder	3286331000006115			Only in AURUM
@@ -441,8 +436,8 @@ Psycho-education - anxiety	1806261000006117			Only in AURUM
 Psychotic depression	3700911000006115			Only in AURUM
 Puerperal depression	1231868010	Puerperal depression	2923	In AURUM and GOLD
 Puerperal depression	1231868010	Puerperal depression	2923	In AURUM and GOLD
-QOF (Quality and Outcomes Framework) depression quality indicator-related care invitation	12626331000000000			Only in AURUM
-QOF (Quality and Outcomes Framework) depression quality indicator-related care invitation using preferred method of communication	12734331000000000			Only in AURUM
+QOF (Quality and Outcomes Framework) depression quality indicator-related care invitation	12626331000006116			Only in AURUM
+QOF (Quality and Outcomes Framework) depression quality indicator-related care invitation using preferred method of communication	12734331000006115			Only in AURUM
 Reactive (neurotic) depression	882401000006115			Only in AURUM
 Reactive depression	359121000006116	[X] Reactive depression NOS	5987	In AURUM and GOLD
 Reactive depression	359121000006116	[X] Reactive depression NOS	5987	In AURUM and GOLD
@@ -466,8 +461,8 @@ Recurrent major depression in full remission	294843018	Recurrent major depressiv
 Recurrent major depression in partial remission	3033261000006113			Only in AURUM
 Recurrent major depression in remission	3606411000006115			Only in AURUM
 Recurrent major depressive disorder	3578861000006116			Only in AURUM
-Recurrent major depressive disorder co-occurrent with anxiety in full remission	12127561000000000			Only in AURUM
-Recurrent major depressive disorder in partial remission co-occurrent with anxiety	12127571000000000			Only in AURUM
+Recurrent major depressive disorder co-occurrent with anxiety in full remission	12127561000006116			Only in AURUM
+Recurrent major depressive disorder in partial remission co-occurrent with anxiety	12127571000006111			Only in AURUM
 Recurrent major depressive episode NOS	294845013	Recurrent major depressive episode NOS	25563	In AURUM and GOLD
 Recurrent major depressive episode NOS	294845013	Recurrent major depressive episode NOS	25563	In AURUM and GOLD
 Recurrent major depressive episodes	182721000006111	Recurrent major depressive episode	15099	In AURUM and GOLD
@@ -484,9 +479,9 @@ Recurrent major depressive episodes, unspecified	294836012	Recurrent major depre
 Recurrent major depressive episodes, unspecified	294836012	Recurrent major depressive episodes, unspecified	35671	In AURUM and GOLD
 Recurrent major depressive episodes,partial/unspec remission	182801000006114	Recurrent major depressive episodes,partial/unspec remission	56273	In AURUM and GOLD
 Recurrent major depressive episodes,partial/unspec remission	182801000006114	Recurrent major depressive episodes,partial/unspec remission	56273	In AURUM and GOLD
-Recurrent mild major depressive disorder co-occurrent with anxiety	12127531000000000			Only in AURUM
-Recurrent moderate major depressive disorder co-occurrent with anxiety	12127551000000000			Only in AURUM
-Recurrent severe major depressive disorder co-occurrent with anxiety	12127541000000000			Only in AURUM
+Recurrent mild major depressive disorder co-occurrent with anxiety	12127531000006113			Only in AURUM
+Recurrent moderate major depressive disorder co-occurrent with anxiety	12127551000006118			Only in AURUM
+Recurrent severe major depressive disorder co-occurrent with anxiety	12127541000006115			Only in AURUM
 Referral for depression self-help video	2370061000000111			Only in AURUM
 Referral for guided self-help for anxiety	300681000000118	Referral for guided self-help for anxiety	28925	In AURUM and GOLD
 Referral for guided self-help for anxiety declined	2391581000000111	Referral for guided self-help for anxiety declined	114506	In AURUM and GOLD
