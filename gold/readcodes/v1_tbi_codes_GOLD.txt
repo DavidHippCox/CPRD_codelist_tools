@@ -1,0 +1,117 @@
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease
+721	S0...00	49680	0	1194	<5	Fracture of skull	February 2009
+1520	S60..00	63057	0	2243	<5	Concussion	February 2009
+2461	S01..00	1896	0	52	<5	Fracture of base of skull	February 2009
+2864	S640.00	5411	0	1036	<5	Intracranial injury NOS no open intracranial wound	February 2009
+2883	S622.00	950	0	86	0	Closed traumatic subdural haemorrhage	February 2009
+4088	SC20.00	584	0	73	0	Late effect of intracranial injury without skull fracture	February 2009
+7862	S629.00	6677	0	37	0	Traumatic subdural haematoma	February 2009
+8181	S628.00	238	0	<5	0	Traumatic subdural haemorrhage	February 2009
+10201	S64..11	5584	0	176	0	Brain injury NOS	February 2009
+10239	E2A2.00	13311	0	259	0	Post-concussion syndrome	February 2009
+11120	SCX..00	178	0	15	0	Sequelae of unspecified injury of head	February 2009
+15184	S00..00	2651	0	125	<5	Fracture of vault of skull	February 2009
+15558	S601.00	332	0	<5	0	Concussion with less than 1 hour loss of consciousness	February 2009
+16880	SC37.00	327	0	<5	0	Sequelae of superficial injury of head	February 2009
+17958	S001000	15	0	0	0	Closed #skull vlt + intracranial injury, unspec state consc	February 2009
+20195	S00z.00	164	0	0	0	Fracture of vault of skull NOS	February 2009
+24579	Eu06200	856	0	29	0	[X]Postconcussional syndrome	February 2009
+24763	SD08.00	223	0	11	0	Multiple superficial injuries of head	February 2009
+27492	S031.00	52	0	<5	0	Closed fracture of skull NOS with intracranial injury	February 2009
+27632	S643.00	253	0	<5	0	Diffuse brain injury	February 2009
+27657	S001.00	57	0	0	0	Closed fracture vault of skull with intracranial injury	February 2009
+27806	SK1x000	165	0	7	0	Multiple injuries of head	February 2009
+28077	S62..14	160	0	0	0	Traumatic cerebral haemorrhage	February 2009
+28079	S600.00	5949	0	31	0	Concussion with no loss of consciousness	February 2009
+28416	S60z.00	1354	0	16	<5	Concussion NOS	February 2009
+30203	S028.00	922	0	16	0	Fracture of skull and facial bones	February 2009
+32214	S644.00	123	0	0	0	Focal brain injury	February 2009
+32298	S6z..00	17	0	0	0	Intracranial injury, excluding those with skull fracture NOS	February 2009
+33368	S64z.00	5078	0	<5	0	Intracranial injury NOS	February 2009
+33515	S044.00	595	0	10	0	Multiple fractures involving skull and facial bones	February 2009
+33593	S01z.00	305	0	<5	0	Fracture of base of skull NOS	February 2009
+33692	S0z..00	1860	0	8	<5	Fracture of skull NOS	February 2009
+34870	S64..00	11683	0	653	0	Intracranial injury NOS	February 2009
+35456	S6...00	4396	0	5	0	Intracranial injury excluding those with skull fracture	February 2009
+35867	S630.12	228	0	<5	0	Intracranial haematoma following injury	February 2009
+38304	S620.00	108	0	<5	0	Closed traumatic subarachnoid haemorrhage	February 2009
+38445	S605.00	138	0	<5	0	Concussion with loss of consciousness of unspec duration	February 2009
+40393	S645.00	61	0	0	0	Intracranial injury with prolonged coma	February 2009
+40659	SF0..11	153	0	<5	0	Crush injury of head	February 2009
+41935	SJ80.00	22	0	<5	0	Concussion and oedema of cervical spinal cord	February 2009
+44273	Syu0E00	99	0	<5	0	[X]Intracranial injury, unspecified	February 2009
+45421	S624.00	84	0	0	0	Closed traumatic extradural haemorrhage	February 2009
+45956	S011600	<5	0	0	0	Closed #skull bse + intracranial injury, LOC unspec duration	February 2009
+46142	S04..00	395	0	<5	0	Multiple fractures involving skull or face with other bones	February 2009
+46277	SK18.00	65	0	<5	0	Injury of muscle and tendon of head	February 2009
+49470	Syu0L00	29	0	5	0	[X]Other specified injuries of head	February 2009
+50247	S04z.00	24	0	0	0	Multiple fractures involving skull/face with other bones NOS	February 2009
+51299	S003.00	15	0	0	0	Open fracture vault of skull with intracranial injury	February 2009
+51308	S641.00	14	0	0	0	Intracranial injury NOS + open intracranial wound	February 2009
+51682	S602.00	25	0	0	0	Concussion with 1-24 hours loss of consciousness	February 2009
+51773	SJ1..00	22	0	0	0	Injury to other cranial nerves	February 2009
+52865	Syu0.00	319	0	<5	0	[X]Injuries to the head	February 2009
+53035	S642.00	57	0	<5	0	Traumatic cerebral oedema	February 2009
+53980	S629000	43	0	0	0	Traumatic subdural haematoma without open intracranial wound	February 2009
+56509	S641z00	<5	0	0	0	Intracranial inj NOS + open intracran wnd+concussion unspec	February 2009
+56831	SC20z00	414	0	7	0	Late effect of intracranial injury NOS	February 2009
+57559	SF03.00	44	0	5	0	Crushing injury of skull	February 2009
+57978	SJ1z.00	11	0	0	0	Injury to other cranial nerve NOS	February 2009
+58545	S627.00	175	0	0	0	Traumatic subarachnoid haemorrhage	February 2009
+59577	Syu0100	38	0	0	0	[X]Superficial injury of other parts of head	February 2009
+59959	S001z00	5	0	0	0	Closed #skull vlt with intracranial injury+concussion unspec	February 2009
+60687	SJA0.00	9	0	0	0	Concussion and oedema of lumbar spinal cord	February 2009
+61239	S603.00	15	0	0	0	Concussion with >24 hrs loss of consc with full recovery	February 2009
+61357	S003600	<5	0	0	0	Open #skull vlt + intracranial injury, LOC unspec duration	February 2009
+62743	S003z00	<5	0	0	0	Open #skull vlt with intracranial injury + concussion unspec	February 2009
+62841	S001600	9	0	0	0	Closed #skull vlt + intracranial injury, LOC unspec duration	February 2009
+63679	S011.00	38	0	0	0	Closed fracture base of skull with intracranial injury	February 2009
+63980	7J43200	6	0	0	0	Fixation of fracture of spine and skull traction HFQ	February 2009
+64167	S003000	<5	0	0	0	Open #skull vlt + intracranial injury, unspec state of consc	February 2009
+65647	S645000	<5	0	0	0	Intracranial injury with prolonged coma without open wound	February 2009
+66754	S640z00	13	0	0	0	Intracranial inj NOS no open intracran wnd+concussion unspec	February 2009
+67603	S033.00	8	0	0	0	Open fracture of skull NOS with intracranial injury	February 2009
+67641	SC00.00	33	0	<5	0	Late effect of fracture of skull and face bones	February 2009
+71725	S011400	<5	0	0	0	Closed #skull bse + intracranial injury, >24hr LOC+recovery	February 2009
+71866	S041z00	<5	0	0	0	Closed #skull/face,mult + intracran inj, concussion unspec	February 2009
+71963	S642000	<5	0	0	0	Traumatic cerebral oedema without open intracranial wound	February 2009
+72412	S001400	6	0	0	0	Closed #skull vlt + intracranial injury, >24hr LOC+recovery	February 2009
+73206	S041.00	6	0	0	0	Mult #skull/face+other bones, closed + intracranial injury	February 2009
+73441	S003100	<5	0	0	0	Open #skull vlt + intracranial injury, no loss of consc	February 2009
+73451	S013400	<5	0	0	0	Open #skull bse + intracranial injury, >24hr LOC + recovery	February 2009
+73471	S625.00	11	0	0	0	Open traumatic extradural haemorrhage	February 2009
+73790	S645100	<5	0	0	0	Intracranial injury with prolonged coma with open wound	February 2009
+93458	S622z00	<5	0	0	0	Subdural h'ge inj no open intracran wound+concussion unspec	February 2009
+93851	S001300	<5	0	0	0	Closed #skull vlt + intracranial injury, 1-24hr loss consc	February 2009
+94351	S623.00	<5	0	0	0	Open traumatic subdural haemorrhage	February 2009
+94409	S610z00	<5	0	0	0	Cortex cont no open intracranial wnd + concussion unspec	February 2009
+94692	Syu0400	12	0	0	0	[X]Fracture of skull and facial bones, part unspecified	February 2009
+96677	S629100	7	0	0	0	Traumatic subdural haematoma with open intracranial wound	April 2009
+96717	S621.00	<5	0	0	0	Open traumatic subarachnoid haemorrhage	April 2009
+96731	S624z00	<5	0	0	0	Extradural h'ge inj no open intracran wnd+concussion unspec	April 2009
+97064	S013.00	<5	0	0	0	Open fracture base of skull with intracranial injury	July 2009
+98520	Syu0D00	6	0	0	0	[X]Other intracranial injuries	February 2010
+98577	SyuLB00	13	0	0	0	[X]Sequelae of unspecified injury of head	February 2010
+98776	S001200	<5	0	0	0	Closed #skull vlt + intracranial injury, <1hr loss of consc	March 2010
+99018	S001100	8	0	0	0	Closed #skull vlt + intracranial injury, no loss of consc	April 2010
+99072	S642100	<5	0	0	0	Traumatic cerebral oedema with open intracranial wound	April 2010
+99282	S013600	<5	0	0	0	Open #skull bse + intracranial injury, LOC unspec duration	May 2010
+99505	S013200	<5	0	0	0	Open #skull bse + intracranial injury, <1hr loss of consc	May 2010
+99512	S604.00	<5	0	0	0	Concussion with >24 hrs loss of consc without full recovery	May 2010
+100009	SJ90.00	5	0	0	0	Concussion and oedema of thoracic spinal cord	June 2010
+102718	S013z00	<5	0	0	0	Open #skull bse + intracranial injury + concussion unspec	August 2011
+103914	SC20100	110	0	11	0	Sequelae of injury to brain	March 2012
+104726	S003400	<5	0	0	0	Open #skull vlt + intracranial injury, >24hr LOC + recovery	August 2012
+104820	S61xz00	6	0	0	0	Brain cont no open intracranial wound + concussion unspec	August 2012
+105137	S011300	<5	0	0	0	Closed #skull bse + intracranial injury, 1-24hr loss consc	November 2012
+105699	S61yz00	<5	0	0	0	Brain cont + open intracranial wound + concussion unspec	January 2013
+106486	S620z00	<5	0	0	0	Subarach h'ge inj no open intracran wnd + concussion unspec	August 2013
+106511	S621z00	<5	0	0	0	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	August 2013
+107041	S043.00	<5	0	0	0	Mult #skull/face + other bones, open + intracranial injury	October 2013
+107337	S647.00	1045	0	37	0	Acquired brain injury	December 2013
+109509	9Nlg.00	99	0	10	0	Seen by brain injury link worker	April 2015
+109772	Syu0300	9	0	0	0	[X]Fractures of other skull and facial bones	June 2015
+111246	SyuL000	<5	0	0	0	[X]Sequelae of other specified injury of head	August 2016
+111559	S011z00	<5	0	0	0	Closed #skull bse + intracranial injury + concussion unspec	December 2016
+112563	S011200	<5	0	0	0	Closed #skull bse + intracranial injury, <1hr loss of consc	April 2018
+112568	S011100	<5	0	0	0	Closed #skull bse + intracranial injury, no loss of consc	April 2018
