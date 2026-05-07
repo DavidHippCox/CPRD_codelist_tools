@@ -1,5 +1,12 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	
+1210253015	499097	E2001	E200100	Panic disorder	371631005	1210253015		32	
+138401000006119	22517	E202-1	E202.11	Social phobic disorders	25501002	42759014		32	
+1715191000006112	24651	Eu328	EU32800	Severe major depression with psychotic features	73867007	122670017		32	
+1755921000006119	386	Eu433	EU43300	Acute posttraumatic stress disorder following military combat	446175003	2882462013		32	
+223631000000113	30596	E202	E202.00	Phobic disorders	386810004	1491809016		32	
+223641000000116	68434	E202-2	E202.12	Phobic anxiety disorder	386810004	1491809016		32	
 251629019	1784301	1465	1465.00	H/O: depression	161469008	251629019		32	
+269821000006113	380162	E203	E203.00	Obsessive-compulsive disorder	191736004	295014019		32	
 294826016	67895	E1122	E112200	Moderate major depression, single episode	15639000	26507014		32	
 294828015	22596	E1124	E112400	Single major depressive episode, severe, with psychosis	191604000	294828015		32	
 294840015	21968	E1134	E113400	Recurrent major depressive episodes, severe, with psychosis	191613003	294840015		32	
@@ -23,17 +30,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 296249012	115913	Eu41z	EU41Z00	[X]Anxiety disorder, unspecified	197480006	303689015		32	
 296254015	666	Eu42y	EU42Y00	[X]Other obsessive-compulsive disorders	191736004	295014019		32	
 296255019	5168	Eu42z	EU42Z00	[X]Obsessive-compulsive disorder, unspecified	191736004	295014019		32	
-401766011	562014	E112	E112.00	Major depression, single episode	36923009	61590015		32	
-401780016	14788	E202z	E202Z00	Phobic disorder	386810004	1480929014		32	
-401869010	73240	Eu323	EU32300	[X]Severe depressive episode with psychotic symptoms	191604000	294828015		32	
-401881014	1665	Eu41y	EU41Y00	[X]Other specified anxiety disorders	197480006	303689015		32	
-481154010	751775	E2002	E200200	Generalised anxiety disorder	21897009	481154010		32	
-1210253015	499097	E2001	E200100	Panic disorder	371631005	1210253015		32	
-9331000006113	94	E2y	E2Y..00	Other specified neuroses or other mental disorders	74732009	124108014		32	
-138401000006119	22517	E202-1	E202.11	Social phobic disorders	25501002	42759014		32	
-223631000000113	30596	E202	E202.00	Phobic disorders	386810004	1491809016		32	
-223641000000116	68434	E202-2	E202.12	Phobic anxiety disorder	386810004	1491809016		32	
-269821000006113	380162	E203	E203.00	Obsessive-compulsive disorder	191736004	295014019		32	
 362781000006116	2159	Eu3z-1	EU3Z.11	[X]Affective psychosis NOS	46206005	77054013		32	
 362871000006111	95754	Eu400	EU40000	Agoraphobia	70691001	117416017		32	
 362881000006114	2954	Eu400-1	EU40011	[X]Agoraphobia without history of panic disorder	70691001	117416017		32	
@@ -42,6 +38,10 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 398561000006117	446448	Eu412	EU41200	[X]Mixed anxiety and depressive disorder	231504006	346979010		32	
 399981000006111	3074	Eu4	EU4..00	[X]Neurotic, stress-related and somatoform disorders	74732009	124108014		32	
 400321000006113	245892	Eu42	EU42.00	[X]Obsessive - compulsive disorder	191736004	295014019		32	
+401766011	562014	E112	E112.00	Major depression, single episode	36923009	61590015		32	
+401780016	14788	E202z	E202Z00	Phobic disorder	386810004	1480929014		32	
+401869010	73240	Eu323	EU32300	[X]Severe depressive episode with psychotic symptoms	191604000	294828015		32	
+401881014	1665	Eu41y	EU41Y00	[X]Other specified anxiety disorders	197480006	303689015		32	
 418051000006118	19946	Eu400-2	EU40012	[X]Panic disorder with agoraphobia	191722009	294992011		32	
 419841000006116	18000	Eu341-4	EU34114	[X]Persistant anxiety depression	231504006	346979010		32	
 423021000006114	504851	Eu431	EU43100	Post-traumatic stress disorder	47505003	494851018		32	
@@ -55,9 +55,9 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 426981000006116	401	Eu323-4	EU32314	[X]Single episode of reactive depressive psychosis	191676002	294917018		32	
 427071000006115	39643	Eu401	EU40100	Social phobia	25501002	42759014		32	
 473201000006114	311307	E11	E11..00	Mood disorder	46206005	77054013		32	
+481154010	751775	E2002	E200200	Generalised anxiety disorder	21897009	481154010		32	
 488211000006112	14756208	E2003	E200300	Mixed anxiety and depressive disorder	231504006	346979010		32	
 613791000006115	43669	E11-2	E11..12	Depressive psychoses	35489007	59212011		32	
 675731000006112	12159	E2z	E2Z..00	Neuroses or other mental disorder NOS	74732009	124108014		32	
 675861000006113	1073361	E204	E204.00	Reactive depression (situational)	87414006	144929012		32	
-1715191000006112	24651	Eu328	EU32800	Severe major depression with psychotic features	73867007	122670017		32	
-1755921000006119	386	Eu433	EU43300	Acute posttraumatic stress disorder following military combat	446175003	2882462013		32	
+9331000006113	94	E2y	E2Y..00	Other specified neuroses or other mental disorders	74732009	124108014		32	
