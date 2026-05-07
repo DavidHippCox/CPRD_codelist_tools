@@ -2,7 +2,7 @@ rm(list = ls())
 gc()
 library(data.table)
 
-oxcprd_001b_codelist_tools <- file.path("J:/cprd dementia/cprd projects/oxcprd_001b - cprd alcohol related dementia (case control)/codelist_tools")
+oxcprd_001b_codelist_tools <- getwd()
 
 
 oxcprd_001b_gold_prodcodes <- file.path(oxcprd_001b_codelist_tools, "gold/prodcodes")
@@ -11,34 +11,37 @@ oxcprd_001b_aurum_prodcodes <- file.path(oxcprd_001b_codelist_tools, "aurum/prod
 gold_txt <- file.path(oxcprd_001b_gold_prodcodes, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_prodcodes, "product/CPRDAurumProduct_202601.txt")
 
-output_path <- file.path(oxcprd_001b_aurum_prodcodes, "products_04010.txt")
+bnf_prefix <- "0411"
 
+output_path <- file.path(
+  oxcprd_001b_aurum_prodcodes,
+  paste0("products_", bnf_prefix, ".txt")
+)
 
 products <- fread(
   aurum_txt,
   sep = "\t",
   colClasses = "character",
   na.strings = "",
-  quote = "",
+  quote = ""
 )
 
-# Flag rows where ANY split bnfcode starts with "04010"
-products[, has_04010 := {
-  parts <- strsplit(BNFChapter, "/", fixed = TRUE) # bnfcode for gold
+# Flag rows where ANY split BNFChapter starts with the prefix
+products[, has_prefix := {
+  parts <- strsplit(BNFChapter, "/", fixed = TRUE)
   vapply(
     parts,
-    function(x) any(startsWith(x, "04010")),
+    function(x) any(startsWith(x, bnf_prefix)),
     logical(1)
   )
 }]
 
-products_04010 <- products[has_04010 == TRUE]
+products_filtered <- products[has_prefix == TRUE]
 
-setorder(products_04010, "ProdCodeId")
-
+setorder(products_filtered, ProdCodeId)
 
 fwrite(
-  products_04010,
+  products_filtered,
   file = output_path,
   sep = "\t",
   na = "",
