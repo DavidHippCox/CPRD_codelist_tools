@@ -1,0 +1,186 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+202904019	70	S60-1	S60..11	Commotio cerebri	110030002	202904019		32
+4174111000006110	10199	^ESCTCO417411		Concussion injury of brain	110030002	345267014		32
+4174151000006111	18	^ESCTMT417415		MTBI - Mild traumatic brain injury	110030002	3034714010		32
+4174161000006113	1199	^ESCTMI417416		Mild traumatic brain injury	110030002	3034729012		32
+559961000006110	33	S0110	S011000	Closed #skull bse + intracranial inj, unspec state of consc	111603000	178853015		32
+14500081000006114	1466	^ESCT1450008		Traumatic or nontraumatic brain injury	127294003	4565402016		32
+4396211000006113	12	^ESCTBR439621		Brain tissue injury	127294003	474101019		32
+4396221000006117	<5	^ESCTIN439622		Intracerebral injury	127294003	474102014		32
+4396231000006119	22	^ESCTBR439623		Brain damage	127294003	3285264010		32
+4396241000006112	1703	^ESCTAC439624		Acquired brain injury	127294003	2273491000000112		32
+746591000006115	7	S6415	S641500	Intracran inj NOS + open intracran wnd+>24hr LOC -restored	127296001	584010		32
+746601000006111	11	S6416	S641600	Intracran inj NOS + open intracran wnd+LOC unspec duration	127296001	584010		32
+746611000006114	40	S6405	S640500	Intracran inj NOS no open intracran wnd+>24hr LOC -restored	127296001	584010		32
+746621000006118	427	S6406	S640600	Intracran inj NOS no open intracran wnd+LOC unspec duration	127296001	584010		32
+768821000006111	93	S6400	S640000	Intracranial inj NOS no open intracran wnd + unspec consc	127296001	584010		32
+768831000006114	115	S6402	S640200	Intracranial inj NOS no open intracran wnd+<1hr loss consc	127296001	584010		32
+768841000006116	26	S6404	S640400	Intracranial inj NOS no open intracran wnd+>24hr LOC+recover	127296001	584010		32
+768851000006119	29	S6403	S640300	Intracranial inj NOS no open intracran wnd+1-24hr loss consc	127296001	584010		32
+768871000006112	9573	S6401	S640100	Intracranial inj NOS no open intracran wnd+no loss consc	127296001	584010		32
+769311000006117	6	S6414	S641400	Intracranial inj NOS + open intracran wnd+>24hr LOC+recovery	127296001	584010		32
+769331000006111	<5	S6413	S641300	Intracranial inj NOS + open intracranial wnd + 1-24hr LOC	127296001	584010		32
+769341000006118	42	S6410	S641000	Intracranial inj NOS + open intracranial wnd + unspec consc	127296001	584010		32
+769351000006116	10	S6412	S641200	Intracranial inj NOS + open intracranial wnd+<1hr loss consc	127296001	584010		32
+769361000006119	583	S6411	S641100	Intracranial inj NOS + open intracranial wound+no loss consc	127296001	584010		32
+222611000000112	462	SJ-1	SJ...11	Cranial nerve injuries	17769000	30029019		32
+323641015	10	SJ1y	SJ1y.00	Other specified cranial nerve injury	17769000	30029019		32
+323646013	<5	SJ1yz	SJ1yz00	Other specified cranial nerve injury NOS	17769000	30029019		32
+325298018	75	Syu07	Syu0700	Injury of cranial nerve	17769000	30029019		32
+320602018	1930	S610	S610.00	Closed cerebral contusion	209834008	320602018		32
+597741000006113	<5	S6102	S610200	Cortex cont no open intracranial wnd + <1hr loss of consc	209834008	320602018		32
+597751000006110	<5	S6104	S610400	Cortex cont no open intracranial wnd + >24 hr LOC + recovery	209834008	320602018		32
+597761000006112	8	S6103	S610300	Cortex cont no open intracranial wnd + 1-24hrs loss of consc	209834008	320602018		32
+597781000006119	8	S6106	S610600	Cortex cont no open intracranial wnd + LOC unspec duration	209834008	320602018		32
+597791000006116	6	S6101	S610100	Cortex cont no open intracranial wnd + no loss of consc	209834008	320602018		32
+597801000006115	15	S6100	S610000	Cortex cont no open intracranial wnd + unspec state consc	209834008	320602018		32
+597811000006117	<5	S6105	S610500	Cortex cont no open intracranial wnd +>24hr LOC not restored	209834008	320602018		32
+124131000006114	<5	S6223	S622300	Subdural h'ge inj no open intracran wnd+1-24hr loss consc	209947002	320752018		32
+124141000006116	35	S6226	S622600	Subdural h'ge inj no open intracran wnd+LOC unspec duration	209947002	320752018		32
+124161000006117	14	S6220	S622000	Subdural h'ge inj no open intracranial wnd + unspec consc	209947002	320752018		32
+124171000006112	8	S6224	S622400	Subdural h'ge inj no open intracranial wnd+>24 LOC +recovery	209947002	320752018		32
+124181000006110	<5	S6222	S622200	Subdural h'ge inj no open intracranial wound+<1hr loss consc	209947002	320752018		32
+124191000006113	5	S6221	S622100	Subdural h'ge inj no open intracranial wound+no loss consc	209947002	320752018		32
+124051000006118	9	S6236	S623600	Subdural h'ge inj + open intracran wnd+LOC unspec duration	209956005	320770015		32
+124081000006114	<5	S623z	S623z00	Subdural h'ge inj + open intracranial wnd+concussion unspec	209956005	320770015		32
+320836010	3987	S62-3	S62..13	Subdural haemorrhage following injury	209987007	320836010		32
+4854331000006110	12	^ESCTTR485433		Traumatic subdural hemorrhage	209987007	320837018		32
+4854361000006118	5	^ESCTTR485436		Traumatic subdural intracranial haemorrhage	209987007	2912530015		32
+259611000006111	44	S012	S012.00	Open fracture base skull without mention intracranial injury	24063002	40395011		32
+264191000006118	<5	S0120	S012000	Open #skull bse no intracranial inj, unspec state of consc	24063002	40395011		32
+264201000006115	<5	S012z	S012z00	Open #skull bse no intracranial injury + concussion unspec	24063002	40395011		32
+264211000006117	28	S0122	S012200	Open #skull bse no intracranial injury, <1hr loss of consc	24063002	40395011		32
+264241000006118	<5	S0126	S012600	Open #skull bse no intracranial injury, LOC unspec duration	24063002	40395011		32
+264251000006116	8	S0121	S012100	Open #skull bse no intracranial injury, no loss of consc	24063002	40395011		32
+560101000006111	20	S0100	S010000	Closed #skull bse no intracranial injury, unspec state consc	24063002	40395011		32
+895171000006110	404	S01-99	S01..99	#Base of skull	24063002	895171000006110		32
+390533018	106	ESCTCR2		Crushing injury of skull and intracranial contents	262576002	390533018		32
+5455861000006111	80	^ESCTDI545586		Diffuse axonal brain injury	262693007	390683019		32
+391028016	7783	S62A	S62A.00	Traumatic extradural haematoma	262949005	391028016		32
+5459161000006119	<5	^ESCTTR545916		Traumatic extradural hematoma	262949005	391026017		32
+5459181000006112	<5	^ESCTEX545918		Extradural haemorrhage after injury	262949005	391029012		32
+5459201000006113	83	^ESCTTR545920		Traumatic intracranial extradural haematoma	262949005	2916480013		32
+647051000006114	339	S624-1	S624.11	Epidural haematoma following injury	262949005	391028016		32
+660031000006110	14	S6246	S624600	Extradural h'ge inj no open intracra wnd+LOC unspec duration	262949005	391026017		32
+660091000006114	12	S6240	S624000	Extradural h'ge inj no open intracranial wnd + unspec consc	262949005	391026017		32
+5459221000006115	<5	^ESCTTR545922		Traumatic cranial subdural haematoma	262952002	391036013		32
+5459231000006117	49	^ESCTTR545923		Traumatic intracranial subdural haematoma	262952002	391037016		32
+5459241000006110	12	^ESCTTR545924		Traumatic intracranial subdural hematoma	262952002	391038014		32
+5459251000006112	<5	^ESCTTR545925		Traumatic cranial subdural hematoma	262952002	391039018		32
+5459261000006114	79	^ESCTTR545926		Traumatic subdural haematoma	262952002	2913152010		32
+159461000006110	6	7J43D	7J43D00	Rvsn open reduc spinal fracture+other internal fix	265721002	394587017		32
+204991000006116	61	7J437	7J43700	Primary open reduc spinal fracture+other internal fix	265721002	394587017		32
+276582018	207	7J43y	7J43y00	Other specified fixation of fracture of spine	265721002	394587017		32
+276583011	631	7J43z	7J43z00	Fixation of fracture of spine NOS	265721002	394587017		32
+503551000006112	<5	7J432-1	7J43211	Barr skull traction for fracture of spine	265721002	394587017		32
+602751000006117	8	7J432-2	7J43212	Crutchfield skull traction for fracture of spine	265721002	394587017		32
+761191000006114	2855	7J43	7J43.00	Fixation of spinal fracture	265721002	394587017		32
+320699015	104	S61z	S61z.00	Cerebral laceration and contusion NOS	269144002	402921014		32
+39841000006117	5	S61y	S61y.00	Oth cerebral laceration/contusion + open intracranial wound	269144002	402921014		32
+39851000006115	21	S61x	S61x.00	Oth cerebral laceration/contusion no open intracranial wound	269144002	402921014		32
+402921014	1806	S61	S61..00	Cerebral laceration and contusion	269144002	402921014		32
+524331000006116	5	S61y6	S61y600	Brain cont + open intracranial wound + LOC unspec duration	269144002	402921014		32
+524351000006111	<5	S61y0	S61y000	Brain cont + open intracranial wound + unspec state consc	269144002	402921014		32
+524411000006117	15	S61x6	S61x600	Brain cont no open intracranial wound + LOC unspec duration	269144002	402921014		32
+896521000006112	125	S61-99	S61..99	Cerebral laceration/contusion	269144002	896521000006112		32
+123331000006114	<5	S6206	S620600	Subarach h'ge inj no open intracran wnd+LOC unspec duration	28048009	46957015		32
+123391000006113	5	S6202	S620200	Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc	28048009	46957015		32
+123411000006113	6	S6201	S620100	Subarachnoid h'ge inj no open intracran wnd+no loss consc	28048009	46957015		32
+123421000006117	<5	S6203	S620300	Subarachnoid h'ge inj no open intracran wound + 1-24hr LOC	28048009	46957015		32
+123431000006119	<5	S6200	S620000	Subarachnoid h'ge inj no open intracran wound + unspec consc	28048009	46957015		32
+322131013	25525	SD0y	SD0y.00	Superficial injury of head	283025007	421488018		32
+750611000006113	3122	SC20-1	SC20.11	Sequelae of injuries of head	285234008	424185011		32
+264271000006114	<5	S0332	S033200	Open #skull NOS + intracranial inj, <1hr loss of consc	371161001	1209863015		32
+264311000006114	<5	S0331	S033100	Open #skull NOS + intracranial inj, no loss of consc	371161001	1209863015		32
+264321000006118	<5	S0330	S033000	Open #skull NOS + intracranial inj, unspec state of consc	371161001	1209863015		32
+264331000006115	<5	S032z	S032z00	Open #skull NOS no intracranial inj + concussion unspec	371161001	1209863015		32
+264391000006116	<5	S0321	S032100	Open #skull NOS no intracranial inj, no loss of consc	371161001	1209863015		32
+264401000006119	8	S0320	S032000	Open #skull NOS no intracranial inj, unspec state of consc	371161001	1209863015		32
+264411000006116	16	S032	S032.00	Open #skull NOS without mention of intracranial injury	371161001	1209863015		32
+52921000006113	<5	S0334	S033400	Open #skull NOS + intracranial inj, >24hrs LOC + recovery	371161001	1209863015		32
+6350091000006111	324	^ESCTOP635009		Open fracture of skull	371161001	1209863015		32
+3106341000006111	<5	^ESCTLA310634		Late effect of fracture of skull AND/OR face bones	37655003	62809019		32
+3106361000006110	<5	^ESCTSE310636		Sequelae of fracture of skull and facial bones	37655003	486775012		32
+735201000006116	23	SC00-2	SC00.12	Late effect of skull fracture	37655003	62810012		32
+750531000006118	10	SC00-1	SC00.11	Late effect of face fracture	37655003	62810012		32
+216991000006113	1678	E2A2-2	E2A2.12	Post-head injury syndrome	40425004	492616010		32
+3150771000006112	25842	^ESCTPO315077		Postconcussion syndrome	40425004	67405010		32
+3150801000006114	16	^ESCTNO315080		Nonpsychotic post-traumatic brain syndrome	40425004	492617018		32
+3150821000006116	17	^ESCTPO315082		Post-contusional syndrome	40425004	492619015		32
+345102013	753	E2A2-1	E2A2.11	Post-traumatic brain syndrome	40425004	492616010		32
+423061000006115	312	Eu062-2	Eu06212	[X]Post-traumatic brain syndrome	40425004	492616010		32
+423101000006117	47	Eu062-1	Eu06211	[X]Postcontusional syndrome	40425004	492619015		32
+882661000006117	1274	E2A2-99	E2A2.99	Post concussional syndrome	40425004	882661000006117		32
+660041000006117	7	S6244	S624400	Extradural h'ge inj no open intracran wnd+>24hr LOC+recovery	43216008	72101019		32
+660051000006115	<5	S6245	S624500	Extradural h'ge inj no open intracran wnd+>24hr LOC-restored	43216008	72101019		32
+660061000006118	<5	S6243	S624300	Extradural h'ge inj no open intracran wnd+1-24hr loss consc	43216008	72101019		32
+660081000006111	6	S6241	S624100	Extradural h'ge inj no open intracranial wnd + no loss consc	43216008	72101019		32
+660101000006115	14	S6242	S624200	Extradural h'ge inj no open intracranial wnd+<1hr loss consc	43216008	72101019		32
+391042012	585	S62-2	S62..12	Subarachnoid haemorrhage following injury	450375008	2915309017		32
+15320941000006115	61	^ESCT1532094		Cerebral haemorrhage due to trauma	450418003	5197922017		32
+30981000006112	<5	S6300	S630000	Oth cerebral h'ge inj no open intracran wnd+unspec consc	450418003	2915288012		32
+320852013	463	S62z	S62z.00	Cerebral haemorrhage following injury NOS	450418003	2916363013		32
+320853015	280	S63	S63..00	Other cerebral haemorrhage following injury	450418003	2916363013		32
+320897016	41	S63z	S63z.00	Other cerebral haemorrhage following injury NOS	450418003	2916363013		32
+35791000006117	6	S631	S631.00	Other cerebral h'ge after injury + open intracranial wound	450418003	2915288012		32
+35801000006116	60	S630	S630.00	Other cerebral h'ge after injury no open intracranial wound	450418003	2915288012		32
+39711000006113	<5	S631z	S631z00	Oth cereb h'ge inj + open intracran wnd+concussion unspec	450418003	2915288012		32
+39731000006119	<5	S6304	S630400	Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery	450418003	2915288012		32
+39751000006114	<5	S630z	S630z00	Oth cereb h'ge inj no open intracran wnd+concussion unspec	450418003	2915288012		32
+39761000006111	<5	S6306	S630600	Oth cereb h'ge inj no open intracran wnd+LOC unspec duration	450418003	2915288012		32
+39791000006115	<5	S6313	S631300	Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc	450418003	2915288012		32
+39831000006110	7	S6301	S630100	Oth cerebral h'ge inj no open intracranial wnd+no loss consc	450418003	2915288012		32
+505322013	4057	S62	S62..00	Cerebral haemorrhage following injury	450418003	2916363013		32
+7378401000006111	10	^ESCTTR737840		Traumatic intracerebral hemorrhage	450418003	2915288012		32
+7378421000006118	52	^ESCTTR737842		Traumatic intracerebral haemorrhage	450418003	2915664016		32
+895151000006117	772	S00-98	S00..98	#Parietal bone	48466003	895151000006117		32
+895161000006115	259	S00-99	S00..99	#Frontal bone	48466003	895161000006115		32
+123361000006117	<5	S6210	S621000	Subarachnoid h'ge inj + open intracran wound + unspec consc	5251007	9804011		32
+3381941000006112	<5	^ESCTHE338194		Head injury, without skull fracture	54355006	90342012		32
+2586851000006116	19	^ESCTFR258685		Fracture, multiple	5468008	10127011		32
+2586861000006119	<5	^ESCTFR258686		Fracture, multiple, bone	5468008	10129014		32
+2586871000006114	33	^ESCTFR258687		Fracture, multiple bone sites	5468008	10130016		32
+263901000006112	9	S0434	S043400	Open #skull/face, mult + intracran inj, >24hr LOC + recovery	5468008	10127011		32
+263911000006110	<5	S0436	S043600	Open #skull/face, mult + intracran inj, LOC unspec duration	5468008	10127011		32
+263921000006119	<5	S0432	S043200	Open #skull/face, mult + intracranial inj, <1hr LOC	5468008	10127011		32
+263941000006114	<5	S0430	S043000	Open #skull/face, mult + intracranial inj, unspec consc	5468008	10127011		32
+263961000006113	<5	S0422	S042200	Open #skull/face, mult, no intracranial inj, <1hr LOC	5468008	10127011		32
+263971000006118	<5	S0423	S042300	Open #skull/face, mult, no intracranial inj, 1-24hrs LOC	5468008	10127011		32
+263981000006115	<5	S0421	S042100	Open #skull/face, mult, no intracranial inj, no loss consc	5468008	10127011		32
+263991000006117	<5	S0420	S042000	Open #skull/face, mult, no intracranial inj, unspec consc	5468008	10127011		32
+264001000006114	<5	S0435	S043500	Open #skull/face,mult + intracran inj, >24hr LOC no restored	5468008	10127011		32
+264011000006112	<5	S042z	S042z00	Open #skull/face,mult,no intracran inj, concussion unspec	5468008	10127011		32
+560431000006113	<5	S0412	S041200	Closed #skull/face, mult + intracranial inj, <1hr LOC	5468008	10127011		32
+560441000006115	<5	S0413	S041300	Closed #skull/face, mult + intracranial inj, 1-24hrs LOC	5468008	10127011		32
+560451000006118	<5	S0411	S041100	Closed #skull/face, mult + intracranial inj, no loss consc	5468008	10127011		32
+560461000006116	10	S0410	S041000	Closed #skull/face, mult + intracranial inj, unspec consc	5468008	10127011		32
+560471000006111	<5	S0414	S041400	Closed #skull/face, mult+intracran inj, >24hr LOC+recovery	5468008	10127011		32
+560481000006114	<5	S0402	S040200	Closed #skull/face, mult, no intracranial inj, <1hr LOC	5468008	10127011		32
+560491000006112	8	S0403	S040300	Closed #skull/face, mult, no intracranial inj, 1-24hrs LOC	5468008	10127011		32
+560501000006116	13	S0401	S040100	Closed #skull/face, mult, no intracranial inj, no loss consc	5468008	10127011		32
+560511000006118	8	S0400	S040000	Closed #skull/face, mult, no intracranial inj, unspec consc	5468008	10127011		32
+560521000006114	<5	S0404	S040400	Closed #skull/face, mult,no intracran inj,>24hr LOC+recovery	5468008	10127011		32
+560531000006112	<5	S0415	S041500	Closed #skull/face, multi+intracran inj, >24hr LOC-restored	5468008	10127011		32
+560551000006117	<5	S0416	S041600	Closed #skull/face,mult + intracran inj, LOC unspec duration	5468008	10127011		32
+560561000006115	6	S040z	S040z00	Closed #skull/face,mult,no intracran inj, concussion unspec	5468008	10127011		32
+560571000006110	<5	S0405	S040500	Closed #skull/face,mult,no intracran inj,>24hr LOC-restored	5468008	10127011		32
+560581000006113	<5	S0406	S040600	Closed #skull/face,mult,no intracran inj,LOC unspec duration	5468008	10127011		32
+696131000006112	18	S042	S042.00	Mult #skull/face + other bones, open, no intracranial injury	5468008	10127011		32
+696151000006117	18	S040	S040.00	Mult #skull/face+other bones, closed, no intracranial injury	5468008	10127011		32
+3517181000006112	2282	^ESCTCO351718		Concussion with loss of consciousness	62564004	103979019		32
+659981000006114	<5	S625z	S625z00	Extradural h'ge inj + open intracran wnd+concussion unspec	65189006	108332012		32
+659991000006112	5	S6256	S625600	Extradural h'ge inj + open intracran wnd+LOC unspec duration	65189006	108332012		32
+660001000006119	<5	S6250	S625000	Extradural h'ge inj + open intracranial wnd + unspec consc	65189006	108332012		32
+318256019	108	S03	S03..00	Other and unqualified skull fractures	71642004	119023019		32
+3665291000006118	102	^ESCTFR366529		Fractured skull	71642004	1233404014		32
+402829012	10117	S03z	S03z.00	Skull fracture NOS	71642004	119023019		32
+563791000006110	280	S030	S030.00	Closed fracture of skull NOS without intracranial injury	71642004	119023019		32
+613741000006112	4256	S03z-1	S03z.11	Depressed skull fracture NOS	71642004	119023019		32
+895141000006119	2114	S0-99	S0...99	#Skull	71642004	895141000006119		32
+990921000006113	6	S0-98	S0...98	#Skull NOS	71642004	990921000006113		32
+136462012	1324962	S646	S646.00	Head injury	82271004	136462012		32
+3838151000006112	185	^ESCTHI383815		HI - Head injury	82271004	504994017		32
+3838161000006114	39	^ESCTIN383816		Injury of head region	82271004	1234695016		32
+390461014	184377	S64-2	S64..12	Head injury NOS	82271004	136462012		32
+817721000006116	612255	S64-3	S64..13	Head injury	82271004	136462012		32
+817741000006111	44066	8A31	8A31.00	Head injury - nursing supervis	82271004	136459014		32
