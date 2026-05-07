@@ -1,0 +1,55 @@
+Cluster_ID	Cluster_description	SNOMED_code	SNOMED_code_description	PCD Refset ID	Service_and_Ruleset
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	10361001	Exhaustion delirium (finding)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	130987000	Acute confusion (finding)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	154849006	Senile dementia with delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	154858004	(Transient organic psychoses) or (confusional state) (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191501001	Acute confusional state, post-traumatic (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191502008	Acute confusional state, of infective origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191505005	Acute confusional state, of cerebrovascular origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191506006	Acute confusional state NOS (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191509004	Subacute confusional state, of infective origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191510009	Subacute confusional state, of endocrine origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191511008	Subacute confusional state, of metabolic origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191678001	Reactive confusion (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	192182003	[X] (Acute/subacute brain syndrome: [& named variants]) or (delirium, not induced by alcohol and other psychoactive subs) (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	192183008	[X]Delirium not superimposed on dementia, so described (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	192186000	[X]Delirium, unspecified (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	206781004	[D]Toxic confusional state (situation)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	268676001	[X]Delirium, not induced by alcohol and other psychoactive subs (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	2776000	Delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	281793005	Intermittent confusion (finding)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	35610006	Acute brain syndrome (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	402771000000101	[X]Delirium superimposed on dementia (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	443941000000107	[X]Delirium, not induced by alcohol and other psychoactive subs (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	470731000000107	[X] Delirium: [mixed origin] or[other] (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	471881000000106	[X]Delirium not superimposed on dementia, so described (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	495871000000102	[D]Toxic confusional state (situation)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	621201000000101	Subacute confusional state NOS (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	771421000	Mixed hyperactive hypoactive delirium following surgical procedure (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	85821003	Acute non-psychotic brain syndrome (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	10349009	Multi-infarct dementia with delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	154859007	Delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191500000	Acute confusional state (& [organic delirium] or [toxic]) (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191503003	Acute confusional state, of endocrine origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191504009	Acute confusional state, of metabolic origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191507002	Subacute delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191508007	Subacute confusional state, post-traumatic (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191512001	Subacute confusional state, of cerebrovascular origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	191513006	Subacute confusional state NOS (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	192184002	[X]Delirium superimposed on dementia (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	192185001	[X] Delirium: [mixed origin] or[other] (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	231439009	Toxic confusional state (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	231440006	Delirium of mixed origin (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	231441005	Delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	268677005	[X]Other delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	268746001	(Transient organic psychoses) or (confusional state) (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	363786006	Acute confusion (finding)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	414751000000103	[X]Delirium, unspecified (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	426771000000107	[X]Other delirium (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	455831000000106	[X] (Acute/subacute brain syndrome: [& named variants]) or (delirium, not induced by alcohol and other psychoactive subs) (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	621191000000103	Acute confusional state NOS (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	724746000	Delirium due to multiple etiological factors (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	725898002	Delirium co-occurrent with dementia (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	771418002	Delirium following surgical procedure (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	771419005	Hyperactive delirium following surgical procedure (disorder)	999036391000230100	CC Core GP Contract
+DELIRIUM_COD	Delirium without a substance, medication, or alternative condition cause	771420004	Hypoactive delirium following surgical procedure (disorder)	999036391000230100	CC Core GP Contract

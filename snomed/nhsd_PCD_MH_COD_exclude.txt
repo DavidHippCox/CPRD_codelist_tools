@@ -1,0 +1,13 @@
+SnomedCTConceptId	group
+1499003	nhsd_PCD_MH_COD_exclude
+191632009	nhsd_PCD_MH_COD_exclude
+30336007	nhsd_PCD_MH_COD_exclude
+397711000000100	nhsd_PCD_MH_COD_exclude
+70814008	nhsd_PCD_MH_COD_exclude
+1231333004	nhsd_PCD_MH_COD_exclude
+191530008	nhsd_PCD_MH_COD_exclude
+191538001	nhsd_PCD_MH_COD_exclude
+35218008	nhsd_PCD_MH_COD_exclude
+63395003	nhsd_PCD_MH_COD_exclude
+7025000	nhsd_PCD_MH_COD_exclude
+76566000	nhsd_PCD_MH_COD_exclude
