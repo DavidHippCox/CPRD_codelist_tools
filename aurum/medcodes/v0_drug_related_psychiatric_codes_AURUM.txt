@@ -1,27 +1,89 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+11777101000006116	810	^ESCT1177710		Psychoactive substance-induced withdrawal syndrome	74934004	3533677015		32
+14500861000006111	95	^ESCT1450086		Hallucinosis caused by drug	191486006	4552520015		32
+14612951000006111	384	^ESCT1461295		Organic mental disorder caused by cocaine	46975003	4670024012		32
+14627031000006112	18	^ESCT1462703		Delirium caused by drug	191492000	4672793010		32
+15072361000006116	2593	^ESCT1507236		Psychoactive substance withdrawal	74934004	5143562012		32
 294679011	2102	E021	E021.00	Drug-induced paranoia or hallucinatory states	191484009	294679011		32
 294680014	4309	E0210	E021000	Drug-induced paranoid state	191485005	294680014		32
 294681013	981	E0211	E021100	Drug-induced hallucinosis	191486006	294681013		32
-294682018	499	E021z	E021Z00	Drug-induced paranoia or hallucinatory state NOS	191484009	294679011		32
-294687012	781	E02y0	E02Y000	Drug-induced delirium	191492000	294687012		32
-294692014	201	E02yz	E02YZ00	Other drug psychoses NOS	191483003	294677013		32
-294693016	27588	E02z	E02Z.00	Drug psychosis NOS	191483003	294678015		32
-397141000006111	79	Eu147	EU14700	[X]Men & beh dis due cocaine: resid & late-onset psychot dis	91388009	151411015		32
-397161000006110	14	Eu117	EU11700	[X]Men & beh dis due opioids: resid & late-onset psychot dis	943071000000104	2412771000000116		32
-397171000006115	<5	Eu134	EU13400	[X]Men & beh dis due seds/hypns: withdrwl state wth delirium	91388009	151411015		32
-397191000006119	9	Eu184	EU18400	[X]Men & beh dis vol solvents: withdrawal state wth delirium	74934004	3533677015		32
-397231000006112	43	Eu114	EU11400	[X]Men & behav dis due opioid: withdrawl state with delirium	91388009	151411015		32
-397311000006110	58	Eu197	EU19700	[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis	91388009	151411015		32
-397541000006117	545	Eu195	EU19500	[X]Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: psychotic disorder	191483003	294677013		32
-397581000006111	3439	Eu125	EU12500	Cannabis-induced psychosis	943081000000102	2412791000000117		32
-397591000006114	131	Eu165	EU16500	[X]Mental and behavioural disorders due to use of hallucinogens: psychotic disorder	943131000000102	2412891000000113		32
-397601000006118	38	Eu135	EU13500	[X]Mental and behavioural disorders due to use of sedatives or hypnotics: psychotic disorder	943091000000100	2412811000000116		32
-397641000006116	535	Eu145	EU14500	Cocaine-induced psychosis	943101000000108	2412831000000112		32
-397661000006117	527	Eu115	EU11500	Opioid-induced psychosis	943071000000104	2412771000000116		32
-397691000006113	12	Eu185	EU18500	Volatile inhalant-induced psychosis	943151000000109	2412931000000115		32
-398281000006112	68	Eu155	EU15500	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: psychotic disorder	762325009	3636410011		32
-398691000006112	66	Eu127	EU12700	[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis	91388009	151411015		32
-398721000006119	<5	Eu194	EU19400	[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium	91388009	151411015		32
-398741000006114	11	Eu157	EU15700	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: residual and late onset psychotic disorder	762325009	3636410011		32
-423031000006112	87	Eu167-1	EU16711	[X]Post hallucinogen perception disorder	91388009	151411015		32
-980141000006119	69	Eu1A5	EU1A500	[X]Mental and behavioural disorders due to use of crack cocaine: psychotic disorder	46975003	78284013		32
+294682018	499	E021z	E021z00	Drug-induced paranoia or hallucinatory state NOS	191484009	294679011		32
+294686015	651	E02y	E02y.00	Other drug psychoses	191483003	294677013		32
+294687012	781	E02y0	E02y000	Drug-induced delirium	191492000	294687012		32
+294692014	201	E02yz	E02yz00	Other drug psychoses NOS	191483003	294677013		32
+294693016	27588	E02z	E02z.00	Drug psychosis NOS	191483003	294678015		32
+295877018	3314	Eu14	Eu14.00	Cocaine-induced organic mental disorder	46975003	78284013		32
+3259291000006111	<5	^ESCTCO325929		Cocaine-related disorder	46975003	78287018		32
+3259301000006112	<5	^ESCTCO325930		Cocaine induced mental disorder	46975003	2951678012		32
+3636410011	14	^ESCT1169011		Psychotic disorder caused by stimulant	762325009	3636410011		32
+397141000006111	79	Eu147	Eu14700	[X]Men & beh dis due cocaine: resid & late-onset psychot dis	91388009	151411015		32
+397151000006113	<5	Eu164	Eu16400	[X]Mental and behavioural disorders due to use of hallucinogens: withdrawal state with delirium	91388009	151411015		32
+397161000006110	14	Eu117	Eu11700	[X]Men & beh dis due opioids: resid & late-onset psychot dis	943071000000104	2412771000000116		32
+397171000006115	<5	Eu134	Eu13400	[X]Men & beh dis due seds/hypns: withdrwl state wth delirium	91388009	151411015		32
+397191000006119	9	Eu184	Eu18400	[X]Men & beh dis vol solvents: withdrawal state wth delirium	74934004	3533677015		32
+397221000006114	6	Eu144	Eu14400	[X]Men & behav dis due cocaine: withdrawl state wth delirium	91388009	151411015		32
+397231000006112	43	Eu114	Eu11400	[X]Men & behav dis due opioid: withdrawl state with delirium	91388009	151411015		32
+397251000006117	253	Eu14y	Eu14y00	[X]Men & behav dis due to use cocaine: oth men & behav dis	46975003	78284013		32
+397301000006112	120	Eu19y	Eu19y00	[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis	91388009	151411015		32
+397311000006110	58	Eu197	Eu19700	[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis	91388009	151411015		32
+397331000006116	<5	Eu16y	Eu16y00	[X]Men/behav dis due to use hallucinogens: oth men/behav dis	91388009	151411015		32
+397341000006114	<5	Eu13y	Eu13y00	[X]Men/behav dis due to use seds/hypntcs: oth men/behav disd	91388009	151411015		32
+397351000006111	6	Eu18y	Eu18y00	[X]Men/behav dis due to use vol solvents: oth men/behav disd	91388009	151411015		32
+397441000006118	107	Eu14z	Eu14z00	[X]Ment & behav dis due use cocaine: unsp ment & behav dis	91388009	151411015		32
+397451000006116	443	Eu11z	Eu11z00	[X]Ment & behav dis due use opioids: unsp ment & behav dis	91388009	151411015		32
+397471000006114	2677	Eu19z	Eu19z00	Psychoactive substance abuse	91388009	151411015		32
+397491000006110	84	Eu151	Eu15100	[X]Ment/behav dis due to use oth stims inc caff: harmful use	91388009	151411015		32
+397511000006116	12	Eu16z	Eu16z00	[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis	91388009	151411015		32
+397521000006112	39	Eu13z	Eu13z00	[X]Ment/behav dis due use seds/hypntcs: unsp ment/behav disd	91388009	151411015		32
+397531000006110	22	Eu18z	Eu18z00	[X]Ment/behav dis due use vol solvents: unsp ment/behav dis	91388009	151411015		32
+397541000006117	545	Eu195	Eu19500	[X]Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: psychotic disorder	191483003	294677013		32
+397561000006118	40	Eu160	Eu16000	[X]Mental & behav dis due hallucinogens: acute intoxicatn	91388009	151411015		32
+397571000006113	69	Eu130	Eu13000	[X]Mental & behav dis due seds/hypntcs: acute intoxication	91388009	151411015		32
+397581000006111	3439	Eu125	Eu12500	Cannabis-induced psychosis	943081000000102	2412791000000117		32
+397591000006114	131	Eu165	Eu16500	[X]Mental and behavioural disorders due to use of hallucinogens: psychotic disorder	943131000000102	2412891000000113		32
+397601000006118	38	Eu135	Eu13500	[X]Mental and behavioural disorders due to use of sedatives or hypnotics: psychotic disorder	943091000000100	2412811000000116		32
+397631000006114	160	Eu140	Eu14000	[X]Mental & behav dis due to use cocaine: acute intoxication	91388009	151411015		32
+397641000006116	535	Eu145	Eu14500	Cocaine-induced psychosis	943101000000108	2412831000000112		32
+397661000006117	527	Eu115	Eu11500	Opioid-induced psychosis	943071000000104	2412771000000116		32
+397691000006113	12	Eu185	Eu18500	Volatile inhalant-induced psychosis	943151000000109	2412931000000115		32
+397711000006111	398	Eu15	Eu15.00	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine	91388009	151411015		32
+397741000006110	<5	Eu163	Eu16300	[X]Mental and behavioural disorders due to use of hallucinogens: withdrawal state	91388009	151411015		32
+397751000006112	164	Eu133	Eu13300	[X]Mental and behav dis due seds/hypntcs: withdrawal state	91388009	151411015		32
+397821000006110	36	Eu126	Eu12600	[X]Mental and behav dis due to use cannabinoids: amnesic syn	91388009	151411015		32
+397841000006115	16	Eu146	Eu14600	[X]Mental and behav dis due to use cocaine: amnesic syndrome	91388009	151411015		32
+397861000006116	76	Eu143	Eu14300	[X]Mental and behav dis due to use cocaine: withdrawal state	91388009	151411015		32
+397871000006111	32	Eu161	Eu16100	[X]Mental and behav dis due to use hallucinogens: harmfl use	91388009	151411015		32
+397921000006118	41	Eu116	Eu11600	[X]Mental and behav dis due to use opioids: amnesic syndrome	91388009	151411015		32
+397951000006110	5	Eu136	Eu13600	[X]Mental and behav dis due to use seds/hypntcs: amnesic syn	91388009	151411015		32
+397961000006112	110	Eu131	Eu13100	[X]Mental and behav dis due to use seds/hypntcs: harmful use	91388009	151411015		32
+398001000006114	<5	Eu186	Eu18600	[X]Mental and behav dis due to use vol solvents: amnesic syn	91388009	151411015		32
+398011000006112	59	Eu182	Eu18200	[X]Mental and behav dis due to vol solvents: dependence synd	91388009	151411015		32
+398021000006116	10	Eu166	Eu16600	[X]Mental and behav dis due use hallucinogens: amnesic syndr	91388009	151411015		32
+398041000006111	112	Eu181	Eu18100	[X]Mental and behav dis due volatile solvents: harmful use	91388009	151411015		32
+398061000006110	1094	Eu192	Eu19200	[X]Mental and behav dis mlti/oth psych sbs: dependence syndr	91388009	151411015		32
+398071000006115	68	Eu193	Eu19300	[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state	91388009	151411015		32
+398081000006117	236	Eu152	Eu15200	[X]Mental and behav dis oth stim inc caffein: dependnce synd	91388009	151411015		32
+398091000006119	<5	Eu156	Eu15600	[X]Mental and behav dis oth stims inc caffeine: amnesic syn	91388009	151411015		32
+398111000006111	781	Eu13	Eu13.00	[X]Mental and behavioural dis due use sedatives/hypnotics	91388009	151411015		32
+398161000006114	218	Eu16	Eu16.00	[X]Mental and behavioural disorders due to use hallucinogens	91388009	151411015		32
+398271000006114	129	Eu190	Eu19000	[X]Mental/behav dis multi drg use/psychoac subs: acute intox	91388009	151411015		32
+398281000006112	68	Eu155	Eu15500	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: psychotic disorder	762325009	3636410011		32
+3984641000006113	14	^ESCTDI398464		Disorder due to psychoactive substance use	91388009	509423012		32
+3984651000006110	7	^ESCTPS398465		Psychoactive substance misuse disorder	91388009	509424018		32
+398681000006114	24	Eu153	Eu15300	[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state	91388009	151411015		32
+398691000006112	66	Eu127	Eu12700	[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis	91388009	151411015		32
+398701000006112	18	Eu167	Eu16700	[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis	91388009	151411015		32
+398711000006110	<5	Eu137	Eu13700	[X]Mnt/bh dis due seds/hypns: resid & late-onset psychot dis	91388009	151411015		32
+398721000006119	<5	Eu194	Eu19400	[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium	91388009	151411015		32
+398731000006116	<5	Eu154	Eu15400	[X]Mnt/bh dis oth stims inc caffne: withdr state wt delirium	91388009	151411015		32
+398741000006114	11	Eu157	Eu15700	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: residual and late onset psychotic disorder	762325009	3636410011		32
+398751000006111	<5	Eu187	Eu18700	[X]Mnt/bh dis vol solvents: resid & late-onset psychotic dis	91388009	151411015		32
+423031000006112	87	Eu167-1	Eu16711	[X]Post hallucinogen perception disorder	91388009	151411015		32
+4763211000006118	15289	^ESCTDR476321		Drug-induced psychosis	191483003	294677013		32
+4763231000006112	103	^ESCTDR476323		Drug induced psychosis	191483003	2951661015		32
+4763261000006115	<5	^ESCTDR476326		Drug induced paranoia	191485005	2951672013		32
+4763311000006110	<5	^ESCTDR476331		Drug induced delirium	191492000	2951727010		32
+630831000006113	14763	E02	E02..00	Drug psychosis	191483003	294678015		32
+8342791000006117	<5	^ESCTHA834279		Hallucinogen-induced psychosis	943131000000102	2412891000000113		32
+980101000006116	364	Eu1A1	Eu1A100	[X]Mental behav disorders due use crack cocaine: harmful use	46975003	78284013		32
+980141000006119	69	Eu1A5	Eu1A500	[X]Mental and behavioural disorders due to use of crack cocaine: psychotic disorder	46975003	78284013		32
