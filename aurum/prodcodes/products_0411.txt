@@ -1,0 +1,32 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues	has_prefix
+11492741000033118	32499611000001108	Memantine 10mg orodispersible tablets sugar free	Memantine 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	10.000mg	04110000	35981	TRUE
+11492841000033111	32499711000001104	Memantine 20mg orodispersible tablets sugar free	Memantine 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	20.000mg	04110000	58753	TRUE
+12331641000033115	10694911000001108	Memantine 10mg soluble tablets sugar free	Memantine 10mg soluble tablets sugar free	Soluble tablet/	Oral	Memantine hydrochloride	10.000mg	04110000	2983	TRUE
+12331741000033112	10695111000001109	Memantine 20mg soluble tablets sugar free	Memantine 20mg soluble tablets sugar free	Soluble tablet/	Oral	Memantine hydrochloride	20.000mg	04110000	4086	TRUE
+12532241000033110	14159211000001107	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Not applicable	Route of administration not applicable			04110000	18982	TRUE
+13316541000033110	35204911000001100	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Not applicable	Route of administration not applicable			04110000	1528	TRUE
+14265641000033111	20346711000001101	Donepezil 10mg orodispersible tablets	Donepezil 10mg orodispersible tablets	Orodispersible tablet	Oral	Donepezil hydrochloride	10.000mg	04110000	821	TRUE
+14274841000033116	35205111000001104	Memantine 5mg orodispersible tablets sugar free	Memantine 5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	5.000mg	04110000	7338	TRUE
+1673341000033115	42041311000001100	Rivastigmine 1.5mg capsules	Rivastigmine 1.5mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	1.500mg	04110000	360331	TRUE
+1673441000033114	42041511000001106	Rivastigmine 3mg capsules	Rivastigmine 3mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	3.000mg	04110000	477904	TRUE
+1673541000033110	42041611000001105	Rivastigmine 4.5mg capsules	Rivastigmine 4.5mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	4.500mg	04110000	184819	TRUE
+1673641000033111	42041711000001101	Rivastigmine 6mg capsules	Rivastigmine 6mg capsules	Capsule/ Oral capsule	Oral	Rivastigmine hydrogen tartrate	6.000mg	04110000	154739	TRUE
+2191341000033112	42036411000001102	Galantamine 4mg tablets	Galantamine 4mg tablets	Tablet/ Oral Tablet	Oral	Galantamine hydrobromide	4.000mg	04110000	18262	TRUE
+2191441000033118	42036511000001103	Galantamine 8mg tablets	Galantamine 8mg tablets	Tablet/ Oral Tablet	Oral	Galantamine hydrobromide	8.000mg	04110000	83593	TRUE
+2191541000033117	42036311000001109	Galantamine 12mg tablets	Galantamine 12mg tablets	Tablet/ Oral Tablet	Oral	Galantamine hydrobromide	12.000mg	04110000	92353	TRUE
+2656441000033116	4340311000001102	Rivastigmine 2mg/ml oral solution sugar free	Rivastigmine 2mg/ml oral solution sugar free	Oral solution	Oral	Rivastigmine hydrogen tartrate	2.000mg/1.000ml	04110000	17936	TRUE
+2801441000033112	3462711000001102	Galantamine 20mg/5ml oral solution sugar free	Galantamine 20mg/5ml oral solution sugar free	Oral solution	Oral	Galantamine hydrobromide	4.000mg/1.000ml	04110000	24755	TRUE
+2835341000033112	42037411000001100	Memantine 10mg tablets	Memantine 10mg tablets	Tablet/ Oral Tablet	Oral	Memantine hydrochloride	10.000mg	04110000	2663838	TRUE
+2835441000033118	4652211000001101	Memantine 10mg/ml oral solution sugar free	Memantine 10mg/ml oral solution sugar free	Oral solution	Oral	Memantine hydrochloride	10.000mg/1.000ml	04110000	243829	TRUE
+3293541000033114	9306011000001105	Galantamine 8mg modified-release capsules	Galantamine 8mg modified-release capsules	Modified-release capsule	Oral	Galantamine hydrobromide	8.000mg	04110000	116223	TRUE
+3293641000033110	9305811000001107	Galantamine 16mg modified-release capsules	Galantamine 16mg modified-release capsules	Modified-release capsule	Oral	Galantamine hydrobromide	16.000mg	04110000	293225	TRUE
+3293741000033118	9305911000001102	Galantamine 24mg modified-release capsules	Galantamine 24mg modified-release capsules	Modified-release capsule	Oral	Galantamine hydrobromide	24.000mg	04110000	419098	TRUE
+4022041000033110	11140411000001108	Donepezil 5mg orodispersible tablets sugar free	Donepezil 5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Donepezil hydrochloride	5.000mg	04110000	64881	TRUE
+4022141000033114	11140311000001101	Donepezil 10mg orodispersible tablets sugar free	Donepezil 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Donepezil hydrochloride	10.000mg	04110000	157178	TRUE
+4321241000033114	12315111000001105	Rivastigmine 4.6mg/24hours transdermal patches	Rivastigmine 4.6mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	4.600mg/24.000hour	04110000	230829	TRUE
+4321541000033111	12315211000001104	Rivastigmine 9.5mg/24hours transdermal patches	Rivastigmine 9.5mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	9.500mg/24.000hour	04110000	497203	TRUE
+4607841000033119	13939111000001104	Memantine 20mg tablets	Memantine 20mg tablets	Tablet/ Oral Tablet	Oral	Memantine hydrochloride	20.000mg	04110000	3767803	TRUE
+479941000033116	42035511000001105	Donepezil 10mg tablets	Donepezil 10mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	10.000mg	04110000	8893557	TRUE
+480041000033117	42035611000001109	Donepezil 5mg tablets	Donepezil 5mg tablets	Tablet/ Oral Tablet	Oral	Donepezil hydrochloride	5.000mg	04110000	3203151	TRUE
+8348041000033112	22403511000001106	Rivastigmine 13.3mg/24hours transdermal patches	Rivastigmine 13.3mg/24hours transdermal patches	Transdermal patch	Transdermal	Rivastigmine	13.300mg/24.000hour	04110000	46194	TRUE
+9302241000033114	24687811000001109	Donepezil 1mg/ml oral solution sugar free	Donepezil 1mg/ml oral solution sugar free	Oral solution	Oral	Donepezil hydrochloride	1.000mg/1.000ml	04110000	9798	TRUE

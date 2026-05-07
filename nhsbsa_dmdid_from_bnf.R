@@ -1,3 +1,5 @@
+rm(list = ls())
+gc()
 library(readxl)
 library(data.table)
 
@@ -17,15 +19,8 @@ dt <- as.data.table(
   read_excel(path, col_types = "text")
 )
 
-dt_filtered <- dt[grepl("^(0401|0402|0403)", `BNF Code`)]
+dt_filtered <- dt[grepl("^(0411)", `BNF Code`)]
 
-map <- c(
-  "0401" = "anxiety_and_hypnotics",
-  "0402" = "antipsychotics",
-  "0403" = "antidepressants"
-)
-
-dt_filtered[, drugtypes := map[substr(`BNF Code`, 1, 4)]]
 
 print(head(dt_filtered))
 
@@ -34,7 +29,6 @@ message(nrow(dt_filtered))
 dt_final <- dt_filtered[, .(
   `BNF Code`,
   `SNOMED Code`,
-  drugtypes,
   `DM+D: Product Description`,
   VTM,
   `VTM Name`
@@ -42,4 +36,4 @@ dt_final <- dt_filtered[, .(
 
 setnames(dt_final, "SNOMED Code", "dmdid")
 
-fwrite(dt_final, file.path(root, "nhsbsa_0401_0402_0403.txt"), sep = "\t")
+fwrite(dt_final, file.path(root, "nhsbsa_0411.txt"), sep = "\t")
