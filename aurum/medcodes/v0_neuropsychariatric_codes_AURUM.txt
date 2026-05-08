@@ -164,10 +164,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 296394016	62	Eu51y	Eu51y00	[X]Other nonorganic sleep disorders	270487001	405106013		32	challenging 
 296396019	261	Eu51z	Eu51z00	[X]Nonorganic sleep disorder, unspecified	270487001	405106013		32	challenging 
 296530012	107	Eu656	Eu65600	Paraphilia	50299009	83791018		32	challenging 
-296557014	322	Eu70y	Eu70y00	[X]Mild mental retardation, other impairments of behaviour	86765009	143892017		32	challenging 
-296565012	28	Eu71y	Eu71y00	[X]Mod retard oth behav impair	61152003	101619019		32	challenging 
-296574014	311	Eu72y	Eu72y00	[X]Severe mental retardation, other impairments of behaviour	40700009	67882016		32	challenging 
-296592018	44	Eu7yy	Eu7yy00	[X]Other mental retardation, other impairments of behaviour	110359009	175156010		32	challenging 
 296691016	6808	Eu91	Eu91.00	[X]Conduct disorders	430909002	2765597014		32	challenging 
 296703016	135	Eu91y	Eu91y00	[X]Other conduct disorders	17961008	30331018		32	challenging 
 29926014	2259	E27z3	E27z300	Masturbation	17704007	29926014		32	challenging 
@@ -321,8 +317,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3950381000006113	19	^ESCTAN395038		Anxiety about blushing	89225005	508408011		31	affective
 398351000006110	34408	Eu412-1	Eu41211	[X]Mild anxiety depression	231504006	346979010		32	affective
 398581000006110	617	Eu92z	Eu92z00	[X]Mixed disorder of conduct and emotions, unspecified	192099000	295570014		32	challenging 
-398651000006118	371	Eu701	Eu70100	[X]Mld mental retard sig impairment behav req attent/treatmt	86765009	143892017		32	challenging 
-398761000006113	208	Eu711	Eu71100	[X]Mod mental retard sig impairment behav req attent/treatmt	61152003	101619019		32	challenging 
 399841000006110	2595	Eu460	Eu46000	[X]Neurasthenia	78667006	130532011		32	affective
 400071000006111	77	Eu512	Eu51200	[X]Nonorganic disorder of the sleep-wake schedule	268722008	401890019		32	challenging 
 400121000006111	4496	Eu510	Eu51000	Nonorganic insomnia	192454004	296381018		32	challenging 
@@ -341,7 +335,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 403931000006116	1169	Eu054	Eu05400	Organic anxiety disorder	17496003	29572018		32	affective
 403961000006113	6746	Eu052	Eu05200	Organic delusional disorder	5510009	10196013		32	psychosis
 403991000006117	1714	Eu050	Eu05000	Organic hallucinosis	45912004	76558013		32	psychosis
-404851000006117	16	Eu7y1	Eu7y100	[X]Oth mental retard sig impairment behav req attent/treatmt	110359009	175156010		32	challenging 
 406739012	3119	Fy02	Fy02.00	Disorders of the sleep-wake schedule	271794005	406739012		32	challenging 
 407062014	608114	1B17-1	1B17.11	C/O - feeling depressed	272022009	407062014		27	affective
 407066012	28114	1B17-2	1B17.12	C/O - feeling unhappy	272024005	407066012		27	affective
@@ -361,18 +354,13 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 42191000006110	3958	E03y0	E03y000	Organic delusional syndrome	5510009	10196013		32	psychosis
 42201000006113	702	E03y1	E03y100	Organic hallucinosis syndrome	45912004	76558013		32	psychosis
 423327015	2598	1P10	1P10.00	Clinging behaviour	284605004	423327015		27	challenging 
-423481000006119	36	Eu731	Eu73100	[X]Profound ment retard sig impairmnt behav req attent/treat	31216003	52225019		32	challenging 
-423511000006110	15	Eu73y	Eu73y00	[X]Profound mental retardation, other impairments of behavr	31216003	52225019		32	challenging 
 423811000006112	270	Eu430-5	Eu43015	[X]Psychic shock	67195008	500648010		32	affective
 424071000006112	805	Eu233-2	Eu23312	[X]Psychogenic paranoid psychosis	191680007	294924017		32	psychosis
 424081000006110	594	Eu5z-1	Eu5z.11	[X]Psychogenic physiological dysfunction NOS	231520001	347000018		32	challenging 
 424511000006112	2208	Eu23z-2	Eu23z12	[X]Reactive psychosis	231437006	346896012		32	psychosis
 426207014	3201	1Q0	1Q0..00	Impulsive character	286756000	426207014		27	challenging 
-426521000006114	191	Eu721	Eu72100	[X]Sev mental retard sig impairment behav req attent/treatmt	40700009	67882016		32	challenging 
 426791000006115	167	Eu65z-1	Eu65z11	[X]Sexual deviation NOS	50299009	83791018		32	challenging 
 429561000006111	24743	Eu633	Eu63300	Trichotillomania	17155009	29010011		32	challenging 
-430081000006115	53	Eu7z1	Eu7z100	[X]Unsp mentl retard sig impairment behav req attent/treatmt	110359009	175156010		32	challenging 
-431231000006115	40	Eu7zy	Eu7zy00	[X]Unspecified mental retardatn, other impairments of behav	110359009	175156010		32	challenging 
 432561000006116	22	Eu653	Eu65300	[X]Voyeurism	63835008	106091015		32	challenging 
 441512015	7299	E2920	E292000	Separation anxiety disorder	11806006	441512015		32	affective
 44335019	8203	E122	E122.00	Paraphrenia	26472000	44335019		32	psychosis

@@ -158,7 +158,6 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 22654	1P3..00	3005	0	260	0	Compulsive behaviour	February 2009	challenging 
 10581	288..11	711	0	30	0	Uncooperative	February 2009	challenging 
 22888	14X4.00	1460	0	0	0	On sex offenders register	February 2009	challenging 
-39016	Eu70y00	50	0	0	0	[X]Mild mental retardation, other impairments of behaviour	February 2009	challenging 
 24546	Ry13.00	735	0	38	0	[D]Overactivity	February 2009	challenging 
 3667	1B15.00	6450	0	174	0	Irritable	February 2009	challenging 
 49027	3AB2.00	311	0	24	0	Severely abnormal behaviour	February 2009	challenging 
@@ -183,14 +182,11 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 45362	E275711	158	0	7	0	Compulsive water drinking	February 2009	challenging 
 27724	E2Czz00	1910	0	14	0	Disturbance of conduct NOS	February 2009	challenging 
 12510	E27z400	1143	0	20	0	Nail-biting	February 2009	challenging 
-50751	Eu72100	32	0	0	0	[X]Sev mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
 17724	J08z100	686	0	13	0	Lip biting	February 2009	challenging 
 18883	ZX1P.00	864	0	23	0	Swallowing substances	February 2009	challenging 
 49657	1P02.00	662	0	29	0	Disinhibited behaviour	February 2009	challenging 
 46060	1Q0..00	615	0	23	0	Impulsive character	February 2009	challenging 
 4911	E2Cy.00	372	0	37	0	Other conduct disturbances	February 2009	challenging 
-39412	Eu70100	32	0	0	0	[X]Mld mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
-55848	Eu72y00	41	0	0	0	[X]Severe mental retardation, other impairments of behaviour	February 2009	challenging 
 25432	ZX11500	998	0	38	0	Biting own tongue	February 2009	challenging 
 39030	1P53.00	1365	0	15	0	Argumentative behaviour	February 2009	challenging 
 45263	E2E2.00	296	0	7	0	Hyperkinetic conduct disorder	February 2009	challenging 
@@ -199,10 +195,7 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 12722	ZX14200	5188	0	12	<5	Pulling out sutures	February 2009	challenging 
 22281	ZX11.00	98	0	<5	0	Biting self	February 2009	challenging 
 20286	E27z000	905	0	74	0	Hair plucking	February 2009	challenging 
-54881	Eu71100	25	0	<5	0	[X]Mod mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
-66383	Eu7zy00	26	0	0	0	[X]Unspecified mental retardatn, other impairments of behav	February 2009	challenging 
 91580	Eu92.11	231	0	<5	0	[X]Emotional behavioural problems	February 2009	affective
-42520	Eu7yy00	11	0	0	0	[X]Other mental retardation, other impairments of behaviour	February 2009	challenging 
 45950	ZX17200	34	0	<5	0	Banging own head against own body parts	February 2009	challenging 
 22911	13HN100	958	0	51	0	Shoplifting	February 2009	challenging 
 28683	ZX1..14	86	0	<5	0	Self-abusive behaviour	February 2009	challenging 
@@ -216,13 +209,11 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 32574	ZX19300	138	0	<5	0	Head-hitting	February 2009	challenging 
 45243	ZX1F.00	87	0	<5	0	Rubbing own skin	February 2009	challenging 
 26147	14X9.00	309	0	<5	0	Alleged perpetrator of physical abuse	February 2009	challenging 
-59407	Eu71y00	13	0	0	0	[X]Mod retard oth behav impair	February 2009	challenging 
 22055	J08z000	386	0	15	0	Cheek biting	February 2009	challenging 
 18296	R00z700	1023	0	22	0	[D]Demoralization and apathy	February 2009	challenging 
 2777	R2y3.11	955	0	179	0	[D] Self neglect	February 2009	challenging 
 47623	ZX1..12	34	0	<5	0	SIB - Self-injurious behaviour	February 2009	challenging 
 20090	28C..00	96	0	18	0	O/E - embarrassing behaviour	February 2009	challenging 
-66783	Eu7z100	<5	0	0	0	[X]Unsp mentl retard sig impairment behav req attent/treatmt	February 2009	challenging 
 41448	R00z900	204	0	14	0	[D]Hostility	February 2009	challenging 
 25289	ZX11200	205	0	<5	0	Biting own fingers	February 2009	challenging 
 59525	ZX11400	13	0	<5	0	Biting own arm	February 2009	challenging 
@@ -231,8 +222,6 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 9769	E2C1100	342	0	37	0	Solitary stealing	February 2009	challenging 
 41599	E2C4.00	94	0	5	0	Mixed disturbance of conduct and emotion	February 2009	challenging 
 6121	E2C4z00	73	0	<5	0	Mixed disturbance of conduct and emotion NOS	February 2009	challenging 
-98100	Eu73100	<5	0	0	0	[X]Profound ment retard sig impairmnt behav req attent/treat	November 2009	challenging 
-56547	Eu7y100	9	0	0	0	[X]Oth mental retard sig impairment behav req attent/treatmt	February 2009	challenging 
 43397	Z7CCC00	109	0	<5	0	Found wandering the streets	February 2009	challenging 
 35439	ZX11100	49	0	0	0	Biting own hand	February 2009	challenging 
 39545	ZX11111	44	0	0	0	Hand biting	February 2009	challenging 
@@ -240,7 +229,6 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 103185	ZX16300	<5	0	0	0	Gouging own rectum	October 2011	challenging 
 32267	ZX1L.00	103	0	<5	0	Self-mutilation	February 2009	challenging 
 20473	E2C3300	84	0	<5	0	Pyromania	February 2009	challenging 
-90276	Eu73y00	5	0	0	0	[X]Profound mental retardation, other impairments of behavr	February 2009	challenging 
 26009	Z7CCB00	112	0	<5	0	Wandering	February 2009	challenging 
 72559	ZX19100	14	0	<5	0	Punching self	February 2009	challenging 
 39199	ZX1A.00	46	0	<5	0	Inserting foreign bodies into own orifices	February 2009	challenging 
