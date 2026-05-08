@@ -6,7 +6,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1216369018	652764	ZV40-1	ZV40.11	[V]Behavioural problems	277843001	414563012		27	challenging 
 1222473015	2911	R005-2	R005.12	[D]Sleep rhythm problems	3745000	1229316019		32	challenging 
 1222474014	108188	R005-1	R005.11	[D]Insomnia - symptom	193462001	297924011		32	challenging 
-1222496015	32576	R0360-1	R036011	Bulimia	78004001	129453019		32	challenging 
 1230451012	11367	E2924	E292400	Adjustment reaction with anxious mood	47372000	1230451012		32	affective
 125252016	50126	1B1f	1B1f.00	Anger	75408008	125252016		27	challenging 
 12702751000006110	443	^ESCT1270275		Hostile behaviour	79351003	504086010		32	challenging 
@@ -453,7 +452,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5628441000006118	334	^ESCTPE562844		Performance anxiety	279622009	416975011		31	affective
 5655851000006112	572	^ESCTIN565585		Intermittent confusion	281793005	419884014		31	delirium
 5719381000006112	49	^ESCTIM571938		Impulsiveness	286756000	2646762011		27	challenging 
-577901000006119	4668	E2751-1	E275111	Compulsive eating disorder	78004001	129452012		32	challenging 
 5886481000006112	5965	^ESCTAN588648		Anxiety attack	300895004	442086017		31	affective
 612521000006115	4018	E030-1	E030.11	Delirium - acute organic	2776000	5694012		32	delirium
 612531000006117	354	E031-1	E031.11	Delirium - subacute organic	191507002	294705014		32	delirium

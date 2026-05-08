@@ -239,7 +239,6 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 22212	1P10.00	271	0	<5	0	Clinging behaviour	February 2009	challenging 
 46713	28C..11	24	0	<5	0	O/E - irreverent behaviour	February 2009	challenging 
 36043	E213.12	13	0	<5	0	Quarrelsome personality	February 2009	challenging 
-11608	E275111	777	0	43	0	Compulsive eating disorder	February 2009	challenging 
 104891	E293z00	8	0	0	0	Adjustment reaction with predominant disturbance conduct NOS	August 2012	challenging 
 53590	E2C3400	58	0	<5	0	Intermittent explosive disorder	February 2009	challenging 
 94096	E2C3500	<5	0	0	0	Isolated explosive disorder	February 2009	challenging 
