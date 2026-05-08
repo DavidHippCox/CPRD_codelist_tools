@@ -1,6 +1,5 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	nsp_subtype
 10122017	1641	E13y1	E13y100	Brief reactive psychosis	5464005	10122017		32	psychosis
-106091015	145	E22y1	E22y100	Voyeurism	63835008	106091015		32	challenging 
 107501000006113	15	E2D1-3	E2D1.13	Taunting / tormenting	60411006	498730016		32	challenging 
 111701012	27585	1B1B1	1B1B100	Middle insomnia	67233009	111701012		27	challenging 
 119579013	69	E141	E141.00	Disintegrative psychosis	71961003	119579013		32	psychosis
@@ -163,10 +162,8 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 296253014	5097	Eu422	Eu42200	[X]Mixed obsessional thoughts and acts	191736004	295011010		32	affective
 296394016	62	Eu51y	Eu51y00	[X]Other nonorganic sleep disorders	270487001	405106013		32	challenging 
 296396019	261	Eu51z	Eu51z00	[X]Nonorganic sleep disorder, unspecified	270487001	405106013		32	challenging 
-296530012	107	Eu656	Eu65600	Paraphilia	50299009	83791018		32	challenging 
 296691016	6808	Eu91	Eu91.00	[X]Conduct disorders	430909002	2765597014		32	challenging 
 296703016	135	Eu91y	Eu91y00	[X]Other conduct disorders	17961008	30331018		32	challenging 
-29926014	2259	E27z3	E27z300	Masturbation	17704007	29926014		32	challenging 
 299274011	83430	Fy00	Fy00.00	Disorders of initiating and maintaining sleep	194437008	299274011		32	challenging 
 299344018	2373	Fyu58	Fyu5800	[X]Other sleep disorders	39898005	67285010		32	challenging 
 302031000006118	15828	Ry18	Ry18.00	[D]Self neglect	248054003	370326011		32	challenging 
@@ -300,12 +297,9 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3790361000006118	8	^ESCTHO379036		Hostile behavior	79351003	131640017		32	challenging 
 3790371000006113	<5	^ESCTHO379037		Hostility	79351003	131641018		32	challenging 
 379691000006110	393	Eu51z-1	Eu51z11	[X]Emotional sleep disorder NOS	270487001	405106013		32	challenging 
-380211000006115	52	Eu652	Eu65200	[X]Exhibitionism	58349009	96970011		32	challenging 
 3822891000006112	<5	^ESCTFR382289		Free-floating anxiety	81350009	134947015		31	affective
 3865651000006117	11	^ESCTTE386565		Temper tantrums	83943005	139198011		32	challenging 
-386821000006114	32	Eu650	Eu65000	[X]Fetishism	59174009	98313015		32	challenging 
 387071000006117	29	Eu24-1	Eu24.11	[X]Folie a deux	191670008	294908018		32	psychosis
-387801000006118	18	Eu65y-1	Eu65y11	[X]Frotteurism	50299009	83791018		32	challenging 
 389251000006114	1545	Eu901	Eu90100	[X]Hyperkinetic conduct disorder	192132008	295623015		32	challenging 
 389261000006111	59	Eu901-1	Eu90111	[X]Hyperkinetic disorder associated with conduct disorder	192132008	295623015		32	challenging 
 389431000006115	194	Eu44-3	Eu44.13	[X]Hysteria	44376007	74016017		32	affective
@@ -361,7 +355,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 426207014	3201	1Q0	1Q0..00	Impulsive character	286756000	426207014		27	challenging 
 426791000006115	167	Eu65z-1	Eu65z11	[X]Sexual deviation NOS	50299009	83791018		32	challenging 
 429561000006111	24743	Eu633	Eu63300	Trichotillomania	17155009	29010011		32	challenging 
-432561000006116	22	Eu653	Eu65300	[X]Voyeurism	63835008	106091015		32	challenging 
 441512015	7299	E2920	E292000	Separation anxiety disorder	11806006	441512015		32	affective
 44335019	8203	E122	E122.00	Paraphrenia	26472000	44335019		32	psychosis
 4452081000006114	<5	^ESCTSE445208		Self mutilation	130968006	2923457013		32	challenging 
@@ -477,7 +470,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 735811000006119	2074	E216-3	E216.13	Labile personality	191765005	295065010		32	challenging 
 742321000006111	119154	1B15	1B15.00	Feeling irritable	55929007	497462015		27	challenging 
 745571000006112	18298	1B15-1	1B15.11	Irritable - symptom	55929007	497462015		27	challenging 
-761521000006116	826	E224-1	E224.11	Flasher	58349009	96970011		32	challenging 
 772561000006111	2084	E274-2	E274.12	Insomnia due to nonorganic sleep disorder	192454004	296381018		32	challenging 
 7860631000006113	<5	^ESCTDE786063		Delirium due to multiple aetiological factors	724746000	3446691011		31	delirium
 7874761000006112	473	^ESCTDE787476		Delirium co-occurrent with dementia	725898002	3446228016		32	delirium
@@ -491,7 +483,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 882231000006112	8593	E030z-99	E030z99	Confusional state	621191000000103	882231000006112		32	delirium
 882371000006118	583	E202-99	E202.99	Phobic state	386810004	882371000006118		32	affective
 914461000006118	378	Eu221-1	Eu22111	[X]Capgras syndrome	44906001	1230158013		32	psychosis
-96970011	832	E224	E224.00	Exhibitionism	58349009	96970011		32	challenging 
 98133013	69482	1B1B0	1B1B000	Initial insomnia	59050008	98133013		27	challenging 
 983861000006115	7999	1BT-2	1BT..12	Sad mood	366979004	490537016		27	affective
 99504011	2002	J08z0	J08z000	Cheek biting	59901004	99504011		32	challenging 

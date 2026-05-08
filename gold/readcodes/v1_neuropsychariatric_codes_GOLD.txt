@@ -151,7 +151,6 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 28680	ZX1LD00	682	0	13	0	[X]Self mutilation	February 2009	challenging 
 17086	2256.00	3475	0	116	0	O/E - agitated	February 2009	challenging 
 14667	ZV40300	2824	0	169	0	[V]Other behavioural problems	February 2009	challenging 
-20882	E27z300	598	0	28	0	Masturbation	February 2009	challenging 
 23597	E213.00	1957	0	55	0	Explosive personality disorder	February 2009	challenging 
 32987	E274E00	126	0	0	0	'Short-sleeper'	February 2009	challenging 
 28865	1P50.00	1993	0	43	0	Violent acts towards others	February 2009	challenging 
@@ -268,13 +267,6 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 46758	1BN0.00	704	0	<5	0	Wanders during the day	February 2009	challenging 
 30385	1BN1.00	791	0	20	0	Wanders at night	February 2009	challenging 
 94508	1BN2.00	82	0	<5	0	Wanders during the day and at night	February 2009	challenging 
-20202	E224.00	461	0	39	0	Exhibitionism	February 2009	challenging 
-24656	E224.11	280	0	41	0	Flasher	February 2009	challenging 
-2765	E22y100	50	0	<5	0	Voyeurism	February 2009	challenging 
-104436	Eu65000	<5	0	0	0	[X]Fetishism	June 2012	challenging 
-94271	Eu65200	12	0	0	0	[X]Exhibitionism	February 2009	challenging 
-95548	Eu65300	<5	0	0	0	[X]Voyeurism	February 2009	challenging 
-40093	Eu65y11	7	0	0	0	[X]Frotteurism	February 2009	challenging 
 52651	Eu65z11	17	0	<5	0	[X]Sexual deviation NOS	February 2009	challenging 
 31719	E2C1111	241	0	5	0	Shop lifting	February 2009	challenging 
 44967	Z7CC900	77	0	0	0	Getting lost	February 2009	challenging 
