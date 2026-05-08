@@ -1,73 +1,52 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	nsp_subtype
-370285010	3819	13HN0	13HN000	Theft	248027001	370285010		17	challenging 
-370296019	2822	13HN1	13HN100	Shoplifting	248035003	370296019		17	challenging 
-251262018	4739	13Z80	13Z8000	Social adjustment problem	161153007	251262018		17	challenging 
-251634015	185387	1469	1469.00	H/O: behaviour problem	161473006	251634015		32	challenging 
-1485177010	20567	14OE	14OE.00	At risk of harming others	391155006	1485177010		32	challenging 
-2548482015	6715	14X4	14X4.00	On sex offenders register	416081002	2548482015		32	challenging 
-317531000000119	1862	14X9	14X9.00	Alleged perpetrator of physical abuse	206381000000100	317531000000119		32	challenging 
-317561000000112	3311	14XA	14XA.00	Alleged perpetrator of sexual abuse	206391000000103	317561000000112		32	challenging 
-317591000000118	780	14XB	14XB.00	Alleged perpetrator of emotional abuse	206401000000100	317591000000118		32	challenging 
-317621000000115	25442	14XC	14XC.00	Alleged perpetrator of domestic violence	206411000000103	317621000000115		32	challenging 
-742321000006111	119154	1B15	1B15.00	Feeling irritable	55929007	497462015		27	challenging 
-745571000006112	18298	1B15-1	1B15.11	Irritable - symptom	55929007	497462015		27	challenging 
-481850015	292591	1B16	1B16.00	Agitated	24199005	481850015		27	challenging 
-474161000006117	68553	1B16-1	1B16.11	Agitated - symptom	24199005	481850015		27	challenging 
-2164006016	3808263	1B17	1B17.00	Depressed	366979004	490537016		27	affective
-407062014	608114	1B17-1	1B17.11	C/O - feeling depressed	272022009	407062014		27	affective
-407066012	28114	1B17-2	1B17.12	C/O - feeling unhappy	272024005	407066012		27	affective
-2549087014	1209	1B1b	1B1B.00	Transient hallucinations	416571005	2549087014		27	psychosis
-217721000000117	2330819	1B1B	1B1B.00	Insomnia	193462001	297924011		32	challenging 
-407067015	889166	1B1B-1	1B1B.11	Complaining of insomnia	272025006	2669520013		27	challenging 
-98133013	69482	1B1B0	1B1B000	Initial insomnia	59050008	98133013		27	challenging 
+10122017	1641	E13y1	E13Y100	Brief reactive psychosis	5464005	10122017		32	psychosis
+106091015	145	E22y1	E22Y100	Voyeurism	63835008	106091015		32	challenging 
+107501000006113	15	E2D1-3	E2D1.13	Taunting / tormenting	60411006	498730016		32	challenging 
 111701012	27585	1B1B1	1B1B100	Middle insomnia	67233009	111701012		27	challenging 
-252935019	12061	1B1B2	1B1B200	Late insomnia	162204000	252935019		27	challenging 
+119579013	69	E141	E141.00	Disintegrative psychosis	71961003	119579013		32	psychosis
+1216369018	652764	ZV40-1	ZV40.11	[V]Behavioural problems	277843001	414563012		27	challenging 
+1222473015	2911	R005-2	R005.12	[D]Sleep rhythm problems	3745000	1229316019		32	challenging 
 125252016	50126	1B1f	1B1F.00	Anger	75408008	125252016		27	challenging 
-191641000006119	735	1B1F	1B1F.00	Rambling	162208002	252941014		27	challenging
-252953013	127433	1B1I	1B1I.00	Crying, excessive	162213003	252953013		27	challenging 
-252965012	53	1B1M	1B1M.00	Resents authority	162219004	252965012		27	challenging 
-168971000006110	76082	1B1O	1B1O.00	Restlessness	162221009	252967016		27	challenging 
-459355013	916994	1B1Q	1B1Q.00	Poor sleep pattern	314938000	459355013		27	challenging 
+136601000006116	293332	Fy0	FY0..00	Sleep disorder	39898005	67285010		32	challenging 
+139197018	27318	E2C12	E2C1200	Temper tantrum	83943005	505846014		32	challenging 
+1452014	4542	1BH0	1BH0.00	Delusion of persecution	216004	1452014		27	psychosis
+1485177010	20567	14OE	14OE.00	At risk of harming others	391155006	1485177010		32	challenging 
 1488626018	664421	1B1U	1B1U.00	Symptoms of depression	394924000	1488626018		27	affective
 1494612017	131917	1B1U-1	1B1U.11	Depressive symptoms	394924000	1494612017		27	affective
-414563012	511323	1B1X	1B1X.00	Behavioural problem	277843001	414563012		27	challenging 
-412091010	175944	1BE1	1BE1.00	Problem situation	276099005	412091010		27	challenging 
-480834016	41815	1BH	1BH..00	Delusions	2073000	480834016		27	psychosis
-4569010	4453	1BH-1	1BH..11	Delusion	2073000	4569010		27	psychosis
-1452014	4542	1BH0	1BH0.00	Delusion of persecution	216004	1452014		27	psychosis
-369805011	2001	1BH1	1BH1.00	Grandiose delusions	247667002	369805011		27	psychosis
-492910018	1052	1BH2	1BH2.00	Ideas of reference	41189006	492910018		27	psychosis
-2548181016	61794	1BH3	1BH3.00	Paranoid ideation	417233008	2548181016		27	psychosis
-83685010	18563	1BN	1BN..00	Wandering	50239007	83685010		27	challenging 
-454125011	14359	1BN0	1BN0.00	Wanders during the day	310531007	454125011		27	challenging 
-454126012	10862	1BN1	1BN1.00	Wanders at night	310532000	454126012		27	challenging 
-471681000000114	8626	1BN2	1BN2.00	Wanders during day and at night	710560006	3044959011		27	challenging 
-2164005017	3191319	1BT	1BT..00	Depressed mood	366979004	490537016		27	affective
+168971000006110	76082	1B1O	1B1O.00	Restlessness	162221009	252967016		27	challenging 
 1780361011	32846	1BX0	1BX0.00	Delayed onset of sleep	401161007	1780361011		27	challenging 
-493917012	66570	1P00	1P00.00	Hyperactive behaviour	44548000	493917012		27	challenging 
-370202011	3802	1P02	1P02.00	Disinhibited behaviour	247973004	370202011		27	challenging 
-423327015	2598	1P10	1P10.00	Clinging behaviour	284605004	423327015		27	challenging 
-370309017	2921	1P11	1P11.00	Uncooperative behaviour	248042003	370309017		27	challenging 
-473423017	15828	1P3	1P3..00	Compulsive behaviour	12479006	473423017		27	challenging 
-370217010	5590	1P40	1P40.00	Inappropriate shouting	247984006	370217010		27	challenging 
-498995015	227548	1P5	1P5..00	Aggressive behaviour	61372001	498995015		27	challenging 
 1780431016	22283	1P50	1P50.00	Violent acts towards others	401237008	1780431016		27	challenging 
-338845019	11027	1P51	1P51.00	Physically abusive behaviour	225480004	338845019		27	challenging 
-338836015	45634	1P52	1P52.00	Verbally abusive behaviour	225478005	338836015		27	challenging 
-509723013	13318	1P53	1P53.00	Argumentative behaviour	9182005	509723013		27	challenging 
-426207014	3201	1Q0	1Q0..00	Impulsive character	286756000	426207014		27	challenging 
-294621000000118	247939	212S	212S.00	Depression resolved	196381000000100	294621000000118		27	affective
+191641000006119	735	1B1F	1B1F.00	Rambling	162208002	252941014		27	challenging
+195991000006117	87	E213-2	E213.12	Quarrelsome personality	231527003	347011014		32	challenging 
+2071019	292	E2C33	E2C3300	Pyromania	600009	2071019		32	challenging 
+21110011	12849	E274D-1	E274D11	Restless sleep	12262002	21110011		32	challenging 
+215871000000115	44635	Eu220-5	EU22015	[X]Paranoia	417233008	2548181016		27	psychosis
+2164005017	3191319	1BT	1BT..00	Depressed mood	366979004	490537016		27	affective
+2164006016	3808263	1B17	1B17.00	Depressed	366979004	490537016		27	affective
+217721000000117	2330819	1B1B	1B1B.00	Insomnia	193462001	297924011		32	challenging 
+223661000000115	2743	E216-2	E216.12	Dependent personality	84466009	140060016		32	challenging 
+223701000000114	308636	E274	E274.00	Non-organic sleep disorder	270487001	405106013		32	challenging 
+223711000000111	548	E2C11-1	E2C1111	Shop lifting	248035003	370296019		17	challenging 
+23968015	17380	E2752	E275200	Pica	14077003	23968015		32	challenging 
+243361000006117	155359	E12	E12..00	Paranoid disorder	191667009	294903010		32	psychosis
+251262018	4739	13Z80	13Z8000	Social adjustment problem	161153007	251262018		17	challenging 
+251634015	185387	1469	1469.00	H/O: behaviour problem	161473006	251634015		32	challenging 
+252935019	12061	1B1B2	1B1B200	Late insomnia	162204000	252935019		27	challenging 
+252953013	127433	1B1I	1B1I.00	Crying, excessive	162213003	252953013		27	challenging 
+252965012	53	1B1M	1B1M.00	Resents authority	162219004	252965012		27	challenging 
 253593010	3039	2233	2233.00	O/E - delirious	162703005	253593010		27	delirium
 253618010	24493	2256	2256.00	O/E - agitated	162721008	253618010		27	challenging 
 253620013	128653	2258	2258.00	O/E - anxious	162723006	253620013		27	affective
 253623010	11872	225B	225B.00	O/E - angry	162726003	253623010		27	challenging 
-2549895012	5306	225J	225J.00	O/E - panic attack	417676004	2549895012		27	affective
-370310010	1537	288-1	288..11	Uncooperative	248042003	370310010		27	challenging 
-402507017	179	28C	28C..00	O/E - embarrassing behaviour	268960007	402507017		27	challenging 
-411946018	58	28C-1	28C..11	O/E - irreverent behaviour	275970006	411946018		27	challenging 
+2548181016	61794	1BH3	1BH3.00	Paranoid ideation	417233008	2548181016		27	psychosis
 2548375018	3582	28L	28L..00	O/E - impulsive behaviour	417415004	2548375018		27	challenging 
-702141000006114	53346	3AB1	3AB1.00	Mildly abnormal behaviour	165311008	257056014		3	challenging 
+2548482015	6715	14X4	14X4.00	On sex offenders register	416081002	2548482015		32	challenging 
+2549087014	1209	1B1b	1B1B.00	Transient hallucinations	416571005	2549087014		27	psychosis
+2549895012	5306	225J	225J.00	O/E - panic attack	417676004	2549895012		27	affective
 257057017	10390	3AB2	3AB2.00	Severely abnormal behaviour	165312001	257057017		3	challenging 
+29011010	2658	E27z0	E27Z000	Hair plucking	17155009	29011010		32	challenging 
+292101000006115	45513	R2y3-1	R2Y3.11	Self-neglect	248054003	370326011		32	challenging 
+294621000000118	247939	212S	212S.00	Depression resolved	196381000000100	294621000000118		27	affective
 294638010	176	E0011	E001100	Presenile dementia with delirium	191452002	294638010		32	delirium
 294641018	535	E0012	E001200	Presenile dementia with paranoia	191454001	294641018		32	psychosis
 294645010	4532	E0020	E002000	Senile dementia with paranoia	191458003	294645010		32	psychosis
@@ -75,20 +54,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294648012	4319	E003	E003.00	Senile dementia with delirium	191461002	294648012		32	delirium
 294653019	119	E0041	E004100	Arteriosclerotic dementia with delirium	191464005	294653019		32	delirium
 294654013	450	E0042	E004200	Arteriosclerotic dementia with paranoia	191465006	294654013		32	psychosis
-401759010	1368	E00y	E00Y.00	Other senile and presenile organic psychoses	268612007	401757012		32	psychosis
-346897015	9	E00y-1	E00Y.11	Presbyophrenic psychosis	231438001	346897015		32	psychosis
 294660013	7438	E00z	E00Z.00	Senile or presenile psychoses NOS	268612007	401757012		32	psychosis
 294694010	25297	E03	E03..00	Transient organic psychoses	191499009	294694010		32	psychosis
-483651010	164598	E030	E030.00	Acute confusional state	2776000	483651010		32	delirium
-612521000006115	4018	E030-1	E030.11	Delirium - acute organic	2776000	5694012		32	delirium
 294704013	13934	E030z	E030Z00	Acute confusional state NOS	2776000	483651010		32	delirium
 294706010	9381	E031	E031.00	Subacute confusional state	191507002	294706010		32	delirium
-612531000006117	354	E031-1	E031.11	Delirium - subacute organic	191507002	294705014		32	delirium
 294712017	1389	E031z	E031Z00	Subacute confusional state NOS	191507002	294706010		32	delirium
 294713010	563	E03y	E03Y.00	Other transient organic psychoses	191499009	294694010		32	psychosis
-42191000006110	3958	E03y0	E03Y000	Organic delusional syndrome	5510009	10196013		32	psychosis
-42201000006113	702	E03y1	E03Y100	Organic hallucinosis syndrome	45912004	76558013		32	psychosis
-42181000006112	562	E03y2	E03Y200	Organic affective syndrome	23645006	39698011		32	affective
 294715015	16	E03yz	E03YZ00	Other transient organic psychoses NOS	191499009	294694010		32	psychosis
 294716019	806	E03z	E03Z.00	Transient organic psychoses NOS	191499009	294694010		32	psychosis
 294717011	1677	E04	E04..00	Other chronic organic psychoses	191447007	294630015		32	psychosis
@@ -96,161 +67,52 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294721016	2060	E04z	E04Z.00	Chronic organic psychosis NOS	191447007	294630015		32	psychosis
 294722011	117	E0y	E0Y..00	Other specified organic psychoses	191447007	294630015		32	psychosis
 294723018	8441	E0z	E0Z..00	Organic psychoses NOS	191447007	294630015		32	psychosis
-243361000006117	155359	E12	E12..00	Paranoid disorder	191667009	294903010		32	psychosis
 294904016	6750	E120	E120.00	Simple paranoid state	191668004	294904016		32	psychosis
-44335019	8203	E122	E122.00	Paraphrenia	26472000	44335019		32	psychosis
 294908018	96	E123-1	E123.11	Folie a deux	191670008	294908018		32	psychosis
 294912012	745	E12yz	E12YZ00	Other paranoid states NOS	191667009	294903010		32	psychosis
-346896012	1978	E13-1	E13..11	Reactive psychoses	231437006	346896012		32	psychosis
 294919015	1441	E131	E131.00	Acute hysterical psychosis	191677006	294919015		32	psychosis
-401770015	2823	E133	E133.00	Acute paranoid reaction	268624000	401770015		32	psychosis
-523481000006114	100	E133-1	E133.11	Bouffee delirante	63204009	2820485012		32	psychosis
 294924017	1970	E134	E134.00	Psychogenic paranoid psychosis	191680007	294924017		32	psychosis
 294926015	338	E13y	E13Y.00	Other reactive psychoses	231437006	346896012		32	psychosis
-10122017	1641	E13y1	E13Y100	Brief reactive psychosis	5464005	10122017		32	psychosis
 294929010	396	E13yz	E13YZ00	Other reactive psychoses NOS	231437006	346896012		32	psychosis
-119579013	69	E141	E141.00	Disintegrative psychosis	71961003	119579013		32	psychosis
 294939016	9	E1411	E141100	Residual disintegrative psychoses	191693002	294939016		32	psychosis
-488201000006114	9428362	E200	E200.00	Anxiety disorder	197480006	303689015		32	affective
 294953016	220954	E2000	E200000	Anxiety state unspecified	198288003	304838011		32	affective
-339044013	1313000	E2001-1	E200111	Panic attack	225624000	339044013		32	affective
 294963012	2268764	E200z	E200Z00	Anxiety state	198288003	304838011		32	affective
-493878012	8230	E201	E201.00	Hysteria	44376007	493878012		32	affective
-401779019	563	E201z	E201Z00	Hysteria NOS	44376007	74016017		32	affective
-347011014	13170	E213	E213.00	Explosive personality disorder	231527003	347011014		32	challenging 
-474121000006111	15341	E213-1	E213.11	Aggressive character	286798002	426255014		32	challenging 
-195991000006117	87	E213-2	E213.12	Quarrelsome personality	231527003	347011014		32	challenging 
-223661000000115	2743	E216-2	E216.12	Dependent personality	84466009	140060016		32	challenging 
-735811000006119	2074	E216-3	E216.13	Labile personality	191765005	295065010		32	challenging 
-96970011	832	E224	E224.00	Exhibitionism	58349009	96970011		32	challenging 
-761521000006116	826	E224-1	E224.11	Flasher	58349009	96970011		32	challenging 
-106091015	145	E22y1	E22Y100	Voyeurism	63835008	106091015		32	challenging 
-73289018	8164	E2731	E273100	Head-banging	43954004	73289018		32	challenging 
-223701000000114	308636	E274	E274.00	Non-organic sleep disorder	270487001	405106013		32	challenging 
-772561000006111	2084	E274-2	E274.12	Insomnia due to nonorganic sleep disorder	192454004	296381018		32	challenging 
 295408017	792	E2740	E274000	Unspecified non-organic sleep disorder	270487001	405106013		32	challenging 
-345377013	735604	E2741-1	E274111	Insomnia NOS	193462001	297924011		32	challenging 
 295412011	75158	E2742	E274200	Persistent insomnia	191997003	295412011		32	challenging 
-21110011	12849	E274D-1	E274D11	Restless sleep	12262002	21110011		32	challenging 
-295427011	196	E274E	E274E00	"Short-sleeper"	192007009	295427011		32	challenging 
+295427011	196	E274E	E274E00	Short-sleeper	192007009	295427011		32	challenging 
 295430016	129	E274F	E274F00	Inversion of sleep rhythm	192008004	295430016		32	challenging 
-401808017	284	E274y	E274Y00	Other non-organic sleep disorder	270487001	405106013		32	challenging 
 295435014	897	E274z	E274Z00	Non-organic sleep disorder NOS	270487001	405106013		32	challenging 
-577901000006119	4668	E2751-1	E275111	Compulsive eating disorder	78004001	129452012		32	challenging 
-23968015	17380	E2752	E275200	Pica	14077003	23968015		32	challenging 
-346989014	1556	E2757-1	E275711	Compulsive water drinking	231511005	346989014		32	challenging 
-29011010	2658	E27z0	E27Z000	Hair plucking	17155009	29011010		32	challenging 
-29926014	2259	E27z3	E27Z300	Masturbation	17704007	29926014		32	challenging 
-62226016	6025	E27z4	E27Z400	Nail biting	37298006	486682015		32	challenging 
 295474019	6104	E280	E280.00	Acute panic state due to acute stress reaction	192037000	295474019		32	affective
 295478016	11939	E2830	E283000	Acute situational disturbance	192041001	295478016		32	affective
-401810015	90446	E28z	E28Z.00	Acute stress reaction NOS	67195008	500648010		32	affective
-441512015	7299	E2920	E292000	Separation anxiety disorder	11806006	441512015		32	affective
-497343017	2067	E292y	E292Y00	Adjustment reaction with mixed disturbance of emotion	55668003	497343017		32	challenging 
 295504018	653	E292z	E292Z00	Adjustment reaction with disturbance of other emotion NOS	17226007	29122012		32	challenging 
-506324018	292	E293	E293.00	Adjustment reaction with predominant disturbance of conduct	84984002	506324018		32	challenging 
 295505017	3414	E2930	E293000	Adjustment reaction with aggression	192056005	295505017		32	challenging 
 295507013	622	E2931	E293100	Adjustment reaction with antisocial behaviour	192057001	295507013		32	challenging 
 295508015	27	E2932	E293200	Adjustment reaction with destructiveness	192058006	295508015		32	challenging 
-461801000006118	65	E293z	E293Z00	Adjustment reaction with predominant disturbance conduct NOS	84984002	140904012		32	challenging 
-461761000006110	1031	E294	E294.00	Adjustment reaction with mixed disturbance of emotion and conduct	66381006	500397012		32	challenging 
-401813018	92239	E2C	E2C..00	Conduct disorder	430909002	2765597014		32	challenging 
-504551000006114	203108	E2C-1	E2C..11	Behavioural syndrome associated with physiological disturbance and physical factors	231520001	347000018		32	challenging 
 295544013	39636	E2C00	E2C0000	Aggressive outburst	192083006	295544013		32	challenging 
 295547018	105520	E2C01	E2C0100	Anger reaction	192085004	295547018		32	challenging 
-401816014	1041	E2C11	E2C1100	Solitary stealing	268663007	401816014		32	challenging 
-223711000000111	548	E2C11-1	E2C1111	Shop lifting	248035003	370296019		17	challenging 
-139197018	27318	E2C12	E2C1200	Temper tantrum	83943005	505846014		32	challenging 
-2071019	292	E2C33	E2C3300	Pyromania	600009	2071019		32	challenging 
-68371018	590	E2C34	E2C3400	Intermittent explosive disorder	40987004	68371018		32	challenging 
 295568017	16	E2C35	E2C3500	Isolated explosive disorder	192097003	295568017		32	challenging 
-701591000006118	1115	E2C4	E2C4.00	Mixed disturbance of conduct and emotion	192099000	295570014		32	challenging 
 295573011	413	E2C4z	E2C4Z00	Mixed disturbance of conduct and emotion NOS	192099000	295570014		32	challenging 
 295574017	723	E2Cy	E2CY.00	Other conduct disturbances	17961008	30331018		32	challenging 
-525611000006116	29135	E2Cy0	E2CY000	Breath holding with temper	90091006	508840019		32	challenging 
 295575016	195	E2Cyz	E2CYZ00	Other conduct disturbances NOS	17961008	30331018		32	challenging 
 295576015	15168	E2Cz	E2CZ.00	Unspecified disturbance of conduct	430909002	2765597014		32	challenging 
 295578019	13907	E2Czz	E2CZZ00	Disturbance of conduct NOS	430909002	2765597014		32	challenging 
-107501000006113	15	E2D1-3	E2D1.13	Taunting / tormenting	60411006	498730016		32	challenging 
 295623015	2302	E2E2	E2E2.00	Hyperkinetic conduct disorder	192132008	295623015		32	challenging 
-376461000006110	847	Eu04	EU04.00	[X]Delirium, not induced by alcohol+other psychoactive subs	111479008	178719012		32	delirium
-362201000006116	135	Eu04-1	EU04.11	[X]Acute / subacute brain syndrome	2776000	483659012		32	delirium
-362211000006118	6588	Eu04-2	EU04.12	[X]Acute / subacute confusional state, nonalcoholic	111479008	178719012		32	delirium
-362231000006112	53	Eu04-4	EU04.14	Acute organic reaction	2776000	483655018		32	delirium
-362241000006119	397	Eu04-5	EU04.15	[X]Acute / subacute psycho-organic reaction	111479008	178719012		32	delirium
 295713019	409	Eu040	EU04000	[X]Delirium not superimposed on dementia, so described	2776000	5694012		32	delirium
 295714013	3122	Eu041	EU04100	[X]Delirium superimposed on dementia	2776000	5694012		32	delirium
-401831017	9745	Eu04y	EU04Y00	[X]Other delirium	2776000	5694012		32	delirium
-376431000006118	1142	Eu04y-1	EU04Y11	[X]Delirium of mixed origin	2776000	5694012		32	delirium
 295718011	260308	Eu04z	EU04Z00	Delirium	2776000	5694012		32	delirium
-403991000006117	1714	Eu050	EU05000	Organic hallucinosis	45912004	76558013		32	psychosis
-403961000006113	6746	Eu052	EU05200	Organic delusional disorder	5510009	10196013		32	psychosis
-403931000006116	1169	Eu054	EU05400	Organic anxiety disorder	17496003	29572018		32	affective
-418231000006115	6228	Eu220-2	EU22012	[X]Paranoid state	191667009	294903010		32	psychosis
-418251000006110	906	Eu220-3	EU22013	Late paraphrenia	38295006	1229409019		32	psychosis
-215871000000115	44635	Eu220-5	EU22015	[X]Paranoia	417233008	2548181016		27	psychosis
-914461000006118	378	Eu221-1	EU22111	[X]Capgras syndrome	44906001	1230158013		32	psychosis
-418181000006110	16	Eu22y-3	EU22Y13	[X]Paranoia querulans	231487004	346958010		32	psychosis
-362271000006110	25822	Eu23	EU23.00	Acute transient psychotic disorder	231489001	346960012		32	psychosis
-362391000006117	3529	Eu230	EU23000	Acute polymorphic psychotic disorder without symptoms of schizophrenia	712824002	3286009016		32	psychosis
-367961000006110	<5	Eu230-1	EU23011	[X]Bouffee delirante	63204009	2820485012		32	psychosis
-376271000006119	404	Eu230-2	EU23012	[X]Cycloid psychosis	307417003	450678015		32	psychosis
-362421000006113	6282	Eu232	EU23200	Acute schizophrenia-like psychotic disorder	278853003	415877014		32	psychosis
-368001000006112	95	Eu232-1	EU23211	[X]Brief schizophreniform disorder	278853003	415877014		32	psychosis
-368011000006110	83	Eu232-2	EU23212	[X]Brief schizophrenifrm psych	278853003	415877014		32	psychosis
-401859016	1035	Eu233	EU23300	[X]Other acute predominantly delusional psychotic disorders	231489001	346960012		32	psychosis
-424071000006112	805	Eu233-2	EU23312	[X]Psychogenic paranoid psychosis	191680007	294924017		32	psychosis
 296083012	853	Eu23y	EU23Y00	[X]Other acute and transient psychotic disorders	231489001	346960012		32	psychosis
-401860014	5535	Eu23z	EU23Z00	[X]Acute and transient psychotic disorder, unspecified	231489001	346960012		32	psychosis
-367991000006119	1695	Eu23z-1	EU23Z11	[X]Brief reactive psychosis NOS	231489001	346960012		32	psychosis
-424511000006112	2208	Eu23z-2	EU23Z12	[X]Reactive psychosis	231437006	346896012		32	psychosis
-389641000006110	636	Eu24	EU24.00	Induced delusional disorder	61831009	499134014		32	psychosis
-387071000006117	29	Eu24-1	EU24.11	[X]Folie a deux	191670008	294908018		32	psychosis
-389651000006112	83	Eu24-2	EU24.12	[X]Induced paranoid disorder	61831009	499136011		32	psychosis
-389661000006114	1754	Eu24-3	EU24.13	[X]Induced psychotic disorder	61831009	499134014		32	psychosis
-418031000006113	36423	Eu410-1	EU41011	[X]Panic attack	371631005	1210253015		32	affective
-418061000006116	8331	Eu410-2	EU41012	[X]Panic state	371631005	1210253015		32	affective
-363651000006111	22804	Eu411-1	EU41111	Anxiety neurosis	207363009	317740010		32	affective
-363671000006118	37531	Eu411-2	EU41112	[X]Anxiety reaction	197480006	303689015		32	affective
-363681000006115	97745	Eu411-3	EU41113	[X]Anxiety state	198288003	304838011		32	affective
-398351000006110	34408	Eu412-1	EU41211	[X]Mild anxiety depression	231504006	346979010		32	affective
-363641000006114	851	Eu41y-1	EU41Y11	[X]Anxiety hysteria	197480006	303689015		32	affective
-363661000006113	685641	Eu41z-1	EU41Z11	[X]Anxiety NOS	197480006	303689015		32	affective
 296251011	6442	Eu420	EU42000	[X]Predominantly obsessional thoughts or ruminations	67698009	500817017		27	affective
 296253014	5097	Eu422	EU42200	[X]Mixed obsessional thoughts and acts	191736004	295011010		32	affective
-389431000006115	194	Eu44-3	EU44.13	[X]Hysteria	44376007	74016017		32	affective
-389451000006110	257	Eu44-4	EU44.14	[X]Hysterical psychosis	44376007	74016017		32	psychosis
-400141000006116	677	Eu51	EU51.00	[X]Nonorganic sleep disorders	270487001	405106013		32	challenging 
-400121000006111	4496	Eu510	EU51000	Nonorganic insomnia	192454004	296381018		32	challenging 
-400071000006111	77	Eu512	EU51200	[X]Nonorganic disorder of the sleep-wake schedule	268722008	401890019		32	challenging 
 296394016	62	Eu51y	EU51Y00	[X]Other nonorganic sleep disorders	270487001	405106013		32	challenging 
 296396019	261	Eu51z	EU51Z00	[X]Nonorganic sleep disorder, unspecified	270487001	405106013		32	challenging 
-379691000006110	393	Eu51z-1	EU51Z11	[X]Emotional sleep disorder NOS	270487001	405106013		32	challenging 
-418551000006112	345	Eu631	EU63100	[X]Pathological fire-setting	600009	2071019		32	challenging 
-429561000006111	24743	Eu633	EU63300	Trichotillomania	17155009	29010011		32	challenging 
-386821000006114	32	Eu650	EU65000	[X]Fetishism	59174009	98313015		32	challenging 
-380211000006115	52	Eu652	EU65200	[X]Exhibitionism	58349009	96970011		32	challenging 
-432561000006116	22	Eu653	EU65300	[X]Voyeurism	63835008	106091015		32	challenging 
-387801000006118	18	Eu65y-1	EU65Y11	[X]Frotteurism	50299009	83791018		32	challenging 
-426791000006115	167	Eu65z-1	EU65Z11	[X]Sexual deviation NOS	50299009	83791018		32	challenging 
-398651000006118	371	Eu701	EU70100	[X]Mld mental retard sig impairment behav req attent/treatmt	86765009	143892017		32	challenging 
 296557014	322	Eu70y	EU70Y00	[X]Mild mental retardation, other impairments of behaviour	86765009	143892017		32	challenging 
-398761000006113	208	Eu711	EU71100	[X]Mod mental retard sig impairment behav req attent/treatmt	61152003	101619019		32	challenging 
 296565012	28	Eu71y	EU71Y00	[X]Mod retard oth behav impair	61152003	101619019		32	challenging 
-426521000006114	191	Eu721	EU72100	[X]Sev mental retard sig impairment behav req attent/treatmt	40700009	67882016		32	challenging 
 296574014	311	Eu72y	EU72Y00	[X]Severe mental retardation, other impairments of behaviour	40700009	67882016		32	challenging 
-423481000006119	36	Eu731	EU73100	[X]Profound ment retard sig impairmnt behav req attent/treat	31216003	52225019		32	challenging 
-423511000006110	15	Eu73y	EU73Y00	[X]Profound mental retardation, other impairments of behavr	31216003	52225019		32	challenging 
-404851000006117	16	Eu7y1	EU7Y100	[X]Oth mental retard sig impairment behav req attent/treatmt	110359009	175156010		32	challenging 
 296592018	44	Eu7yy	EU7YY00	[X]Other mental retardation, other impairments of behaviour	110359009	175156010		32	challenging 
-430081000006115	53	Eu7z1	EU7Z100	[X]Unsp mentl retard sig impairment behav req attent/treatmt	110359009	175156010		32	challenging 
-431231000006115	40	Eu7zy	EU7ZY00	[X]Unspecified mental retardatn, other impairments of behav	110359009	175156010		32	challenging 
-511661000000116	1962	Eu92-1	EU92.11	[X]Emotional behavioural problems	5793009	498014018		32	affective
-136601000006116	293332	Fy0	FY0..00	Sleep disorder	39898005	67285010		32	challenging 
+29926014	2259	E27z3	E27Z300	Masturbation	17704007	29926014		32	challenging 
 299274011	83430	Fy00	FY00.00	Disorders of initiating and maintaining sleep	194437008	299274011		32	challenging 
-406739012	3119	Fy02	FY02.00	Disorders of the sleep-wake schedule	271794005	406739012		32	challenging 
 299344018	2373	Fyu58	FYU5800	[X]Other sleep disorders	39898005	67285010		32	challenging 
-99504011	2002	J08z0	J08Z000	Cheek biting	59901004	99504011		32	challenging 
+302031000006118	15828	Ry18	RY18.00	[D]Self neglect	248054003	370326011		32	challenging 
 302318017	2191	J08z1	J08Z100	Lip biting	196575007	302318017		32	challenging 
 317003012	9681	R001	R001.00	[D]Hallucinations	7011001	501492014		27	psychosis
 317004018	166202	R0010	R001000	Auditory hallucinations	45150006	494112014		32	psychosis
@@ -260,7 +122,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 317008015	10562	R0014	R001400	[D]Visual hallucinations	64269007	499799011		32	psychosis
 317009011	3225	R001z	R001Z00	[D]Hallucinations NOS	7011001	501492014		27	psychosis
 317031015	607890	R005	R005.00	Sleep disturbance	44186003	493802012		32	challenging 
-1222473015	2911	R005-2	R005.12	[D]Sleep rhythm problems	3745000	1229316019		32	challenging 
 317032010	128815	R0050	R005000	[D]Sleep disturbance, unspecified	44186003	493802012		32	challenging 
 317052011	712	R0058	R005800	Sleep dysfunction with sleep stage disturbance	441877007	2818183012		32	challenging 
 317053018	918	R0059	R005900	Sleep dysfunction with arousal disturbance	442176004	2819608011		32	challenging 
@@ -271,11 +132,150 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 317095010	377	R00z9	R00Z900	Hostile behaviour	79351003	131640017		32	challenging 
 317096011	16991	R00zA	R00ZA00	Physical aggression	248004009	370245016		32	challenging 
 317099016	138656	R00zD	R00ZD00	Restlessness and agitation	274647009	410480015		32	challenging 
-292101000006115	45513	R2y3-1	R2Y3.11	Self-neglect	248054003	370326011		32	challenging 
+317531000000119	1862	14X9	14X9.00	Alleged perpetrator of physical abuse	206381000000100	317531000000119		32	challenging 
+317561000000112	3311	14XA	14XA.00	Alleged perpetrator of sexual abuse	206391000000103	317561000000112		32	challenging 
+317591000000118	780	14XB	14XB.00	Alleged perpetrator of emotional abuse	206401000000100	317591000000118		32	challenging 
+317621000000115	25442	14XC	14XC.00	Alleged perpetrator of domestic violence	206411000000103	317621000000115		32	challenging 
 317977010	3680	Ry12	RY12.00	Strange and inexplicable behaviour	274650007	410485013		32	challenging 
 317978017	4460	Ry13	RY13.00	Behaviour showing increased motor activity	28277004	47326015		32	challenging 
-302031000006118	15828	Ry18	RY18.00	[D]Self neglect	248054003	370326011		32	challenging 
 334942012	82184	U2E	U2E..00	Self-mutilation	130968006	210603011		32	challenging 
+338836015	45634	1P52	1P52.00	Verbally abusive behaviour	225478005	338836015		27	challenging 
+338845019	11027	1P51	1P51.00	Physically abusive behaviour	225480004	338845019		27	challenging 
+339044013	1313000	E2001-1	E200111	Panic attack	225624000	339044013		32	affective
+345377013	735604	E2741-1	E274111	Insomnia NOS	193462001	297924011		32	challenging 
+346896012	1978	E13-1	E13..11	Reactive psychoses	231437006	346896012		32	psychosis
+346897015	9	E00y-1	E00Y.11	Presbyophrenic psychosis	231438001	346897015		32	psychosis
+346989014	1556	E2757-1	E275711	Compulsive water drinking	231511005	346989014		32	challenging 
+347011014	13170	E213	E213.00	Explosive personality disorder	231527003	347011014		32	challenging 
+362201000006116	135	Eu04-1	EU04.11	[X]Acute / subacute brain syndrome	2776000	483659012		32	delirium
+362211000006118	6588	Eu04-2	EU04.12	[X]Acute / subacute confusional state, nonalcoholic	111479008	178719012		32	delirium
+362231000006112	53	Eu04-4	EU04.14	Acute organic reaction	2776000	483655018		32	delirium
+362241000006119	397	Eu04-5	EU04.15	[X]Acute / subacute psycho-organic reaction	111479008	178719012		32	delirium
+362271000006110	25822	Eu23	EU23.00	Acute transient psychotic disorder	231489001	346960012		32	psychosis
+362391000006117	3529	Eu230	EU23000	Acute polymorphic psychotic disorder without symptoms of schizophrenia	712824002	3286009016		32	psychosis
+362421000006113	6282	Eu232	EU23200	Acute schizophrenia-like psychotic disorder	278853003	415877014		32	psychosis
+363641000006114	851	Eu41y-1	EU41Y11	[X]Anxiety hysteria	197480006	303689015		32	affective
+363651000006111	22804	Eu411-1	EU41111	Anxiety neurosis	207363009	317740010		32	affective
+363661000006113	685641	Eu41z-1	EU41Z11	[X]Anxiety NOS	197480006	303689015		32	affective
+363671000006118	37531	Eu411-2	EU41112	[X]Anxiety reaction	197480006	303689015		32	affective
+363681000006115	97745	Eu411-3	EU41113	[X]Anxiety state	198288003	304838011		32	affective
+367961000006110	<5	Eu230-1	EU23011	[X]Bouffee delirante	63204009	2820485012		32	psychosis
+367991000006119	1695	Eu23z-1	EU23Z11	[X]Brief reactive psychosis NOS	231489001	346960012		32	psychosis
+368001000006112	95	Eu232-1	EU23211	[X]Brief schizophreniform disorder	278853003	415877014		32	psychosis
+368011000006110	83	Eu232-2	EU23212	[X]Brief schizophrenifrm psych	278853003	415877014		32	psychosis
+369805011	2001	1BH1	1BH1.00	Grandiose delusions	247667002	369805011		27	psychosis
+370202011	3802	1P02	1P02.00	Disinhibited behaviour	247973004	370202011		27	challenging 
+370217010	5590	1P40	1P40.00	Inappropriate shouting	247984006	370217010		27	challenging 
+370285010	3819	13HN0	13HN000	Theft	248027001	370285010		17	challenging 
+370296019	2822	13HN1	13HN100	Shoplifting	248035003	370296019		17	challenging 
+370309017	2921	1P11	1P11.00	Uncooperative behaviour	248042003	370309017		27	challenging 
+370310010	1537	288-1	288..11	Uncooperative	248042003	370310010		27	challenging 
+376271000006119	404	Eu230-2	EU23012	[X]Cycloid psychosis	307417003	450678015		32	psychosis
+376431000006118	1142	Eu04y-1	EU04Y11	[X]Delirium of mixed origin	2776000	5694012		32	delirium
+376461000006110	847	Eu04	EU04.00	[X]Delirium, not induced by alcohol+other psychoactive subs	111479008	178719012		32	delirium
+379691000006110	393	Eu51z-1	EU51Z11	[X]Emotional sleep disorder NOS	270487001	405106013		32	challenging 
+380211000006115	52	Eu652	EU65200	[X]Exhibitionism	58349009	96970011		32	challenging 
+386821000006114	32	Eu650	EU65000	[X]Fetishism	59174009	98313015		32	challenging 
+387071000006117	29	Eu24-1	EU24.11	[X]Folie a deux	191670008	294908018		32	psychosis
+387801000006118	18	Eu65y-1	EU65Y11	[X]Frotteurism	50299009	83791018		32	challenging 
+389431000006115	194	Eu44-3	EU44.13	[X]Hysteria	44376007	74016017		32	affective
+389451000006110	257	Eu44-4	EU44.14	[X]Hysterical psychosis	44376007	74016017		32	psychosis
+389641000006110	636	Eu24	EU24.00	Induced delusional disorder	61831009	499134014		32	psychosis
+389651000006112	83	Eu24-2	EU24.12	[X]Induced paranoid disorder	61831009	499136011		32	psychosis
+389661000006114	1754	Eu24-3	EU24.13	[X]Induced psychotic disorder	61831009	499134014		32	psychosis
+398351000006110	34408	Eu412-1	EU41211	[X]Mild anxiety depression	231504006	346979010		32	affective
+398651000006118	371	Eu701	EU70100	[X]Mld mental retard sig impairment behav req attent/treatmt	86765009	143892017		32	challenging 
+398761000006113	208	Eu711	EU71100	[X]Mod mental retard sig impairment behav req attent/treatmt	61152003	101619019		32	challenging 
+400071000006111	77	Eu512	EU51200	[X]Nonorganic disorder of the sleep-wake schedule	268722008	401890019		32	challenging 
+400121000006111	4496	Eu510	EU51000	Nonorganic insomnia	192454004	296381018		32	challenging 
+400141000006116	677	Eu51	EU51.00	[X]Nonorganic sleep disorders	270487001	405106013		32	challenging 
+401759010	1368	E00y	E00Y.00	Other senile and presenile organic psychoses	268612007	401757012		32	psychosis
+401770015	2823	E133	E133.00	Acute paranoid reaction	268624000	401770015		32	psychosis
+401779019	563	E201z	E201Z00	Hysteria NOS	44376007	74016017		32	affective
+401808017	284	E274y	E274Y00	Other non-organic sleep disorder	270487001	405106013		32	challenging 
+401810015	90446	E28z	E28Z.00	Acute stress reaction NOS	67195008	500648010		32	affective
+401813018	92239	E2C	E2C..00	Conduct disorder	430909002	2765597014		32	challenging 
+401816014	1041	E2C11	E2C1100	Solitary stealing	268663007	401816014		32	challenging 
+401831017	9745	Eu04y	EU04Y00	[X]Other delirium	2776000	5694012		32	delirium
+401859016	1035	Eu233	EU23300	[X]Other acute predominantly delusional psychotic disorders	231489001	346960012		32	psychosis
+401860014	5535	Eu23z	EU23Z00	[X]Acute and transient psychotic disorder, unspecified	231489001	346960012		32	psychosis
+402507017	179	28C	28C..00	O/E - embarrassing behaviour	268960007	402507017		27	challenging 
+403931000006116	1169	Eu054	EU05400	Organic anxiety disorder	17496003	29572018		32	affective
+403961000006113	6746	Eu052	EU05200	Organic delusional disorder	5510009	10196013		32	psychosis
+403991000006117	1714	Eu050	EU05000	Organic hallucinosis	45912004	76558013		32	psychosis
+404851000006117	16	Eu7y1	EU7Y100	[X]Oth mental retard sig impairment behav req attent/treatmt	110359009	175156010		32	challenging 
+406739012	3119	Fy02	FY02.00	Disorders of the sleep-wake schedule	271794005	406739012		32	challenging 
+407062014	608114	1B17-1	1B17.11	C/O - feeling depressed	272022009	407062014		27	affective
+407066012	28114	1B17-2	1B17.12	C/O - feeling unhappy	272024005	407066012		27	affective
+407067015	889166	1B1B-1	1B1B.11	Complaining of insomnia	272025006	2669520013		27	challenging 
+411946018	58	28C-1	28C..11	O/E - irreverent behaviour	275970006	411946018		27	challenging 
+412091010	175944	1BE1	1BE1.00	Problem situation	276099005	412091010		27	challenging 
+414563012	511323	1B1X	1B1X.00	Behavioural problem	277843001	414563012		27	challenging 
+418031000006113	36423	Eu410-1	EU41011	[X]Panic attack	371631005	1210253015		32	affective
+418061000006116	8331	Eu410-2	EU41012	[X]Panic state	371631005	1210253015		32	affective
+418181000006110	16	Eu22y-3	EU22Y13	[X]Paranoia querulans	231487004	346958010		32	psychosis
+418231000006115	6228	Eu220-2	EU22012	[X]Paranoid state	191667009	294903010		32	psychosis
+418251000006110	906	Eu220-3	EU22013	Late paraphrenia	38295006	1229409019		32	psychosis
+418551000006112	345	Eu631	EU63100	[X]Pathological fire-setting	600009	2071019		32	challenging 
+42181000006112	562	E03y2	E03Y200	Organic affective syndrome	23645006	39698011		32	affective
+42191000006110	3958	E03y0	E03Y000	Organic delusional syndrome	5510009	10196013		32	psychosis
+42201000006113	702	E03y1	E03Y100	Organic hallucinosis syndrome	45912004	76558013		32	psychosis
+423327015	2598	1P10	1P10.00	Clinging behaviour	284605004	423327015		27	challenging 
+423481000006119	36	Eu731	EU73100	[X]Profound ment retard sig impairmnt behav req attent/treat	31216003	52225019		32	challenging 
+423511000006110	15	Eu73y	EU73Y00	[X]Profound mental retardation, other impairments of behavr	31216003	52225019		32	challenging 
+424071000006112	805	Eu233-2	EU23312	[X]Psychogenic paranoid psychosis	191680007	294924017		32	psychosis
+424511000006112	2208	Eu23z-2	EU23Z12	[X]Reactive psychosis	231437006	346896012		32	psychosis
+426207014	3201	1Q0	1Q0..00	Impulsive character	286756000	426207014		27	challenging 
+426521000006114	191	Eu721	EU72100	[X]Sev mental retard sig impairment behav req attent/treatmt	40700009	67882016		32	challenging 
+426791000006115	167	Eu65z-1	EU65Z11	[X]Sexual deviation NOS	50299009	83791018		32	challenging 
+429561000006111	24743	Eu633	EU63300	Trichotillomania	17155009	29010011		32	challenging 
+430081000006115	53	Eu7z1	EU7Z100	[X]Unsp mentl retard sig impairment behav req attent/treatmt	110359009	175156010		32	challenging 
+431231000006115	40	Eu7zy	EU7ZY00	[X]Unspecified mental retardatn, other impairments of behav	110359009	175156010		32	challenging 
+432561000006116	22	Eu653	EU65300	[X]Voyeurism	63835008	106091015		32	challenging 
+441512015	7299	E2920	E292000	Separation anxiety disorder	11806006	441512015		32	affective
+44335019	8203	E122	E122.00	Paraphrenia	26472000	44335019		32	psychosis
+454125011	14359	1BN0	1BN0.00	Wanders during the day	310531007	454125011		27	challenging 
+454126012	10862	1BN1	1BN1.00	Wanders at night	310532000	454126012		27	challenging 
+4569010	4453	1BH-1	1BH..11	Delusion	2073000	4569010		27	psychosis
+459355013	916994	1B1Q	1B1Q.00	Poor sleep pattern	314938000	459355013		27	challenging 
 460422010	1785	ZV1B1	ZV1B100	Disorder of sleep-wake cycle	271794005	406736017		32	challenging 
-1216369018	652764	ZV40-1	ZV40.11	[V]Behavioural problems	277843001	414563012		27	challenging 
 460625017	14816	ZV403	ZV40300	[V]Other behavioural problems	277843001	414563012		27	challenging 
+461761000006110	1031	E294	E294.00	Adjustment reaction with mixed disturbance of emotion and conduct	66381006	500397012		32	challenging 
+461801000006118	65	E293z	E293Z00	Adjustment reaction with predominant disturbance conduct NOS	84984002	140904012		32	challenging 
+471681000000114	8626	1BN2	1BN2.00	Wanders during day and at night	710560006	3044959011		27	challenging 
+473423017	15828	1P3	1P3..00	Compulsive behaviour	12479006	473423017		27	challenging 
+474121000006111	15341	E213-1	E213.11	Aggressive character	286798002	426255014		32	challenging 
+474161000006117	68553	1B16-1	1B16.11	Agitated - symptom	24199005	481850015		27	challenging 
+480834016	41815	1BH	1BH..00	Delusions	2073000	480834016		27	psychosis
+481850015	292591	1B16	1B16.00	Agitated	24199005	481850015		27	challenging 
+483651010	164598	E030	E030.00	Acute confusional state	2776000	483651010		32	delirium
+488201000006114	9428362	E200	E200.00	Anxiety disorder	197480006	303689015		32	affective
+492910018	1052	1BH2	1BH2.00	Ideas of reference	41189006	492910018		27	psychosis
+493878012	8230	E201	E201.00	Hysteria	44376007	493878012		32	affective
+493917012	66570	1P00	1P00.00	Hyperactive behaviour	44548000	493917012		27	challenging 
+497343017	2067	E292y	E292Y00	Adjustment reaction with mixed disturbance of emotion	55668003	497343017		32	challenging 
+498995015	227548	1P5	1P5..00	Aggressive behaviour	61372001	498995015		27	challenging 
+504551000006114	203108	E2C-1	E2C..11	Behavioural syndrome associated with physiological disturbance and physical factors	231520001	347000018		32	challenging 
+506324018	292	E293	E293.00	Adjustment reaction with predominant disturbance of conduct	84984002	506324018		32	challenging 
+509723013	13318	1P53	1P53.00	Argumentative behaviour	9182005	509723013		27	challenging 
+511661000000116	1962	Eu92-1	EU92.11	[X]Emotional behavioural problems	5793009	498014018		32	affective
+523481000006114	100	E133-1	E133.11	Bouffee delirante	63204009	2820485012		32	psychosis
+525611000006116	29135	E2Cy0	E2CY000	Breath holding with temper	90091006	508840019		32	challenging 
+577901000006119	4668	E2751-1	E275111	Compulsive eating disorder	78004001	129452012		32	challenging 
+612521000006115	4018	E030-1	E030.11	Delirium - acute organic	2776000	5694012		32	delirium
+612531000006117	354	E031-1	E031.11	Delirium - subacute organic	191507002	294705014		32	delirium
+62226016	6025	E27z4	E27Z400	Nail biting	37298006	486682015		32	challenging 
+68371018	590	E2C34	E2C3400	Intermittent explosive disorder	40987004	68371018		32	challenging 
+701591000006118	1115	E2C4	E2C4.00	Mixed disturbance of conduct and emotion	192099000	295570014		32	challenging 
+702141000006114	53346	3AB1	3AB1.00	Mildly abnormal behaviour	165311008	257056014		3	challenging 
+73289018	8164	E2731	E273100	Head-banging	43954004	73289018		32	challenging 
+735811000006119	2074	E216-3	E216.13	Labile personality	191765005	295065010		32	challenging 
+742321000006111	119154	1B15	1B15.00	Feeling irritable	55929007	497462015		27	challenging 
+745571000006112	18298	1B15-1	1B15.11	Irritable - symptom	55929007	497462015		27	challenging 
+761521000006116	826	E224-1	E224.11	Flasher	58349009	96970011		32	challenging 
+772561000006111	2084	E274-2	E274.12	Insomnia due to nonorganic sleep disorder	192454004	296381018		32	challenging 
+83685010	18563	1BN	1BN..00	Wandering	50239007	83685010		27	challenging 
+914461000006118	378	Eu221-1	EU22111	[X]Capgras syndrome	44906001	1230158013		32	psychosis
+96970011	832	E224	E224.00	Exhibitionism	58349009	96970011		32	challenging 
+98133013	69482	1B1B0	1B1B000	Initial insomnia	59050008	98133013		27	challenging 
+99504011	2002	J08z0	J08Z000	Cheek biting	59901004	99504011		32	challenging 
