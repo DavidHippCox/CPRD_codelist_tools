@@ -97,20 +97,11 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294653019	119	E0041	E004100	Arteriosclerotic dementia with delirium	191464005	294653019		32	delirium
 294654013	450	E0042	E004200	Arteriosclerotic dementia with paranoia	191465006	294654013		32	psychosis
 294660013	7438	E00z	E00z.00	Senile or presenile psychoses NOS	268612007	401757012		32	psychosis
-294694010	25297	E03	E03..00	Transient organic psychoses	191499009	294694010		32	psychosis
 294703019	1078	E0304	E030400	Acute confusional state, of cerebrovascular origin	191505005	294703019		32	delirium
 294704013	13934	E030z	E030z00	Acute confusional state NOS	2776000	483651010		32	delirium
 294706010	9381	E031	E031.00	Subacute confusional state	191507002	294706010		32	delirium
 294711012	780	E0314	E031400	Subacute confusional state, of cerebrovascular origin	191512001	294711012		32	delirium
 294712017	1389	E031z	E031z00	Subacute confusional state NOS	191507002	294706010		32	delirium
-294713010	563	E03y	E03y.00	Other transient organic psychoses	191499009	294694010		32	psychosis
-294715015	16	E03yz	E03yz00	Other transient organic psychoses NOS	191499009	294694010		32	psychosis
-294716019	806	E03z	E03z.00	Transient organic psychoses NOS	191499009	294694010		32	psychosis
-294717011	1677	E04	E04..00	Other chronic organic psychoses	191447007	294630015		32	psychosis
-294720015	57	E04y	E04y.00	Other specified chronic organic psychoses	191447007	294630015		32	psychosis
-294721016	2060	E04z	E04z.00	Chronic organic psychosis NOS	191447007	294630015		32	psychosis
-294722011	117	E0y	E0y..00	Other specified organic psychoses	191447007	294630015		32	psychosis
-294723018	8441	E0z	E0z..00	Organic psychoses NOS	191447007	294630015		32	psychosis
 294904016	6750	E120	E120.00	Simple paranoid state	191668004	294904016		32	psychosis
 294908018	96	E123-1	E123.11	Folie a deux	191670008	294908018		32	psychosis
 294912012	745	E12yz	E12yz00	Other paranoid states NOS	191667009	294903010		32	psychosis
@@ -253,7 +244,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3600941000006114	176	^ESCTOB360094		Obsessional ruminations	67698009	1232961019		27	affective
 362201000006116	135	Eu04-1	Eu04.11	[X]Acute / subacute brain syndrome	2776000	483659012		32	delirium
 362211000006118	6588	Eu04-2	Eu04.12	[X]Acute / subacute confusional state, nonalcoholic	111479008	178719012		32	delirium
-362231000006112	53	Eu04-4	Eu04.14	Acute organic reaction	2776000	483655018		32	delirium
 362241000006119	397	Eu04-5	Eu04.15	[X]Acute / subacute psycho-organic reaction	111479008	178719012		32	delirium
 362271000006110	25822	Eu23	Eu23.00	Acute transient psychotic disorder	231489001	346960012		32	psychosis
 362301000006112	3361	Eu430-1	Eu43011	[X]Acute crisis reaction	67195008	500647017		32	affective
@@ -325,9 +315,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 401859016	1035	Eu233	Eu23300	[X]Other acute predominantly delusional psychotic disorders	231489001	346960012		32	psychosis
 401860014	5535	Eu23z	Eu23z00	[X]Acute and transient psychotic disorder, unspecified	231489001	346960012		32	psychosis
 402507017	179	28C	28C..00	O/E - embarrassing behaviour	268960007	402507017		27	challenging 
-403931000006116	1169	Eu054	Eu05400	Organic anxiety disorder	17496003	29572018		32	affective
-403961000006113	6746	Eu052	Eu05200	Organic delusional disorder	5510009	10196013		32	psychosis
-403991000006117	1714	Eu050	Eu05000	Organic hallucinosis	45912004	76558013		32	psychosis
 406739012	3119	Fy02	Fy02.00	Disorders of the sleep-wake schedule	271794005	406739012		32	challenging 
 407062014	608114	1B17-1	1B17.11	C/O - feeling depressed	272022009	407062014		27	affective
 407066012	28114	1B17-2	1B17.12	C/O - feeling unhappy	272024005	407066012		27	affective
@@ -343,9 +330,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 418551000006112	345	Eu631	Eu63100	[X]Pathological fire-setting	600009	2071019		32	challenging 
 420671000006112	1112	Eu40z-2	Eu40z12	[X]Phobic state NOS	386810004	1480929014		32	affective
 420741000006110	768	Eu50y-1	Eu50y11	[X]Pica in adults	14077003	23968015		32	challenging 
-42181000006112	562	E03y2	E03y200	Organic affective syndrome	23645006	39698011		32	affective
-42191000006110	3958	E03y0	E03y000	Organic delusional syndrome	5510009	10196013		32	psychosis
-42201000006113	702	E03y1	E03y100	Organic hallucinosis syndrome	45912004	76558013		32	psychosis
 423327015	2598	1P10	1P10.00	Clinging behaviour	284605004	423327015		27	challenging 
 423811000006112	270	Eu430-5	Eu43015	[X]Psychic shock	67195008	500648010		32	affective
 424071000006112	805	Eu233-2	Eu23312	[X]Psychogenic paranoid psychosis	191680007	294924017		32	psychosis
@@ -453,8 +437,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5655851000006112	572	^ESCTIN565585		Intermittent confusion	281793005	419884014		31	delirium
 5719381000006112	49	^ESCTIM571938		Impulsiveness	286756000	2646762011		27	challenging 
 5886481000006112	5965	^ESCTAN588648		Anxiety attack	300895004	442086017		31	affective
-612521000006115	4018	E030-1	E030.11	Delirium - acute organic	2776000	5694012		32	delirium
-612531000006117	354	E031-1	E031.11	Delirium - subacute organic	191507002	294705014		32	delirium
 62226016	6025	E27z4	E27z400	Nail biting	37298006	486682015		32	challenging 
 677031000006115	14684	E205-1	E205.11	Nervous exhaustion	78667006	130532011		32	affective
 677321000006115	307381	E205	E205.00	Neurasthenia	78667006	130532011		32	affective

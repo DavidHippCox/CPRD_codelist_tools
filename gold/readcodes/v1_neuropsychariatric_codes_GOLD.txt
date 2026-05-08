@@ -22,27 +22,12 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 37015	E003.00	1124	0	10	0	Senile dementia with delirium	February 2009	delirium
 56912	E004100	45	0	<5	0	Arteriosclerotic dementia with delirium	February 2009	delirium
 55467	E004200	57	0	6	0	Arteriosclerotic dementia with paranoia	February 2009	psychosis
-15249	E00y.00	2174	0	286	0	Other senile and presenile organic psychoses	February 2009	psychosis
 51494	E00y.11	<5	0	0	0	Presbyophrenic psychosis	February 2009	psychosis
 2882	E00z.00	13233	0	2070	<5	Senile or presenile psychoses NOS	February 2009	psychosis
-55150	E03..00	1264	0	<5	0	Transient organic psychoses	February 2009	psychosis
 4033	E030.00	23121	0	1218	0	Acute confusional state	February 2009	delirium
-22466	E030.11	8004	0	68	0	Delirium - acute organic	February 2009	delirium
 41537	E030z00	1931	0	44	0	Acute confusional state NOS	February 2009	delirium
 17021	E031.00	2087	0	208	0	Subacute confusional state	February 2009	delirium
-24077	E031.11	669	0	11	0	Delirium - subacute organic	February 2009	delirium
 55784	E031z00	128	0	<5	0	Subacute confusional state NOS	February 2009	delirium
-68201	E03y.00	95	0	0	0	Other transient organic psychoses	February 2009	psychosis
-10543	E03y000	1122	0	41	0	Organic delusional syndrome	February 2009	psychosis
-47109	E03y100	173	0	<5	0	Organic hallucinosis syndrome	February 2009	psychosis
-24510	E03y200	110	0	<5	0	Organic affective syndrome	February 2009	affective
-59197	E03yz00	9	0	0	0	Other transient organic psychoses NOS	February 2009	psychosis
-57637	E03z.00	61	0	0	0	Transient organic psychoses NOS	February 2009	psychosis
-62087	E04..00	200	0	<5	0	Other chronic organic psychoses	February 2009	psychosis
-23677	E04y.00	8	0	0	0	Other specified chronic organic psychoses	February 2009	psychosis
-39625	E04z.00	136	0	<5	0	Chronic organic psychosis NOS	February 2009	psychosis
-66545	E0y..00	29	0	0	0	Other specified organic psychoses	February 2009	psychosis
-36861	E0z..00	552	0	22	0	Organic psychoses NOS	February 2009	psychosis
 4261	E12..00	13733	0	1152	0	Paranoid states	February 2009	psychosis
 14743	E120.00	3670	0	634	0	Simple paranoid state	February 2009	psychosis
 14971	E122.00	2684	0	203	0	Paraphrenia	February 2009	psychosis
@@ -59,12 +44,8 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 53446	Eu04100	333	0	<5	0	[X]Delirium superimposed on dementia	February 2009	delirium
 39337	Eu04.11	65	0	<5	0	[X]Acute / subacute brain syndrome	February 2009	delirium
 7389	Eu04.12	9077	0	1075	0	[X]Acute / subacute confusional state, nonalcoholic	February 2009	delirium
-21933	Eu04.14	72	0	<5	0	[X]Acute / subacute organic reaction	February 2009	delirium
-22065	Eu04.15	45	0	5	0	[X]Acute / subacute psycho-organic reaction	February 2009	delirium
 52394	Eu04y00	2145	0	<5	0	[X]Other delirium	February 2009	delirium
 53924	Eu04z00	5450	0	15	0	[X]Delirium, unspecified	February 2009	delirium
-25338	Eu05000	130	0	<5	0	[X]Organic hallucinosis	February 2009	psychosis
-21986	Eu05200	1591	0	19	0	[X]Organic delusional [schizophrenia-like] disorder	February 2009	psychosis
 25019	Eu23.00	2482	0	35	0	[X]Acute and transient psychotic disorders	February 2009	psychosis
 36720	Eu23000	286	0	0	0	[X]Acute polymorphic psychot disord without symp of schizoph	February 2009	psychosis
 50023	Eu23011	<5	0	<5	0	[X]Bouffee delirante	February 2009	psychosis
@@ -88,7 +69,6 @@ medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	des
 26138	E28z.00	16363	0	44	0	Acute stress reaction NOS	February 2009	affective
 50191	Eu41113	6479	0	<5	0	[X]Anxiety state	February 2009	affective
 27588	Eu44.13	85	0	<5	0	[X]Hysteria	February 2009	affective
-20773	Eu05400	534	0	18	0	[X]Organic anxiety disorder	February 2009	affective
 35825	Eu41112	1556	0	68	0	[X]Anxiety reaction	February 2009	affective
 7749	Eu41211	12286	0	73	0	[X]Mild anxiety depression	February 2009	affective
 23354	E201z00	370	0	14	0	Hysteria NOS	February 2009	affective
