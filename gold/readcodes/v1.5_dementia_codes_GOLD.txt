@@ -1,0 +1,91 @@
+medcode	readcode	description	N	subtype	early onset	strict_phenotype	Comments
+41920	E011z00	Alcohol amnestic syndrome NOS		Alcohol		Korsakov's syndrome	
+18636	E011200	Wernicke-Korsakov syndrome		Alcohol		Korsakov's syndrome	
+4500	E011000	Korsakov's alcoholic psychosis		Alcohol		Korsakov's syndrome	
+11670	Eu10611	[X]Korsakov's psychosis, alcohol induced		Alcohol		Korsakov's syndrome	
+39799	Eu10600	[X]Mental and behav dis due to use alcohol: amnesic syndrome		Alcohol		Korsakov's syndrome	
+20762	E011.00	Alcohol amnestic syndrome		Alcohol		Korsakov's syndrome	
+11106	E011100	Korsakov's alcoholic psychosis with peripheral neuritis		Alcohol		Korsakov's syndrome	
+27342	E012.11	Alcoholic dementia NOS	1054	Alcohol		Alcoholic dementia	
+37946	E012000	Chronic alcoholic brain syndrome	95	Alcohol		Alcoholic dementia	
+54505	E012.00	Other alcoholic dementia	246	Alcohol		Alcoholic dementia	
+26323	Eu10711	[X]Alcoholic dementia NOS	921	Alcohol		Alcoholic dementia	
+37691	Eu10712	[X]Chronic alcoholic brain syndrome		Alcohol		Alcoholic dementia	
+47555	F11x000	Cerebral degeneration due to alcoholism		Alcohol		Alcoholic dementia	
+1917	F110.00	Alzheimer's disease	72560	Alzheimer's disease		0	
+16797	F110000	Alzheimer's disease with early onset	1143	Alzheimer's disease	E	0	
+32057	F110100	Alzheimer's disease with late onset	1304	Alzheimer's disease		0	
+19477	E004.00	Arteriosclerotic dementia	3198	Vascular dementia		0	
+42279	E004z00	Arteriosclerotic dementia NOS	350	Vascular dementia		0	
+56912	E004100	Arteriosclerotic dementia with delirium	44	Vascular dementia		0	
+43292	E004300	Arteriosclerotic dementia with depression	101	Vascular dementia		0	
+55467	E004200	Arteriosclerotic dementia with paranoia	57	Vascular dementia		0	
+109790	8CMe000	Dementia advance care plan	1464	Unspecified		0	
+108228	8CSA.00	Dementia advance care plan agreed	3818	Unspecified		0	
+108391	8IAe000	Dementia advance care plan declined	167	Unspecified		0	
+110075	8IAe200	Dementia advance care plan review declined	52	Unspecified		0	
+109731	8CMZ000	Dementia care plan agreed	4797	Unspecified		0	
+109786	8CMZ200	Dementia care plan declined	189	Unspecified		0	
+110123	8CMZ300	Dementia care plan review declined	130	Unspecified		0	
+109708	8CMZ100	Dementia care plan reviewed	18235	Unspecified		0	
+25386	E041.00	Dementia in conditions EC	2564	Unspecified		0	
+109737	8BM0200	Dementia medication review	1336	Unspecified		0	
+44341	9hD..00	Exception reporting: dementia quality indicators	251	Unspecified		0	
+114713	F118100	Frontotemporal dementia	316	Frontotemporal dementia		0	
+7572	F116.00	Lewy body disease	2046	Lewy body dementia		0	
+107282	28E0.00	Mild cognitive impairment	11265	Mild cognitive impairment	E	0	
+8634	E004.11	Multi infarct dementia	5189	Vascular dementia		0	
+11136	F111.00	Pick's disease	279	Frontotemporal dementia		0	
+15165	E001.00	Presenile dementia	2111	Unspecified	E	0	
+38438	E001z00	Presenile dementia NOS	285	Unspecified	E	0	
+49513	E001100	Presenile dementia with delirium	208	Unspecified	E	0	
+27677	E001300	Presenile dementia with depression	126	Unspecified	E	0	
+30032	E001200	Presenile dementia with paranoia	166	Unspecified	E	0	
+110522	8T05200	Referral for dementia assessment	24	Unspecified		0	
+108268	8CMG200	Review of dementia advance care plan	8624	Unspecified		0	
+29512	F112.00	Senile degeneration of brain	703	Unspecified		0	
+1916	E00..11	Senile dementia	31120	Unspecified		0	
+37015	E003.00	Senile dementia with delirium	1068	Unspecified		0	
+21887	E002100	Senile dementia with depression	852	Unspecified		0	
+44674	E002.00	Senile dementia with depressive or paranoid features	310	Unspecified		0	
+41089	E002z00	Senile dementia with depressive or paranoid features NOS	55	Unspecified		0	
+18386	E002000	Senile dementia with paranoia	553	Unspecified		0	
+1350	E00..12	Senile/presenile dementia	58241	Unspecified		0	
+43089	E004000	Uncomplicated arteriosclerotic dementia	124	Vascular dementia		0	
+42602	E001000	Uncomplicated presenile dementia	54	Unspecified	E	0	
+7323	E000.00	Uncomplicated senile dementia	15677	Unspecified		0	
+48501	Eu02z11	[X] Presenile dementia NOS	106	Unspecified	E	0	
+34944	Eu02z13	[X] Primary degenerative dementia NOS	113	Unspecified		0	
+4357	Eu02z14	[X] Senile dementia NOS	14484	Unspecified		0	
+27759	Eu02z16	[X] Senile dementia, depressed or paranoid type	197	Unspecified		0	
+4693	Eu02z00	[X] Unspecified dementia	58069	Unspecified		0	
+8195	Eu00z11	[X]Alzheimer's dementia unspec	13758	Alzheimer's disease		0	
+46762	Eu00111	[X]Alzheimer's disease type 1	93	Alzheimer's disease		0	
+61528	Eu00013	[X]Alzheimer's disease type 2	17	Alzheimer's disease		0	
+9565	Eu01.11	[X]Arteriosclerotic dementia	1203	Vascular dementia		0	
+30706	Eu00200	[X]Dementia in Alzheimer's dis, atypical or mixed type	7965	Unspecified		0	
+7664	Eu00.00	[X]Dementia in Alzheimer's disease	41708	Alzheimer's disease	apply to <65 for EO	0	apply to <65 for EO
+49263	Eu00000	[X]Dementia in Alzheimer's disease with early onset	742	Alzheimer's disease	E	0	Wilkinson et al 
+38678	Eu00100	[X]Dementia in Alzheimer's disease with late onset	1604	Alzheimer's disease	IF they have a code in either place, we go with it. 	0	IF they have a code in either place, we go with it. 
+29386	Eu00z00	[X]Dementia in Alzheimer's disease, unspecified	1891	Alzheimer's disease		0	
+54106	Eu02100	[X]Dementia in Creutzfeldt-Jakob disease	37	Dementia in CJD		0	
+37014	Eu02200	[X]Dementia in Huntington's disease	224	Dementia in HD		0	
+9509	Eu02300	[X]Dementia in Parkinson's disease	3290	Parkinson's disease		0	
+28402	Eu02000	[X]Dementia in Pick's disease	230	Frontotemporal dementia		0	
+41185	Eu02400	[X]Dementia in human immunodef virus [HIV] disease	29	Dementia in HIV		0	
+12621	Eu02.00	[X]Dementia in other diseases classified elsewhere	1408	Unspecified		0	
+64267	Eu02y00	[X]Dementia in other specified diseases classif elsewhere	119	Unspecified		0	
+26270	Eu02500	[X]Lewy body dementia	4875	Lewy body dementia		0	
+31016	Eu01300	[X]Mixed cortical and subcortical vascular dementia	3334	Vascular dementia		0	
+11175	Eu01100	[X]Multi-infarct dementia	1617	Vascular dementia		0	
+59122	Fyu3000	[X]Other Alzheimer's disease	25	Alzheimer's disease		0	
+55313	Eu01y00	[X]Other vascular dementia	581	Vascular dementia		0	
+55838	Eu01111	[X]Predominantly cortical dementia	45	Unspecified		0	
+25704	Eu00011	[X]Presenile dementia,Alzheimer's type	71	Alzheimer's disease	E	0	
+43346	Eu00113	[X]Primary degen dementia of Alzheimer's type, senile onset	97	Alzheimer's disease		0	
+60059	Eu00012	[X]Primary degen dementia, Alzheimer's type, presenile onset	34	Alzheimer's disease	E	0	
+11379	Eu00112	[X]Senile dementia,Alzheimer's type	1579	Alzheimer's disease		0	
+8934	Eu01200	[X]Subcortical vascular dementia	499	Vascular dementia		0	
+6578	Eu01.00	[X]Vascular dementia	73078	Vascular dementia		0	
+46488	Eu01000	[X]Vascular dementia of acute onset	74	Vascular dementia		0	
+19393	Eu01z00	[X]Vascular dementia, unspecified	1558	Vascular dementia		0	
