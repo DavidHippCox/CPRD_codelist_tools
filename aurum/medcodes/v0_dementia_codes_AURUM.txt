@@ -135,7 +135,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1972871000006113	<5	EMISICD10|F0132		Mixed cortical and subcortical vascular dementia, other symptoms, predominantly hallucinatory	1972871000006109	1972871000006113		32	Vascular dementia			
 1972911000006111	<5	EMISICD10|F0133		Mixed cortical and subcortical vascular dementia, other symptoms, predominantly depressive	1972911000006107	1972911000006111		32	Vascular dementia			
 1972931000006117	128	EMISICD10|F0134		Mixed cortical and subcortical vascular dementia, other mixed symptoms	1972931000006101	1972931000006117		32	Vascular dementia			
-1973171000006112	<5	EMISICD10|F1873		Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, dementia	1973171000006108	1973171000006112		32				exclude - drug use
 1973221000006118	12	EMISICD10|F0180		Other vascular dementia, without additional symptoms	1973221000006102	1973221000006118		32	Vascular dementia			
 1973271000006117	6	EMISICD10|F0181		Other vascular dementia, other symptoms, predominantly delusional	1973271000006101	1973271000006117		32	Vascular dementia			
 1973341000006118	5	EMISICD10|F0182		Other vascular dementia, other symptoms, predominantly hallucinatory	1973341000006102	1973341000006118		32	Vascular dementia			
@@ -148,7 +147,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1976831000006111	968	EMISICD10|F0194		Vascular dementia, unspecified, other mixed symptoms	1976831000006107	1976831000006111		32	Vascular dementia			
 2002211000006119	262	EMISNQMI228		Mild cognitive impairment annual review	1052381000000103	2648391000000112		1	Mild cognitive impairment			not for subtyping (including unspecified) just evidence of to get index date
 21256010	18525	E001	E001.00	Presenile dementia	12348006	21256010		32	Unspecified	E		
-2127581000000115	41139	1JA2	1JA2.00	Suspected dementia	816461000000109	2127581000000115		27				exclude - vague
 215831000000117	157316	Eu057	Eu05700	Mild cognitive disorder	386805003	1480925015		32	Mild cognitive impairment			AT to review
 2159230012	2866	3AE1	3AE1.00	GDS level 2 - very mild cognitive decline	407630006	2159230012		3				AT to review
 2159231011	5998	3AE2	3AE2.00	GDS level 3 - mild cognitive decline	407631005	2159231011		3				AT to review
@@ -181,7 +179,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2502981000006117	7	^ESCTAL250298		Alcohol-induced persisting dementia	281004	1558011		32	Alcohol		Alcoholic dementia	
 2510951000006114	634	^ESCTCR251095		Creutzfeldt-Jakob disease	792004	2387010		32	Dementia in CJD			
 2510981000006118	11	^ESCTCJ251098		CJD - Creutzfeldt-Jakob disease	792004	1234325017		32	Dementia in CJD			
-251625013	102501	1461	1461.00	H/O: dementia	161465002	251625013		32	Unspecified			exclude - history of
 2543131000006118	55	^ESCTOR254313		Organic brain syndrome	2776000	483649011		32				AT to review - possible dementia/pseudodementia
 2543161000006110	9	^ESCTAC254316		Acute psycho-organic syndrome	2776000	483653013		32				AT to review - possible dementia/pseudodementia
 2543181000006117	<5	^ESCTAB254318		ABS - Acute brain syndrome	2776000	483658016		32				AT to review - possible dementia/pseudodementia
@@ -252,7 +249,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294662017	463	E0111	E011100	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	294662017		32	Alcohol		Korsakov's syndrome	
 294664016	137	E011z	E011z00	Alcohol amnestic syndrome NOS	73097000	121405015		32	Alcohol		Alcoholic dementia	
 294668018	1943	E0120	E012000	Chronic alcoholic brain syndrome	191475009	294668018		32	Alcohol		Alcoholic dementia	
-294688019	85	E02y1	E02y100	Drug-induced dementia	191493005	294688019		32				exclude - drug use
 294718018	9259	E041	E041.00	Dementia in conditions EC	191519005	294718018		32	Unspecified			
 295668011	394233	Eu00	Eu00.00	[X]Dementia in Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
 295671015	148205	Eu002	Eu00200	[X]Dementia in Alzheimer's dis, atypical or mixed type	26929004	45046017		32	Alzheimer's disease			
@@ -284,9 +280,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 297025010	277	F11yz	F11yz00	Other cerebral degeneration NOS	418143002	2577820013		32				AT to review - possible dementia/pseudodementia
 299325013	526	Fyu30	Fyu3000	[X]Other Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
 299641000000112	72960	Eu025	Eu02500	Diffuse Lewy body disease	80098002	132893017		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
-3029421000006116	<5	^ESCTIN302942		Inhalant-induced persisting dementia	32875003	54871018		32				exclude - drug use
-3118051000006114	7	^ESCTAT311805		At risk for cognitive impairment	38369006	213811015		31				exclude - vague
-3118061000006111	<5	^ESCTPO311806		Potential for cognitive impairment	38369006	2476804016		31				exclude - vague
 3189531000006118	<5	^ESCTDI318953		Diffuse Lewy body disease with spongiform cortical change	42769004	71362016		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
 3240651000006113	<5	^ESCTAG324065		Age-related degeneration of brain	45864009	2966662012		32				AT to review - possible dementia/pseudodementia
 3350441000006115	<5	^ESCTOR335044		Organic dementia	52448006	2970981011		32	Unspecified			
@@ -299,7 +292,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3449761000006113	<5	^ESCTSP344976		Sphingomyelin/cholesterol lipidosis	58459009	97145019		32				AT to review - possible dementia/pseudodementia
 345092016	6225	F118	F118.00	Frontotemporal degeneration	230273006	345092016		32	Frontotemporal dementia			
 3454551000006117	16	^ESCTHU345455		Huntington chorea	58756001	2838433019		32	Dementia in HD			AT to review - possible dementia/pseudodementia
-3469041000006117	<5	^ESCTSE346904		Sedative, hypnotic AND/OR anxiolytic-induced persisting dementia	59651006	99104015		32				exclude - drug use
 346929012	7987	E012-1	E012.11	Alcoholic dementia	281004	1225776018		32	Alcohol		Alcoholic dementia	
 3511181000006115	9	^ESCTPA351118		Parkinson-dementia complex of Guam	62239001	103435012		31	Parkinson's disease			
 3558401000006117	<5	^ESCTPR355840		Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium	65096006	108178014		32	Alzheimer's disease	E		
@@ -369,7 +361,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 431681000006117	877390	Eu01	Eu01.00	Vascular dementia	429998004	2770951017		32	Vascular dementia			
 431691000006119	1957	Eu010	Eu01000	Vascular dementia of acute onset	230285003	345110014		32	Vascular dementia			
 45046017	1283817	F110	F110.00	Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
-4539871000006116	<5	^ESCTHI453987		History of dementia	161465002	2987032015		32				exclude - history of
 476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	Alcohol		Alcoholic dementia	
 4768951000006118	<5	^ESCTMY476895		Myxoedema encephalopathy	192816007	297016016		32				AT to review - possible dementia/pseudodementia
 4768981000006114	7	^ESCTCE476898		Cerebral degeneration due to Creutzfeldt-Jakob disease	192818008	297019011		32	Dementia in CJD			
