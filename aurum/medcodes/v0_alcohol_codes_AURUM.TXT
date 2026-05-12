@@ -97,7 +97,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1808491000006113	<5	JHCAL2		Alcohol-related legal or disciplinary problem	1808491000006109	1808491000006113		17				exclude - drinking history not clear	
 1808611000006118	<5	JHCAR24		AREP - Alcohol rehabilitation education program	1808611000006102	1808611000006118		32				exclude - vague	
 295126010	594	E230-1	E230.11	Alcohol dependence with acute alcoholic intoxication	191802004	295126010		32	aud			aud - should we include acute intoxication?	
-1900941000006116	4059	38P03	38P0300	HoNOSCA-CR (Health of the Nation Outcome Scales for Children and Adolescents - clinician-rated) scale 4 score - alcohol, substance/solvent misuse	989821000000100	2515561000000118		32				exclude - child code	
 295127018	13901	E230	E230.00	Acute alcoholic intoxication in alcoholism	191802004	295127018		32	aud			aud - should we include acute intoxication?	
 295128011	1112	E2300	E230000	Acute alcoholic intoxication, unspecified, in alcoholism	191802004	295127018		32	aud			aud - should we include acute intoxication?	
 295129015	217	E2301	E230100	Continuous acute alcoholic intoxication in alcoholism	191804003	295129015		32	aud			aud - should we include acute intoxication?	
@@ -552,8 +551,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 8048151000006113	62	^ESCTCH804815		Chronic pancreatitis due to chronic alcoholism	154211000119108	3008826016		31	aud				
 4978381000006110	1057	^ESCTPA497838		Pattern of drinking through day	228309001	342360015		31	check_upd			check_upd - only check_upd	
 8367371000006114	330	^ESCTCU836737		Current View Provisional Problem Description item 13 score - drug and alcohol difficulties	987371000000102	2510341000000118		31				exclude - numbers too low for score to be considered/evaluated (<300)	
-8368931000006113	25	^ESCTHO836893		HoNOSCA-SR (Health of the Nation Outcome Scales for Children and Adolescents - self-rated) scale 4 score - alcohol, substance/solvent misuse	989691000000103	2515301000000114		31				exclude - child code	
-8369211000006115	12	^ESCTHO836921		HoNOSCA (Health of the Nation Outcome Scales for Children and Adolescents) - parent's assessment scale 4 score - alcohol, substance/solvent misuse	989951000000100	2515821000000111		31				exclude - child code	
 8088731000006112	<5	^ESCTDI808873		Disorder due to alcohol abuse	288021000119107	3290157019		5	aud				
 8088741000006119	21	^ESCTAL808874		Alcohol induced disorder co-occurrent and due to alcohol dependence	288031000119105	3316455019		31	aud 				
 8088751000006117	99	^ESCTAL808875		Alcohol dependence with alcohol induced disorder	288031000119105	3316456018		31	aud 				
