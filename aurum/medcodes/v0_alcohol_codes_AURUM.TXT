@@ -20,7 +20,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 14799161000006114	33	^ESCT1479916		Cognitive impairment caused by alcohol	1234774002	5083956014		32	aud			include in dementia codelist?	
 12619041000006111	32	^ESCT1261904		History of alcohol use	1104851000000107	2765571000000113		31	check_upd		1		
 12626661000006117	<5	^ESCT1262666		Provision of information about alcohol use	1111231000000100	2780481000000119		31				exclude - vague 	
-12703401000006113	48042	^ESCT1270340		History of substance abuse	371422002	1210081015		17				exclude - not alcohol usage recording	
 15374151000006114	38	^ESCT1537415		Fetal Alcohol Spectrum Disorder (FASD) without sentinel facial features	1894461000000101	1844721000000111		32	aud				
 13021000000117	15	9EQ	9EQ..00	HO/RTS - police: venesection alcohol	16751000000101	13011000000111		37				exclude - drinking history not clear	
 13031000000115	<5	9EQ-z334		HO/RTS-police:venesect alcohol	16751000000101	1694101000006113		37				exclude - drinking history not clear	
@@ -76,8 +75,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 226571000000116	85322	9k12	9k12.00	Alcohol misuse enhanced service completed	166471000000105	1154571000000110		37	aud			aud - aud or admin?	
 236441000000113	120693	9k1	9k1..00	Alcohol misuse enhanced services administration	166251000000100	1153251000000119		37	aud			aud - aud or admin?	
 2364891000000111	1229	9EVD	9EVD.00	Hospital alcohol liaison team report received	921441000000103	2364891000000111		37	aud				
-16076841000006111	317	^ESCT1607684		Harmful pattern of use of psychoactive substance	91388009	5362333013		32				exclude - not alcohol usage recording	
-2437261000000112	3100	8Cx02	8Cx0200	Family wellbeing discussion about alcohol	955731000000102	2437261000000112		32	aud			exclude - not personal alcohol use	
 2454281000000112	984	9NzA	9NzA.00	Hospital attendance related to personal alcohol consumption	963281000000104	2454281000000112		37	aud				
 2467301000000111	991	8BAs	8BAs.00	Alcohol relapse prevention	968891000000109	2467301000000111		32	aud				
 2475831000000114	2247	8BAu	8BAu.00	Alcohol harm reduction programme	720175009	3319643016		32	aud				
@@ -177,16 +174,8 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 295253017	5657	E2502	E250200	Nondependent alcohol abuse, episodic	191883007	295253017		32	aud				
 7497781000006112	28	^ESCTSU749778		Suspected foetal damage from maternal alcohol addiction	609424003	2965654010		32	aud				
 7497791000006110	<5	^ESCTSU749779		Suspected fetal damage from maternal alcohol addiction	609424003	2965657015		32	aud				
-252069016	80287	1561	1561.00	H/O: oral contraceptive usage	161772002	252069016		27				exclude - not alcohol usage recording	
-252070015	17280	1561-1	1561.11	H/O: pill (O.C) usage	161772002	252070015		27				exclude - not alcohol usage recording	
-252151000006111	180	L2444	L244400	Other uterine/pelvic floor abn - baby delivered previously	173300003	268308014		32				exclude - not alcohol usage recording	
-252161000006113	133	L2442	L244200	Other uterine/pelvic floor abn - delivered+postpartum compl	173300003	268308014		32				exclude - not alcohol usage recording	
-252181000006115	8	L2443	L244300	Other uterine/pelvic floor abnormal - baby not yet delivered	173300003	268308014		32				exclude - not alcohol usage recording	
-252191000006117	55	L2440	L244000	Other uterine/pelvic floor abnormal affecting obstetric care	173300003	268308014		32				exclude - not alcohol usage recording	
-252211000006116	365	L244	L244.00	Other uterine/pelvic floor abnormality in preg/childb/puerp	173300003	268308014		32				exclude - not alcohol usage recording	
 7498031000006110	459	^ESCTFE749803		Fetal Alcohol Spectrum Disorder	609437000	2965739010		32	aud				
 7518461000006118	<5	^ESCTTH751846		Thrombocytopenia due to alcohol	699208000	2983110014		31	aud				
-2533386015	148	918b	918b.00	Carer of a person with alcohol misuse	413759008	2533386015		37				exclude - not personal alcohol use	
 7613321000006119	29657	^ESCTAL761332		Alcohol reduction programme	707166002	3028954019		31	aud				
 295254011	1152	E2503	E250300	Nondependent alcohol abuse in remission	191884001	295254011		32	aud				
 295255012	6799	E250z	E250z00	Nondependent alcohol abuse NOS	268645007	401797010		32	aud				
@@ -197,7 +186,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7725141000006111	355	^ESCTMO772514		Moderate alcohol dependence	714829008	3300567016		31	aud				
 7729841000006118	<5	^ESCTDI772984		Disulfiram overdose	715300008	3302141010		31	aud			exclude - alcohol drug use	
 7858041000006119	<5	^ESCTAL785804		Alcohol-related neurological disorder	724574008	3441485019		5	aud				
-265094011	94217	67A5	67A5.00	Pregnancy alcohol education	171057006	2575655011		17				exclude - not alcohol usage recording	
 8041851000006114	5	^ESCTDE804185		Degenerative brain disorder caused by alcohol	133301000119102	3290021010		5	aud	Alcoholic dementia			
 2692396019	114909	8IA7	8IA7.00	Alcohol consumption screening test declined	428073005	2692396019		32				exclude - declined or unknown alcohol use	
 8041861000006111	<5	^ESCTDE804186		Degenerative brain disorder due to alcohol	133301000119102	3290091018		5	aud	Alcoholic dementia			
@@ -257,18 +245,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4533141000006118	3814965	^ESCTAL453314		Alcohol intake	160573003	250307017		17	check_upd				
 1973811000006113	22	EMISICD10|F1021		Mental and behav dis due to use alcohol: dependence syndr, currently abstinent, but in a protected environment	1973811000006109	1973811000006113		32	aud		1		
 1973871000006116	37	EMISICD10|F1022		Mental and behav dis due to use alcohol: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1973871000006100	1973871000006116		32	aud		1		
-306695011	14	L2637	L263700	Maternal care for fetal hypoxia	173300003	268308014		32				exclude - not alcohol usage recording	
 1974021000006112	56	EMISICD10|F1023		Mental and behav dis due to use alcohol: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	1974021000006108	1974021000006112		32	aud		1		
-308061017	230	L5	L5...00	Maternal care for fetus	173300003	268308014		32				exclude - not alcohol usage recording	
-308062012	<5	L50	L50..00	Maternal care for compound presentation	173300003	268308014		32				exclude - not alcohol usage recording	
-308063019	104	L51	L51..00	Maternal care for other known or suspected fetal problems	173300003	268308014		32				exclude - not alcohol usage recording	
-308064013	189	L510	L510.00	Maternal care for hydrops fetalis	173300003	268308014		32				exclude - not alcohol usage recording	
-308065014	248	L511	L511.00	Maternal care for viable fetus in abdominal pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
-308066010	195	L512	L512.00	Maternal care for diminished fetal movements	173300003	268308014		32				exclude - not alcohol usage recording	
-308070019	844	L2653-1	L265311	Maternal care for intrauterine growth retardation	173300003	268308014		32				exclude - not alcohol usage recording	
-308071015	79	L514	L514.00	Maternal care for poor fetal growth	173300003	268308014		32				exclude - not alcohol usage recording	
-308108011	<5	Lyu28	Lyu2800	[X]Other complications of anaesthesia during pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
-308205015	147	Lyu7	Lyu7.00	[X]Other obstetric conditions, not elsewhere classified	173300003	268308014		32				exclude - not alcohol usage recording	
 1974071000006113	146	EMISICD10|F1024		Mental and behav dis due to use alcohol: dependence syndr, currently using the substance [active dependence]	1974071000006109	1974071000006113		32	aud		1		
 1974111000006117	1951	EMISICD10|F1025		Mental and behav dis due to use alcohol: dependence syndr, continuous use	1974111000006101	1974111000006117		32	aud				
 1974141000006118	49	EMISICD10|F1026		Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]	1974141000006102	1974141000006118		32	aud				
@@ -351,86 +328,30 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294675017	41	E01yz	E01yz00	Other alcoholic psychosis NOS	42344001	70655012		32	aud				
 294676016	887	E01z	E01z.00	Alcoholic psychosis NOS	42344001	70655012		32	aud				
 295136019	233892	E2310	E231000	Alcohol dependence	66590003	110628016		32	aud				
-396901000006114	94	Lyu3A	Lyu3A00	[X]Maternal care/known or suspected fetal problem,unspecifd	173300003	268308014		32				exclude - not alcohol usage recording	
-397141000006111	79	Eu147	Eu14700	[X]Men & beh dis due cocaine: resid & late-onset psychot dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397151000006113	<5	Eu164	Eu16400	[X]Mental and behavioural disorders due to use of hallucinogens: withdrawal state with delirium	91388009	151411015		32				exclude - not alcohol usage recording	
-397171000006115	<5	Eu134	Eu13400	[X]Men & beh dis due seds/hypns: withdrwl state wth delirium	91388009	151411015		32				exclude - not alcohol usage recording	
 295139014	13956	E2311	E231100	Continuous chronic alcoholism	191811004	295139014		32	aud				
 295141010	6280	E2312	E231200	Episodic chronic alcoholism	191812006	295141010		32	aud				
-397221000006114	6	Eu144	Eu14400	[X]Men & behav dis due cocaine: withdrawl state wth delirium	91388009	151411015		32				exclude - not alcohol usage recording	
-397231000006112	43	Eu114	Eu11400	[X]Men & behav dis due opioid: withdrawl state with delirium	91388009	151411015		32				exclude - not alcohol usage recording	
 295142015	7153	E2313	E231300	Chronic alcoholism in remission	191813001	295142015		32	aud				
-397301000006112	120	Eu19y	Eu19y00	[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397311000006110	58	Eu197	Eu19700	[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397331000006116	<5	Eu16y	Eu16y00	[X]Men/behav dis due to use hallucinogens: oth men/behav dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397341000006114	<5	Eu13y	Eu13y00	[X]Men/behav dis due to use seds/hypntcs: oth men/behav disd	91388009	151411015		32				exclude - not alcohol usage recording	
-397351000006111	6	Eu18y	Eu18y00	[X]Men/behav dis due to use vol solvents: oth men/behav disd	91388009	151411015		32				exclude - not alcohol usage recording	
 295143013	7729	E231z	E231z00	Chronic alcoholism NOS	66590003	110629012		32	aud				
-397441000006118	107	Eu14z	Eu14z00	[X]Ment & behav dis due use cocaine: unsp ment & behav dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397451000006116	443	Eu11z	Eu11z00	[X]Ment & behav dis due use opioids: unsp ment & behav dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397471000006114	2677	Eu19z	Eu19z00	Psychoactive substance abuse	91388009	151411015		32				exclude - not alcohol usage recording	
-397491000006110	84	Eu151	Eu15100	[X]Ment/behav dis due to use oth stims inc caff: harmful use	91388009	151411015		32				exclude - not alcohol usage recording	
-397511000006116	12	Eu16z	Eu16z00	[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397521000006112	39	Eu13z	Eu13z00	[X]Ment/behav dis due use seds/hypntcs: unsp ment/behav disd	91388009	151411015		32				exclude - not alcohol usage recording	
-397531000006110	22	Eu18z	Eu18z00	[X]Ment/behav dis due use vol solvents: unsp ment/behav dis	91388009	151411015		32				exclude - not alcohol usage recording	
-397561000006118	40	Eu160	Eu16000	[X]Mental & behav dis due hallucinogens: acute intoxicatn	91388009	151411015		32				exclude - not alcohol usage recording	
-397571000006113	69	Eu130	Eu13000	[X]Mental & behav dis due seds/hypntcs: acute intoxication	91388009	151411015		32				exclude - not alcohol usage recording	
 295144019	146746	E23z	E23z.00	Alcohol dependence syndrome NOS	66590003	500478011		32	aud				
 2969641000006116	17	^ESCTAL296964		Alcohol-related disorder	29212009	48889015		32	aud				
-397631000006114	160	Eu140	Eu14000	[X]Mental & behav dis due to use cocaine: acute intoxication	91388009	151411015		32				exclude - not alcohol usage recording	
-397711000006111	398	Eu15	Eu15.00	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine	91388009	151411015		32				exclude - not alcohol usage recording	
 397729013	4936544	1362	1362.00	Trivial drinker - <1u/day	266917007	397729013		17	light-drinker				
-397741000006110	<5	Eu163	Eu16300	[X]Mental and behavioural disorders due to use of hallucinogens: withdrawal state	91388009	151411015		32				exclude - not alcohol usage recording	
-397751000006112	164	Eu133	Eu13300	[X]Mental and behav dis due seds/hypntcs: withdrawal state	91388009	151411015		32				exclude - not alcohol usage recording	
 297011014	3812	F11x0-1	F11x011	Alcoholic encephalopathy	192811002	297011014		32	aud 				
 299061000000117	180417	136S	136S.00	Hazardous alcohol use	198421000000108	299061000000117		17	aud 				
 299081000000114	124577	136T	136T.00	Harmful alcohol use	198431000000105	299081000000114		17	aud 				
-397821000006110	36	Eu126	Eu12600	[X]Mental and behav dis due to use cannabinoids: amnesic syn	91388009	151411015		32				exclude - not alcohol usage recording	
-397841000006115	16	Eu146	Eu14600	[X]Mental and behav dis due to use cocaine: amnesic syndrome	91388009	151411015		32				exclude - not alcohol usage recording	
-397861000006116	76	Eu143	Eu14300	[X]Mental and behav dis due to use cocaine: withdrawal state	91388009	151411015		32				exclude - not alcohol usage recording	
-397871000006111	32	Eu161	Eu16100	[X]Mental and behav dis due to use hallucinogens: harmfl use	91388009	151411015		32				exclude - not alcohol usage recording	
 303399018	129556	J613	J613.00	Alcoholic liver damage	41309000	68906017		32	aud				
-397921000006118	41	Eu116	Eu11600	[X]Mental and behav dis due to use opioids: amnesic syndrome	91388009	151411015		32				exclude - not alcohol usage recording	
-397951000006110	5	Eu136	Eu13600	[X]Mental and behav dis due to use seds/hypntcs: amnesic syn	91388009	151411015		32				exclude - not alcohol usage recording	
-397961000006112	110	Eu131	Eu13100	[X]Mental and behav dis due to use seds/hypntcs: harmful use	91388009	151411015		32				exclude - not alcohol usage recording	
-398001000006114	<5	Eu186	Eu18600	[X]Mental and behav dis due to use vol solvents: amnesic syn	91388009	151411015		32				exclude - not alcohol usage recording	
-398011000006112	59	Eu182	Eu18200	[X]Mental and behav dis due to vol solvents: dependence synd	91388009	151411015		32				exclude - not alcohol usage recording	
-398021000006116	10	Eu166	Eu16600	[X]Mental and behav dis due use hallucinogens: amnesic syndr	91388009	151411015		32				exclude - not alcohol usage recording	
-398041000006111	112	Eu181	Eu18100	[X]Mental and behav dis due volatile solvents: harmful use	91388009	151411015		32				exclude - not alcohol usage recording	
-398061000006110	1094	Eu192	Eu19200	[X]Mental and behav dis mlti/oth psych sbs: dependence syndr	91388009	151411015		32				exclude - not alcohol usage recording	
-398071000006115	68	Eu193	Eu19300	[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state	91388009	151411015		32				exclude - not alcohol usage recording	
-398081000006117	236	Eu152	Eu15200	[X]Mental and behav dis oth stim inc caffein: dependnce synd	91388009	151411015		32				exclude - not alcohol usage recording	
-398091000006119	<5	Eu156	Eu15600	[X]Mental and behav dis oth stims inc caffeine: amnesic syn	91388009	151411015		32				exclude - not alcohol usage recording	
-398111000006111	781	Eu13	Eu13.00	[X]Mental and behavioural dis due use sedatives/hypnotics	91388009	151411015		32				exclude - not alcohol usage recording	
-398161000006114	218	Eu16	Eu16.00	[X]Mental and behavioural disorders due to use hallucinogens	91388009	151411015		32				exclude - not alcohol usage recording	
-398271000006114	129	Eu190	Eu19000	[X]Mental/behav dis multi drg use/psychoac subs: acute intox	91388009	151411015		32				exclude - not alcohol usage recording	
-3984641000006113	14	^ESCTDI398464		Disorder due to psychoactive substance use	91388009	509423012		32				exclude - not alcohol usage recording	
-3984651000006110	7	^ESCTPS398465		Psychoactive substance misuse disorder	91388009	509424018		32				exclude - not alcohol usage recording	
-398681000006114	24	Eu153	Eu15300	[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state	91388009	151411015		32				exclude - not alcohol usage recording	
-398691000006112	66	Eu127	Eu12700	[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis	91388009	151411015		32				exclude - not alcohol usage recording	
-398701000006112	18	Eu167	Eu16700	[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis	91388009	151411015		32				exclude - not alcohol usage recording	
-398711000006110	<5	Eu137	Eu13700	[X]Mnt/bh dis due seds/hypns: resid & late-onset psychot dis	91388009	151411015		32				exclude - not alcohol usage recording	
-398721000006119	<5	Eu194	Eu19400	[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium	91388009	151411015		32				exclude - not alcohol usage recording	
-398731000006116	<5	Eu154	Eu15400	[X]Mnt/bh dis oth stims inc caffne: withdr state wt delirium	91388009	151411015		32				exclude - not alcohol usage recording	
-398751000006111	<5	Eu187	Eu18700	[X]Mnt/bh dis vol solvents: resid & late-onset psychotic dis	91388009	151411015		32				exclude - not alcohol usage recording	
 3122331000006110	109	^ESCTPA312233		Patient referral for alcoholism rehabilitation	38670004	3122331000006110		40	aud				
 4895571000006112	79	^ESCTAC489557		Accidental poisoning by alcoholic beverage	216633005	3300762012		32	check_upd				
-404541000006116	37	Lyu27	Lyu2700	[X]Oth complicatns/spinal+epidural anaesthsia during pregncy	173300003	268308014		32				exclude - not alcohol usage recording	
-404761000006113	<5	Lyu72	Lyu7200	[X]Oth infects+parasitc dis complicat preg,cldbrth+puerperum	173300003	268308014		32				exclude - not alcohol usage recording	
-405071000006116	6	Lyu74	Lyu7400	[X]Oth spcf dis+conditns complicat preg,childbirth+puerperum	173300003	268308014		32				exclude - not alcohol usage recording	
 3165681000006118	624	^ESCTAL316568		Alcoholic liver disease	41309000	68909012		32	aud				
 4977871000006118	17697	^ESCTFI497787		Finding relating to alcohol drinking behaviour	228273003	1206283014		27	check_upd				
 4977891000006117	1516	^ESCTAL497789		Alcohol drinking behaviour	228273003	1216142012		27	check_upd				
 408548014	5829808	38D3	38D3.00	Alcohol use disorders identification test score	443280005	2837707014		3	alc_test			another type of check in observation table? 	
 409423019	12546	38Dz	38Dz.00	Severity of alcohol dependence questionnaire score	443504004	2839850016		32	alc_test			another type of check in observation table? 	
 409424013	4671	38Dz-1	38Dz.11	SADQ - Severity of alcohol dependence questionnaire	443504004	2839850016		32	alc_test			another type of check in observation table? 	
-411731000006117	456	Lyu2	Lyu2.00	[X]Other maternal disorders predominantly related to pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
 4120321000006111	272	^ESCTAB412032		Abstinent	105542008	291351013		17	non-drinker				
 4120341000006116	3707	^ESCTNE412034		Never drinks	105542008	291353011		17	non-drinker				
 4120351000006119	37225	^ESCTDO412035		Does not drink alcohol	105542008	291354017		17	non-drinker				
 4120371000006112	2599	^ESCTNO412037		Non - drinker alcohol	105542008	2659854017		17	non-drinker				
 4120381000006110	213	^ESCTCU412038		Current non-drinker of alcohol	105542008	2659855016		17	non-drinker				
-423031000006112	87	Eu167-1	Eu16711	[X]Post hallucinogen perception disorder	91388009	151411015		32				exclude - not alcohol usage recording	
 4977901000006118	10	^ESCTAL497790		Alcohol drinking behavior	228273003	1217644015		27	check_upd				
 3165691000006115	52	^ESCTAL316569		ALD - Alcoholic liver disease	41309000	492959019		32	aud				
 3182581000006111	<5	^ESCTAL318258		Alcoholic psychosis	42344001	70658014		32	aud				
@@ -449,24 +370,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4978171000006110	6	^ESCTST497817		Street drinker	228289000	342338018		31	check_upd				
 4978201000006114	<5	^ESCTDR497820		Drinks in public houses	228292001	342341010		31	check_upd				
 3402361000006113	19	^ESCTAL340236		Alcoholic ketoacidosis	55571001	92368012		31	aud				
-4543781000006114	<5	^ESCTHI454378		History of oral contraceptive usage	161772002	2986448015		27				exclude - not alcohol usage recording	
 4978241000006111	20	^ESCTCO497824		Company when drinking	228296003	342345018		31	check_upd				
-456408017	22	L2513	L251300	Maternal care for suspected chromosomal abnormality in fetus	173300003	268308014		32				exclude - not alcohol usage recording	
-456410015	46	L2514	L251400	Maternal care for chromosomal abnormality in fetus	173300003	268308014		32				exclude - not alcohol usage recording	
-456411016	<5	L2533	L253300	Maternal care for damage to fetus from maternal rubella	173300003	268308014		32				exclude - not alcohol usage recording	
-456413018	98	L25z4	L25z400	Maternal care for fetal abnormality and damage, unspecified	173300003	268308014		32				exclude - not alcohol usage recording	
-456796014	51	L263A	L263A00	Maternal care for fetal bradycardia during pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
-456797017	77	L263A-1	L263A11	Maternal care for reduced fetal heart rate during pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
-456810012	29	L2638	L263800	Maternal care for fetal decelerations during pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
-456811011	116	L2639	L263900	Maternal care for fetal tachycardia during pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
-456812016	13	L263B	L263B00	Maternal care for fetal acidosis during pregnancy	173300003	268308014		32				exclude - not alcohol usage recording	
 4978251000006113	15	^ESCTDR497825		Drinks alone	228297007	342346017		31	check_upd				
 3402371000006118	<5	^ESCTAL340237		Alcohol induced ketoacidosis	55571001	2957131017		31	aud				
-460277016	3832	ZV114	ZV11400	[V]Personal history of psychoactive substance abuse	371422002	1196720012		17				exclude - not alcohol usage recording	
 342322012	8768	136Q	136Q.00	Very heavy drinker	228279004	342322012		17	aud				
 346929012	7987	E012-1	E012.11	Alcoholic dementia	281004	1225776018		32	aud	#REF!			
 464381000006118	41	TJH3	TJH3.00	Alcohol metabolism modifier adverse reaction	292416003	432554017		5				exclude - alcohol drug use	
-4654571000006110	2082	^ESCTDI465457		Disorder of pregnancy	173300003	268309018		32				exclude - not alcohol usage recording	
 4978281000006117	12	^ESCTDR497828		Drinks in company	228298002	342349012		31	check_upd				
 350971000006112	61	U60H3-1	U60H311	[X] Adverse reaction to alcohol deterrents	292416003	432554017		5	aud				
 3510721000006113	435	^ESCTCO351072		Combined alcohol and drug rehabilitation	62213004	103391017		31	aud				
@@ -483,7 +392,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 356292013	191	C1505	C150500	Alcohol-induced pseudo-Cushing's syndrome	237738005	356292013		15	aud				
 4978411000006113	41	^ESCTDR497841		Drinks alcohol evenly through week	228312003	342363018		31	check_upd				
 492591000000114	1023370	9k16	9k16.00	Alcohol screen - fast alcohol screening test completed	285411000000105	492591000000114		37	alc_test			another type of check in observation table? 	
-497451000000119	52492	1T	1T...00	History of substance misuse	371422002	497451000000119		17				exclude - not alcohol usage recording	
 4978421000006117	79	^ESCTDR497842		Drinks alcohol unevenly through week	228313008	342364012		31	check_upd				
 4978431000006119	388	^ESCTWE497843		Weekend drinker	228314002	342365013		31	check_upd				
 4978491000006115	827	^ESCTDA497849		Daily drinker	228319007	342373016		31	check_upd				
@@ -586,12 +494,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 14146151000006116	21	^ESCT1414615		Estimated volume of intake of wine in 24 hours	896808006	4029350019		17	check_upd				
 478046010	2265	F1440	F144000	Cerebellar ataxia due to alcoholism	361272001	478046010		32	aud 				
 14146171000006114	7	^ESCT1414617		Estimated volume of intake of distilled spirits in 24 hours	896809003	4029353017		17	check_upd				
-715861000006110	129	L2653	L265300	Maternal care for poor fetal growth	173300003	268308014		32				exclude - not alcohol usage recording	
-715891000006119	22	L25z3	L25z300	Maternal care for suspect fetal abnormal and damage, unspec	173300003	268308014		32				exclude - not alcohol usage recording	
-715911000006117	17	L2503	L250300	Maternal care for suspected central nervous system malformation in fetus	173300003	268308014		32				exclude - not alcohol usage recording	
-715941000006118	58	L51X	L51X.00	Maternal care/known or suspected fetal problem,unspecifd	173300003	268308014		32				exclude - not alcohol usage recording	
-716511000006117	56	L2504	L250400	Maternal care for central nervous system malformation in fetus	173300003	268308014		32				exclude - not alcohol usage recording	
-716591000006110	<5	L2633-1	L263311	Maternal care for fetal hypoxia	173300003	268308014		32				exclude - not alcohol usage recording	
 14146231000006117	16	^ESCT1414623		Estimated volume of intake of beer in 24 hours	896812000	4029363013		17	check_upd				
 4978041000006118	272	^ESCTAL497804		Alcoholic	228281002	342325014		17	aud 				
 4978811000006111	28	^ESCTUS497881		Use of stratagems to control drinking	228345003	342399011		31	aud				
@@ -626,10 +528,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5886961000006112	6024	^ESCTAB588696		Abstinent alcoholic	300939009	442138014		17	aud		1		
 3843491000006118	27483	^ESCTEX384349		Ex-drinker	82581004	136989013		17	check_upd		1		
 3846821000006114	260	^ESCTAL384682		Alcohol poisoning	82782008	1234741018		32	check_upd				
-4064221000006110	6	^ESCTDR406422		Drug interaction with alcohol	95906008	158867013		31	check_upd			exclude - not personal alcohol use	
-7680571000006116	43741	^ESCTRE768057		Referral to community service	710915002	3046579012		40				exclude - not alcohol usage recording	
 5887581000006113	27	^ESCTAL588758		Alcohol-induced cerebellar ataxia	300992002	442200018		31	aud				
-4064231000006113	<5	^ESCTAL406423		Alcohol interaction with drug	95906008	158868015		31	check_upd			exclude - not personal alcohol use	
 59951000006113	5694	C251-1	C251.11	Wernicke's encephalopathy	21007002	35314011		32	aud				
 6221531000006118	267	^ESCTAL622153		Alcoholic cerebellar degeneration	361273006	478048011		32	aud				
 6221541000006111	<5	^ESCTAL622154		Alcoholic cerebellar degeneration syndrome	361273006	1490764012		32	aud				
@@ -647,18 +546,15 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4533421000006116	<5	^ESCTXS453342		XS - Excessive ethanol consumption	160592001	250336017		17	aud				
 739501000000112	2215	8CAv	8CAv.00	Advised to contact primary care alcohol worker	375941000000101	739501000000112		32	aud				
 4533431000006118	96	^ESCTEX453343		Excessive ethanol consumption	160592001	250337014		17	aud				
-8002681000006115	5	^ESCTHO800268		Home Office road traffic statistics - police venesection alcohol	16751000000101	546311000000113		37				exclude - not personal alcohol use	
 750531000000113	37696	8IAJ	8IAJ.00	Declined referral to specialist alcohol treatment service	380861000000109	750531000000113		32	aud				
 753331000006118	11510	E0110	E011000	Korsakov alcoholic psychosis	69482004	501296014		32	aud	#REF!			
 4533441000006111	45	^ESCTXS453344		XS - Excessive alcohol consumption	160592001	250338016		17	aud				
 7683281000006111	<5	^ESCTFA768328		Facilitation of alcohol abuse recovery	711118008	3047473016		31	aud				
-8050811000006119	304	^ESCTEN805081		Enhanced service status	166581000000108	226671000000115		31				exclude - not alcohol usage recording	
 7700651000006119	56	^ESCTCH770065		Chronic alcoholic liver disease	713181003	3288362011		31	aud				
 7710581000006113	648	^ESCTSE771058		Severe alcohol dependence	713862009	3297813018		31	aud				
 7785371000006113	<5	^ESCTWI778537		Withdrawn from alcohol detoxification program	719340007	3316031015		37	aud 				
 4533451000006113	4966	^ESCTEX453345		Excessive alcohol consumption	160592001	250339012		17	aud				
 7791891000006116	<5	^ESCTDI779189		Disorder caused by alcohol	719848005	3318150011		5	aud				
-817981000006115	8220370	6792	6792.00	Health education - alcohol	408947007	2579616015		17				exclude - not personal alcohol use	
 8189681000006117	<5	^ESCTDA818968		[D]Alcohol blood elevated	502401000000108	1107361000000114		31				exclude - blood alcohol recording	
 4533461000006110	963	^ESCTEX453346		Excessive alcohol use	160592001	2923459011		17	aud				
 4978071000006114	1255	^ESCTDR497807		Drinking habits	228282009	342329015		31	check_upd			check_upd - only check_upd	
