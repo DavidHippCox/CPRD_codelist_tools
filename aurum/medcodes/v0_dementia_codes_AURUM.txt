@@ -1,7 +1,5 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	subtype	early onset	strict_phenotype	comments
 11914891000006110	<5	^ESCT1191489		[X]Dementia in Alzheimer's dis, atypical or mixed type	419261000000107	971721000000116		31	Alzheimer's disease			
-119577010	48	E141-1	E141.11	Heller's syndrome	71961003	119577010		32				exclude - child
-119579013	69	E141	E141.00	Disintegrative psychosis	71961003	119579013		32				exclude - child
 12106351000006118	128	^ESCT1210635		Behavioural and psychological symptoms of dementia	10171000132106	3672961016		31	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 12106361000006116	18	^ESCT1210636		Neuropsychiatric symptoms	10171000132106	3672958017		31				exclude - not dementia
 12106371000006111	157	^ESCT1210637		BPSD - behavioral and psychological symptoms of dementia	10171000132106	3672960015		31	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
@@ -74,7 +72,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1807641000006115	791	EMISNQIM12		Impaired cognition	386806002	1807641000006115		27				AT to review
 1823871000006112	611	EMISNQDE35		Dementia confirmed	1823871000006108	1823871000006112		27	Unspecified			
 1834091000006117	<5	EMISNQDE37		Dementia care plan	1834091000006101	1834091000006117		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-1886261000006116	9348	9HD	9HD..00	Offering of CAMHS (Child and Adolescent Mental Health Service) choice appointment	702778004	3008206014		37				exclude - child
 1916981000006111	<5	EMISNQDE54		Dementia medication review	1916981000006107	1916981000006111		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 1949611000006114	5	EMISNQDE66		Dementia post diagnostic support (Scotland)	1949611000006105	1949611000006114		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 1949621000006118	18	EMISNQDE67		Dementia stage at diagnosis	1949621000006102	1949621000006118		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
@@ -268,7 +265,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294688019	85	E02y1	E02y100	Drug-induced dementia	191493005	294688019		32				exclude - drug use
 294704013	13934	E030z	E030z00	Acute confusional state NOS	2776000	483651010		32				exclude - not dementia
 294718018	9259	E041	E041.00	Dementia in conditions EC	191519005	294718018		32	Unspecified			
-294941015	<5	E141z	E141z00	Disintegrative psychosis NOS	71961003	119576018		32				exclude - child
 295668011	394233	Eu00	Eu00.00	[X]Dementia in Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
 295671015	148205	Eu002	Eu00200	[X]Dementia in Alzheimer's dis, atypical or mixed type	26929004	45046017		32	Alzheimer's disease			
 295672010	22553	Eu00z	Eu00z00	[X]Dementia in Alzheimer's disease, unspecified	26929004	45046017		32	Alzheimer's disease			
@@ -283,7 +279,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 295713019	409	Eu040	Eu04000	[X]Delirium not superimposed on dementia, so described	2776000	5694012		32				exclude - not dementia
 295714013	3122	Eu041	Eu04100	[X]Delirium superimposed on dementia	2776000	5694012		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 295718011	260308	Eu04z	Eu04z00	Delirium	2776000	5694012		32				exclude - not dementia
-296958010	8291	F10	F10..00	Cerebral degeneration in childhood	2584003	5405012		32				exclude - child
 296988018	<5	F101z	F101z00	Cerebral lipidoses NOS	192794001	296993015		32				exclude - not dementia
 296990017	6	F1020	F102000	Cerebral degeneration in Gaucher's disease	192791009	296990017		32				AT to review - possible dementia/pseudodementia
 296991018	5	F1021	F102100	Cerebral degeneration in Niemann-Pick disease	192792002	296991018		32	Frontotemporal dementia			
@@ -292,9 +287,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 296994014	38	F1030	F103000	Cerebral degeneration in Hunter's disease	192795000	296994014		32				AT to review - possible dementia/pseudodementia
 296995010	9	F1031	F103100	Cerebral degeneration in mucopolysaccharidoses	192796004	296995010		32				AT to review - possible dementia/pseudodementia
 296996011	127	F103z	F103z00	Cerebral degeneration in disease NOS	192794001	296993015		32				AT to review - possible dementia/pseudodementia
-296997019	10	F10y	F10y.00	Other cerebral degenerations in childhood	2584003	5405012		32				exclude - child
-296998012	13	F10yz	F10yz00	Other cerebral degenerations in childhood NOS	2584003	5405012		32				exclude - child
-296999016	92	F10z	F10z.00	Childhood cerebral degenerations NOS	2584003	5405012		32				exclude - child
 297000018	3793	F11	F11..00	Degenerative brain disorder	52522001	87406016		32				AT to review - possible dementia/pseudodementia
 297011014	3812	F11x0-1	F11x011	Alcoholic encephalopathy	192811002	297011014		32	Alcohol		Korsakov's syndrome	
 297012019	<5	F11x1	F11x100	Cerebral degeneration due to beriberi	192812009	297012019		32				AT to review - possible dementia/pseudodementia
@@ -354,21 +346,18 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3636474012	13	^ESCT1169049		Dementia due to and following injury of head	762351006	3636474012		32	Unspecified			
 363791000006112	8333	Eu01-1	Eu01.11	[X]Arteriosclerotic dementia	56267009	497559016		32	Vascular dementia			
 3653671000006113	<5	^ESCTMU365367		Multi-infarct dementia, uncomplicated	70936005	117833018		32	Vascular dementia			
-3670581000006118	18	^ESCTCH367058		Childhood disintegrative disorder	71961003	119576018		32				exclude - child
 370961000006119	496	Eu107-2	Eu10712	[X]Chronic alcoholic brain syndrome	191475009	294668018		32	Alcohol		Alcoholic dementia	
 37365019	284	A413-1	A413.11	PML - Progressive multifocal leukoencephalopathy	22255007	481280018		32				AT to review - possible dementia/pseudodementia
 376431000006118	1142	Eu04y-1	Eu04y11	[X]Delirium of mixed origin	2776000	5694012		32				exclude - not dementia
 376531000006119	13078	Eu000	Eu00000	Dementia in Alzheimer's disease with early onset	416780008	2957119019		32	Alzheimer's disease	E		
 376541000006112	123295	Eu001	Eu00100	Dementia in Alzheimer's disease with late onset	416975007	2957137018		32	Alzheimer's disease			
 376571000006116	379	Eu024	Eu02400	[X]Dementia in human immunodef virus [HIV] disease	421529006	2622767013		32	Dementia in HIV			
-376631000006115	7	Eu843-1	Eu84311	[X]Dementia infantalis	71961003	119576018		32				exclude - child
 3802621000006119	6	^ESCTLE380262		Lewy body variant of Alzheimer's disease	80098002	132894011		32	Lewy body dementia			
 3802641000006114	65	^ESCTLB380264		LBD - Lewy body disease	80098002	1234436013		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
 3802651000006111	3918	^ESCTDE380265		Dementia of the Lewy body type	80098002	1234437016		32	Lewy body dementia			
 3802661000006113	21	^ESCTDL380266		DLBD - Diffuse Lewy body disease	80098002	1234438014		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
 3802671000006118	16	^ESCTCO380267		Cortical Lewy body disease	80098002	1234439018		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
 3853381000006111	<5	^ESCTFA385338		Fatal familial insomnia	83157008	137924010		32				AT to review - possible dementia/pseudodementia
-388761000006114	30	Eu843-3	Eu84313	[X]Heller's syndrome	71961003	119577010		32				exclude - child
 3938581000006118	<5	^ESCTHE393858		Hepatocerebral degeneration	88518009	508067014		32				exclude - not dementia
 3938611000006114	<5	^ESCTNE393861		Neurohepatic degeneration	88518009	508070013		32				exclude - not dementia
 3938621000006118	18	^ESCTPR393862		Progressive lenticular degeneration	88518009	508071012		32				exclude - not dementia
@@ -500,7 +489,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7560391000006117	9	^ESCTGR756039		GRN-related frontotemporal dementia	702426001	2995747016		32	Frontotemporal dementia			
 7560411000006117	<5	^ESCTFR756041		Frontotemporal lobar degeneration	702426001	2995667018		32	Frontotemporal dementia			
 7560531000006110	11	^ESCTFR756053		Frontotemporal dementia with parkinsonism-17	702429008	2995187016		32	Frontotemporal dementia			
-7566441000006115	1883	^ESCTOF756644		Offering of child and adolescent mental health service choice appointment	702778004	3008086019		37				exclude - child
 7643651000006111	<5	^ESCTCO764365		Cognitive disorder due to disorder	709073001	3038098013		32				exclude - not dementia
 76484016	7152	F112	F112.00	Senile degeneration of brain	45864009	76484016		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 7710381000006117	10	^ESCTDE771038		Dementia co-occurrent with human immunodeficiency virus infection	713844000	3297772011		32	Dementia in HIV			
@@ -567,7 +555,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 882191000006119	808	E00-99	E00..99	Senile and presenile dementias	268612007	882191000006119		32	Unspecified	E		
 882201000006116	4654	E000-99	E000.99	Senile dementia - simple type	191449005	882201000006116		32	Unspecified			
 882211000006118	469	E003-99	E003.99	Senile dementia-acute confused	191461002	882211000006118		32	Unspecified			
-882931000006115	36	F10-99	F10..99	Child cerebral degeneration	2584003	882931000006115		32				exclude - child
 882941000006113	208	F112-99	F112.99	Senile brain degeneration	45864009	882941000006113		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 882951000006110	428	F11z-99	F11z.99	Cerebral degenerations NOS	668731000000103	882951000006110		32				AT to review - possible dementia/pseudodementia
 905791000006115	774	HNG0062		[RFC] Reason for care : Alzheimer's disease	905791000006104	905791000006115		12	Alzheimer's disease			RFC - reason for care
