@@ -12,7 +12,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 14799151000006112	236	^ESCT1479915		Cognitive impairment caused by ethanol	1234774002	5083958010		32	aud			include in dementia codelist?	
 14799161000006114	33	^ESCT1479916		Cognitive impairment caused by alcohol	1234774002	5083956014		32	aud			include in dementia codelist?	
 12619041000006111	32	^ESCT1261904		History of alcohol use	1104851000000107	2765571000000113		31	check_upd		1		
-12626661000006117	<5	^ESCT1262666		Provision of information about alcohol use	1111231000000100	2780481000000119		31				exclude - vague 	
 15374151000006114	38	^ESCT1537415		Fetal Alcohol Spectrum Disorder (FASD) without sentinel facial features	1894461000000101	1844721000000111		32	aud				
 13530371000006117	6481	^ESCT1353037		Alcohol Use Disorders Identification Test for Primary Care score	774089008	3727938010		3	alc_test			another type of check in observation table? 	
 13628811000006110	53963	^ESCT1362881		Lifetime non-drinker of alcohol	783261004	3758327018		17	non-drinker				
@@ -79,7 +78,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294670010	463	E014-1	E014.11	Drunkenness - pathological	191477001	294670010		32	aud				
 294671014	792	E014	E014.00	Pathological alcohol intoxication	191477001	294671014		32	aud				
 294672019	735	E015	E015.00	Alcoholic paranoia	191478006	294672019		32	aud				
-1808611000006118	<5	JHCAR24		AREP - Alcohol rehabilitation education program	1808611000006102	1808611000006118		32				exclude - vague	
 295126010	594	E230-1	E230.11	Alcohol dependence with acute alcoholic intoxication	191802004	295126010		32	aud			aud - should we include acute intoxication?	
 295127018	13901	E230	E230.00	Acute alcoholic intoxication in alcoholism	191802004	295127018		32	aud			aud - should we include acute intoxication?	
 295128011	1112	E2300	E230000	Acute alcoholic intoxication, unspecified, in alcoholism	191802004	295127018		32	aud			aud - should we include acute intoxication?	
@@ -438,7 +436,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4533331000006113	1043	^ESCTEX453333		Ex-very heavy drinker - greater than 9 units/day	160587003	250330011		17	aud		1		
 4539891000006115	13	^ESCTHI453989		History of alcoholism	161466001	2923447012		32	aud		1		
 460276013	4063	ZV113	ZV11300	[V]Personal history of alcoholism	371422002	1196720012		17	aud		1		
-6260461000006110	1066	^ESCTFR626046		Frequency of drinking	364657008	487822014		31				exclude - does not meet alcohol units criteria	
 852401000006110	4512	EMISQRE13		Ready to start reducing alcohol	852401000006106	852401000006110		17	check_upd				
 852411000006113	11927	EMISQTH4		Thinking about reducing alcohol	852411000006109	852411000006113		17	check_upd				
 855071000006115	31358	EGTONGR6		Grade A none drinker or rare	855071000006104	855071000006115		17	check_upd			code as light-drinker?	
@@ -446,7 +443,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 460926018	10021	ZV57A	ZV57A00	[V]Alcohol rehabilitation	471691000000107	1001331000000118		32	aud		1		
 461112017	30164	ZV6D6	ZV6D600	Alcoholism counselling	24165007	1206287010		32	aud 				
 4723831000006118	5	^ESCTAD472383		Admitted to alcohol detoxification center	183486001	283558010		40	aud				
-672121000006119	48	Q0071	Q007100	Fetus or neonate affected by placental or breast transfer of alcohol	268796000	402169011		32	aud			exclude - vague	
 476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	aud	#REF!			
 882531000006110	5861	E250-99	E250.99	Non-dependent abuse of alcohol	268645007	882531000006110		32	check_upd				
 936001000006111	1316498	67H0	67H0.00	Advice relating to alcohol consumption	281078001	2575919017		17	check_upd				
@@ -477,12 +473,10 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7498021000006112	49	^ESCTFO749802		Foetal Alcohol Spectrum Disorder	609437000	2965959019		32	aud				
 5612351000006115	22	^ESCTAL561235		Alcoholic macrocytosis	278363000	415240012		31	aud				
 5689771000006115	508	^ESCTPE568977		Persistent alcohol abuse	284591009	423307016		31	aud				
-1989851000006119	<5	TRIQQAL1		Alcohol units consumed in last 48 hours	1989851000006103	1989851000006119		17				exclude - does not meet alcohol units criteria	
 250335018	420332	136K	136K.00	Alcohol intake above recommended sensible limits	160592001	250335018		17	check_upd				
 5689781000006117	11	^ESCTCH568978		Chronic alcohol abuse	284591009	423308014		31	aud				
 295421012	118	E274A	E274A00	Sleep drunkenness	192003008	295421012		32	check_upd				
 5720641000006112	888	^ESCTEX572064		Ex-problem drinker	286857004	426335010		17	aud		1		
-7587461000006116	<5	^ESCTAS758746		Assessment using HAS-BLED score	704182008	3012008019		31				exclude - vague	
 342366014	74617	136R	136R.00	Binge drinker	228315001	342366014		17	check_upd				
 5801861000006113	<5	^ESCTDI580186		Disulfiram allergy	293960001	434213010		5	aud				
 5886961000006112	6024	^ESCTAB588696		Abstinent alcoholic	300939009	442138014		17	aud		1		
@@ -554,4 +548,3 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 882221000006114	188	E01y-99	E01y.99	Other alcoholic psychoses	623961000000108	882221000006114		32	aud				
 886501000006115	2571	J613-99	J613.99	Alcoholic liver damage NOS	589511000000102	886501000006115		32	aud				
 940781000006116	1516	HMPNQEV1		Evidence of alcohol withdrawal	940781000006100	940781000006116		28	aud				
-973071000006111	<5	TRIQQZZ63		** Responding to drug & alcohol problems in the community	973071000006107	973071000006111		37				exclude - vague	
