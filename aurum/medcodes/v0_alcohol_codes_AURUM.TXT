@@ -308,16 +308,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2934661000006111	6	^ESCTPO293466		Poisoning by alcohol deterrent	27134008	45382016		32	aud				
 294662017	463	E0111	E011100	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	294662017		32	aud	#REF!			
 294664016	137	E011z	E011z00	Alcohol amnestic syndrome NOS	73097000	121405015		32	aud	#REF!			
-380041000006114	18	U808	U808.00	[X]Eviden alcoh involv blood alcoh level 240mg/100ml or more	442669008	2817739010		32				exclude - blood alcohol recording	
-380051000006111	7	U805	U805.00	[X]Eviden of alcoh involv blood alcoh level 100-119mg/100ml	442669008	2817739010		32				exclude - blood alcohol recording	
-380061000006113	112	U806	U806.00	[X]Eviden of alcoh involv blood alcoh level 120-199mg/100ml	442669008	2817739010		32				exclude - blood alcohol recording	
-380071000006118	32	U807	U807.00	[X]Eviden of alcoh involv blood alcoh level 200-239mg/100ml	442669008	2817739010		32				exclude - blood alcohol recording	
-380081000006115	622	U800	U800.00	Finding of alcohol in blood	274776000	410638011		32				exclude - blood alcohol recording	
-380091000006117	19	U801	U801.00	[X]Eviden of alcohl involv blood alcohl level 20-39mg/100ml	441685000	2817389016		32				exclude - blood alcohol recording	
-380101000006111	7	U802	U802.00	[X]Eviden of alcohl involv blood alcohl level 40-59mg/100ml	441685000	2817389016		32				exclude - blood alcohol recording	
-380111000006114	7	U803	U803.00	[X]Eviden of alcohl involv blood alcohl level 60-79mg/100ml	441685000	2817389016		32				exclude - blood alcohol recording	
-380121000006118	14	U804	U804.00	[X]Eviden of alcohl involv blood alcohl level 80-99mg/100ml	442669008	2817739010		32				exclude - blood alcohol recording	
-380131000006115	43	U80	U80..00	[X]Evidence of alcohl involv determin by blood alcohl level	441685000	2817389016		32				exclude - blood alcohol recording	
 47085011	735046	136J	136J.00	Social drinker	28127009	47085011		17	check_upd				
 476411000006118	1013882	136Z	136Z.00	Alcohol consumption NOS	160573003	1221271018		17	check_upd				
 476501000006115	63	EGTON418		Alcohol intake	476501000006104	476501000006115		17	check_upd				
@@ -497,8 +487,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 14146231000006117	16	^ESCT1414623		Estimated volume of intake of beer in 24 hours	896812000	4029363013		17	check_upd				
 4978041000006118	272	^ESCTAL497804		Alcoholic	228281002	342325014		17	aud 				
 4978811000006111	28	^ESCTUS497881		Use of stratagems to control drinking	228345003	342399011		31	aud				
-7266731000006111	<5	^ESCTET726673		Ethanol in blood specimen above legal threshold for operating vehicle	442669008	2817739010		32				exclude - blood alcohol recording	
-7267751000006119	5	^ESCTHI726775		High alcohol level in blood	442766007	2817393010		31				exclude - blood alcohol recording	
 7275011000006117	197	^ESCTAU727501		AUDIT (alcohol use disorders identification test) score	443280005	2842172016		3	alc_test			another type of check in observation table? 	
 7278531000006111	24	^ESCTSA727853		SADQ (severity of alcohol dependence questionnaire) score	443504004	2839849016		32	alc_test			exclude - numbers too low for score to be considered/evaluated (<300)	
 500478011	1504026	E23	E23..00	Alcohol dependence syndrome	66590003	500478011		32	aud				
@@ -555,7 +543,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7785371000006113	<5	^ESCTWI778537		Withdrawn from alcohol detoxification program	719340007	3316031015		37	aud 				
 4533451000006113	4966	^ESCTEX453345		Excessive alcohol consumption	160592001	250339012		17	aud				
 7791891000006116	<5	^ESCTDI779189		Disorder caused by alcohol	719848005	3318150011		5	aud				
-8189681000006117	<5	^ESCTDA818968		[D]Alcohol blood elevated	502401000000108	1107361000000114		31				exclude - blood alcohol recording	
 4533461000006110	963	^ESCTEX453346		Excessive alcohol use	160592001	2923459011		17	aud				
 4978071000006114	1255	^ESCTDR497807		Drinking habits	228282009	342329015		31	check_upd			check_upd - only check_upd	
 4978371000006112	159	^ESCTPA497837		Pattern of drinking	228308009	342359013		31	check_upd			check_upd - only check_upd	
