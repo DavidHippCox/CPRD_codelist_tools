@@ -1,0 +1,193 @@
+Cluster_ID	Cluster_description	SnomedCTConceptId	SNOMED_code_description	PCD Refset ID	Service_and_Ruleset	group
+ALC_COD	Alcohol consumption codes	1082631000000102	Alcohol units consumed per day (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	1082641000000106	Alcohol units consumed per week (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	10939881000119105	Unhealthy alcohol drinking behavior (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160573003	Alcohol intake (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160579004	Stopped drinking alcohol (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160582009	Ex-trivial drinker - less than 1 unit/day (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160583004	Ex-light drinker - (1-2u/day) (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160585006	Ex-heavy drinker - (7-9u/day) (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160588008	Drinker of hard liquor (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160590009	Drinks beer and hard liquor (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160592001	Alcohol intake above recommended sensible limits (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228276006	Occasional drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228278007	Fairly heavy drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228315001	Binge drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228316000	Alcoholic binges exceeding sensible amounts (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228317009	Alcoholic binges exceeding safe amounts (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	230086006	Wine intake (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	230088007	Hard liquor intake (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	266917007	Trivial drinker - <1u/day (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	28127009	Social drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	300939009	Abstinent alcoholic (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	748381000000102	Drinks real ale (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	777651000000101	Higher risk alcohol drinking (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	777671000000105	Lower risk alcohol drinking (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	82581004	Ex-drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	896807001	Estimated volume of intake of alcoholic cider in 24 hours (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	896809003	Estimated volume of intake of distilled spirits in 24 hours (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	281078001	Education about alcohol consumption (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	375941000000101	Advised to contact primary care alcohol worker (situation)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	413473000	Counseling about alcohol consumption (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	946101000000100	Specialist alcohol treatment service signposted (situation)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCEX_COD	Alcohol consumption screening refused codes	379411000000105	Brief intervention for excessive alcohol consumption declined (situation)	999007051000230102	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCEX_COD	Alcohol consumption screening refused codes	428073005	Alcohol consumption screening test declined (situation)	999007051000230102	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCEX_COD	Alcohol consumption screening refused codes	754831000000102	Extended intervention for excessive alcohol consumption declined (situation)	999007051000230102	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCEX_COD	Alcohol consumption screening refused codes	922471000000101	Alcohol Use Disorders Identification Test declined (situation)	999007051000230102	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCEXINT_COD	Extended intervention for excessive alcohol consumption codes	366421000000103	Extended intervention for excessive alcohol consumption completed (situation)	999000171000230108	PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCEXINTDEC_COD	Extended intervention for excessive alcohol consumption declined codes	754831000000102	Extended intervention for excessive alcohol consumption declined (situation)	999000211000230106	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCINTDEC_COD	Codes indicating the patient has chosen not to accept an alcohol intervention	379411000000105	Brief intervention for excessive alcohol consumption declined (situation)	999023171000230109	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCINTDEC_COD	Codes indicating the patient has chosen not to accept an alcohol intervention	380861000000109	Declined referral to specialist alcohol treatment service (situation)	999023171000230109	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCINTDEC_COD	Codes indicating the patient has chosen not to accept an alcohol intervention	754831000000102	Extended intervention for excessive alcohol consumption declined (situation)	999023171000230109	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCINTDEC_COD	Codes indicating the patient has chosen not to accept an alcohol intervention	781191000000101	Referral to community alcohol team declined (situation)	999023171000230109	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	1084171000000100	Signposting to alcohol misuse service (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	1111231000000100	Provision of information about alcohol use (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	1325551000000109	Seen by community alcohol team (finding)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	24165007	Alcoholism counseling (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	366421000000103	Extended intervention for excessive alcohol consumption completed (situation)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	375941000000101	Advised to contact primary care alcohol worker (situation)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	413473000	Counseling about alcohol consumption (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	527961000000108	Counselling about alcohol by other agency (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCREF_COD	Referral regarding alcohol usage codes	390857005	Referral to community alcohol team (procedure)	999023211000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCREF_COD	Referral regarding alcohol usage codes	431260004	Referral to specialist alcohol treatment service (procedure)	999023211000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCSCRNDEC_COD	Alcohol screening and assessment declined codes	1104551000000109	Declined to provide information about alcohol use (situation)	999000251000230105	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALCSCRNDEC_COD	Alcohol screening and assessment declined codes	361731000000101	Alcohol assessment declined (situation)	999000251000230105	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALCSCRNDEC_COD	Alcohol screening and assessment declined codes	428073005	Alcohol consumption screening test declined (situation)	999000251000230105	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALCSPADVDEC_COD	Referral to specialist alcohol treatment service declined codes	442444001	Referral to specialist alcohol treatment service declined by patient (situation)	999000331000230109	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	10755041000119100	Alcohol dependence in childbirth (disorder)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228280001	Secret drinker (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228282009	Drinking habits (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228283004	Drinking environment (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228285006	Drinks at home (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228286007	Drinks at other people's homes (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228288008	Park drinker (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228291008	Drinks in licensed premises (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228292001	Drinks in public houses (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228295004	Drinks at night clubs (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228298002	Drinks in company (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228303000	Drinks with work colleagues (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228304006	Drinks with business associates (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228308009	Pattern of drinking (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228310006	Drinks in morning to get rid of hangover (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228311005	Pattern of alcohol consumption through week (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	364657008	Frequency of drinking (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	66590003	Alcohol dependence (disorder)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	713583005	Mild alcohol dependence (disorder)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	713862009	Severe alcohol dependence (disorder)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	714829008	Moderate alcohol dependence (disorder)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	896792007	Cider intake (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	896808006	Estimated volume of intake of wine in 24 hours (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	896812000	Estimated volume of intake of beer in 24 hours (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	897148007	Alcoholic beverage intake (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	105542008	Current non-drinker of alcohol (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160575005	Light drinker - 1-2u/day (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160576006	Moderate drinker - 3-6u/day (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160577002	Heavy drinker - 7-9u/day (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160578007	Very heavy drinker - greater than 9 units/day (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160584005	Ex-moderate drinker - (3-6u/d) (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160587003	Ex-very heavy drinker - greater than 9 units/day (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160589000	Beer drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160591008	Drinks wine (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	160593006	Alcohol intake within recommended sensible limits (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	198421000000108	Hazardous alcohol use (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	198431000000105	Harmful alcohol use (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	219006	Current drinker of alcohol (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228274009	Lifetime non-drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228277002	Light drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228279004	Very heavy drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228281002	Problem drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	228326007	Drinking binge (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	230085005	Beer intake (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	286857004	Ex-problem drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	43783005	Moderate drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	442547005	Number of alcohol units consumed on heaviest drinking day (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	447087000	Drinks alcoholic cider (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	777631000000108	Increasing risk alcohol drinking (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	783261004	Lifetime non-drinker of alcohol (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	86933000	Heavy drinker (finding)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	896792007	Cider intake (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	896808006	Estimated volume of intake of wine in 24 hours (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	896812000	Estimated volume of intake of beer in 24 hours (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	897148007	Alcoholic beverage intake (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALC_COD	Alcohol consumption codes	926322008	Intake of distilled spirits (observable entity)	999007011000230101	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	1111231000000100	Provision of information about alcohol use (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	1325551000000109	Seen by community alcohol team (finding)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	171057006	Pregnancy alcohol education (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	183098002	Alcohol leaflet given (situation)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	24165007	Alcoholism counseling (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	408947007	Alcohol abuse prevention education (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	527961000000108	Counselling about alcohol by other agency (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	704106009	Advised to abstain from alcohol consumption (situation)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCADV_COD	Advice, information and any brief intervention given on alcohol usage	955731000000102	Family wellbeing discussion about alcohol (procedure)	999023131000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCBRINT_COD	Brief intervention for excessive alcohol consumption codes	366371000000105	Brief intervention for excessive alcohol consumption completed (situation)	999000091000230108	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCBRINTDEC_COD	Brief intervention for excessive alcohol consumption declined codes	379411000000105	Brief intervention for excessive alcohol consumption declined (situation)	999000131000230106	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCEX_COD	Alcohol consumption screening refused codes	1104551000000109	Declined to provide information about alcohol use (situation)	999007051000230102	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCEX_COD	Alcohol consumption screening refused codes	361731000000101	Alcohol assessment declined (situation)	999007051000230102	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCEX_COD	Alcohol consumption screening refused codes	858861000000101	Declines to state current alcohol consumption (finding)	999007051000230102	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCINTDEC_COD	Codes indicating the patient has chosen not to accept an alcohol intervention	442444001	Referral to specialist alcohol treatment service declined by patient (situation)	999023171000230109	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	1104571000000100	Signposting to drug and alcohol support service (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	171057006	Pregnancy alcohol education (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	183098002	Alcohol leaflet given (situation)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	281078001	Education about alcohol consumption (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	366371000000105	Brief intervention for excessive alcohol consumption completed (situation)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	408947007	Alcohol abuse prevention education (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	704106009	Advised to abstain from alcohol consumption (situation)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	837841000000100	Provision of written information about alcohol (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	837851000000102	Provision of written information about alcohol misuse (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	946101000000100	Specialist alcohol treatment service signposted (situation)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCOHOLINT_COD	Alcohol Intervention and Advice codes	955731000000102	Family wellbeing discussion about alcohol (procedure)	999016531000230103	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCREF_COD	Referral regarding alcohol usage codes	376401000000103	Referral to alcohol brief intervention service (procedure)	999023211000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCREF_COD	Referral regarding alcohol usage codes	417096006	Referral to community drug and alcohol team (procedure)	999023211000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCREF_COD	Referral regarding alcohol usage codes	809401000000103	Referral to alcohol misuse clinic (procedure)	999023211000230107	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCSCRNDEC_COD	Alcohol screening and assessment declined codes	858861000000101	Declines to state current alcohol consumption (finding)	999000251000230105	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALCSCRNDEC_COD	Alcohol screening and assessment declined codes	922471000000101	Alcohol Use Disorders Identification Test declined (situation)	999000251000230105	PLE GDPPR | PLE PHSMI | QOF Mental health	alcohol_NHSD_PCD_20260212
+ALCSPADV_COD	Referral to specialist alcohol treatment service codes	1099141000000106	Referral to alcohol misuse service (procedure)	999000291000230100	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCSPADV_COD	Referral to specialist alcohol treatment service codes	38670004	Referral to alcoholism rehabilitation service (procedure)	999000291000230100	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCSPADV_COD	Referral to specialist alcohol treatment service codes	431260004	Referral to specialist alcohol treatment service (procedure)	999000291000230100	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCSPADVDEC_COD	Referral to specialist alcohol treatment service declined codes	380861000000109	Declined referral to specialist alcohol treatment service (situation)	999000331000230109	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCSPADVDEC_COD	Referral to specialist alcohol treatment service declined codes	781191000000101	Referral to community alcohol team declined (situation)	999000331000230109	PLE GDPPR	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	10741871000119101	Alcohol dependence in pregnancy (disorder)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	191811004	Continuous chronic alcoholism (disorder)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228287003	Drinks in public places (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228289000	Street drinker (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228290009	Drinks at work (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228296003	Company when drinking (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228297007	Drinks alone (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228299005	Drinks with family (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228300002	Drinks with spouse (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228302005	Drinks with friends (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228309001	Pattern of drinking through day (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228312003	Drinks alcohol evenly through week (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228313008	Drinks alcohol unevenly through week (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228314002	Weekend drinker (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228319007	Drinks alcohol daily (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228320001	Habitual drinker (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	228321002	Drinks on empty stomach (finding)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	896807001	Estimated volume of intake of alcoholic cider in 24 hours (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	896809003	Estimated volume of intake of distilled spirits in 24 hours (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+ALCUSAGE_COD	Codes that describe the patients alcohol usage	926322008	Intake of distilled spirits (observable entity)	999023251000230106	PLE PHSMI	alcohol_NHSD_PCD_20260212
+AUDIT_COD	Alcohol Use Disorders Identification Test (AUDIT) codes	443280005	Alcohol use disorders identification test score (observable entity)	999000491000230104	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+AUDIT_COD	Alcohol Use Disorders Identification Test (AUDIT) codes	450760003	Assessment using alcohol use disorders identification test (procedure)	999000491000230104	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+AUDIT_COD	Alcohol Use Disorders Identification Test (AUDIT) codes	774089008	Alcohol Use Disorders Identification Test for Primary Care score (observable entity)	999000491000230104	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+AUDIT_COD	Alcohol Use Disorders Identification Test (AUDIT) codes	774090004	Assessment using Alcohol Use Disorders Identification Test for Primary Care (procedure)	999000491000230104	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+AUDITC_COD	Alcohol Use Disorders Identification Test Consumption (AUDIT C) codes	763256006	Alcohol Use Disorders Identification Test - Consumption score (observable entity)	999000531000230104	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+AUDITC_COD	Alcohol Use Disorders Identification Test Consumption (AUDIT C) codes	763302001	Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)	999000531000230104	CC Core GP Contract | PLE GDPPR | PLE PHSMI	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	10939881000119105	Unhealthy alcohol drinking behavior (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	160577002	Heavy drinker - 7-9u/day (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	160578007	Very heavy drinker - greater than 9 units/day (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	160592001	Alcohol intake above recommended sensible limits (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	198421000000108	Hazardous alcohol use (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	198431000000105	Harmful alcohol use (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	228279004	Very heavy drinker (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	228281002	Problem drinker (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	228326007	Drinking binge (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	777631000000108	Increasing risk alcohol drinking (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	86933000	Heavy drinker (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+FAST_COD	Fast Alcohol Screening Test (FAST) codes	1084601000000102	Fast Alcohol Screening Test score (observable entity)	999000691000230102	CC Core GP Contract | PLE PHSMI	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	228278007	Fairly heavy drinker (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	228315001	Binge drinker (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	228316000	Alcoholic binges exceeding sensible amounts (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	228317009	Alcoholic binges exceeding safe amounts (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+EXCESSALC_COD	Excessive alcohol consumption codes	777651000000101	Higher risk alcohol drinking (finding)	999017171000230109	PLE CVDPREVENT | PLE GDPPR	alcohol_NHSD_PCD_20260212
+FAST_COD	Fast Alcohol Screening Test (FAST) codes	1084591000000108	Assessment using Fast Alcohol Screening Test (procedure)	999000691000230102	CC Core GP Contract | PLE PHSMI	alcohol_NHSD_PCD_20260212
+FAST_COD	Fast Alcohol Screening Test (FAST) codes	285411000000105	Alcohol screen using fast alcohol screening test completed (situation)	999000691000230102	CC Core GP Contract | PLE PHSMI	alcohol_NHSD_PCD_20260212
