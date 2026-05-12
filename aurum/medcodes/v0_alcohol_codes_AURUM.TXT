@@ -15,8 +15,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1221271018	41214297	136	136..00	Alcohol consumption	160573003	1221271018		17	check_upd				
 14798891000006118	5	^ESCT1479889		Dilated cardiomyopathy caused by alcohol	1234750000	5083873012		32	aud				
 14799151000006112	236	^ESCT1479915		Cognitive impairment caused by ethanol	1234774002	5083958010		32	aud			include in dementia codelist?	
-12618771000006111	<5	^ESCT1261877		Declined to provide information about alcohol use in household	1104401000000109	2764571000000114		17				exclude - declined or unknown alcohol use	
-12618971000006113	13368	^ESCT1261897		Declined to provide information about alcohol use	1104551000000109	2764921000000119		17				exclude - declined or unknown alcohol use	
 14799161000006114	33	^ESCT1479916		Cognitive impairment caused by alcohol	1234774002	5083956014		32	aud			include in dementia codelist?	
 12619041000006111	32	^ESCT1261904		History of alcohol use	1104851000000107	2765571000000113		31	check_upd		1		
 12626661000006117	<5	^ESCT1262666		Provision of information about alcohol use	1111231000000100	2780481000000119		31				exclude - vague 	
@@ -80,7 +78,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2475831000000114	2247	8BAu	8BAu.00	Alcohol harm reduction programme	720175009	3319643016		32	aud				
 1660411000006112	20178157	38D4	38D4.00	AUDIT-C (Alcohol Use Disorders Identification Test - Consumption) score	763256006	3638304015		3	alc_test			another type of check in observation table? 	
 2485391000000114	27	8BAw	8BAw.00	Alcohol twelve step programme	720178006	3319659016		32	aud				
-1680101000006117	40181	9k19	9k19.00	Alcohol assesment declined - enhanced services admin	361731000000101	681741000000116		37				exclude - declined or unknown alcohol use	
 263572010	2037	63C7	63C7.00	Maternal alcohol abuse	169942003	263572010		16	aud				
 2658601000006116	189	^ESCTAC265860		Acute alcoholic liver disease	9953008	17389017		32	aud			aud - should we include acute intoxication?	
 2740831000000114	249	^ESCT1172280		Harmful use of alcohol	1094151000000108	2740831000000114		31	aud				
@@ -131,14 +128,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 250317010	686875	1367	1367.00	Stopped drinking alcohol	160579004	250317010		17	check_upd		1		
 4977991000006113	745	^ESCTFA497799		Fairly heavy drinker	228278007	342321017		17	aud				
 217461000000118	5143274	136M	136M.00	Non - drinker	105542008	2659856015		17	non-drinker				
-2222181000000110	94573	136e	136e.00	Declines to state current alcohol consumption	858861000000101	2222181000000110		17				exclude - declined or unknown alcohol use	
 250331010	62400	136F	136F.00	Spirit drinker	160588008	250331010		17	check_upd				
 4978031000006111	21807	^ESCTPR497803		Problem drinker	228281002	342328011		17	aud 				
 4978061000006119	22	^ESCTDE497806		Dependent drinker	228281002	342327018		17	aud 				
 4978471000006116	771	^ESCTAL497847		Alcoholic binges exceeding sensible amounts	228316000	342370018		17	aud 				
 4978481000006118	972	^ESCTAL497848		Alcoholic binges exceeding safe amounts	228317009	342371019		17	aud 				
 4978511000006114	129	^ESCTHA497851		Habitual drinker	228320001	342374010		31	aud				
-2367071000000110	23074	8IH4	8IH4.00	Alcohol Use Disorders Identification Test declined	922471000000101	2367071000000110		32				exclude - declined or unknown alcohol use	
 250332015	219480	136G	136G.00	Beer drinker	160589000	250332015		17	check_upd				
 502017010	1144634	E23-2	E23..12	Alcohol problem drinking	7200002	502017010		32	aud				
 504762019	<5	J61y0	J61y000	Chronic yellow liver atrophy	81675001	504762019		32	aud				
@@ -159,7 +154,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7298241000006111	<5	^ESCTAL729824		Alcohol withdrawal scale score	444810000	2871524017		31	aud			aud - do not derive score	
 7308391000006116	37	^ESCTAD730839		Addiction Research Foundation CIWA-A (Clinical Institute Withdrawal Assessment for Alcohol)	445452008	2352771000000115		32	aud			aud - do not derive score	
 254306016	4537	2577-1	2577.11	O/E - alcoholic breath	163184002	254306016		27	check_upd				
-250318017	97388	1368	1368.00	Alcohol consumption unknown	160580001	250318017		17				exclude - declined or unknown alcohol use	
 250321015	13749	136A	136A.00	Ex-trivial drinker (<1u/day)	160582009	250321015		17	light-drinker		1		
 250322010	10367	136B	136B.00	Ex-light drinker - (1-2u/day)	160583004	250322010		17	light-drinker		1		
 250323017	7834	136C	136C.00	Ex-moderate drinker - (3-6u/d)	160584005	250323017		17	moderate-drinker		1		
@@ -185,7 +179,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7725141000006111	355	^ESCTMO772514		Moderate alcohol dependence	714829008	3300567016		31	aud				
 7858041000006119	<5	^ESCTAL785804		Alcohol-related neurological disorder	724574008	3441485019		5	aud				
 8041851000006114	5	^ESCTDE804185		Degenerative brain disorder caused by alcohol	133301000119102	3290021010		5	aud	Alcoholic dementia			
-2692396019	114909	8IA7	8IA7.00	Alcohol consumption screening test declined	428073005	2692396019		32				exclude - declined or unknown alcohol use	
 8041861000006111	<5	^ESCTDE804186		Degenerative brain disorder due to alcohol	133301000119102	3290091018		5	aud	Alcoholic dementia			
 8243961000006112	<5	^ESCTAL824396		Alcohol rehabilitation and detoxification care management	782181000000105	1748911000000114		31	aud 				
 8315161000006113	6	^ESCTAS831516		Assessment using Clinical Institute Withdrawal Assessment of Alcohol Scale, revised	895811000000100	2304991000000116		31	aud			aud - do not derive score	
@@ -472,7 +465,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	aud	#REF!			
 882531000006110	5861	E250-99	E250.99	Non-dependent abuse of alcohol	268645007	882531000006110		32	check_upd				
 936001000006111	1316498	67H0	67H0.00	Advice relating to alcohol consumption	281078001	2575919017		17	check_upd				
-681741000000116	149589	9k19-1	9k19.11	Alcohol assessment declined	361731000000101	681741000000116		37				exclude - declined or unknown alcohol use	
 476611000006116	139200	J612	J612.00	Alcoholic cirrhosis of liver	420054005	2920441014		32	aud				
 14146131000006111	59	^ESCT1414613		Estimated volume of intake of alcoholic cider in 24 hours	896807001	4042915014		17	check_upd				
 476701000006114	1300	F3941	F394100	Alcohol myopathy	19303008	32551012		32	aud				
