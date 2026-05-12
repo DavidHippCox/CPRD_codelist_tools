@@ -1,16 +1,11 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	alc_category	strict_phenotype	history_of	DHC_comments	AT/NF comments
 106878015	7312	8BA8	8BA8.00	Alcohol detoxification	64297001	106878015		32	aud				
-11930971000006115	5	^ESCT1193097		CIWA-Ar - Clinical Institute Withdrawal Assessment for Alcohol scale, revised	895761000000107	2304881000000113		32				exclude - numbers too low for score to be considered/evaluated (<300)	
 117761000006116	16243	1369	1369.00	Denies alcohol abuse	413968004	2534341013		17	check_upd				
 11928671000006111	10	^ESCT1192867		Alcohol units per week	228958009	556651000000116		31	check_upd			convert to units per day	
-11929541000006113	10	^ESCT1192954		SADQ - Severity of alcohol dependence questionnaire	273799006	409424013		32	alc_test			exclude - numbers too low for score to be considered/evaluated (<300)	
-11929551000006110	13	^ESCT1192955		Severity of alcohol dependence questionnaire	273799006	409423019		32	alc_test			exclude - numbers too low for score to be considered/evaluated (<300)	
 12054431000006113	<5	^ESCT1205443		Chronic pancreatitis due to acute alcohol intoxication	767291004	3670493010		31	aud			aud - should we include acute intoxication?	
-12001651000006110	35	^ESCT1200165		Alcohol Use Disorders Identification Test - Consumption score	763256006	3638614019		3	alc_test			exclude - numbers too low for score to be considered/evaluated (<300)	
 12002341000006114	4435	^ESCT1200234		Assessment using AUDIT-C (Alcohol Use Disorders Identification Test - Consumption)	763302001	3638465017		32	alc_test			another type of check in observation table? 	
 1225183017	167	SLH3	SLH3.00	Alcohol deterrent poisoning	27134008	1225183017		32	aud				
 13938641000006112	<5	^ESCT1393864		Acute alcoholic myopathy	838386008	3896638012		5	aud			aud - should we include acute intoxication?	
-12112021000006111	<5	^ESCT1211202		Management of alcohol intake	440671000124106	651791000124111		31				exclude - numbers too low for score to be considered/evaluated (<300)	
 14197121000006115	<5	^ESCT1419712		Foetal or neonatal effect of maternal use of alcohol	205791004	4230097013		32	aud				
 1221271018	41214297	136	136..00	Alcohol consumption	160573003	1221271018		17	check_upd				
 14798891000006118	5	^ESCT1479889		Dilated cardiomyopathy caused by alcohol	1234750000	5083873012		32	aud				
@@ -433,7 +428,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3927031000006111	<5	^ESCTME392703		Megaloblastic anaemia due to alcoholism	87810006	507760015		31	aud				
 397201000006116	210	Eu107	Eu10700	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	42344001	70655012		32	aud				
 5547241000006111	1046	^ESCTAL554724		Alcohol use inventory	273266008	408550018		31	alc_test			another type of check in observation table? 	
-5552911000006116	<5	^ESCTBR555291		Brief Michigan alcoholism screening test	273609008	409124016		31	alc_test			exclude - numbers too low for score to be considered/evaluated (<300)	
 397211000006118	381	Eu104	Eu10400	[X]Men & behav dis due alcohl: withdrawl state with delirium	8635005	15243013		32	aud				
 8458781000006110	197242	^ESCTAL845878		Alcohol units consumed per day	1082631000000102	2712991000000112		17	check_upd			units per day	
 397241000006119	560	Eu10y	Eu10y00	[X]Men & behav dis due to use alcohol: oth men & behav dis	29212009	48886010		32	aud				
@@ -476,7 +470,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4978041000006118	272	^ESCTAL497804		Alcoholic	228281002	342325014		17	aud 				
 4978811000006111	28	^ESCTUS497881		Use of stratagems to control drinking	228345003	342399011		31	aud				
 7275011000006117	197	^ESCTAU727501		AUDIT (alcohol use disorders identification test) score	443280005	2842172016		3	alc_test			another type of check in observation table? 	
-7278531000006111	24	^ESCTSA727853		SADQ (severity of alcohol dependence questionnaire) score	443504004	2839849016		32	alc_test			exclude - numbers too low for score to be considered/evaluated (<300)	
 500478011	1504026	E23	E23..00	Alcohol dependence syndrome	66590003	500478011		32	aud				
 73012011	97934	136O	136O.00	Moderate drinker	43783005	73012011		17	moderate-drinker				
 501294012	4807	E0112	E011200	Wernicke-Korsakov syndrome	69482004	501294012		32	aud	#REF!			
@@ -542,7 +535,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7849271000006113	40	^ESCTAL784927		Alcohol withdrawal with perceptual disturbances and seizures	723926008	3427877015		31	aud				
 8048151000006113	62	^ESCTCH804815		Chronic pancreatitis due to chronic alcoholism	154211000119108	3008826016		31	aud				
 4978381000006110	1057	^ESCTPA497838		Pattern of drinking through day	228309001	342360015		31	check_upd			check_upd - only check_upd	
-8367371000006114	330	^ESCTCU836737		Current View Provisional Problem Description item 13 score - drug and alcohol difficulties	987371000000102	2510341000000118		31				exclude - numbers too low for score to be considered/evaluated (<300)	
 8088731000006112	<5	^ESCTDI808873		Disorder due to alcohol abuse	288021000119107	3290157019		5	aud				
 8088741000006119	21	^ESCTAL808874		Alcohol induced disorder co-occurrent and due to alcohol dependence	288031000119105	3316455019		31	aud 				
 8088751000006117	99	^ESCTAL808875		Alcohol dependence with alcohol induced disorder	288031000119105	3316456018		31	aud 				
