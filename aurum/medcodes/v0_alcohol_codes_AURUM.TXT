@@ -101,7 +101,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3630121000006110	13	^ESCTKO363012		Korsakoff psychosis	69482004	501295013		32	aud	Korsakov's syndrome			
 3630151000006118	<5	^ESCTKO363015		Korsakov psychosis	69482004	501298010		32	aud	Korsakov's syndrome			
 3890681000006118	2175	^ESCTUN389068		Uncomplicated alcohol withdrawal	85561006	141818010		32	aud				
-394681000006119	9871	Eu106-1	Eu10611	Korsakoff's psychosis	69482004	115434017		32	aud	#REF!			
+394681000006119	9871	Eu106-1	Eu10611	Korsakoff's psychosis	69482004	115434017		32	aud	Korsakov's syndrome			
 397611000006115	2169	Eu100	Eu10000	[X]Mental & behav dis due to use alcohol: acute intoxication	25702006	43081018		32	aud			aud - should we include acute intoxication?	
 397811000006119	859	Eu103	Eu10300	[X]Mental and behav dis due to use alcohol: withdrawal state	191480000	294674018		32	aud			aud - should we include acute intoxication?	
 4722771000006115	9	^ESCTAL472277		Alcohol aversion therapy	183388004	283452013		32	aud				
@@ -281,12 +281,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2881581000006119	8	^ESCTCO288158		Combined alcohol and drug rehabilitation and detoxification	23915005	40167017		31	aud				
 2885451000006111	6	^ESCTAL288545		Alcoholism counseling	24165007	40570014		32	aud 				
 2934661000006111	6	^ESCTPO293466		Poisoning by alcohol deterrent	27134008	45382016		32	aud				
-294662017	463	E0111	E011100	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	294662017		32	aud	#REF!			
-294664016	137	E011z	E011z00	Alcohol amnestic syndrome NOS	73097000	121405015		32	aud	#REF!			
+294662017	463	E0111	E011100	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	294662017		32	aud	Korsakov's syndrome			
+294664016	137	E011z	E011z00	Alcohol amnestic syndrome NOS	73097000	121405015		32	aud	Alcoholic dementia			
 47085011	735046	136J	136J.00	Social drinker	28127009	47085011		17	check_upd				
 476411000006118	1013882	136Z	136Z.00	Alcohol consumption NOS	160573003	1221271018		17	check_upd				
 476501000006115	63	EGTON418		Alcohol intake	476501000006104	476501000006115		17	check_upd				
-294668018	1943	E0120	E012000	Chronic alcoholic brain syndrome	191475009	294668018		32	aud	#REF!			
+294668018	1943	E0120	E012000	Chronic alcoholic brain syndrome	191475009	294668018		32	aud	Alcoholic dementia			
 294669014	2055	E013	E013.00	Alcohol withdrawal hallucinosis	191476005	294669014		32	aud				
 294673012	4274	E01y	E01y.00	Other alcoholic psychosis	42344001	70655012		32	aud				
 294674018	141688	E01y0	E01y000	Alcohol withdrawal syndrome	191480000	294674018		32	aud				
@@ -339,7 +339,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4978251000006113	15	^ESCTDR497825		Drinks alone	228297007	342346017		31	check_upd				
 3402371000006118	<5	^ESCTAL340237		Alcohol induced ketoacidosis	55571001	2957131017		31	aud				
 342322012	8768	136Q	136Q.00	Very heavy drinker	228279004	342322012		17	aud				
-346929012	7987	E012-1	E012.11	Alcoholic dementia	281004	1225776018		32	aud	#REF!			
+346929012	7987	E012-1	E012.11	Alcoholic dementia	281004	1225776018		32	aud	Alcoholic dementia			
 4978281000006117	12	^ESCTDR497828		Drinks in company	228298002	342349012		31	check_upd				
 350971000006112	61	U60H3-1	U60H311	[X] Adverse reaction to alcohol deterrents	292416003	432554017		5	aud				
 3510721000006113	435	^ESCTCO351072		Combined alcohol and drug rehabilitation	62213004	103391017		31	aud				
@@ -364,7 +364,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4978501000006111	110	^ESCTDR497850		Drinks alcohol daily	228319007	2988881016		31	check_upd				
 362921000006118	17713	Eu102-1	Eu10211	[X]Alcohol addiction	66590003	500478011		32	aud				
 4978571000006117	2761	^ESCTDR497857		Drinking binge	228326007	342380019		17	check_upd				
-362941000006113	3571	Eu107-1	Eu10711	[X]Alcoholic dementia NOS	281004	1225776018		32	aud	#REF!			
+362941000006113	3571	Eu107-1	Eu10711	[X]Alcoholic dementia NOS	281004	1225776018		32	aud	Alcoholic dementia			
 362951000006110	2001	Eu105-1	Eu10511	Alcoholic hallucinosis	7052005	1233279015		32	aud				
 362971000006117	214	Eu105-3	Eu10513	[X]Alcoholic paranoia	42344001	70655012		32	aud				
 4978581000006119	842	^ESCTAL497858		Alcohol binge	228326007	2475862011		17	check_upd				
@@ -404,8 +404,8 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 8242881000006116	<5	^ESCTFI824288		Finding of alcohol drinking risk	777691000000109	1738451000000118		31	check_upd				
 8364771000006117	208	^ESCTIN836477		Injury following alcohol use	984801000000105	2504461000000116		32	check_upd				
 3630171000006111	82	^ESCTAL363017		Alcoholic amnestic syndrome	69482004	501300010		32	aud				
-370961000006119	496	Eu107-2	Eu10712	[X]Chronic alcoholic brain syndrome	191475009	294668018		32	aud	#REF!			
-370971000006114	7897	Eu102-2	Eu10212	[X]Chronic alcoholism	66590003	110629012		32	aud	#REF!			
+370961000006119	496	Eu107-2	Eu10712	[X]Chronic alcoholic brain syndrome	191475009	294668018		32	aud	Alcoholic dementia			
+370971000006114	7897	Eu102-2	Eu10212	[X]Chronic alcoholism	66590003	110629012		32	aud	Alcoholic dementia			
 371501000000110	1097	7P221	7P22100	Delivery of rehabilitation for alcohol addiction	231161000000109	371501000000110		32	aud				
 376451000006113	1963	Eu104-1	Eu10411	[X]Delirium tremens, alcohol induced	8635005	15243013		32	aud				
 377081000006114	10	Eu102-3	Eu10213	[X]Dipsomania	66590003	500478011		32	aud				
@@ -422,12 +422,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 397241000006119	560	Eu10y	Eu10y00	[X]Men & behav dis due to use alcohol: oth men & behav dis	29212009	48886010		32	aud				
 397431000006111	1158	Eu10z	Eu10z00	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	91388009	151411015		32	aud				
 397621000006111	1240	Eu105	Eu10500	Alcohol-induced psychosis	42344001	70655012		32	aud				
-397791000006118	962	Eu106	Eu10600	Alcohol amnestic disorder	73097000	121405015		32	aud	#REF!			
+397791000006118	962	Eu106	Eu10600	Alcohol amnestic disorder	73097000	121405015		32	aud	Alcoholic dementia			
 852391000006113	32576	EMISQNO6		Not interested in reducing alcohol	852391000006109	852391000006113		17	check_upd				
 397801000006117	13585	Eu102	Eu10200	[X]Mental and behav dis due to use alcohol: dependence syndr	66590003	500478011		32	aud				
 587231000006111	666270	1361-1	1361.11	Non drinker alcohol	105542008	291352018		17	non-drinker				
 397881000006114	58736	Eu101	Eu10100	Alcohol abuse	15167005	25750014		32	aud				
-401760017	1960	E012	E012.00	Other alcoholic dementia	281004	1225776018		32	aud	#REF!			
+401760017	1960	E012	E012.00	Other alcoholic dementia	281004	1225776018		32	aud	Alcoholic dementia			
 405461000000114	17274	66e0	66e0.00	Alcohol abuse monitoring	247721000000109	405461000000114		1	aud				
 451124014	1332	J6170	J617000	Chronic alcoholic hepatitis	307757001	451124014		32	aud				
 4525015	45258	J153	J153.00	Alcoholic gastritis	2043009	4525015		32	aud 				
@@ -443,7 +443,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 460926018	10021	ZV57A	ZV57A00	[V]Alcohol rehabilitation	471691000000107	1001331000000118		32	aud		1		
 461112017	30164	ZV6D6	ZV6D600	Alcoholism counselling	24165007	1206287010		32	aud 				
 4723831000006118	5	^ESCTAD472383		Admitted to alcohol detoxification center	183486001	283558010		40	aud				
-476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	aud	#REF!			
+476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	aud	Alcoholic dementia			
 882531000006110	5861	E250-99	E250.99	Non-dependent abuse of alcohol	268645007	882531000006110		32	check_upd				
 936001000006111	1316498	67H0	67H0.00	Advice relating to alcohol consumption	281078001	2575919017		17	check_upd				
 476611000006116	139200	J612	J612.00	Alcoholic cirrhosis of liver	420054005	2920441014		32	aud				
@@ -459,7 +459,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7275011000006117	197	^ESCTAU727501		AUDIT (alcohol use disorders identification test) score	443280005	2842172016		3	alc_test			another type of check in observation table? 	
 500478011	1504026	E23	E23..00	Alcohol dependence syndrome	66590003	500478011		32	aud				
 73012011	97934	136O	136O.00	Moderate drinker	43783005	73012011		17	moderate-drinker				
-501294012	4807	E0112	E011200	Wernicke-Korsakov syndrome	69482004	501294012		32	aud	#REF!			
+501294012	4807	E0112	E011200	Wernicke-Korsakov syndrome	69482004	501294012		32	aud	Korsakov's syndrome			
 502016018	118	E231-1	E231.11	Dipsomania	7200002	502016018		32	aud				
 507053019	1896	E010-1	E010.11	DTs - delirium tremens	8635005	507053019		32	aud				
 5086741000006114	<5	^ESCTAH508674		AH - Alcoholic hepatitis	235875008	353588011		32	aud				
@@ -468,7 +468,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7382961000006113	1172	^ESCTAS738296		Assessment using alcohol use disorders identification test	450760003	2916998017		32	alc_test			another type of check in observation table? 	
 5110231000006116	23	^ESCTAL511023		Alcohol-induced hypoglycaemia	237641009	356162012		31	aud				
 5110241000006114	<5	^ESCTAL511024		Alcohol-induced hypoglycemia	237641009	356163019		31	aud				
-542611000006114	1270	F11x0	F11x000	Cerebral degeneration due to alcoholism	192811002	297011014		32	aud 	#REF!			
+542611000006114	1270	F11x0	F11x000	Cerebral degeneration due to alcoholism	192811002	297011014		32	aud 	Alcoholic dementia			
 5564291000006118	39	^ESCTAL556429		Alcoholism detoxication centre	274517002	410336016		31	aud 				
 7498021000006112	49	^ESCTFO749802		Foetal Alcohol Spectrum Disorder	609437000	2965959019		32	aud				
 5612351000006115	22	^ESCTAL561235		Alcoholic macrocytosis	278363000	415240012		31	aud				
@@ -501,7 +501,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 739501000000112	2215	8CAv	8CAv.00	Advised to contact primary care alcohol worker	375941000000101	739501000000112		32	aud				
 4533431000006118	96	^ESCTEX453343		Excessive ethanol consumption	160592001	250337014		17	aud				
 750531000000113	37696	8IAJ	8IAJ.00	Declined referral to specialist alcohol treatment service	380861000000109	750531000000113		32	aud				
-753331000006118	11510	E0110	E011000	Korsakov alcoholic psychosis	69482004	501296014		32	aud	#REF!			
+753331000006118	11510	E0110	E011000	Korsakov alcoholic psychosis	69482004	501296014		32	aud	Korsakov's syndrome			
 4533441000006111	45	^ESCTXS453344		XS - Excessive alcohol consumption	160592001	250338016		17	aud				
 7683281000006111	<5	^ESCTFA768328		Facilitation of alcohol abuse recovery	711118008	3047473016		31	aud				
 7700651000006119	56	^ESCTCH770065		Chronic alcoholic liver disease	713181003	3288362011		31	aud				
