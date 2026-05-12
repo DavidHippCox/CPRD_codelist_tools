@@ -14,9 +14,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 12619041000006111	32	^ESCT1261904		History of alcohol use	1104851000000107	2765571000000113		31	check_upd		1		
 12626661000006117	<5	^ESCT1262666		Provision of information about alcohol use	1111231000000100	2780481000000119		31				exclude - vague 	
 15374151000006114	38	^ESCT1537415		Fetal Alcohol Spectrum Disorder (FASD) without sentinel facial features	1894461000000101	1844721000000111		32	aud				
-13021000000117	15	9EQ	9EQ..00	HO/RTS - police: venesection alcohol	16751000000101	13011000000111		37				exclude - drinking history not clear	
-13031000000115	<5	9EQ-z334		HO/RTS-police:venesect alcohol	16751000000101	1694101000006113		37				exclude - drinking history not clear	
-13041000000112	8	9EQ-1	9EQ..11	Police:venesect-alcohol	16751000000101	13041000000112		37				exclude - drinking history not clear	
 13530371000006117	6481	^ESCT1353037		Alcohol Use Disorders Identification Test for Primary Care score	774089008	3727938010		3	alc_test			another type of check in observation table? 	
 13628811000006110	53963	^ESCT1362881		Lifetime non-drinker of alcohol	783261004	3758327018		17	non-drinker				
 13667221000006114	<5	^ESCT1366722		Psychotic behaviour caused by ingestible alcohol	787768005	3776879017		27	check_upd				
@@ -52,13 +49,9 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1901211000006117	963	38QE	38QE.00	Addiction Research Foundation Clinical Institute Withdrawal Assessment for Alcohol	445452008	2870801010		32	aud			aud - do not derive score	
 1947501000006118	1621	9Nz9	9Nz9.00	Emergency department attendance related to personal alcohol consumption	963261000000108	2454241000000116		37	aud				
 1957791000006115	6311	EMISNQRE532		Reduced alcohol intake	1957791000006104	1957791000006115		17	check_upd				
-15023191000006117	6	^ESCT1502319		Accidental poisoning by substance with alcohol structure	1255412009	5146859011		32				exclude - drinking history not clear	
 2007461000006118	276	EMISNQSR25		SRH care activity - alcohol brief intervention	2007461000006102	2007461000006118		37	check_upd				
 1972151000006110	118	EMISICD10|F1000		Mental & behav dis due to use alcohol: acute intoxication, uncomplicated	1972151000006106	1972151000006110		32	aud			aud - should we include acute intoxication?	
 1972161000006112	19	EMISICD10|F1001		Mental & behav dis due to use alcohol: acute intoxication, with trauma or other bodily injury	1972161000006108	1972161000006112		32	aud			aud - should we include acute intoxication?	
-15124941000006117	<5	^ESCT1512494		Ethyl glucuronide/ethyl sulfate mass concentration ratio in urine	55451000237106	107351000237110		34				exclude - drinking history not clear	
-15125771000006110	<5	^ESCT1512577		Ethyl glucuronide mass concentration in urine	56301000237108	111411000237110		34				exclude - drinking history not clear	
-15127721000006116	<5	^ESCT1512772		Ethyl sulphate mass concentration in urine	58301000237107	106991000237119		34				exclude - drinking history not clear	
 1972271000006112	12	EMISICD10|F1002		Mental & behav dis due to use alcohol: acute intoxication, with other medical complications	1972271000006108	1972271000006112		32	aud			aud - should we include acute intoxication?	
 1973241000006113	14	EMISICD10|F1003		Mental & behav dis due to use alcohol: acute intoxication, with delirium	1973241000006109	1973241000006113		32	aud			aud - should we include acute intoxication?	
 1973321000006113	<5	EMISICD10|F1004		Mental & behav dis due to use alcohol: acute intoxication, with perceptual distortions	1973321000006109	1973321000006113		32	aud			aud - should we include acute intoxication?	
@@ -86,7 +79,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 294670010	463	E014-1	E014.11	Drunkenness - pathological	191477001	294670010		32	aud				
 294671014	792	E014	E014.00	Pathological alcohol intoxication	191477001	294671014		32	aud				
 294672019	735	E015	E015.00	Alcoholic paranoia	191478006	294672019		32	aud				
-1808491000006113	<5	JHCAL2		Alcohol-related legal or disciplinary problem	1808491000006109	1808491000006113		17				exclude - drinking history not clear	
 1808611000006118	<5	JHCAR24		AREP - Alcohol rehabilitation education program	1808611000006102	1808611000006118		32				exclude - vague	
 295126010	594	E230-1	E230.11	Alcohol dependence with acute alcoholic intoxication	191802004	295126010		32	aud			aud - should we include acute intoxication?	
 295127018	13901	E230	E230.00	Acute alcoholic intoxication in alcoholism	191802004	295127018		32	aud			aud - should we include acute intoxication?	
@@ -238,7 +230,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1974191000006110	196	EMISICD10|F1030		Mental and behav dis due to use alcohol: withdrawal state, uncomplicated	1974191000006106	1974191000006110		32	aud				
 1974231000006117	19	EMISICD10|F1031		Mental and behav dis due to use alcohol: withdrawal state, with convulsions	1974231000006101	1974231000006117		32	aud				
 1974301000006117	15	EMISICD10|F1040		Mental & behav dis due to use alcohol: withdrawl state with delirium, without convulsions	1974301000006101	1974301000006117		32	aud				
-317636014	3108	R103	R103.00	High ethanol level in blood	441685000	2817390013		32				exclude - drinking history not clear	
 1974521000006117	17	EMISICD10|F1041		Mental & behav dis due to use alcohol: withdrawl state with delirium, with convulsions	1974521000006101	1974521000006117		32	aud				
 1975141000006117	<5	EMISICD10|F1050		Mental & behav dis due to use alcohol: psychotic disorder, schizophrenia-like	1975141000006101	1975141000006117		32	aud				
 4533151000006116	45	^ESCTAI453315		AI - Alcohol intake	160573003	1221268014		17	check_upd				
