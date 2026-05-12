@@ -184,7 +184,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7703061000006115	10	^ESCTAC770306		Acute on chronic alcoholic liver disease	713370005	3289055018		31	aud			aud - should we include acute intoxication?	
 7706231000006114	106	^ESCTMI770623		Mild alcohol dependence	713583005	3290336015		31	aud				
 7725141000006111	355	^ESCTMO772514		Moderate alcohol dependence	714829008	3300567016		31	aud				
-7729841000006118	<5	^ESCTDI772984		Disulfiram overdose	715300008	3302141010		31	aud			exclude - alcohol drug use	
 7858041000006119	<5	^ESCTAL785804		Alcohol-related neurological disorder	724574008	3441485019		5	aud				
 8041851000006114	5	^ESCTDE804185		Degenerative brain disorder caused by alcohol	133301000119102	3290021010		5	aud	Alcoholic dementia			
 2692396019	114909	8IA7	8IA7.00	Alcohol consumption screening test declined	428073005	2692396019		32				exclude - declined or unknown alcohol use	
@@ -365,7 +364,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3402371000006118	<5	^ESCTAL340237		Alcohol induced ketoacidosis	55571001	2957131017		31	aud				
 342322012	8768	136Q	136Q.00	Very heavy drinker	228279004	342322012		17	aud				
 346929012	7987	E012-1	E012.11	Alcoholic dementia	281004	1225776018		32	aud	#REF!			
-464381000006118	41	TJH3	TJH3.00	Alcohol metabolism modifier adverse reaction	292416003	432554017		5				exclude - alcohol drug use	
 4978281000006117	12	^ESCTDR497828		Drinks in company	228298002	342349012		31	check_upd				
 350971000006112	61	U60H3-1	U60H311	[X] Adverse reaction to alcohol deterrents	292416003	432554017		5	aud				
 3510721000006113	435	^ESCTCO351072		Combined alcohol and drug rehabilitation	62213004	103391017		31	aud				
@@ -452,7 +450,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 397791000006118	962	Eu106	Eu10600	Alcohol amnestic disorder	73097000	121405015		32	aud	#REF!			
 852391000006113	32576	EMISQNO6		Not interested in reducing alcohol	852391000006109	852391000006113		17	check_upd				
 397801000006117	13585	Eu102	Eu10200	[X]Mental and behav dis due to use alcohol: dependence syndr	66590003	500478011		32	aud				
-5827361000006119	366	^ESCTAL582736		Alcohol deterrent overdose	296295001	436692012		31				exclude - alcohol drug use	
 587231000006111	666270	1361-1	1361.11	Non drinker alcohol	105542008	291352018		17	non-drinker				
 397881000006114	58736	Eu101	Eu10100	Alcohol abuse	15167005	25750014		32	aud				
 401760017	1960	E012	E012.00	Other alcoholic dementia	281004	1225776018		32	aud	#REF!			
