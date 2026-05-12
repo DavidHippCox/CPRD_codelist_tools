@@ -1,0 +1,196 @@
+GOLD_medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease	alc_category	strict_phenotype
+10161	2577.11	7220	0	20	0	O/E - alcoholic breath	February 2009	check_upd	0
+101718	136Y.00	28	0	0	0	Drinks in morning to get rid of hangover	February 2011	aud	0
+102247	8IAt.00	625	0	13	0	Extended interven for excessive alcohol consumption declined	May 2011	aud	0
+102448	136c.00	290	0	<5	0	Higher risk drinking	June 2011	aud	0
+102564	8CAM000	1109	0	0	0	Advised to abstain from alcohol consumption	July 2011	check_upd	0
+102577	38Dz.00	159	0	13	0	Severity of alcohol dependence questionnaire	July 2011	aud	0
+102770	38Dz.11	242	0	0	0	SADQ - Severity of alcohol dependence questionnaire	August 2011	check_upd	0
+103459	8IEA.00	1516	0	1549	0	Referral to community alcohol team declined	December 2011	aud	0
+104611	J670800	839	0	<5	0	Alcohol-induced acute pancreatitis	July 2012	aud	0
+10691	J610.00	10078	0	191	0	Alcoholic fatty liver	February 2009	aud	0
+108644	9NJz.00	129	0	<5	0	In-house alcohol detoxification	September 2014	aud	0
+109108	2126C00	535	0	7	0	Alcohol dependence resolved	January 2015	aud	0
+109668	8CdK.00	8405	0	20	0	Specialist alcohol treatment service signposted	May 2015	aud	0
+109800	9NzA.00	356	0	0	0	Hospital attendance related to personal alcohol consumption	June 2015	aud	0
+110382	9NgzH00	106	0	<5	0	Withdrawn from alcohol detoxification programme	December 2015	aud	0
+110494	8BAu.00	480	0	<5	0	Alcohol harm reduction programme	January 2016	aud	0
+110624	8BAs.00	77	0	0	0	Alcohol relapse prevention	March 2016	aud	0
+11106	E011100	130	0	<5	0	Korsakov's alcoholic psychosis with peripheral neuritis	February 2009	aud	Korsakov's syndrome
+11140	ZG23100	10335	0	35	0	Advice on alcohol consumption	February 2009	check_upd	0
+115844	8BAw.00	<5	0	0	0	Alcohol twelve step programme	October 2021	aud	0
+11670	Eu10611	596	0	9	0	[X]Korsakov's psychosis, alcohol induced	February 2009	aud	Korsakov's syndrome
+11740	9k1..00	72827	0	485	0	Alcohol misuse - enhanced services administration	February 2009	aud	0
+12271	E250.11	12338	0	1326	<5	Drunkenness NOS	February 2009	check_upd	0
+12353	Eu10500	323	0	<5	0	[X]Mental & behav dis due to use alcohol: psychotic disorder	February 2009	aud	0
+12442	66e..00	22888	0	309	0	Alcohol disorder monitoring	February 2009	aud	0
+12554	8HHe.00	11743	0	18734	0	Referral to community drug and alcohol team	February 2009	aud	0
+12949	1361.00	5695189	0	180	<5	Teetotaller	February 2009	non-drinker	0
+12968	136H.00	13817	0	7	0	Drinks beer and spirits	February 2009	check_upd	0
+12969	136I.00	83230	0	10	0	Drinks wine	February 2009	check_upd	0
+12970	1361.11	519177	0	20	<5	Non drinker alcohol	February 2009	non-drinker	0
+12971	136F.00	28972	0	10	0	Spirit drinker	February 2009	check_upd	0
+12972	1363.00	1347352	0	20	0	Light drinker - 1-2u/day	February 2009	light-drinker	0
+12974	E250200	3920	0	284	0	Nondependent alcohol abuse, episodic	February 2009	aud	0
+12975	1362.00	1824926	0	27	0	Trivial drinker - <1u/day	February 2009	light-drinker	0
+12977	1366.00	69466	0	78	0	Very heavy drinker - >9u/day	February 2009	aud	0
+12979	136M.00	313848	0	<5	0	Current non drinker	February 2009	non-drinker	0
+12980	136N.00	46937	0	0	0	Light drinker	February 2009	check_upd	0
+12981	136Z.00	285808	0	28	0	Alcohol consumption NOS	February 2009	check_upd	0
+12982	136K.00	215699	0	45	0	Alcohol intake above recommended sensible limits	February 2009	check_upd	0
+12983	136E.00	10575	0	<5	0	Ex-very heavy drinker-(>9u/d)	February 2009	aud	0
+12984	136Q.00	4987	0	20	0	Very heavy drinker	February 2009	aud	0
+12985	136O.00	28384	0	0	0	Moderate drinker	February 2009	moderate-drinker	0
+1399	E23..12	175342	0	10097	25	Alcohol problem drinking	February 2009	aud	0
+1476	E010.12	2596	0	246	0	Delirium tremens	February 2009	aud	0
+1618	1365.00	114704	0	207	<5	Heavy drinker - 7-9u/day	February 2009	aud	0
+16225	E010.00	2365	0	90	0	Alcohol withdrawal delirium	February 2009	aud	0
+16237	E01..00	856	0	42	0	Alcoholic psychoses	February 2009	aud	0
+16587	ZV11311	188	0	20	0	[V]Problems related to lifestyle alcohol use	February 2009	aud	0
+17259	Eu10411	2293	0	56	<5	[X]Delirium tremens, alcohol induced	February 2009	aud	0
+17330	J613000	598	0	33	0	Alcoholic hepatic failure	February 2009	aud	0
+17607	Eu10514	900	0	30	0	[X]Alcoholic psychosis NOS	February 2009	aud	0
+17777	E250.13	263	0	15	0	Inebriety NOS	February 2009	check_upd	0
+18156	13Y8.00	2590	0	23	<5	Alcoholics anonymous	February 2009	aud	0
+18636	E011200	771	0	22	0	Wernicke-Korsakov syndrome	February 2009	aud	Korsakov's syndrome
+18711	67H0.00	180785	0	68	0	Lifestyle advice regarding alcohol	February 2009	check_upd	0
+19217	SM0..00	1947	0	31	0	Alcohol causing toxic effect	February 2009	aud	0
+19401	136R.00	38677	0	212	0	Binge drinker	February 2009	check_upd	0
+19493	136D.00	11173	0	0	0	Ex-heavy drinker - (7-9u/day)	February 2009	aud	0
+19494	136S.00	24838	0	567	0	Hazardous alcohol use	February 2009	aud	0
+19495	136C.00	5889	0	0	0	Ex-moderate drinker - (3-6u/d)	February 2009	moderate-drinker	0
+20514	Eu10300	400	0	<5	0	[X]Mental and behav dis due to use alcohol: withdrawal state	February 2009	aud	0
+20762	E011.00	122	0	<5	0	Alcohol amnestic syndrome	February 2009	aud	Korsakov's syndrome
+2081	E23..11	67388	0	4458	21	Alcoholism	February 2009	aud	0
+2082	E01y000	55511	0	1483	<5	Alcohol withdrawal syndrome	February 2009	aud	0
+2083	8BA8.00	90641	0	2824	<5	Alcohol detoxification	February 2009	aud	0
+2084	E23..00	296689	0	12390	16	Alcohol dependence syndrome	February 2009	aud	0
+21624	E230200	163	0	<5	0	Episodic acute alcoholic intoxication in alcoholism	February 2009	aud	0
+21650	8H35.00	3359	0	206	0	Admitted to alcohol detoxification centre	February 2009	aud	0
+21713	J612000	471	0	11	0	Alcoholic fibrosis and sclerosis of liver	February 2009	aud	0
+21829	Z786200	612	0	<5	0	Drinking practice	February 2009	check_upd	0
+21879	Eu10100	642	0	5	0	[X]Mental and behav dis due to use of alcohol: harmful use	February 2009	aud	0
+22277	E010.11	1310	0	34	0	DTs - delirium tremens	February 2009	aud	0
+22933	136A.00	9273	0	0	0	Ex-trivial drinker (<1u/day)	February 2009	light-drinker	0
+23610	E250100	1195	0	75	0	Nondependent alcohol abuse, continuous	February 2009	aud	0
+23945	PK80.00	1366	0	35	0	Fetal alcohol syndrome	February 2009	NA	0
+23978	U81..00	732	0	<5	0	[X]Evid of alcohol involv determind by level of intoxication	February 2009	check_upd	0
+24064	E231100	644	0	5	0	Continuous chronic alcoholism	February 2009	aud	0
+24485	E231300	558	0	<5	0	Chronic alcoholism in remission	February 2009	aud	0
+24735	2577.00	1427	0	<5	0	O/E - breath - alcohol smell	February 2009	check_upd	0
+24984	J671000	1190	0	7	0	Alcohol-induced chronic pancreatitis	February 2009	aud	0
+25110	E013.00	424	0	31	0	Alcohol withdrawal hallucinosis	February 2009	aud	0
+26106	E231200	710	0	13	0	Episodic chronic alcoholism	February 2009	aud	0
+26323	Eu10711	1041	0	24	0	[X]Alcoholic dementia NOS	February 2009	aud	Alcoholic dementia
+26471	136B.00	6057	0	0	0	Ex-light drinker - (1-2u/day)	February 2009	light-drinker	0
+26472	136L.00	1636094	0	0	0	Alcohol intake within recommended sensible limits	February 2009	check_upd	0
+2689	136G.00	91984	0	15	0	Beer drinker	February 2009	check_upd	0
+27	136..00	13965608	0	6518	63	Alcohol consumption	February 2009	check_upd	0
+27342	E012.11	1208	0	34	0	Alcoholic dementia NOS	February 2009	aud	Alcoholic dementia
+27518	E250.12	509	0	16	0	Hangover (alcohol)	February 2009	check_upd	0
+27670	L255300	31	0	<5	0	Maternal care for (suspected) damage to fetus from alcohol	February 2009	check_upd	0
+28150	E250z00	9440	0	<5	0	Nondependent alcohol abuse NOS	February 2009	aud	0
+28780	Eu10211	4728	0	381	0	[X]Alcohol addiction	February 2009	aud	0
+2925	F375.00	1636	0	65	0	Alcoholic polyneuropathy	February 2009	aud	0
+29691	8G32.00	508	0	12	0	Aversion therapy - alcoholism	February 2009	aud	0
+30162	Eu10513	162	0	11	0	[X]Alcoholic paranoia	February 2009	aud	0
+30404	E015.00	229	0	16	0	Alcoholic paranoia	February 2009	aud	0
+30460	Z4B1.00	1434	0	130	0	Alcoholism counselling	February 2009	aud	0
+30604	F25B.00	829	0	<5	0	Alcohol-induced epilepsy	February 2009	aud	0
+30695	136T.00	28567	0	824	0	Harmful alcohol use	February 2009	aud	0
+31443	E231.00	5139	0	104	0	Chronic alcoholism	February 2009	aud	0
+31569	E250300	219	0	0	0	Nondependent alcohol abuse in remission	February 2009	aud	0
+31742	F394100	205	0	<5	0	Alcoholic myopathy	February 2009	aud	0
+3216	J611.00	5535	0	251	<5	Acute alcoholic hepatitis	February 2009	aud	0
+322	1364.00	722844	0	27	<5	Moderate drinker - 3-6u/day	February 2009	moderate-drinker	0
+32927	Eu10800	12880	0	58	0	[X]Alcohol withdrawal-induced seizure	February 2009	aud	0
+32964	66e0.00	11128	0	310	0	Alcohol abuse monitoring	February 2009	aud	0
+33635	E231z00	3524	0	129	0	Chronic alcoholism NOS	February 2009	aud	0
+33670	E01y.00	341	0	0	0	Other alcoholic psychosis	February 2009	aud	0
+33839	F144000	135	0	0	0	Cerebellar ataxia due to alcoholism	February 2009	aud	0
+35330	9k11.00	61110	0	265	0	Alcohol consumption counselling	February 2009	check_upd	0
+36296	E230z00	477	0	<5	0	Acute alcoholic intoxication in alcoholism NOS	February 2009	aud	0
+36499	SM0z.00	253	0	0	0	Alcohol causing toxic effect NOS	February 2009	aud	0
+36687	SLH3.00	97	0	<5	0	Alcohol deterrent poisoning	February 2009	check_upd	0
+36748	F11x011	828	0	12	0	Alcoholic encephalopathy	February 2009	aud	0
+37605	E231.11	25	0	<5	0	Dipsomania	February 2009	check_upd	0
+37691	Eu10712	516	0	<5	0	[X]Chronic alcoholic brain syndrome	February 2009	aud	Alcoholic dementia
+3782	E250.14	66757	0	2392	<5	Intoxication - alcohol	February 2009	check_upd	0
+37946	E012000	158	0	0	0	Chronic alcoholic brain syndrome	February 2009	aud	Alcoholic dementia
+38061	1B1c.00	987	0	11	0	Alcohol induced hallucinations	February 2009	aud	0
+385	1362.11	2413964	0	10	0	Drinks rarely	February 2009	check_upd	0
+39327	Eu10200	2152	0	22	0	[X]Mental and behav dis due to use alcohol: dependence syndr	February 2009	aud	0
+39799	Eu10600	189	0	<5	0	[X]Mental and behav dis due to use alcohol: amnesic syndrome	February 2009	aud	Korsakov's syndrome
+40530	E230000	290	0	<5	0	Acute alcoholic intoxication, unspecified, in alcoholism	February 2009	aud	0
+40602	ZR1E.11	107	0	<5	0	ADS - Alcohol dependence scale	February 2009	aud	0
+41920	E011z00	9	0	<5	0	Alcohol amnestic syndrome NOS	February 2009	aud	Korsakov's syndrome
+43193	E231000	336	0	0	0	Unspecified chronic alcoholism	February 2009	aud	0
+44299	Eu10000	1232	0	8	0	[X]Mental & behav dis due to use alcohol: acute intoxication	February 2009	check_upd	0
+4447	1361.12	520070	0	17	14	Non-drinker alcohol	February 2009	non-drinker	0
+44783	1D19.00	11	0	0	0	Pain in lymph nodes after alcohol consumption	February 2009	check_upd	0
+4500	E011000	2534	0	67	0	Korsakov's alcoholic psychosis	February 2009	aud	Korsakov's syndrome
+4506	J153.00	13287	0	196	10	Alcoholic gastritis	February 2009	aud	0
+45169	Eu10y00	31	0	<5	0	[X]Men & behav dis due to use alcohol: oth men & behav dis	February 2009	aud	0
+47123	9k14.00	1443	0	36	0	Alcohol counselling by other agencies	February 2009	check_upd	0
+4743	J612.00	18879	0	520	<5	Alcoholic cirrhosis of liver	February 2009	aud	0
+47555	F11x000	158	0	<5	0	Cerebral degeneration due to alcoholism	February 2009	aud	Alcoholic dementia
+48241	U60H311	8	0	0	0	[X] Adverse reaction to alcohol deterrents	February 2009	check_upd	0
+4915	G555.00	1598	0	24	0	Alcoholic cardiomyopathy	February 2009	aud	0
+50507	ZR1E.00	149	0	<5	0	Alcohol dependence scale	February 2009	aud	0
+54505	E012.00	273	0	<5	0	Other alcoholic dementia	February 2009	aud	Alcoholic dementia
+55536	SM00z00	15	0	<5	0	Ethyl alcohol causing toxic effect NOS	February 2009	aud	0
+5611	Eu10.00	2563	0	59	0	[X]Mental and behavioural disorders due to use of alcohol	February 2009	aud	0
+56410	7P22100	685	0	194	0	Delivery of rehabilitation for alcohol addiction	February 2009	aud	0
+56947	E230100	71	0	<5	0	Continuous acute alcoholic intoxication in alcoholism	February 2009	aud	0
+5740	E230.00	8544	0	460	<5	Acute alcoholic intoxication in alcoholism	February 2009	aud	0
+5758	Eu10212	2869	0	68	0	[X]Chronic alcoholism	February 2009	aud	0
+57714	E230.11	134	0	0	0	Alcohol dependence with acute alcoholic intoxication	February 2009	aud	0
+57939	E014.00	95	0	<5	0	Pathological alcohol intoxication	February 2009	aud	0
+59574	E230300	180	0	<5	0	Acute alcoholic intoxication in remission, in alcoholism	February 2009	aud	0
+6169	E23z.00	12290	0	295	0	Alcohol dependence syndrome NOS	February 2009	aud	0
+62000	Eu10700	45	0	0	0	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	February 2009	aud	0
+63529	9k12.00	9086	0	0	0	Alcohol misuse - enhanced service completed	February 2009	aud	0
+64101	Eu10400	162	0	<5	0	[X]Men & behav dis due alcohl: withdrawl state with delirium	February 2009	aud	0
+64389	Eu10z00	36	0	0	0	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	February 2009	aud	0
+64409	Z191400	13	0	0	0	Self-monitoring of alcohol intake	February 2009	check_upd	0
+6467	Eu10511	683	0	10	0	[X]Alcoholic hallucinosis	February 2009	aud	0
+65754	C150500	24	0	0	0	Alcohol-induced pseudo-Cushing's syndrome	February 2009	aud	0
+65932	Eu10512	22	0	0	0	[X]Alcoholic jealousy	February 2009	aud	0
+65980	ZR1G.00	113	0	0	0	Alcohol use inventory	February 2009	check_upd	0
+669	E250000	68790	0	5116	169	Nondependent alcohol abuse, unspecified	February 2009	aud	0
+67651	E01z.00	171	0	0	0	Alcoholic psychosis NOS	February 2009	aud	0
+68111	E01yz00	19	0	0	0	Other alcoholic psychosis NOS	February 2009	aud	0
+69691	Eu10213	<5	0	0	0	[X]Dipsomania	February 2009	check_upd	0
+7123	ZV11300	2156	0	49	0	[V]Personal history of alcoholism	February 2009	aud	0
+73876	U60H300	<5	0	0	0	[X]Alcohol deterrents caus adverse effects in therapeut use	February 2009	check_upd	0
+749	1362.12	2870774	0	36	<5	Drinks occasionally	February 2009	check_upd	0
+7545	ZV4KC00	10335	0	222	0	[V] Alcohol use	February 2009	check_upd	0
+7602	J617000	198	0	<5	0	Chronic alcoholic hepatitis	February 2009	aud	0
+7746	E250.00	71992	0	3926	31	Nondependent alcohol abuse	February 2009	aud	0
+7885	J613.00	16913	0	478	<5	Alcoholic liver damage unspecified	February 2009	aud	0
+7943	J617.00	5378	0	90	0	Alcoholic hepatitis	February 2009	aud	0
+8030	ZV6D600	27631	0	1069	0	[V]Alcohol abuse counselling and surveillance	February 2009	aud	0
+8363	G852300	636	0	13	0	Oesophageal varices in alcoholic cirrhosis of the liver	February 2009	aud	0
+8388	ZV57A00	1863	0	68	0	[V]Alcohol rehabilitation	February 2009	aud	0
+84218	13ZY.00	597	0	<5	0	Disqualified from driving due to excess alcohol	February 2009	aud	0
+8430	1462.00	10874	0	164	<5	H/O: alcoholism	February 2009	aud	0
+8984	SM00.00	229	0	17	8	Ethyl alcohol causing toxic effect	February 2009	aud	0
+8999	136P.00	24654	0	646	0	Heavy drinker	February 2009	aud	0
+9169	R103.00	2984	0	34	7	[D]Alcohol blood level excessive	February 2009	check_upd	0
+93415	136V.00	176234	0	0	0	Alcohol units per week	February 2009	check_upd	0
+94553	8HkG.00	2487	0	2199	0	Referral to specialist alcohol treatment service	February 2009	aud	0
+94670	136W.00	10779	0	94	0	Alcohol misuse	February 2009	aud	0
+9489	9NN2.00	9971	0	154	0	Under care of community alcohol team	February 2009	aud	0
+9508	Eu10011	2708	0	64	0	[X]Acute alcoholic drunkenness	February 2009	aud	0
+95181	Z191211	24	0	<5	0	Alcohol reduction programme	February 2009	aud	0
+956	136J.00	360098	0	<5	0	Social drinker	February 2009	check_upd	0
+95944	9k19.00	2868	0	0	0	Alcohol assesment declined - enhanced services admin	February 2009	check_upd	0
+96053	9k1A.00	194037	0	38	<5	Brief intervention for excessive alcohol consumptn completed	February 2009	aud	0
+96054	9k1B.00	7074	0	<5	0	Extended intervention for excessive alcohol consumptn complt	February 2009	aud	0
+967	1367.00	862479	0	113	0	Stopped drinking alcohol	February 2009	check_upd	0
+96993	8HkJ.00	539	0	70	0	Referral to alcohol brief intervention service	June 2009	aud	0
+97126	136X.00	21898	0	<5	0	Alcohol units consumed on heaviest drinking day	August 2009	check_upd	0
+97261	8IAF.00	70371	0	0	0	Brief intervention for excessive alcohol consumptn declined	August 2009	aud	0
+97309	8CAv.00	1537	0	<5	0	Advised to contact primary care alcohol worker	August 2009	aud	0
+97680	8IAJ.00	4020	0	149	5	Declined referral to specialist alcohol treatment service	September 2009	aud	0
+9849	8H7p.00	16025	0	19983	0	Referral to community alcohol team	February 2009	aud	0
