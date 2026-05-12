@@ -14,12 +14,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 14197121000006115	<5	^ESCT1419712		Foetal or neonatal effect of maternal use of alcohol	205791004	4230097013		32	aud				
 1221271018	41214297	136	136..00	Alcohol consumption	160573003	1221271018		17	check_upd				
 14798891000006118	5	^ESCT1479889		Dilated cardiomyopathy caused by alcohol	1234750000	5083873012		32	aud				
-1230738018	<5	SM031	SM03100	Butyl alcohol causing toxic effect	4953006	1230738018		32				exclude - poisoning/toxic effect	
-1231719017	23	SM03	SM03.00	Fusel oil causing toxic effect	57346004	1231719017		32				exclude - poisoning/toxic effect	
-1232941013	17	SM032	SM03200	Propyl alcohol causing toxic effect	6749002	1232941013		32				exclude - poisoning/toxic effect	
-1234742013	909	SM000	SM00000	Ethanol causing toxic effect	82782008	1234742013		32				exclude - poisoning/toxic effect	
-1235239010	<5	SM030	SM03000	Amyl alcohol causing toxic effect	87460008	1235239010		32				exclude - poisoning/toxic effect	
-1235465011	22	SM001	SM00100	Denatured alcohol causing toxic effect	89507002	1235465011		32				exclude - poisoning/toxic effect	
 14799151000006112	236	^ESCT1479915		Cognitive impairment caused by ethanol	1234774002	5083958010		32	aud			include in dementia codelist?	
 12618771000006111	<5	^ESCT1261877		Declined to provide information about alcohol use in household	1104401000000109	2764571000000114		17				exclude - declined or unknown alcohol use	
 12618971000006113	13368	^ESCT1261897		Declined to provide information about alcohol use	1104551000000109	2764921000000119		17				exclude - declined or unknown alcohol use	
@@ -67,7 +61,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1947501000006118	1621	9Nz9	9Nz9.00	Emergency department attendance related to personal alcohol consumption	963261000000108	2454241000000116		37	aud				
 1957791000006115	6311	EMISNQRE532		Reduced alcohol intake	1957791000006104	1957791000006115		17	check_upd				
 15023191000006117	6	^ESCT1502319		Accidental poisoning by substance with alcohol structure	1255412009	5146859011		32				exclude - drinking history not clear	
-15023211000006116	55	^ESCT1502321		Toxic effect of substance with alcohol structure	1255413004	5146862014		32				exclude - poisoning/toxic effect	
 2007461000006118	276	EMISNQSR25		SRH care activity - alcohol brief intervention	2007461000006102	2007461000006118		37	check_upd				
 1972151000006110	118	EMISICD10|F1000		Mental & behav dis due to use alcohol: acute intoxication, uncomplicated	1972151000006106	1972151000006110		32	aud			aud - should we include acute intoxication?	
 1972161000006112	19	EMISICD10|F1001		Mental & behav dis due to use alcohol: acute intoxication, with trauma or other bodily injury	1972161000006108	1972161000006112		32	aud			aud - should we include acute intoxication?	
@@ -129,13 +122,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 362961000006112	44	Eu105-2	Eu10512	[X]Alcoholic jealousy	42344001	70655012		32	aud 				
 3630121000006110	13	^ESCTKO363012		Korsakoff psychosis	69482004	501295013		32	aud	Korsakov's syndrome			
 3630151000006118	<5	^ESCTKO363015		Korsakov psychosis	69482004	501298010		32	aud	Korsakov's syndrome			
-379971000006119	326	U814	U814.00	[X]Evid alch invl detrm by levl intox alch invl not oth spec	25702006	43081018		32				exclude - (in "Causes of injury and poisoning" readcode chapter) 	
-379981000006116	6	U813	U813.00	[X]Evid alcoh invl determ by levl intox very sev alcoh intox	25702006	43081018		32				exclude - (in "Causes of injury and poisoning" readcode chapter) 	
-379991000006118	5	U811	U811.00	[X]Evid alcoh invol determ by level of intox mod alcoh intox	25702006	43081018		32				exclude - (in "Causes of injury and poisoning" readcode chapter) 	
-380001000006112	11	U812	U812.00	[X]Evid alcoh invol determ by level of intox sev alcoh intox	25702006	43081018		32				exclude - (in "Causes of injury and poisoning" readcode chapter) 	
-380011000006110	<5	U810	U810.00	[X]Evid alcoh invol determ by levl of intox mild alcoh intox	25702006	43081018		32				exclude - (in "Causes of injury and poisoning" readcode chapter) 	
-380021000006119	8	U80z	U80z.00	[X]Evid alcoh invol detrm by pres alcoh in bld levl not spec	25702006	43081018		32				exclude - (in "Causes of injury and poisoning" readcode chapter) 	
-380031000006116	3829	U81	U81..00	[X]Evid of alcohol involv determind by level of intoxication	25702006	43081018		32				exclude - (in "Causes of injury and poisoning" readcode chapter) 	
 3890681000006118	2175	^ESCTUN389068		Uncomplicated alcohol withdrawal	85561006	141818010		32	aud				
 394681000006119	9871	Eu106-1	Eu10611	Korsakoff's psychosis	69482004	115434017		32	aud	#REF!			
 397611000006115	2169	Eu100	Eu10000	[X]Mental & behav dis due to use alcohol: acute intoxication	25702006	43081018		32	aud			aud - should we include acute intoxication?	
@@ -213,7 +199,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7858041000006119	<5	^ESCTAL785804		Alcohol-related neurological disorder	724574008	3441485019		5	aud				
 265094011	94217	67A5	67A5.00	Pregnancy alcohol education	171057006	2575655011		17				exclude - not alcohol usage recording	
 8041851000006114	5	^ESCTDE804185		Degenerative brain disorder caused by alcohol	133301000119102	3290021010		5	aud	Alcoholic dementia			
-2668926019	<5	SM022	SM02200	Rubbing alcohol causing toxic effect	212813006	2668926019		32				exclude - poisoning/toxic effect	
 2692396019	114909	8IA7	8IA7.00	Alcohol consumption screening test declined	428073005	2692396019		32				exclude - declined or unknown alcohol use	
 8041861000006111	<5	^ESCTDE804186		Degenerative brain disorder due to alcohol	133301000119102	3290091018		5	aud	Alcoholic dementia			
 8243961000006112	<5	^ESCTAL824396		Alcohol rehabilitation and detoxification care management	782181000000105	1748911000000114		31	aud 				
@@ -230,7 +215,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 970411000006118	2670	EMISNQMI150		Misuse of Alcohol unspecified	970411000006102	970411000006118		17	aud				
 13996301000006113	313	^ESCT1399630		Seen by community alcohol team	1325551000000109	2840571000000112		31	aud				
 3024501000006114	<5	^ESCTHA302450		Hangover effect	32553006	54362018		32	check_upd				
-328738016	856	T900	T900.00	Accidental poisoning by alcoholic beverages	216633005	328738016		32				exclude - poisoning/toxic effect	
 291352018	369397	1361-2	1361.12	Non-drinker alcohol	105542008	291352018		17	non-drinker				
 291355016	10329755	1361	1361.00	Teetotaller	105542008	291355016		17	non-drinker				
 14798871000006119	247	^ESCT1479887		Alcoholic cardiomyopathy	1234750000	5083871014		32	aud				
@@ -294,41 +278,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 317636014	3108	R103	R103.00	High ethanol level in blood	441685000	2817390013		32				exclude - drinking history not clear	
 1974521000006117	17	EMISICD10|F1041		Mental & behav dis due to use alcohol: withdrawl state with delirium, with convulsions	1974521000006101	1974521000006117		32	aud				
 1975141000006117	<5	EMISICD10|F1050		Mental & behav dis due to use alcohol: psychotic disorder, schizophrenia-like	1975141000006101	1975141000006117		32	aud				
-324466015	<5	SM002	SM00200	Grain alcohol causing toxic effect	212807002	324466015		32				exclude - poisoning/toxic effect	
-324467012	96	SM00z	SM00z00	Ethyl alcohol causing toxic effect NOS	82782008	137325017		32				exclude - poisoning/toxic effect	
-324469010	23	SM01	SM01.00	Methyl alcohol causing toxic effect	212809004	324469010		32				exclude - poisoning/toxic effect	
-324473013	45	SM010	SM01000	Methanol causing toxic effect	212809004	2837511017		32				exclude - poisoning/toxic effect	
-324474019	<5	SM011	SM01100	Wood alcohol causing toxic effect	212809004	2837512012		32				exclude - poisoning/toxic effect	
-324476017	<5	SM01z	SM01z00	Methyl alcohol causing toxic effect NOS	212809004	324469010		32				exclude - poisoning/toxic effect	
-324478016	<5	SM02	SM02.00	Isopropyl alcohol causing toxic effect	212813006	324478016		32				exclude - poisoning/toxic effect	
-324480010	13	SM020	SM02000	Toxic effect of isopropyl alcohol	212813006	324477014		32				exclude - poisoning/toxic effect	
-324483012	<5	SM021	SM02100	Isopropanol causing toxic effect	212813006	2841977013		32				exclude - poisoning/toxic effect	
-324486016	<5	SM02z	SM02z00	Isopropyl alcohol causing toxic effect NOS	212813006	324477014		32				exclude - poisoning/toxic effect	
-324487013	<5	SM03z	SM03z00	Fusel oil causing toxic effect NOS	57346004	95376018		32				exclude - poisoning/toxic effect	
-324488015	100	SM0y	SM0y.00	Other alcohol causing toxic effect	67426006	112060019		32				exclude - poisoning/toxic effect	
-324489011	1646	SM0z	SM0z.00	Alcohol causing toxic effect NOS	67426006	112060019		32				exclude - poisoning/toxic effect	
-325596018	1108	SyuG0	SyuG000	Toxic effect of alcohol	67426006	112060019		32				exclude - poisoning/toxic effect	
-328737014	3263	T90	T90..00	Accidental poisoning by alcohol, NEC	269765000	404332015		32				exclude - poisoning/toxic effect	
 4533151000006116	45	^ESCTAI453315		AI - Alcohol intake	160573003	1221268014		17	check_upd				
-328739012	143	T901	T901.00	Accidental poisoning by other ethyl alcohol and its products	242263000	362556011		32				exclude - poisoning/toxic effect	
-328740014	5	T9010	T901000	Accidental poisoning by denatured alcohol	216635003	328740014		32				exclude - poisoning/toxic effect	
-328741013	189	T9011	T901100	Accidental poisoning by methylated spirit	216636002	328741013		32				exclude - poisoning/toxic effect	
-328742018	<5	T9012	T901200	Accidental poisoning by grain alcohol NOS	269765000	404332015		32				exclude - poisoning/toxic effect	
-328743011	135	T9013	T901300	Accidental poisoning by ethanol, NOS	269765000	404332015		32				exclude - poisoning/toxic effect	
-328744017	28	T901z	T901z00	Accidental poisoning by ethyl alcohol NOS	287166006	426682013		32				exclude - poisoning/toxic effect	
-328745016	27	T902	T902.00	Accidental poisoning by methyl alcohol	216640006	328745016		32				exclude - poisoning/toxic effect	
-328746015	88	T9020	T902000	Accidental poisoning by methanol	216640006	328746015		32				exclude - poisoning/toxic effect	
-328750010	<5	T9021	T902100	Accidental poisoning by wood alcohol	216640006	2837622011		32				exclude - poisoning/toxic effect	
-328751014	<5	T902z	T902z00	Accidental poisoning by methyl alcohol NOS	216640006	328745016		32				exclude - poisoning/toxic effect	
-328752019	17	T903	T903.00	Accidental poisoning by isopropyl alcohol	216645001	328752019		32				exclude - poisoning/toxic effect	
-328753012	<5	T9030	T903000	Accidental poisoning by dimethyl carbinol	216645001	328752019		32				exclude - poisoning/toxic effect	
-328754018	25	T9031	T903100	Accidental poisoning by isopropanol	216645001	2837514013		32				exclude - poisoning/toxic effect	
-328755017	<5	T9032	T903200	Accidental poisoning by rubbing alcohol substitute	216648004	328755017		32				exclude - poisoning/toxic effect	
-328756016	<5	T9033	T903300	Accidental poisoning by secondary propyl alcohol	216645001	328752019		32				exclude - poisoning/toxic effect	
-328757013	5	T903z	T903z00	Accidental poisoning by isopropyl alcohol NOS	216645001	328752019		32				exclude - poisoning/toxic effect	
-328758015	23	T904	T904.00	Accidental poisoning by fusel oil	216651006	328758015		32				exclude - poisoning/toxic effect	
-328759011	24	T90y	T90y.00	Accidental poisoning by other alcohols	269765000	404332015		32				exclude - poisoning/toxic effect	
-328760018	2980	T90z	T90z.00	Accidental poisoning by alcohol	269765000	404332015		32				exclude - poisoning/toxic effect	
 1975181000006111	8	EMISICD10|F1051		Mental & behav dis due to use alcohol: psychotic disorder, predominantly delusional	1975181000006107	1975181000006111		32	aud				
 1975291000006117	20	EMISICD10|F1052		Mental & behav dis due to use alcohol: psychotic disorder, predominantly hallucinatory	1975291000006101	1975291000006117		32	aud				
 1975341000006119	<5	EMISICD10|F1053		Mental & behav dis due to use alcohol: psychotic disorder, predominantly polymorphic	1975341000006103	1975341000006119		32	aud				
@@ -340,7 +290,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1975541000006111	108	EMISICD10|F1071		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, personality or behaviour disorder	1975541000006107	1975541000006111		32	aud				
 4533161000006119	<5	^ESCTET453316		Ethanol intake	160573003	1221269018		17	check_upd				
 4533171000006114	492	^ESCTET453317		ETOH - Alcohol intake	160573003	1221270017		17	check_upd				
-346501000006111	1109	ZV113-1	ZV11311	History of substance abuse	371422002	1196720012		17				exclude - poisoning/toxic effect	
 1975591000006119	22	EMISICD10|F1073		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, dementia	1975591000006103	1975591000006119		32	aud				
 4533191000006110	34	^ESCTAL453319		Alcoholic drink intake	160573003	1221272013		17	check_upd				
 4559361000006118	<5	^ESCTON455936		On examination - breath - alcohol smell	163184002	2667881012		27	check_upd				
@@ -356,17 +305,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2502971000006115	5427	^ESCTDE250297		Dementia associated with alcoholism	281004	1557018		32	aud 				
 2502981000006117	7	^ESCTAL250298		Alcohol-induced persisting dementia	281004	1558011		32	aud 				
 250314015	249581	1365	1365.00	Heavy drinker - 7-9u/day	160577002	250314015		17	aud				
-359811000006119	10	U1A96	U1A9600	[X]Acc pois/expos alcohol indust/construct area	269765000	404332015		32				exclude - poisoning/toxic effect	
-359981000006119	11	U1A92	U1A9200	[X]Acc poison/expos alcohol school/pub admin area	269765000	404332015		32				exclude - poisoning/toxic effect	
-360371000006117	<5	U1A93	U1A9300	[X]Accid pois/expos alcohol in sport/athletic area	269765000	404332015		32				exclude - poisoning/toxic effect	
-360481000006111	29	U1A9y	U1A9y00	[X]Accid pois/expos to alcohol other spec place	269765000	404332015		32				exclude - poisoning/toxic effect	
-360621000006110	13	U1A94	U1A9400	[X]Accid poison/expos alcohol in street/highway	269765000	404332015		32				exclude - poisoning/toxic effect	
-360631000006113	<5	U1A95	U1A9500	[X]Accid poison/expos alcohol trade/service area	269765000	404332015		32				exclude - poisoning/toxic effect	
-360881000006113	<5	U1A91	U1A9100	[X]Accid poison/expos to alcohol at res institut	269765000	404332015		32				exclude - poisoning/toxic effect	
-360891000006111	103	U1A9z	U1A9z00	[X]Accid poison/expos to alcohol unspecif place	269765000	404332015		32				exclude - poisoning/toxic effect	
-361191000006110	85	U1A90	U1A9000	[X]Accident poison/exposure to alcohol at home	269765000	404332015		32				exclude - poisoning/toxic effect	
-361201000006113	<5	U1A97	U1A9700	[X]Accident poison/exposure to alcohol on farm	269765000	404332015		32				exclude - poisoning/toxic effect	
-361471000006115	853	U1A9	U1A9.00	[X]Accident poisoning/exposure to alcohol	269765000	404332015		32				exclude - poisoning/toxic effect	
 459715013	86	1D19	1D19.00	Pain in lymph nodes after alcohol consumption	315226008	459715013		27	check_upd				
 250316018	141645	1366	1366.00	Very heavy drinker - >9u/day	160578007	250316018		17	aud				
 250324011	10861	136D	136D.00	Ex-heavy drinker - (7-9u/day)	160585006	250324011		17	aud		1		
@@ -405,24 +343,13 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 380131000006115	43	U80	U80..00	[X]Evidence of alcohl involv determin by blood alcohl level	441685000	2817389016		32				exclude - blood alcohol recording	
 47085011	735046	136J	136J.00	Social drinker	28127009	47085011		17	check_upd				
 476411000006118	1013882	136Z	136Z.00	Alcohol consumption NOS	160573003	1221271018		17	check_upd				
-3846811000006118	<5	^ESCTET384681		Ethanol poisoning	82782008	137329011		32				exclude - poisoning/toxic effect	
 476501000006115	63	EGTON418		Alcohol intake	476501000006104	476501000006115		17	check_upd				
 294668018	1943	E0120	E012000	Chronic alcoholic brain syndrome	191475009	294668018		32	aud	#REF!			
 294669014	2055	E013	E013.00	Alcohol withdrawal hallucinosis	191476005	294669014		32	aud				
 294673012	4274	E01y	E01y.00	Other alcoholic psychosis	42344001	70655012		32	aud				
 294674018	141688	E01y0	E01y000	Alcohol withdrawal syndrome	191480000	294674018		32	aud				
-391351000006115	<5	U2096	U209600	[X]Intentional self poisoning by and exposure to alcohol, occurrence at industrial and construction area	67426006	112060019		32				exclude - poisoning/toxic effect	
-391501000006112	<5	U2093	U209300	[X]Intentional self poisoning by and exposure to alcohol, occurrence at sports and athletics area	67426006	112060019		32				exclude - poisoning/toxic effect	
-391511000006110	65	U209y	U209y00	[X]Intentional self poisoning by and exposure to alcohol, occurrence at other specified place	67426006	112060019		32				exclude - poisoning/toxic effect	
-391521000006119	8	U2092	U209200	[X]Intentional self poisoning by and exposure to alcohol, occurrence at school, other institution and public administrative area	67426006	112060019		32				exclude - poisoning/toxic effect	
 294675017	41	E01yz	E01yz00	Other alcoholic psychosis NOS	42344001	70655012		32	aud				
-391941000006118	211	U2090	U209000	[X]Intentional self poisoning by and exposure to alcohol, occurrence at home	67426006	112060019		32				exclude - poisoning/toxic effect	
-391951000006116	<5	U2097	U209700	[X]Intentional self poisoning by and exposure to alcohol, occurrence on farm	67426006	112060019		32				exclude - poisoning/toxic effect	
 294676016	887	E01z	E01z.00	Alcoholic psychosis NOS	42344001	70655012		32	aud				
-393311000006117	12	U2094	U209400	[X]Intentional self poisoning by and exposure to alcohol, occurrence on street and highway	67426006	112060019		32				exclude - poisoning/toxic effect	
-393321000006113	<5	U2095	U209500	[X]Intentional self poisoning by and exposure to alcohol, occurrence at trade and service area	67426006	112060019		32				exclude - poisoning/toxic effect	
-393591000006118	<5	U2091	U209100	[X]Intentional self poisoning by and exposure to alcohol, occurrence in residential institution	67426006	112060019		32				exclude - poisoning/toxic effect	
-393601000006114	218	U209z	U209z00	[X]Intentional self poisoning by and exposure to alcohol, occurrence at unspecified place	67426006	112060019		32				exclude - poisoning/toxic effect	
 295136019	233892	E2310	E231000	Alcohol dependence	66590003	110628016		32	aud				
 396901000006114	94	Lyu3A	Lyu3A00	[X]Maternal care/known or suspected fetal problem,unspecifd	173300003	268308014		32				exclude - not alcohol usage recording	
 397141000006111	79	Eu147	Eu14700	[X]Men & beh dis due cocaine: resid & late-onset psychot dis	91388009	151411015		32				exclude - not alcohol usage recording	
@@ -503,17 +430,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4120351000006119	37225	^ESCTDO412035		Does not drink alcohol	105542008	291354017		17	non-drinker				
 4120371000006112	2599	^ESCTNO412037		Non - drinker alcohol	105542008	2659854017		17	non-drinker				
 4120381000006110	213	^ESCTCU412038		Current non-drinker of alcohol	105542008	2659855016		17	non-drinker				
-420981000006119	<5	U4093	U409300	[X]Poisoning by and exposure to alcohol, occurrence at sports and athletics area, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-420991000006116	<5	U4092	U409200	[X]Poisoning by and exposure to alcohol, occurrence at school, other institution and public administrative area, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-421381000006110	26	U409y	U409y00	[X]Poisoning by and exposure to alcohol, occurrence at other specified place, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-421521000006118	5	U4094	U409400	[X]Poisoning by and exposure to alcohol, occurrence on street and highway, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-421531000006115	<5	U4095	U409500	[X]Poisoning by and exposure to alcohol, occurrence at trade and service area, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-421791000006112	<5	U4091	U409100	[X]Poisoning by and exposure to alcohol, occurrence in residential institution, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-421801000006113	10	U409z	U409z00	[X]Poisoning by and exposure to alcohol, occurrence at unspecified place, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-422121000006117	6	U4090	U409000	[X]Poisoning by and exposure to alcohol, occurrence at home, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-422131000006119	<5	U4097	U409700	[X]Poisoning by and exposure to alcohol, occurrence on farm, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-422381000006116	<5	U4096	U409600	[X]Poisoning by and exposure to alcohol, occurrence at industrial and construction area, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
-422801000006118	334	U409	U409.00	[X]Poisoning by and exposure to alcohol, undetermined intent	67426006	112060019		32				exclude - poisoning/toxic effect	
 423031000006112	87	Eu167-1	Eu16711	[X]Post hallucinogen perception disorder	91388009	151411015		32				exclude - not alcohol usage recording	
 4977901000006118	10	^ESCTAL497790		Alcohol drinking behavior	228273003	1217644015		27	check_upd				
 3165691000006115	52	^ESCTAL316569		ALD - Alcoholic liver disease	41309000	492959019		32	aud				
@@ -616,7 +532,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 8242881000006116	<5	^ESCTFI824288		Finding of alcohol drinking risk	777691000000109	1738451000000118		31	check_upd				
 8364771000006117	208	^ESCTIN836477		Injury following alcohol use	984801000000105	2504461000000116		32	check_upd				
 3630171000006111	82	^ESCTAL363017		Alcoholic amnestic syndrome	69482004	501300010		32	aud				
-500729017	6227	SM0	SM0..00	Alcohol causing toxic effect	67426006	500729017		32				exclude - poisoning/toxic effect	
 370961000006119	496	Eu107-2	Eu10712	[X]Chronic alcoholic brain syndrome	191475009	294668018		32	aud	#REF!			
 370971000006114	7897	Eu102-2	Eu10212	[X]Chronic alcoholism	66590003	110629012		32	aud	#REF!			
 371501000000110	1097	7P221	7P22100	Delivery of rehabilitation for alcohol addiction	231161000000109	371501000000110		32	aud				
@@ -625,7 +540,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3859091000006114	630	^ESCTDI385909		Dilated cardiomyopathy secondary to alcohol	83521008	138526017		32	aud				
 3859111000006117	<5	^ESCTDI385911		Dilated cardiomyopathy caused by alcohol	83521008	3290572011		32	aud				
 3913321000006111	83	^ESCTDR391332		Drinks heavily	86933000	507322014		17	aud				
-5173031000006114	9	^ESCTAC517303		Accidental exposure to alcohol	242263000	362556011		32				exclude - poisoning/toxic effect	
 538891000000111	5267961	388u	388u.00	FAST (Fast Alcohol Screening Test) score	1084601000000102	2717721000000114		3	alc_test			another type of check in observation table? 	
 3916281000006114	33	^ESCTCO391628		Combined alcohol and drug detoxification	87106005	144444016		31	aud				
 3927031000006111	<5	^ESCTME392703		Megaloblastic anaemia due to alcoholism	87810006	507760015		31	aud				
@@ -638,7 +552,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 397431000006111	1158	Eu10z	Eu10z00	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	91388009	151411015		32	aud				
 397621000006111	1240	Eu105	Eu10500	Alcohol-induced psychosis	42344001	70655012		32	aud				
 397791000006118	962	Eu106	Eu10600	Alcohol amnestic disorder	73097000	121405015		32	aud	#REF!			
-5722711000006116	5	^ESCTAC572271		Accidental poisoning with ethyl alcohol	287166006	426682013		32				exclude - poisoning/toxic effect	
 852391000006113	32576	EMISQNO6		Not interested in reducing alcohol	852391000006109	852391000006113		17	check_upd				
 397801000006117	13585	Eu102	Eu10200	[X]Mental and behav dis due to use alcohol: dependence syndr	66590003	500478011		32	aud				
 5827361000006119	366	^ESCTAL582736		Alcohol deterrent overdose	296295001	436692012		31				exclude - alcohol drug use	
@@ -660,7 +573,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 855081000006117	16574	EGTONGR7		Grade B 0-20 units/week	855081000006101	855081000006117		17	check_upd			code as light-drinker?	
 460926018	10021	ZV57A	ZV57A00	[V]Alcohol rehabilitation	471691000000107	1001331000000118		32	aud		1		
 461112017	30164	ZV6D6	ZV6D600	Alcoholism counselling	24165007	1206287010		32	aud 				
-649311000006115	1399	SM00	SM00.00	Toxic effect of ethyl alcohol	82782008	137325017		32				exclude - poisoning/toxic effect	
 4723831000006118	5	^ESCTAD472383		Admitted to alcohol detoxification center	183486001	283558010		40	aud				
 672121000006119	48	Q0071	Q007100	Fetus or neonate affected by placental or breast transfer of alcohol	268796000	402169011		32	aud			exclude - vague	
 476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	aud	#REF!			
@@ -782,13 +694,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 8458711000006115	26	^ESCTAS845871		Ascites due to alcoholic cirrhosis	1082601000119104	3082322015		31	aud				
 854651000006117	20261	EGTON59		Alcohol overdose	854651000006101	854651000006117		32	check_upd				
 8458751000006119	<5	^ESCTAS845875		Ascites due to alcoholic hepatitis	1082611000119101	3079223017		31	aud				
-899411000006110	787	SM0-99	SM0..99	Toxic effects of alcohol	67426006	899411000006110		32				exclude - poisoning/toxic effect	
-899421000006119	43	SM00-99	SM00.99	Ethyl alcohol - toxic effect	82782008	899421000006119		32				exclude - poisoning/toxic effect	
-899431000006116	103	SM0z-99	SM0z.99	Alcohol NOS - toxic effect	592581000000100	899431000006116		32				exclude - poisoning/toxic effect	
-900431000006118	145	T90-99	T90..99	Accident poisoning - alcohol	640861000000108	900431000006118		32				exclude - poisoning/toxic effect	
-900441000006111	5	T901-99	T901.99	Accident poison- ethyl alcohol	672521000000104	900441000006111		32				exclude - poisoning/toxic effect	
-900451000006113	<5	T902-99	T902.99	Accident poison-methyl alcohol	216640006	900451000006113		32				exclude - poisoning/toxic effect	
-900461000006110	32	T90z-99	T90z.99	Accident poison - alcohol NOS	643461000000102	900461000006110		32				exclude - poisoning/toxic effect	
 851931000006116	1268	EMISQRE24		Referral to alcohol recovery project	851931000006100	851931000006116		40	aud				
 852151000006117	8342	EMISQAU2		AUDIT score >5 alcohol dependence syndrome	852151000006101	852151000006117		17	aud			another type of check in observation table? 	
 855101000006113	2282	EGTONGR8		Grade C 21-49 units/week	855101000006109	855101000006113		17	check_upd			code as moderate-drinker?	
@@ -798,4 +703,3 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 886501000006115	2571	J613-99	J613.99	Alcoholic liver damage NOS	589511000000102	886501000006115		32	aud				
 940781000006116	1516	HMPNQEV1		Evidence of alcohol withdrawal	940781000006100	940781000006116		28	aud				
 973071000006111	<5	TRIQQZZ63		** Responding to drug & alcohol problems in the community	973071000006107	973071000006111		37				exclude - vague	
-991151000006114	<5	SM0-98	SM0..98	Alcohol NOS - toxic effect	67426006	991151000006114		32				exclude - poisoning/toxic effect	
