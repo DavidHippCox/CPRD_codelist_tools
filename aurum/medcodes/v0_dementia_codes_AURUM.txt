@@ -1,0 +1,91 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	subtype	early onset	strict_phenotype	Comments
+148381000006115	185586	E00-2	E00..12	Senile/presenile dementia	52448006	87274019		32	Unspecified			
+1886261000006116	9348	9HD	9HD..00	Offering of CAMHS (Child and Adolescent Mental Health Service) choice appointment	702778004	3008206014		37	Unspecified			
+21256010	18525	E001	E001.00	Presenile dementia	12348006	21256010		32	Unspecified	E		
+22408016	2884	F111	F111.00	Pick's disease	13092008	22408016		32	Frontotemporal dementia			
+2288201000000116	103130	28E0	28E0.00	Mild cognitive impairment	386805003	2956731015		32	Mild cognitive impairment	E		
+2345801000000113	12610	8IAe0	8IAE000	Dementia advance care plan declined	956881000000103	2439671000000110		32	Unspecified			
+2345881000000115	217654	8CSA	8CSA.00	Dementia advance care plan agreed	1095121000000102	2743011000000119		32	Unspecified			
+2345931000000111	324898	8CMG2	8CMG200	Review of dementia advance care plan	956861000000107	2439631000000113		32	Unspecified			
+2403101000000116	65331	8BM02	8BM0200	Dementia medication review	938551000000108	2403101000000116		32	Unspecified			
+2404531000000115	20516	8T052	8T05200	Referral for dementia assessment	939231000000107	2404531000000115		40	Unspecified			
+2439591000000113	481884	8CMZ0	8CMZ000	Dementia care plan agreed	956841000000106	2439591000000113		32	Unspecified			
+2439631000000113	887894	8CMZ1	8CMZ100	Dementia care plan reviewed	956861000000107	2439631000000113		32	Unspecified			
+2439671000000110	8447	8CMZ2	8CMZ200	Dementia care plan declined	956881000000103	2439671000000110		32	Unspecified			
+2439711000000111	4630	8CMZ3	8CMZ300	Dementia care plan review declined	956901000000100	2439711000000111		32	Unspecified			
+2445471000000112	44311	8CMe0	8CME000	Dementia advance care plan	959361000000105	2445471000000112		32	Unspecified			
+2445691000000113	5320	8IAe2	8IAE200	Dementia advance care plan review declined	959461000000102	2445691000000113		32	Unspecified			
+26545010	356023	E00-1	E00..11	Senile dementia	15662003	26545010		32	Unspecified			
+294111000000119	2485	9hD	9HD..00	Exception reporting - dementia quality indicators	715881000000108	1568441000000113		37	Unspecified			
+294635013	113711	E000	E000.00	Uncomplicated senile dementia	191449005	294635013		32	Unspecified			
+294637017	562	E0010	E001000	Uncomplicated presenile dementia	191451009	294637017		32	Unspecified	E		
+294638010	176	E0011	E001100	Presenile dementia with delirium	191452002	294638010		32	Unspecified	E		
+294641018	535	E0012	E001200	Presenile dementia with paranoia	191454001	294641018		32	Unspecified	E		
+294642013	1054	E0013	E001300	Presenile dementia with depression	191455000	294642013		32	Unspecified	E		
+294643015	1352	E001z	E001Z00	Presenile dementia NOS	12348006	21256010		32	Unspecified	E		
+294644014	4546	E002	E002.00	Senile dementia with depressive or paranoid features	191457008	294644014		32	Unspecified			
+294645010	4532	E0020	E002000	Senile dementia with paranoia	191458003	294645010		32	Unspecified			
+294646011	6046	E0021	E002100	Senile dementia with depression	191459006	294646011		32	Unspecified			
+294647019	528	E002z	E002Z00	Senile dementia with depressive or paranoid features NOS	191457008	294644014		32	Unspecified			
+294648012	4319	E003	E003.00	Senile dementia with delirium	191461002	294648012		32	Unspecified			
+294652012	1374	E0040	E004000	Uncomplicated arteriosclerotic dementia	191463004	294652012		32	Vascular dementia			
+294653019	119	E0041	E004100	Arteriosclerotic dementia with delirium	191464005	294653019		32	Vascular dementia			
+294654013	450	E0042	E004200	Arteriosclerotic dementia with paranoia	191465006	294654013		32	Vascular dementia			
+294655014	856	E0043	E004300	Arteriosclerotic dementia with depression	191466007	294655014		32	Vascular dementia			
+294656010	2530	E004z	E004Z00	Arteriosclerotic dementia NOS	56267009	497559016		32	Vascular dementia			
+294662017	463	E0111	E011100	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	294662017		32	Alcohol		Korsakov's syndrome	
+294664016	137	E011z	E011Z00	Alcohol amnestic syndrome NOS	73097000	121405015		32	Alcohol		Korsakov's syndrome	
+294668018	1943	E0120	E012000	Chronic alcoholic brain syndrome	191475009	294668018		32	Alcohol		Alcoholic dementia	
+294718018	9259	E041	E041.00	Dementia in conditions EC	191519005	294718018		32	Unspecified			
+295668011	394233	Eu00	EU00.00	[X]Dementia in Alzheimer's disease	26929004	45046017		32	Alzheimer's disease	apply to <65 for EO		apply to <65 for EO
+295671015	148205	Eu002	EU00200	[X]Dementia in Alzheimer's dis, atypical or mixed type	26929004	45046017		32	Unspecified			
+295672010	22553	Eu00z	EU00Z00	[X]Dementia in Alzheimer's disease, unspecified	26929004	45046017		32	Alzheimer's disease			
+295680015	2393	Eu01y	EU01Y00	[X]Other vascular dementia	429998004	2770951017		32	Vascular dementia			
+295681016	29043	Eu01z	EU01Z00	[X]Vascular dementia, unspecified	429998004	2770951017		32	Vascular dementia			
+295684012	11113	Eu02	EU02.00	Dementia associated with another disease	191519005	2547722017		32	Unspecified			
+295685013	5675	Eu020	EU02000	Dementia due to Pick's disease	21921000119103	2968126015		32	Frontotemporal dementia			
+295686014	260	Eu021	EU02100	Dementia due to Creutzfeldt Jakob disease	429458009	2695885013		32	Dementia in CJD			
+295687017	2805	Eu022	EU02200	Dementia due to Huntington chorea	442344002	2820374011		32	Dementia in HD			
+295688010	58980	Eu023	EU02300	Dementia in Parkinsons disease	425390006	2921040013		32	Parkinson's disease			
+295690011	1695	Eu02y	EU02Y00	[X]Dementia in other specified diseases classif elsewhere	191519005	2547722017		32	Unspecified			
+299325013	526	Fyu30	FYU3000	[X]Other Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
+299641000000112	72960	Eu025	EU02500	Diffuse Lewy body disease	80098002	132893017		32	Lewy body dementia			
+346929012	7987	E012-1	E012.11	Alcoholic dementia	281004	1225776018		32	Alcohol		Alcoholic dementia	
+359081000006118	696	Eu02z-1	EU02Z11	[X] Presenile dementia NOS	12348006	21256010		32	Unspecified	E		
+359101000006114	497	Eu02z-3	EU02Z13	Cerebral degeneration presenting primarily with dementia	279982005	417465012		32	Unspecified			
+359141000006111	48866	Eu02z-4	EU02Z14	[X] Senile dementia NOS	15662003	26545010		32	Unspecified			
+359151000006113	917	Eu02z-6	EU02Z16	[X] Senile dementia, depressed or paranoid type	191457008	294644014		32	Unspecified			
+359241000006119	678097	Eu02z	EU02Z00	Dementia	52448006	87274019		32	Unspecified			
+362941000006113	3571	Eu107-1	EU10711	[X]Alcoholic dementia NOS	281004	1225776018		32	Alcohol		Alcoholic dementia	
+363021000006113	67422	Eu00z-1	EU00Z11	[X]Alzheimer's dementia unspec	26929004	45046017		32	Alzheimer's disease			
+363031000006111	176	Eu001-1	EU00111	[X]Alzheimer's disease type 1	416975007	2957137018		32	Alzheimer's disease			
+363041000006118	57	Eu000-3	EU00013	[X]Alzheimer's disease type 2	416780008	2957119019		32	Alzheimer's disease			
+363791000006112	8333	Eu01-1	EU01.11	[X]Arteriosclerotic dementia	56267009	497559016		32	Vascular dementia			
+370961000006119	496	Eu107-2	EU10712	[X]Chronic alcoholic brain syndrome	191475009	294668018		32	Alcohol		Alcoholic dementia	
+376531000006119	13078	Eu000	EU00000	Dementia in Alzheimer's disease with early onset	416780008	2957119019		32	Alzheimer's disease	E		Wilkinson et al 
+376541000006112	123295	Eu001	EU00100	Dementia in Alzheimer's disease with late onset	416975007	2957137018		32	Alzheimer's disease	IF they have a code in either place, we go with it. 		IF they have a code in either place, we go with it. 
+376571000006116	379	Eu024	EU02400	[X]Dementia in human immunodef virus [HIV] disease	421529006	2622767013		32	Dementia in HIV			
+394681000006119	9871	Eu106-1	EU10611	Korsakoff's psychosis	69482004	115434017		32	Alcohol		Korsakov's syndrome	
+397791000006118	962	Eu106	EU10600	Alcohol amnestic disorder	73097000	121405015		32	Alcohol		Korsakov's syndrome	
+398571000006112	16970	Eu013	EU01300	Mixed cortical and subcortical vascular dementia	230287006	345112018		32	Vascular dementia			
+399031000006111	13132	Eu011	EU01100	[X]Multi-infarct dementia	56267009	93568017		32	Vascular dementia			
+401760017	1960	E012	E012.00	Other alcoholic dementia	281004	1225776018		32	Alcohol		Alcoholic dementia	
+423221000006117	406	Eu011-1	EU01111	[X]Predominantly cortical dementia	56267009	93568017		32	Unspecified			
+423351000006115	617	Eu000-1	EU00011	[X]Presenile dementia,Alzheimer's type	416780008	2957138011		32	Alzheimer's disease	E		
+423381000006111	287	Eu001-3	EU00113	[X]Primary degen dementia of Alzheimer's type, senile onset	416975007	2957137018		32	Alzheimer's disease			
+423391000006114	99	Eu000-2	EU00012	[X]Primary degen dementia, Alzheimer's type, presenile onset	416780008	2957119019		32	Alzheimer's disease	E		
+425901000006116	30059	Eu001-2	EU00112	[X]Senile dementia,Alzheimer's type	416975007	2957124016		32	Alzheimer's disease			
+428201000006119	11044	Eu012	EU01200	Subcortical vascular dementia	230286002	345111013		32	Vascular dementia			
+431681000006117	877390	Eu01	EU01.00	Vascular dementia	429998004	2770951017		32	Vascular dementia			
+431691000006119	1957	Eu010	EU01000	Vascular dementia of acute onset	230285003	345110014		32	Vascular dementia			
+45046017	1283817	F110	F110.00	Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
+476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	Alcohol		Korsakov's syndrome	
+497559016	65543	E004	E004.00	Arteriosclerotic dementia	56267009	497559016		32	Vascular dementia			
+499946014	29375	F1100	F110000	Alzheimer's disease with early onset	416780008	2957141019		32	Alzheimer's disease	E		
+500317011	25310	F1101	F110100	Alzheimer's disease with late onset	416975007	2957124016		32	Alzheimer's disease			
+501294012	4807	E0112	E011200	Wernicke-Korsakov syndrome	69482004	501294012		32	Alcohol		Korsakov's syndrome	
+542611000006114	1270	F11x0	F11X000	Cerebral degeneration due to alcoholism	192811002	297011014		32	Alcohol		Alcoholic dementia	
+696161000006115	43563	E004-1	E004.11	Multi-infarct dementia	56267009	93568017		32	Vascular dementia			
+745381000006119	18441	F116	F116.00	Lewy body disease	80098002	132893017		32	Lewy body dementia			
+753331000006118	11510	E0110	E011000	Korsakov alcoholic psychosis	69482004	501296014		32	Alcohol		Korsakov's syndrome	
+76484016	7152	F112	F112.00	Senile degeneration of brain	45864009	76484016		32	Unspecified			
