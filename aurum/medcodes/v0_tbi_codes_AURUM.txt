@@ -1,117 +1,831 @@
-MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
-103238011	89740	S600	S600.00	Concussion with no loss of consciousness	62106007	103238011		32
-119023019	125323	S0	S0...00	Fracture of skull	71642004	119023019		32
-123311000006115	<5	S620z	S620Z00	Subarach h'ge inj no open intracran wnd + concussion unspec	28048009	46957015		32
-123351000006119	<5	S621z	S621Z00	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	5251007	9804011		32
-123686019	539	SC20	SC20.00	Late effect of intracranial injury without skull fracture	74472004	123686019		32
-124151000006119	7	S622z	S622Z00	Subdural h'ge inj no open intracran wound+concussion unspec	209947002	320752018		32
-149611000006111	390	SCX	SCX..00	Sequelae of unspecified injury of head	285234008	424185011		32
-1757351000000113	506	SC201	SC20100	Late effect of traumatic injury to brain	429656004	2691881010		32
-202903013	151192	S60	S60..00	Concussion	110030002	202903013		32
-2273491000000112	7149	S647	S647.00	Acquired brain injury	702632000	3005402014		32
-2394411000000118	983	9Nlg	9NLG.00	Seen by brain injury link worker	934731000000104	2394411000000118		37
-259601000006113	92	S013	S013.00	Open fracture of base of skull with intracranial injury	111607004	178855010		32
-263771000006115	<5	S0036	S003600	Open #skull vlt + intracranial injury, LOC unspec duration	207705002	318135012		32
-263781000006117	10	S0031	S003100	Open fracture of vault of skull with intracranial injury, with no loss of consciousness	207707005	318137016		32
-263791000006119	<5	S0030	S003000	Open #skull vlt + intracranial injury, unspec state of consc	207705002	318135012		32
-263881000006110	7	S003z	S003Z00	Open #skull vlt with intracranial injury + concussion unspec	207705002	318135012		32
-264131000006117	<5	S0134	S013400	Open fracture of base of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207748008	318192013		32
-264151000006112	<5	S0136	S013600	Open #skull bse + intracranial injury, LOC unspec duration	111607004	178855010		32
-264451000006115	<5	S013z	S013Z00	Open #skull bse + intracranial injury + concussion unspec	111607004	178855010		32
-318117015	302	S001	S001.00	Closed fracture vault of skull with intracranial injury	207687004	318117015		32
-318135012	110	S003	S003.00	Open fracture vault of skull with intracranial injury	207705002	318135012		32
-318144013	985	S00z	S00Z.00	Fracture of vault of skull NOS	48466003	80749019		32
-318196011	2338	S01z	S01Z.00	Fracture of base of skull	24063002	40395011		32
-318236015	2057	S028	S028.00	Fracture of skull and facial bones	207785000	318236015		32
-318266010	310	S031	S031.00	Closed skull fracture with intracranial injury	111613008	178858012		32
-318285013	49	S033	S033.00	Open fracture of skull NOS with intracranial injury	371161001	1209863015		32
-318341014	1812	S044	S044.00	Multiple fractures involving skull and facial bones	207881000	318341014		32
-318343012	4648	S0z	S0Z..00	Fracture of skull NOS	71642004	119023019		32
-320592019	2367	S601	S601.00	Concussion with less than 1 hour loss of consciousness	209827006	320592019		32
-320593012	158	S602	S602.00	Concussion with 1-24 hours loss of consciousness	209828001	320593012		32
-320597013	8928	S60z	S60Z.00	Brain concussion	110030002	174751018		32
-320735017	58	S621	S621.00	Subarachnoid haemorrhage following injury with open intracranial wound	5251007	496337012		32
-320752018	3632	S622	S622.00	Closed traumatic subdural haemorrhage	209947002	320752018		32
-320771016	36	S623	S623.00	Open traumatic subdural haemorrhage	209956005	320771016		32
-320814012	51	S625	S625.00	Extradural haemorrhage following injury with open intracranial wound	65189006	500043017		32
-320835014	4885	S628	S628.00	Traumatic subdural haemorrhage	209987007	320835014		32
-320930015	897	S644	S644.00	Focal brain injury	210038008	320930015		32
-320931016	624	S645	S645.00	Intracranial injury with prolonged coma	210039000	320931016		32
-322024011	195	SC37	SC37.00	Sequelae of superficial injury of head	210953003	322024011		32
-322130014	345	SD08	SD08.00	Multiple superficial injuries of head	211024005	322130014		32
-322864011	133	SF03	SF03.00	Crushing injury of skull	211537004	322864011		32
-323627012	200	SJ1	SJ1..00	Injury to other cranial nerves	17769000	30029019		32
-323647016	38	SJ1z	SJ1Z.00	Injury to other cranial nerve NOS	17769000	30029019		32
-323873012	159	SJ80	SJ80.00	Concussion and oedema of cervical spinal cord	212356007	323873012		32
-323876016	33	SJ90	SJ90.00	Concussion and oedema of thoracic spinal cord	212358008	323876016		32
-323880014	65	SJA0	SJA0.00	Concussion and oedema of lumbar spinal cord	212360005	323880014		32
-323994014	111	SK18	SK18.00	Injury of muscle and tendon of head	212451003	323994014		32
-324026012	805	SK1x0	SK1X000	Multiple injuries of head	212483009	324026012		32
-325290013	576668	Syu0	SYU0.00	Injury of head	82271004	136459014		32
-325292017	159	Syu01	SYU0100	[X]Superficial injury of other parts of head	283025007	421488018		32
-325294016	547	Syu03	SYU0300	[X]Fractures of other skull and facial bones	207785000	318236015		32
-325295015	622	Syu04	SYU0400	[X]Fracture of skull and facial bones, part unspecified	207785000	318236015		32
-325304010	270	Syu0D	SYU0D00	[X]Other intracranial injuries	127296001	584010		32
-325305011	1022	Syu0E	SYU0E00	[X]Intracranial injury, unspecified	127296001	584010		32
-325312019	129	Syu0L	SYU0L00	[X]Other specified injuries of head	82271004	136459014		32
-325687012	51	SyuL0	SYUL000	[X]Sequelae of other specified injury of head	285234008	424185011		32
-325699017	172	SyuLB	SYULB00	[X]Sequelae of unspecified injury of head	285234008	424185011		32
-345756012	368	S642	S642.00	Traumatic cerebral oedema	230763008	345756012		32
-390534012	301	SF0-1	SF0..11	Crush injury of head	262576002	390534012		32
-390672011	38501	S64-1	S64..11	Traumatic AND/OR non-traumatic brain injury	127294003	474103016		32
-390682012	3914	S643	S643.00	Diffuse brain injury	262693007	390682012		32
-391035012	58157	S629	S629.00	Traumatic subdural hematoma	262952002	2912898019		32
-391043019	3472	S627	S627.00	Traumatic haemorrhage into subarachnoid space of neuraxis	450375008	2915656010		32
-402830019	1620	S04	S04..00	Multiple fractures involving skull or face with other bones	5468008	10127011		32
-402929011	2183	S620	S620.00	Subarachnoid haemorrhage following injury without open intracranial wound	28048009	483737017		32
-402930018	1703	S624	S624.00	Extradural haemorrhage following injury without open intracranial wound	43216008	493552012		32
-402934010	22538	S64z	S64Z.00	Intracranial injury NOS	127296001	584010		32
-402979014	1470	SC20z	SC20Z00	Late effect of intracranial injury NOS	285234008	424185011		32
-40395011	8031	S01	S01..00	Skull base fracture	24063002	481804018		32
-423091000006111	1444	Eu062	EU06200	Post-concussional syndrome	40425004	492616010		32
-448203011	9329	9NlG	9NLG.00	Seen by forensic psychiatrist	305695000	448203011		37
-455455016	32	S6420	S642000	Traumatic cerebral oedema without open intracranial wound	311825006	455455016		32
-455458019	8	S6421	S642100	Traumatic cerebral oedema with open intracranial wound	311826007	455458019		32
-455459010	24	S6450	S645000	Intracranial injury with prolonged coma without open wound	311827003	455459010		32
-455461018	15	S6451	S645100	Intracranial injury with prolonged coma with open wound	311829000	455461018		32
-459511018	541	S6290	S629000	Traumatic subdural haematoma without open intracranial wound	315046005	459511018		32
-459514014	195	S6291	S629100	Traumatic subdural haematoma with open intracranial wound	315047001	459514014		32
-486896012	1262	S630-2	S630.12	Intracranial haematoma following injury	37955001	486896012		32
-492615014	72940	E2A2	E2A2.00	Post-concussion syndrome	40425004	492615014		32
-505324014	994	S62-4	S62..14	Traumatic cerebral haemorrhage	450418003	2916058017		32
-524321000006119	<5	S61yz	S61YZ00	Brain cont + open intracranial wound + concussion unspec	269144002	402921014		32
-524401000006115	24	S61xz	S61XZ00	Brain cont no open intracranial wound + concussion unspec	269144002	402921014		32
-52931000006111	6	S0034	S003400	Open fracture of vault of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207710003	318140016		32
-559971000006115	31	S011z	S011Z00	Closed #skull bse + intracranial injury + concussion unspec	111603000	178853015		32
-559981000006117	35	S0112	S011200	Closed fracture of base of skull with intracranial injury, with less than 1 hour loss of consciousness	207728001	318172018		32
-559991000006119	46	S0114	S011400	Closed fracture of base of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207730004	318174017		32
-560001000006112	24	S0113	S011300	Closed fracture of base of skull with intracranial injury, with 1-24 hours loss of consciousness	207729009	318173011		32
-560011000006110	11	S0116	S011600	Closed #skull bse + intracranial injury, LOC unspec duration	111603000	178853015		32
-560021000006119	23	S0111	S011100	Closed fracture of base of skull with intracranial injury, with no loss of consciousness	207727006	318171013		32
-560281000006110	15	S0012	S001200	Closed fracture of vault of skull with intracranial injury, with less than 1 hour loss of consciousness	207690005	318120011		32
-560291000006113	21	S0014	S001400	Closed fracture of vault of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207692002	318122015		32
-560301000006114	7	S0013	S001300	Closed fracture of vault of skull with intracranial injury, with 1-24 hours loss of consciousness	207691009	318121010		32
-560311000006112	16	S0016	S001600	Closed #skull vlt + intracranial injury, LOC unspec duration	207687004	318117015		32
-560321000006116	7	S0011	S001100	Closed fracture of vault of skull with intracranial injury, with no loss of consciousness	207689001	318119017		32
-560331000006118	19	S0010	S001000	Closed #skull vlt + intracranial injury, unspec state consc	207687004	318117015		32
-560421000006110	16	S001z	S001Z00	Closed #skull vlt with intracranial injury+concussion unspec	207687004	318117015		32
-560541000006119	<5	S041z	S041Z00	Closed #skull/face,mult + intracran inj, concussion unspec	5468008	10127011		32
-561651000006113	489	S011	S011.00	Closed fracture of base of skull with intracranial injury	111603000	178853015		32
-578281000006118	72	S603	S603.00	Concussion with more than 24 hours loss of consciousness and return to pre-existing conscious level	209829009	320594018		32
-578291000006115	19	S604	S604.00	Concussion with more than 24 hours loss of consciousness without return to pre-existing conscious level	209830004	320595017		32
-578321000006112	820	S605	S605.00	Concussion with loss of consciousness of unspecified duration	62564004	103980016		32
-597771000006117	5	S610z	S610Z00	Cortex cont no open intracranial wnd + concussion unspec	209834008	320602018		32
-62810012	64	SC00	SC00.00	Late effect of fracture of skull and face bones	37655003	62810012		32
-660071000006113	24	S624z	S624Z00	Extradural h'ge inj no open intracran wnd+concussion unspec	262949005	391026017		32
-695771000006119	114	S04z	S04Z.00	Multiple fractures involving skull/face with other bones NOS	5468008	10127011		32
-696121000006114	33	S043	S043.00	Mult #skull/face + other bones, open + intracranial injury	5468008	10127011		32
-696141000006119	33	S041	S041.00	Mult #skull/face+other bones, closed + intracranial injury	5468008	10127011		32
-761201000006112	17	7J432	7J43200	Fixation of fracture of spine and skull traction HFQ	265721002	394587017		32
-768861000006117	70	S640z	S640Z00	Intracranial inj NOS no open intracran wnd+concussion unspec	127296001	584010		32
-768881000006110	23477	S6	S6...00	Intracranial injury, without skull fracture	54355006	90339018		32
-768891000006113	47066	S64	S64..00	Intracranial injury	127296001	584010		32
-768911000006110	229	S641	S641.00	Intracranial injury NOS + open intracranial wound	127296001	584010		32
-768921000006119	6311	S640	S640.00	Intracranial injury NOS no open intracranial wound	127296001	584010		32
-768961000006113	183	S6z	S6Z..00	Intracranial injury, excluding those with skull fracture NOS	54355006	90339018		32
-769321000006113	33	S641z	S641Z00	Intracranial inj NOS + open intracran wnd+concussion unspec	127296001	584010		32
-80749019	6218	S00	S00..00	Fracture of vault of skull	48466003	80749019		32
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	traumatic brain injury
+103238011	89740	S600	S600.00	Concussion with no loss of consciousness	62106007	103238011		32	1
+11812521000006114	19	^ESCT1181252		NAION - Non-arteritic ischemic optic neuropathy	230509007	3511011012		32	exclude - optic/cranial nerve
+11812531000006112	<5	^ESCT1181253		NAION - Non-arteritic ischaemic optic neuropathy	230509007	3511012017		32	exclude - optic/cranial nerve
+119023019	125323	S0	S0...00	Fracture of skull	71642004	119023019		32	review
+1212072018	785	ESCTOC3		Occlusive stroke	373606000	1212072018		32	exclude - stroke/infarct
+122361000006113	34446	G64-3	G64..13	Stroke due to cerebral arterial occlusion	230691006	345638019		32	exclude - stroke/infarct
+122401000006115	120312	G66-2	G66..12	Stroke unspecified	230690007	345637012		32	exclude - stroke/infarct
+1230561019	121	SJ00	SJ00.00	Optic nerve (2nd) injury	48233004	1230561019		32	review
+123311000006115	<5	S620z	S620Z00	Subarach h'ge inj no open intracran wnd + concussion unspec	28048009	46957015		32	1
+123351000006119	<5	S621z	S621z00	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	5251007	9804011		32	1
+123351000006119	<5	S621z	S621Z00	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	5251007	9804011		32	1
+123361000006117	<5	S6210	S621000	Subarachnoid h'ge inj + open intracran wound + unspec consc	5251007	9804011		32	1
+1235583017	<5	SJ16-1	SJ16.11	Eleventh cranial nerve injury	90630009	1235583017		32	review
+1235584011	91	SJ16	SJ16.00	Accessory (11th) nerve injury	90630009	1235584011		32	exclude - other non-traumatic neurologic condition
+123686019	539	SC20	SC20.00	Late effect of intracranial injury without skull fracture	74472004	123686019		32	1
+124051000006118	9	S6236	S623600	Subdural h'ge inj + open intracran wnd+LOC unspec duration	209956005	320770015		32	1
+124081000006114	<5	S623z	S623z00	Subdural h'ge inj + open intracranial wnd+concussion unspec	209956005	320770015		32	1
+124131000006114	<5	S6223	S622300	Subdural h'ge inj no open intracran wnd+1-24hr loss consc	209947002	320752018		32	1
+124141000006116	35	S6226	S622600	Subdural h'ge inj no open intracran wnd+LOC unspec duration	209947002	320752018		32	1
+124151000006119	7	S622z	S622z00	Subdural h'ge inj no open intracran wound+concussion unspec	209947002	320752018		32	1
+124151000006119	7	S622z	S622Z00	Subdural h'ge inj no open intracran wound+concussion unspec	209947002	320752018		32	1
+124161000006117	14	S6220	S622000	Subdural h'ge inj no open intracranial wnd + unspec consc	209947002	320752018		32	1
+124171000006112	8	S6224	S622400	Subdural h'ge inj no open intracranial wnd+>24 LOC +recovery	209947002	320752018		32	1
+124181000006110	<5	S6222	S622200	Subdural h'ge inj no open intracranial wound+<1hr loss consc	209947002	320752018		32	1
+124191000006113	5	S6221	S622100	Subdural h'ge inj no open intracranial wound+no loss consc	209947002	320752018		32	1
+124261000006112	13	Q200y	Q200y00	Subdural or cerebral haemorrhage due to birth trauma OS	240312009	359984010		32	exclude - child/baby
+130375018	1520	G64z1-1	G64z111	Lateral medullary syndrome	78569004	130375018		32	exclude - stroke/infarct
+13679351000006110	<5	^ESCT1367935		Ischaemic optic neuropathy of right eye	334651000119101	3705423010		31	exclude - optic/cranial nerve
+13683861000006114	<5	^ESCT1368386		Bilateral ischaemic optic neuropathy of eyes	345611000119102	3705429014		31	exclude - optic/cranial nerve
+13703071000006118	<5	^ESCT1370307		Contusion of right cerebrum	10943311000119108	3703769014		31	1
+13717171000006112	31	^ESCT1371717		Cerebrovascular accident due to stenosis of bilateral carotid arteries	16661971000119104	3773590013		32	exclude - stroke/infarct
+13796131000006110	3430	^ESCT1379613		Subarachnoid haemorrhage due to traumatic injury	262955000	3751366018		32	1
+13909861000006114	87	^ESCT1390986		Cerebral ischaemic stroke due to dissection of artery	788880006	3787578016		32	exclude - stroke/infarct
+13909871000006119	9	^ESCT1390987		Cerebral ischaemic stroke due to aortic arch embolism	788881005	3786063014		32	exclude - stroke/infarct
+13909881000006116	197	^ESCT1390988		Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	788882003	3786067010		32	exclude - hypoxic/anoxic
+13909891000006118	6	^ESCT1390989		Cerebral ischaemic stroke due to hypercoagulable state	788883008	3786069013		32	exclude - stroke/infarct
+13909901000006119	213	^ESCT1390990		Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	788884002	3786072018		32	exclude - stroke/infarct
+13910481000006110	<5	^ESCT1391048		Focal contusion of temporal lobe	788933002	3786196013		31	1
+13938301000006116	<5	^ESCT1393830		Arteritic anterior ischaemic optic neuropathy due to giant cell arteritis	838363001	3897155018		31	exclude - optic/cranial nerve
+13938311000006118	<5	^ESCT1393831		Giant cell arteritis anterior ischaemic optic neuropathy	838363001	3896584010		31	exclude - optic/cranial nerve
+13998191000006116	<5	^ESCT1399819		Injury of right trochlear nerve	10899751000119109	3783974010		31	review
+13998221000006111	<5	^ESCT1399822		Injury of right accessory nerve	10901491000119104	3783550016		31	review
+14013921000006119	<5	^ESCT1401392		Bilateral arteritic anterior ischaemic optic neuropathy of eyes	16376191000119109	3914631012		31	exclude - optic/cranial nerve
+14013951000006111	<5	^ESCT1401395		Arteritic anterior ischaemic optic neuropathy of left eye	16376241000119109	3914621017		31	exclude - optic/cranial nerve
+14013961000006113	12	^ESCT1401396		Arteritic anterior ischaemic optic neuropathy of right eye	16376391000119106	3914622012		31	exclude - optic/cranial nerve
+14014251000006116	202	^ESCT1401425		Cerebrovascular accident due to occlusion of bilateral pontine arteries	16644681000119102	3780817010		32	exclude - stroke/infarct
+14014281000006112	29	^ESCT1401428		Cerebrovascular accident due to stenosis of bilateral vertebral arteries	16661931000119102	3780821015		32	exclude - stroke/infarct
+14129141000006111	9	^ESCT1412914		Subdural haemorrhage with open intracranial wound	874938007	3983362016		32	1
+14182621000006113	227	^ESCT1418262		Cryptogenic stroke	16891111000119104	4009580018		32	exclude - stroke/infarct
+14194611000006113	32	^ESCT1419461		Acute cerebrovascular accident of basal ganglia	595899961000119100	4015877011		32	exclude - stroke/infarct
+14194621000006117	<5	^ESCT1419462		Acute stroke of basal ganglia	595899961000119100	4015875015		32	exclude - stroke/infarct
+14194641000006112	19	^ESCT1419464		Acute cerebrovascular accident of brainstem	652287331000119104	4016003015		32	exclude - stroke/infarct
+14194651000006114	<5	^ESCT1419465		Acute stroke of brainstem	652287331000119104	4016004014		32	exclude - stroke/infarct
+14428221000006116	5	^ESCT1442822		Hypoxic ischaemic encephalopathy of newborn	1144223007	4541259018		31	exclude - child/baby
+14441531000006110	<5	^ESCT1444153		Radiation necrosis in brain	1148741008	4551703018		31	exclude - other non-traumatic neurologic condition
+14458031000006110	187	^ESCT1445803		Nontraumatic injury of brain	1156035006	4571564014		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+14484841000006113	<5	^ESCT1448484		Left oculomotor nerve injury	10899711000119108	4569822017		31	review
+14489491000006119	31	^ESCT1448949		Cerebrovascular accident due to thrombosis of right posterior cerebral artery	38595071000119104	4577054015		32	exclude - stroke/infarct
+14491921000006111	6	^ESCT1449192		Cerebrovascular accident due to embolism of bilateral cerebellar arteries	58173271000119101	4577040011		32	exclude - stroke/infarct
+14491941000006116	<5	^ESCT1449194		Stroke due to embolism of bilateral cerebellar arteries	58173271000119101	4577039014		32	exclude - stroke/infarct
+14492111000006112	<5	^ESCT1449211		Cerebrovascular accident due to occlusion of left posterior communicating artery	117776611000119102	4577076012		32	exclude - stroke/infarct
+14492161000006110	<5	^ESCT1449216		Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries	168747591000119109	4577048016		32	exclude - stroke/infarct
+14492191000006119	18	^ESCT1449219		Cerebrovascular accident due to occlusion of left anterior cerebral artery	182960891000119101	4577065013		32	exclude - stroke/infarct
+14492201000006116	<5	^ESCT1449220		Stroke due to occlusion of left anterior cerebral artery	182960891000119101	4577064012		32	exclude - stroke/infarct
+14492211000006118	56	^ESCT1449221		Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries	188174841000119103	4577071019		32	exclude - stroke/infarct
+14492221000006114	<5	^ESCT1449222		Stroke due to occlusion of bilateral middle cerebral arteries	188174841000119103	4577070018		32	exclude - stroke/infarct
+14492231000006112	36	^ESCT1449223		Cerebrovascular accident due to occlusion of basilar artery	239965291000119107	4577282019		32	exclude - stroke/infarct
+14492241000006119	<5	^ESCT1449224		Stroke due to occlusion of basilar artery	239965291000119107	4577283012		32	exclude - stroke/infarct
+14492321000006119	24	^ESCT1449232		Cerebrovascular accident due to embolism of left anterior cerebral artery	251770561000119107	4577022012		32	exclude - stroke/infarct
+14492331000006116	6	^ESCT1449233		Stroke due to embolism of left anterior cerebral artery	251770561000119107	4577021017		32	exclude - stroke/infarct
+14492341000006114	<5	^ESCT1449234		Cerebrovascular accident due to occlusion of bilateral cerebellar arteries	346674811000119104	4577275018		32	exclude - stroke/infarct
+14492421000006113	5	^ESCT1449242		Cerebrovascular accident due to embolism of right carotid artery	384430101000119103	4577036019		32	exclude - stroke/infarct
+14492431000006111	<5	^ESCT1449243		Stroke due to embolism of right carotid artery	384430101000119103	4577035015		32	exclude - stroke/infarct
+14492471000006114	23	^ESCT1449247		Cerebrovascular accident due to thrombosis of right cerebellar artery	496369931000119104	4577292010		32	exclude - stroke/infarct
+14492481000006112	20	^ESCT1449248		Stroke due to thrombosis of right cerebellar artery	496369931000119104	4577294011		32	exclude - stroke/infarct
+14492491000006110	7	^ESCT1449249		Cerebrovascular accident due to thrombosis of right vertebral artery	511452481000119102	4577300014		32	exclude - stroke/infarct
+14492501000006119	<5	^ESCT1449250		Stroke due to thrombosis of right vertebral artery	511452481000119102	4577299018		32	exclude - stroke/infarct
+14492511000006116	<5	^ESCT1449251		Cerebrovascular accident due to embolism of left vertebral artery	517253051000119105	4577266015		32	exclude - stroke/infarct
+14492571000006113	48	^ESCT1449257		Cerebrovascular accident due to occlusion of right anterior cerebral artery	655081461000119101	4577069019		32	exclude - stroke/infarct
+14492581000006111	<5	^ESCT1449258		Stroke due to occlusion of right anterior cerebral artery	655081461000119101	4577068010		32	exclude - stroke/infarct
+14492661000006117	<5	^ESCT1449266		Cerebrovascular accident due to embolism of bilateral vertebral arteries	732330391000119107	4577262018		32	exclude - stroke/infarct
+14492691000006113	6	^ESCT1449269		Acute nontraumatic intracranial subdural haematoma	759291281000119108	4573835015		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+14492701000006113	12	^ESCT1449270		Cerebrovascular accident due to thrombosis of left vertebral artery	759950981000119101	4577295012		32	exclude - stroke/infarct
+14492731000006117	752	^ESCT1449273		Cerebrovascular accident of thalamus	769023031000119104	4577288015		32	exclude - stroke/infarct
+14492741000006110	75	^ESCT1449274		Stroke of thalamus	769023031000119104	4577286016		32	exclude - stroke/infarct
+14492751000006112	47	^ESCT1449275		Thalamic stroke	769023031000119104	4578629016		32	exclude - stroke/infarct
+14492771000006119	<5	^ESCT1449277		Stroke due to embolism of right vertebral artery	806161651000119106	4579823014		32	exclude - stroke/infarct
+14492821000006110	9	^ESCT1449282		Cerebrovascular accident due to embolism of right anterior cerebral artery	849488701000119104	4577023019		32	exclude - stroke/infarct
+14492841000006115	15	^ESCT1449284		Cerebrovascular accident due to occlusion of right posterior communicating artery	849579281000119106	4577080019		32	exclude - stroke/infarct
+14492851000006118	<5	^ESCT1449285		Stroke due to occlusion of right posterior communicating artery	849579281000119106	4577079017		32	exclude - stroke/infarct
+14492861000006116	67	^ESCT1449286		Cerebrovascular accident due to thrombosis of left posterior cerebral artery	851365731000119106	4577051011		32	exclude - stroke/infarct
+14492871000006111	14	^ESCT1449287		Stroke due to thrombosis of left posterior cerebral artery	851365731000119106	4577050012		32	exclude - stroke/infarct
+14492911000006114	6	^ESCT1449291		Cerebrovascular accident due to embolism of left carotid artery	859422751000119101	4577033010		32	exclude - stroke/infarct
+14492921000006118	<5	^ESCT1449292		Stroke due to embolism of left carotid artery	859422751000119101	4577034016		32	exclude - stroke/infarct
+14492941000006113	<5	^ESCT1449294		Cerebrovascular accident due to occlusion of bilateral vertebral arteries	898941951000119108	4577279012		32	exclude - stroke/infarct
+14493231000006118	75	^ESCT1449323		Cerebrovascular accident due to embolism of bilateral middle cerebral arteries	939885431000119109	4577045018		32	exclude - stroke/infarct
+14493251000006113	<5	^ESCT1449325		Stroke due to embolism of bilateral middle cerebral arteries	939885431000119109	4577043013		32	exclude - stroke/infarct
+14493261000006110	35	^ESCT1449326		Cerebrovascular accident due to thrombosis of left cerebellar artery	957319791000119104	4577289011		32	exclude - stroke/infarct
+14493271000006115	<5	^ESCT1449327		Stroke due to thrombosis of left cerebellar artery	957319791000119104	4577290019		32	exclude - stroke/infarct
+14500081000006114	1466	^ESCT1450008		Traumatic or nontraumatic brain injury	127294003	4565402016		32	review
+14516811000006114	<5	^ESCT1451681		Idiopathic ischaemic stroke	16891111000119104	4553056016		32	exclude - stroke/infarct
+14518481000006115	178	^ESCT1451848		Cerebrovascular accident of basal ganglia	595899961000119100	4577269010		32	exclude - stroke/infarct
+14518501000006113	139	^ESCT1451850		Cerebrovascular accident of brainstem	652287331000119104	4577270011		32	exclude - stroke/infarct
+14518521000006115	<5	^ESCT1451852		Cerebrovascular accident of medulla oblongata	881694631000119107	4577160018		32	exclude - stroke/infarct
+14518541000006110	26	^ESCT1451854		Cerebrovascular accident due to embolism of basilar artery	915141931000119109	4577259016		32	exclude - stroke/infarct
+14575911000006117	78	^ESCT1457591		Chronic traumatic encephalopathy	1187004001	4668702019		32	1
+14575921000006113	13	^ESCT1457592		CTE - chronic traumatic encephalopathy	1187004001	4668701014		32	1
+14732521000006114	17	^ESCT1473252		Paediatric arterial ischaemic stroke	1197363004	4696024011		32	exclude - child/baby
+14741621000006116	<5	^ESCT1474162		Cryptogenic non-traumatic subarachnoid haemorrhage of brain	1204125007	4952417013		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+1477387011	1198	Q48E-1	Q48E.11	Periventricular leukomalacia	230769007	1477387011		32	exclude - other non-traumatic neurologic condition
+14790901000006117	94	^ESCT1479090		Malignant middle cerebral artery syndrome	1231168008	5071735019		32	exclude - stroke/infarct
+14802151000006119	103	^ESCT1480215		Cerebrovascular accident with intracranial haemorrhage	5571000124103	4964984018		32	exclude - stroke/infarct
+14805251000006118	14	^ESCT1480525		Behavioural disturbance due to multi-infarct dementia	293671000119109	5025336010		32	exclude - stroke/infarct
+14831341000006119	5	^ESCT1483134		Subacute nontraumatic intracranial subdural haematoma	212455011000119105	5034096017		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+14862071000006110	<5	^ESCT1486207		Perinatal arterial ischaemic stroke of fetus and/or neonate	722929005	4650910014		31	exclude - child/baby
+1493629013	11700	F281	F281.00	Anoxic brain damage	389098007	1493629013		32	exclude - hypoxic/anoxic
+149611000006111	390	SCX	SCX..00	Sequelae of unspecified injury of head	285234008	424185011		32	review
+15048621000006117	20	^ESCT1504862		Haemorrhagic cerebral infarction due to hypertension	1260271009	5159959019		32	exclude - stroke/infarct
+15215481000006114	23	^ESCT1521548		Infarction of brain due to migraine	1263550001	5169057016		32	exclude - stroke/infarct
+15217891000006118	36	^ESCT1521789		Non-traumatic intraventricular haemorrhage of fetus and/or neonate	1263957007	5170609019		32	exclude - child/baby
+15217901000006119	<5	^ESCT1521790		Non-traumatic intraventricular haemorrhage during intrapartum and/or early neonatal period	1263957007	5170608010		32	exclude - child/baby
+15236641000006119	<5	^ESCT1523664		Cerebrovascular accident due to thrombosis of anterior cerebral artery	1269237007	5183319014		32	exclude - stroke/infarct
+15290341000006119	<5	^ESCT1529034		Cerebrovascular accident following heart procedure	12204031000119101	5180178015		32	exclude - stroke/infarct
+15293271000006112	<5	^ESCT1529327		Cerebrovascular accident due to occlusion of left anterior choroidal artery	16023951000119109	5183413014		32	exclude - stroke/infarct
+15293291000006113	5	^ESCT1529329		Cerebrovascular accident due to occlusion of right anterior choroidal artery	16024071000119102	5183414015		32	exclude - stroke/infarct
+15293301000006114	<5	^ESCT1529330		Stroke due to occlusion of right anterior choroidal artery	16024071000119102	5183416018		32	exclude - stroke/infarct
+15294751000006112	8	^ESCT1529475		Cerebrovascular accident due to occlusion of bilateral carotid arteries	16644541000119106	5183387015		32	exclude - stroke/infarct
+15303461000006113	6	^ESCT1530346		Cerebrovascular accident due to thrombosis of left anterior cerebral artery	195772021000119105	5183315015		32	exclude - stroke/infarct
+15303471000006118	<5	^ESCT1530347		Stroke due to thrombosis of left anterior cerebral artery	195772021000119105	5183313010		32	exclude - stroke/infarct
+15304181000006112	7	^ESCT1530418		Cerebrovascular accident due to thrombosis of bilateral carotid arteries	563789641000119101	5183331011		32	exclude - stroke/infarct
+15304561000006111	<5	^ESCT1530456		Cerebrovascular accident due to thrombosis of right anterior cerebral artery	828066161000119106	5183317011		32	exclude - stroke/infarct
+15304731000006112	<5	^ESCT1530473		Chronic nontraumatic intracranial subdural haematoma	991898981000119108	5234767014		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+15306481000006110	12	^ESCT1530648		Juvenile myopathy, encephalopathy, lactic acidosis, stroke	39925003	5244054015		32	exclude - child/baby
+15320941000006115	61	^ESCT1532094		Cerebral haemorrhage due to trauma	450418003	5197922017		32	1
+15325201000006117	<5	^ESCT1532520		Necrosis of brain caused by ionising radiation	1148741008	5255845016		31	exclude - other non-traumatic neurologic condition
+15396591000006110	10	^ESCT1539659		Non-traumatic intraventricular haemorrhage grade 1 during fetal intrapartum period	1286911005	5256033019		32	exclude - child/baby
+15397461000006117	32	^ESCT1539746		Non-traumatic intraventricular haemorrhage grade 2 during fetal intrapartum period	1287061007	5256659017		32	exclude - child/baby
+15397491000006113	<5	^ESCT1539749		Non-traumatic intraventricular haemorrhage grade 2 during neonatal period	1287063005	5256667013		31	exclude - child/baby
+15397521000006110	16	^ESCT1539752		Non-traumatic intraventricular haemorrhage grade 3 during fetal intrapartum period	1287065003	5256676018		32	exclude - child/baby
+15415531000006111	<5	^ESCT1541553		Injury of parenchyma of brain	1290593009	5274803012		31	review
+15626591000006112	<5	^ESCT1562659		Traumatic intraparenchymal cerebral haemorrhage	1332499002	5354627011		31	1
+158118014	52972	G64z-2	G64z.12	Cerebellar infarction	95460007	158118014		32	exclude - stroke/infarct
+1757351000000113	506	SC201	SC20100	Late effect of traumatic injury to brain	429656004	2691881010		32	1
+1808531000006113	861	EMISNQTR31		Traumatic brain injury	127295002	1808531000006113		32	1
+1988841000006112	159	Q4114		Intraventricular (nontraumatic) haemorrhage, grade 4, of fetus and newborn	1032761000000105	2608291000000112		32	exclude - child/baby
+202903013	151192	S60	S60..00	Concussion	110030002	202903013		32	1
+202903013	151192	S60	S60..00	Concussion	110030002	202903013		32	1
+202904019	70	S60-1	S60..11	Commotio cerebri	110030002	202904019		32	1
+2168451000000117	3504	Q48F	Q48F.00	Hypoxic ischaemic encephalopathy of newborn	126945001	2168451000000117		32	exclude - child/baby
+218511000000117	17564	G64-2	G64..12	Infarction - cerebral	432504007	2770034014		32	exclude - stroke/infarct
+222611000000112	462	SJ-1	SJ...11	Cranial nerve injuries	17769000	30029019		32	review
+2273491000000112	7149	S647	S647.00	Acquired brain injury	702632000	3005402014		32	review
+2394411000000118	983	9Nlg	9NLG.00	Seen by brain injury link worker	934731000000104	2394411000000118		37	review
+2474651019	14403	G64z4	G64z400	Infarction of basal ganglia	413102000	2474651019		32	exclude - stroke/infarct
+2475119012	25187	G622	G622.00	Non-traumatic subdural haemorrhage	195176009	2469010019		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+2476437010	278	SJ11-1	SJ11.11	Fourth cranial nerve injury	304838007	2476437010		32	review
+2478828012	19614	SC200	SC20000	Traumatic epilepsy	75023009	2478828012		32	review
+2508681000006110	6	^ESCTIN250868		Injury to vagus nerve	640003	499736019		32	review
+2528191000006112	21	^ESCTTR252819		Traumatic injury of abducens nerve	1852004	199418018		32	review
+2528201000006110	<5	^ESCTTR252820		Traumatic injury of sixth cranial nerve	1852004	199417011		32	review
+2528221000006117	<5	^ESCTIN252822		Injury to abducent nerve	1852004	478652012		32	review
+2528231000006119	24	^ESCTAB252823		Abducent nerve injury	1852004	478653019		32	review
+259601000006113	92	S013	S013.00	Open fracture of base of skull with intracranial injury	111607004	178855010		32	1
+259601000006113	92	S013	S013.00	Open fracture of base of skull with intracranial injury	111607004	178855010		32	1
+263771000006115	<5	S0036	S003600	Open #skull vlt + intracranial injury, LOC unspec duration	207705002	318135012		32	1
+263771000006115	<5	S0036	S003600	Open #skull vlt + intracranial injury, LOC unspec duration	207705002	318135012		32	1
+263781000006117	10	S0031	S003100	Open fracture of vault of skull with intracranial injury, with no loss of consciousness	207707005	318137016		32	1
+263781000006117	10	S0031	S003100	Open fracture of vault of skull with intracranial injury, with no loss of consciousness	207707005	318137016		32	1
+263791000006119	<5	S0030	S003000	Open #skull vlt + intracranial injury, unspec state of consc	207705002	318135012		32	1
+263791000006119	<5	S0030	S003000	Open #skull vlt + intracranial injury, unspec state of consc	207705002	318135012		32	1
+263881000006110	7	S003z	S003z00	Open #skull vlt with intracranial injury + concussion unspec	207705002	318135012		32	1
+263881000006110	7	S003z	S003Z00	Open #skull vlt with intracranial injury + concussion unspec	207705002	318135012		32	1
+264131000006117	<5	S0134	S013400	Open fracture of base of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207748008	318192013		32	1
+264151000006112	<5	S0136	S013600	Open #skull bse + intracranial injury, LOC unspec duration	111607004	178855010		32	1
+264151000006112	<5	S0136	S013600	Open #skull bse + intracranial injury, LOC unspec duration	111607004	178855010		32	1
+264161000006114	<5	S0131	S013100	Open fracture of base of skull with intracranial injury, with no loss of consciousness	207745006	318189014		32	1
+264451000006115	<5	S013z	S013z00	Open #skull bse + intracranial injury + concussion unspec	111607004	178855010		32	1
+264451000006115	<5	S013z	S013Z00	Open #skull bse + intracranial injury + concussion unspec	111607004	178855010		32	1
+2650451000006116	15	^ESCTIN265045		Injury of acoustic nerve	9441002	16541017		32	review
+2664601000006115	12	^ESCTMU266460		Multi-infarct dementia with delirium	10349009	18020012		32	exclude - stroke/infarct
+2664611000006117	5	^ESCTVA266461		Vascular dementia, with delirium	10349009	18021011		32	exclude - stroke/infarct
+2722931000006114	6	^ESCTMU272293		Multi-infarct dementia with depression	14070001	23960010		32	exclude - stroke/infarct
+2726591000006119	11	^ESCTAN272659		Anterior choroidal artery syndrome	14309005	24333016		32	exclude - stroke/infarct
+2727441000006113	10	^ESCTIS272744		Ischemic optic neuropathy	14357004	24408015		32	exclude - optic/cranial nerve
+2727451000006110	<5	^ESCTIO272745		ION - Ischaemic optic neuropathy	14357004	1216031018		32	exclude - optic/cranial nerve
+2729551000000111	167	^ESCT1171762		Cerebral infarction due to occlusion of cerebral artery	1089411000000104	2729551000000111		32	exclude - stroke/infarct
+2729571000000119	121	^ESCT1171763		Cerebral infarction due to stenosis of cerebral artery	1089421000000105	2729571000000119		32	exclude - stroke/infarct
+2762401000006115	<5	^ESCTAC276240		Acute anoxic encephalopathy	16561007	28021012		31	exclude - hypoxic/anoxic
+287283010	64	A94y6	A94y600	Rupture of syphilitic cerebral aneurysm	186893003	287283010		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+2878511000006110	77	^ESCTCO287851		Contusion of cerebral cortex	23713006	39818010		32	1
+2893541000006113	9	^ESCTWE289354		Weber-Gubler syndrome	24654003	41324013		32	exclude - stroke/infarct
+2893551000006110	<5	^ESCTWE289355		Weber syndrome	24654003	1223895018		32	exclude - stroke/infarct
+2901571000006113	290	^ESCTCO290157		Completed stroke	25133001	42129011		32	exclude - stroke/infarct
+2912321000006113	<5	^ESCTMU291232		Multi-infarct dementia with delusions	25772007	43182011		32	exclude - stroke/infarct
+2912331000006111	<5	^ESCTVA291233		Vascular dementia, with delusions	25772007	43183018		32	exclude - stroke/infarct
+2924681000006116	<5	^ESCTOP292468		Optic nerve infarction	26520008	44407017		31	exclude - optic/cranial nerve
+294656010	2530	E004z	E004z00	Arteriosclerotic dementia NOS	56267009	497559016		32	exclude - stroke/infarct
+2952391000006117	12	^ESCTBR295239		Brain injury with open intracranial wound	28188001	47189015		32	1
+299342019	38608	Fyu56	Fyu5600	Lacunar infarction	230698000	345651012		32	exclude - stroke/infarct
+300242011	1997	G600	G600.00	Ruptured berry aneurysm	195154000	300242011		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+300244012	68	G601	G601.00	Subarachnoid haemorrhage from carotid siphon and bifurcation	195155004	300244012		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+300253017	85	G606	G606.00	Subarachnoid haemorrhage from vertebral artery	195160000	300253017		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+300294013	9413	G621	G621.00	Subdural haemorrhage - nontraumatic	195176009	300294013		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+300312010	3453	G63y0	G63y000	Cerebral infarct due to thrombosis of precerebral arteries	195185009	300312010		32	exclude - stroke/infarct
+300313017	1414	G63y1	G63y100	Cerebral infarction due to embolism of precerebral arteries	195186005	300313017		32	exclude - stroke/infarct
+300321011	5013	G6400	G640000	Cerebral infarction due to thrombosis of cerebral arteries	195189003	300321011		32	exclude - stroke/infarct
+300322016	2085	G6410	G641000	Cerebral infarction due to embolism of cerebral arteries	195190007	300322016		32	exclude - stroke/infarct
+300362017	9306	G660	G660.00	Middle cerebral artery syndrome	195209007	300362017		32	exclude - stroke/infarct
+300363010	2718	G661	G661.00	Anterior cerebral artery syndrome	195210002	300363010		32	exclude - stroke/infarct
+300364016	4012	G662	G662.00	Posterior cerebral artery syndrome	195211003	300364016		32	exclude - stroke/infarct
+300366019	11148	G664	G664.00	Cerebellar stroke syndrome	195213000	300366019		32	exclude - stroke/infarct
+300370010	88671	G667	G667.00	Left sided CVA	195216008	300370010		32	exclude - stroke/infarct
+300371014	81912	G668	G668.00	Right sided CVA	195217004	300371014		32	exclude - stroke/infarct
+300941014	3260	Gyu64	Gyu6400	[X]Other cerebral infarction	432504007	2770034014		32	exclude - stroke/infarct
+3058171000006119	15	^ESCTCO305817		Contusional brain injury	34663006	1228197014		32	1
+30981000006112	<5	S6300	S630000	Oth cerebral h'ge inj no open intracran wnd+unspec consc	450418003	2915288012		32	1
+3142511000006112	8	^ESCTJU314251		Juvenile myopathy, encephalopathy, lactic acidosis AND stroke	39925003	66510015		32	exclude - child/baby
+3142521000006116	<5	^ESCTME314252		MELAS	39925003	66512011		32	exclude - other non-traumatic neurologic condition
+3142551000006113	80	^ESCTMI314255		Mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes	39925003	1229581015		32	exclude - stroke/infarct
+316130010	112	Q200	Q200.00	Subdural and cerebral haemorrhage due to birth trauma	206188000	316130010		32	exclude - child/baby
+316140013	178	Q2001	Q200100	Subdural haemorrhage unspecified, due to birth trauma	240312009	359984010		32	exclude - child/baby
+316141012	126	Q2002	Q200200	Local subdural haematoma due to birth trauma	206191000	316141012		32	exclude - child/baby
+316143010	46	Q2003	Q200300	Tentorial tear due to birth trauma	206192007	316143010		32	exclude - child/baby
+316153011	136	Q2007	Q200700	Cerebral haemorrhage due to birth injury	206196005	316153011		32	exclude - child/baby
+316216013	18	Q2071	Q207100	Cranial nerve injury due to birth trauma	206234004	316216013		32	exclude - child/baby
+316221011	74	Q208	Q208.00	Cerebral oedema due to birth injury	206238001	316221011		32	exclude - child/baby
+316516014	726	Q4113	Q411300	Intraventricular haemorrhage due to birth injury	206398001	316516014		32	exclude - child/baby
+316519019	35	Q4120	Q412000	Subarachnoid haemorrhage due to birth injury	206399009	316519019		32	exclude - child/baby
+316653012	161	Q437z	Q437z00	Kernicterus of newborn	50143004	83527011		32	exclude - child/baby
+316821017	239	Q48A	Q48A.00	Neonatal cerebral leukomalacia	206578007	316821017		32	exclude - child/baby
+316939010	63	Qyu57	Qyu5700	[X]Other specified kernicterus	50143004	83527011		32	exclude - other non-traumatic neurologic condition
+3172161000006117	<5	^ESCTBE317216		Benedikt's syndrome	41713005	69589010		31	exclude - stroke/infarct
+3173131000006115	20	^ESCTTR317313		Traumatic anosmia	41783004	69699013		31	review
+318117015	302	S001	S001.00	Closed fracture vault of skull with intracranial injury	207687004	318117015		32	1
+318117015	302	S001	S001.00	Closed fracture vault of skull with intracranial injury	207687004	318117015		32	1
+318135012	110	S003	S003.00	Open fracture vault of skull with intracranial injury	207705002	318135012		32	1
+318135012	110	S003	S003.00	Open fracture vault of skull with intracranial injury	207705002	318135012		32	1
+318144013	985	S00z	S00Z.00	Fracture of vault of skull NOS	48466003	80749019		32	review
+318196011	2338	S01z	S01Z.00	Fracture of base of skull	24063002	40395011		32	review
+318236015	2057	S028	S028.00	Fracture of skull and facial bones	207785000	318236015		32	review
+318266010	310	S031	S031.00	Closed skull fracture with intracranial injury	111613008	178858012		32	1
+318266010	310	S031	S031.00	Closed skull fracture with intracranial injury	111613008	178858012		32	1
+318285013	49	S033	S033.00	Open fracture of skull NOS with intracranial injury	371161001	1209863015		32	1
+318341014	1812	S044	S044.00	Multiple fractures involving skull and facial bones	207881000	318341014		32	review
+318343012	4648	S0z	S0Z..00	Fracture of skull NOS	71642004	119023019		32	review
+320592019	2367	S601	S601.00	Concussion with less than 1 hour loss of consciousness	209827006	320592019		32	1
+320592019	2367	S601	S601.00	Concussion with less than 1 hour loss of consciousness	209827006	320592019		32	1
+320593012	158	S602	S602.00	Concussion with 1-24 hours loss of consciousness	209828001	320593012		32	1
+320597013	8928	S60z	S60z.00	Brain concussion	110030002	174751018		32	1
+320597013	8928	S60z	S60Z.00	Brain concussion	110030002	174751018		32	1
+320621014	5	S612	S612.00	Cortex laceration without mention of open intracranial wound	78914008	130942015		32	1
+320672017	21	S617	S617.00	Hind brain laceration with open intracranial wound	209900006	320672017		32	1
+320699015	104	S61z	S61z.00	Cerebral laceration and contusion NOS	269144002	402921014		32	1
+320735017	58	S621	S621.00	Subarachnoid haemorrhage following injury with open intracranial wound	5251007	496337012		32	1
+320735017	58	S621	S621.00	Subarachnoid haemorrhage following injury with open intracranial wound	5251007	496337012		32	1
+320752018	3632	S622	S622.00	Closed traumatic subdural haemorrhage	209947002	320752018		32	1
+320752018	3632	S622	S622.00	Closed traumatic subdural haemorrhage	209947002	320752018		32	1
+320771016	36	S623	S623.00	Open traumatic subdural haemorrhage	209956005	320771016		32	1
+320771016	36	S623	S623.00	Open traumatic subdural haemorrhage	209956005	320771016		32	1
+320814012	51	S625	S625.00	Extradural haemorrhage following injury with open intracranial wound	65189006	500043017		32	1
+320814012	51	S625	S625.00	Extradural haemorrhage following injury with open intracranial wound	65189006	500043017		32	1
+320835014	4885	S628	S628.00	Traumatic subdural haemorrhage	209987007	320835014		32	1
+320835014	4885	S628	S628.00	Traumatic subdural haemorrhage	209987007	320835014		32	1
+320836010	3987	S62-3	S62..13	Subdural haemorrhage following injury	209987007	320836010		32	1
+320852013	463	S62z	S62z.00	Cerebral haemorrhage following injury NOS	450418003	2916363013		32	1
+320853015	280	S63	S63..00	Other cerebral haemorrhage following injury	450418003	2916363013		32	1
+320897016	41	S63z	S63z.00	Other cerebral haemorrhage following injury NOS	450418003	2916363013		32	1
+320930015	897	S644	S644.00	Focal brain injury	210038008	320930015		32	1
+320930015	897	S644	S644.00	Focal brain injury	210038008	320930015		32	1
+320931016	624	S645	S645.00	Intracranial injury with prolonged coma	210039000	320931016		32	1
+320931016	624	S645	S645.00	Intracranial injury with prolonged coma	210039000	320931016		32	1
+322024011	195	SC37	SC37.00	Sequelae of superficial injury of head	210953003	322024011		32	review
+322130014	345	SD08	SD08.00	Multiple superficial injuries of head	211024005	322130014		32	exclude - head/skull/spine not brain
+322864011	133	SF03	SF03.00	Crushing injury of skull	211537004	322864011		32	review
+323623011	44	SJ03	SJ03.00	Visual cortex injury	212142000	323623011		32	review
+323627012	200	SJ1	SJ1..00	Injury to other cranial nerves	17769000	30029019		32	exclude - optic/cranial nerve
+323627012	200	SJ1	SJ1..00	Injury to other cranial nerves	17769000	30029019		32	exclude - optic/cranial nerve
+323629010	763	SJ10	SJ10.00	Oculomotor (3rd) nerve injury	212145003	323629010		32	review
+323630017	270	SJ10-1	SJ10.11	Third cranial nerve injury	212145003	323630017		32	review
+323639016	9	SJ160	SJ16000	Closed injury, accessory nerve	212148001	323639016		32	review
+323640019	14	SJ161	SJ16100	Open injury, accessory nerve	212149009	323640019		32	review
+323641015	10	SJ1y	SJ1y.00	Other specified cranial nerve injury	17769000	30029019		32	review
+323646013	<5	SJ1yz	SJ1yz00	Other specified cranial nerve injury NOS	17769000	30029019		32	review
+323647016	38	SJ1z	SJ1z.00	Injury to other cranial nerve NOS	17769000	30029019		32	exclude - optic/cranial nerve
+323647016	38	SJ1z	SJ1Z.00	Injury to other cranial nerve NOS	17769000	30029019		32	exclude - optic/cranial nerve
+3237311000006119	9	^ESCTSU323731		Subdural haemorrhage following injury with open intracranial wound AND loss of consciousness	45659008	494311012		32	1
+323873012	159	SJ80	SJ80.00	Concussion and oedema of cervical spinal cord	212356007	323873012		32	exclude - head/skull/spine not brain
+323876016	33	SJ90	SJ90.00	Concussion and oedema of thoracic spinal cord	212358008	323876016		32	exclude - head/skull/spine not brain
+323880014	65	SJA0	SJA0.00	Concussion and oedema of lumbar spinal cord	212360005	323880014		32	exclude - head/skull/spine not brain
+323994014	111	SK18	SK18.00	Injury of muscle and tendon of head	212451003	323994014		32	exclude - head/skull/spine not brain
+324026012	805	SK1x0	SK1X000	Multiple injuries of head	212483009	324026012		32	review
+325050015	727	SP100	SP10000	Anoxic brain damage complication	213208008	325050015		32	exclude - hypoxic/anoxic
+325051016	1514	SP101	SP10100	Cerebral anoxia complication	213209000	325051016		32	exclude - hypoxic/anoxic
+325290013	576668	Syu0	SYU0.00	Injury of head	82271004	136459014		32	review
+325292017	159	Syu01	SYU0100	[X]Superficial injury of other parts of head	283025007	421488018		32	review
+325294016	547	Syu03	SYU0300	[X]Fractures of other skull and facial bones	207785000	318236015		32	exclude - head/skull/spine not brain
+325295015	622	Syu04	SYU0400	[X]Fracture of skull and facial bones, part unspecified	207785000	318236015		32	review
+325298018	75	Syu07	Syu0700	Injury of cranial nerve	17769000	30029019		32	exclude - optic/cranial nerve
+325304010	270	Syu0D	Syu0D00	[X]Other intracranial injuries	127296001	584010		32	1
+325304010	270	Syu0D	SYU0D00	[X]Other intracranial injuries	127296001	584010		32	1
+325305011	1022	Syu0E	Syu0E00	[X]Intracranial injury, unspecified	127296001	584010		32	1
+325305011	1022	Syu0E	SYU0E00	[X]Intracranial injury, unspecified	127296001	584010		32	1
+325312019	129	Syu0L	SYU0L00	[X]Other specified injuries of head	82271004	136459014		32	review
+325687012	51	SyuL0	SYUL000	[X]Sequelae of other specified injury of head	285234008	424185011		32	review
+325699017	172	SyuLB	SYULB00	[X]Sequelae of unspecified injury of head	285234008	424185011		32	review
+3280281000006110	28	^ESCTTR328028		Traumatic optic nerve injury	48233004	198114019		32	review
+3280301000006114	36	^ESCTTR328030		Trauma to optic nerve	48233004	1230560018		32	review
+3280321000006116	100	^ESCTOP328032		Optic nerve injury	48233004	2966604010		32	review
+3374751000006116	90	^ESCTIN337475		Injury of facial nerve	53933002	89652014		32	review
+3374791000006110	<5	^ESCTIN337479		Injury to facial nerve	53933002	496808019		32	review
+3414231000006117	<5	^ESCTMI341423		MID - Multi-infarct dementia	56267009	497558012		32	exclude - stroke/infarct
+3414251000006112	10484	^ESCTVA341425		VAD - Vascular dementia	56267009	497560014		32	exclude - stroke/infarct
+3414261000006114	<5	^ESCTMU341426		Multi infarct dementia	56267009	2921000019		32	exclude - stroke/infarct
+3441831000006111	46	^ESCTPR344183		Progressing stroke	57981008	96390010		32	exclude - stroke/infarct
+3441841000006118	<5	^ESCTST344184		Stroke-in-evolution syndrome	57981008	96391014		32	exclude - stroke/infarct
+345639010	150	G63-1	G63..11	Infarction - precerebral	230692004	345639010		32	exclude - stroke/infarct
+345650013	1074	G64z-1	G64z.11	Brainstem infarction NOS	95457000	158113017		32	exclude - stroke/infarct
+345655015	2347	G665	G665.00	Pure motor lacunar syndrome	230699008	345655015		32	exclude - stroke/infarct
+345658018	930	G666	G666.00	Pure sensory lacunar syndrome	230700009	345658018		32	exclude - stroke/infarct
+345756012	368	S642	S642.00	Traumatic cerebral oedema	230763008	345756012		32	1
+345756012	368	S642	S642.00	Traumatic cerebral oedema	230763008	345756012		32	1
+345764018	3871	Q48E	Q48E.00	Periventricular leucomalacia	230769007	345764018		32	exclude - other non-traumatic neurologic condition
+3508908014	<5	^ESCT1170740		Cognitive deficit due to and following nontraumatic intracerebral haemorrhage	291711000119109	3508908014		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+3508952018	23	^ESCT1170889		Cerebrovascular accident due to thrombus of left carotid artery	330791000119108	3508952018		32	exclude - stroke/infarct
+3508955016	221	^ESCT1170860		Cerebrovascular accident due to thrombus of basilar artery	329641000119104	3508955016		32	exclude - stroke/infarct
+3508956015	8	^ESCT1170861		Stroke due to basilar artery thrombus	329641000119104	3508956015		32	exclude - stroke/infarct
+3508958019	34	^ESCT1170862		Cerebrovascular accident due to thrombus of right carotid artery	329651000119102	3508958019		32	exclude - stroke/infarct
+3508961018	329	^ESCT1172901		Cerebrovascular accident due to thrombus of right middle cerebral artery	16002031000119102	3508961018		32	exclude - stroke/infarct
+3508962013	37	^ESCT1172902		Stroke due to thrombus of right middle cerebral artery	16002031000119102	3508962013		32	exclude - stroke/infarct
+3508964014	368	^ESCT1172903		Cerebrovascular accident due to thrombus of left middle cerebral artery	16002111000119106	3508964014		32	exclude - stroke/infarct
+3508965010	39	^ESCT1172904		Stroke due to thrombus of left middle cerebral artery	16002111000119106	3508965010		32	exclude - stroke/infarct
+3509769018	10	^ESCT1172974		Cerebrovascular accident due to occlusion of left cerebellar artery	16024151000119105	3509769018		32	exclude - stroke/infarct
+3509777019	7	^ESCT1172971		Cerebrovascular accident due to occlusion of left pontine artery	16023991000119104	3509777019		31	exclude - stroke/infarct
+3509779016	13	^ESCT1170810		Cerebrovascular accident due to occlusion of left vertebral artery	292691000119103	3509779016		31	exclude - stroke/infarct
+3509781019	20	^ESCT1172975		Cerebrovascular accident due to occlusion of right cerebellar artery	16024271000119107	3509781019		32	exclude - stroke/infarct
+3509790014	77	^ESCT1172898		Cerebrovascular accident due to occlusion of right posterior cerebral artery	16000391000119104	3509790014		32	exclude - stroke/infarct
+3509792018	34	^ESCT1172973		Cerebrovascular accident due to occlusion of left carotid artery	16024111000119109	3509792018		32	exclude - stroke/infarct
+3509794017	343	^ESCT1172900		Cerebrovascular accident due to occlusion of left middle cerebral artery	16000511000119103	3509794017		32	exclude - stroke/infarct
+3509799010	37	^ESCT1172897		Cerebrovascular accident due to occlusion of left posterior cerebral artery	16000351000119109	3509799010		32	exclude - stroke/infarct
+3509810017	247	^ESCT1172899		Cerebrovascular accident due to occlusion of right middle cerebral artery	16000431000119109	3509810017		32	exclude - stroke/infarct
+3509817019	14	^ESCT1170855		Left hemispheric cerebellar artery embolism with stroke	329461000119102	3509817019		32	exclude - stroke/infarct
+3510959018	<5	^ESCT1170881		Lacunar ataxic hemiparesis of left nondominant side	330411000119109	3510959018		32	exclude - stroke/infarct
+3510961010	29	^ESCT1170821		Lacunar ataxic hemiparesis of right dominant side	292851000119109	3510961010		32	exclude - stroke/infarct
+3510963013	31	^ESCT1170822		Lacunar ataxic hemiparesis of left dominant side	292861000119106	3510963013		32	exclude - stroke/infarct
+3510965018	<5	^ESCT1170882		Lacunar ataxic hemiparesis of right nondominant side	330421000119102	3510965018		32	exclude - stroke/infarct
+3511233018	<5	^ESCT1164847		Ruptured aneurysm of right posterior communicating artery	734879002	3511233018		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+3511237017	<5	^ESCT1164848		Ruptured aneurysm of left posterior communicating artery	734880004	3511237017		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+3513580016	<5	^ESCT1170613		Mild hypoxic ischemic encephalopathy of newborn	134831000119103	3513580016		31	exclude - child/baby
+3513724012	10	^ESCT1170531		Hypoxic ischaemic encephalopathy due to birth trauma	21601000119103	3513724012		31	exclude - child/baby
+3513728010	<5	^ESCT1170610		Moderate hypoxic ischaemic encephalopathy of newborn	134821000119101	3513728010		31	exclude - child/baby
+3514273013	6	^ESCT1170612		Mild hypoxic ischaemic encephalopathy of newborn	134831000119103	3514273013		31	exclude - child/baby
+3515080011	<5	^ESCT1165783		Bilateral injury of optic nerve	735646005	3515080011		31	review
+3515947019	5	^ESCT1170608		Severe hypoxic ischaemic encephalopathy of newborn	134811000119108	3515947019		31	exclude - child/baby
+3517181000006112	2282	^ESCTCO351718		Concussion with loss of consciousness	62564004	103979019		32	1
+3518235015	<5	^ESCT1172888		Neonatal non-traumatic intraventricular haemorrhage	15985031000119102	3518235015		31	exclude - child/baby
+3527224011	<5	^ESCT1167537		Traumatic haemorrhage of basal ganglia	737232003	3527224011		31	1
+356227014	2075	C132-2	C132.12	Sheehan's syndrome	237684005	356227014		32	exclude - other non-traumatic neurologic condition
+356251016	1743	C13A	C13A.00	Pituitary apoplexy	237701005	356251016		32	exclude - other non-traumatic neurologic condition
+35791000006117	6	S631	S631.00	Other cerebral h'ge after injury + open intracranial wound	450418003	2915288012		32	1
+35801000006116	60	S630	S630.00	Other cerebral h'ge after injury no open intracranial wound	450418003	2915288012		32	1
+359984010	274	Q2004-1	Q200411	Cerebral injury due to birth trauma	240312009	359984010		32	exclude - child/baby
+3636133016	14	^ESCT1170849		Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	329361000119107	3636133016		32	exclude - stroke/infarct
+3636136012	29	^ESCT1170850		Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus	329371000119101	3636136012		32	exclude - stroke/infarct
+3636139017	<5	^ESCT1170852		Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus	329431000119105	3636139017		32	exclude - stroke/infarct
+3636141016	<5	^ESCT1170853		Cerebrovascular accident due to occlusion of right cerebellar artery by embolus	329451000119104	3636141016		32	exclude - stroke/infarct
+3636143018	18	^ESCT1170854		Cerebrovascular accident due to occlusion of left cerebellar artery by embolus	329461000119102	3636143018		32	exclude - stroke/infarct
+3636500016	<5	^ESCT1169063		Traumatic injury of right optic tract	762363001	3636500016		31	review
+363791000006112	8333	Eu01-1	Eu01.11	[X]Arteriosclerotic dementia	56267009	497559016		32	exclude - stroke/infarct
+3653671000006113	<5	^ESCTMU365367		Multi-infarct dementia, uncomplicated	70936005	117833018		32	exclude - stroke/infarct
+366130012	329	A4zy1	A4zy100	Acute necrotising encephalitis	111897007	366130012		32	exclude - other non-traumatic neurologic condition
+3679771000006119	9	^ESCTIN367977		Injury of trigeminal nerve	72556006	120515018		32	review
+3679791000006118	33	^ESCTIN367979		Injury to trigeminal nerve	72556006	502154016		32	review
+3683061000006115	10	^ESCTIN368306		Injury of olfactory nerve	72758005	120864019		32	review
+3683091000006111	17	^ESCTIN368309		Injury to olfactory nerve	72758005	502221010		32	review
+370661000006114	232	Gyu6G	Gyu6G00	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	125081000119106	3042974014		32	exclude - stroke/infarct
+3719651000006117	1931	^ESCTPO371965		Post-traumatic epilepsy	75023009	124604012		32	review
+3719661000006115	<5	^ESCTPT371966		PTE - Post-traumatic epilepsy	75023009	1233822019		32	review
+3765291000006112	<5	^ESCTIN376529		Intracranial haemorrhage following injury with open intracranial wound	77768006	503672016		31	1
+3765301000006113	<5	^ESCTIN376530		Intracranial hemorrhage following injury with open intracranial wound	77768006	129069015		31	1
+3776231000006110	<5	^ESCTIN377623		Injury of hypoglossal nerve	78458000	130189019		32	review
+3776271000006113	<5	^ESCTHY377627		Hypoglossal nerve injury	78458000	503838010		32	review
+3776281000006111	24	^ESCTIN377628		Injury to hypoglossal nerve	78458000	503839019		32	review
+3777981000006119	196	^ESCTPO377798		Posterior inferior cerebellar artery syndrome	78569004	130373013		32	exclude - other non-traumatic neurologic condition
+3778021000006116	45	^ESCTLM377802		LMS - Lateral medullary syndrome	78569004	1234269010		32	exclude - stroke/infarct
+3783531000006114	<5	^ESCTLA378353		Laceration of brain	78914008	130942015		32	1
+3869221000006110	<5	^ESCTCO386922		Contusion of brain with open intracranial wound	84170006	139587015		32	1
+3881661000006119	122	^ESCTFA388166		Facial palsy as birth trauma	84947004	140843010		32	exclude - child/baby
+390533018	106	ESCTCR2		Crushing injury of skull and intracranial contents	262576002	390533018		32	1
+390534012	301	SF0-1	SF0..11	Crush injury of head	262576002	390534012		32	review
+390534012	301	SF0-1	SF0..11	Crush injury of head	262576002	390534012		32	review
+390672011	38501	S64-1	S64..11	Traumatic AND/OR non-traumatic brain injury	127294003	474103016		32	review
+390672011	38501	S64-1	S64..11	Traumatic AND/OR non-traumatic brain injury	127294003	474103016		32	review
+390673018	89	S61-1	S61..11	Cerebellar laceration and contusion	262687004	390673018		32	1
+390674012	22	S61-2	S61..12	Cortex laceration and contusion	262688009	390674012		32	1
+390682012	3914	S643	S643.00	Diffuse brain injury	262693007	390682012		32	1
+390682012	3914	S643	S643.00	Diffuse brain injury	262693007	390682012		32	1
+391028016	7783	S62A	S62A.00	Traumatic extradural haematoma	262949005	391028016		32	1
+391035012	58157	S629	S629.00	Traumatic subdural hematoma	262952002	2912898019		32	1
+391035012	58157	S629	S629.00	Traumatic subdural hematoma	262952002	2912898019		32	1
+391043019	3472	S627	S627.00	Traumatic haemorrhage into subarachnoid space of neuraxis	450375008	2915656010		32	1
+3923131000006116	<5	^ESCTCL392313		Claude's syndrome	87555007	145157012		32	exclude - stroke/infarct
+395780010	268904	G64z	G64z.00	Cerebral infarction	432504007	2770034014		32	exclude - stroke/infarct
+39711000006113	<5	S631z	S631z00	Oth cereb h'ge inj + open intracran wnd+concussion unspec	450418003	2915288012		32	1
+3972841000006114	8	^ESCTIN397284		Injury of accessory nerve	90630009	150204010		32	review
+3972861000006113	<5	^ESCTIN397286		Injury to accessory nerve	90630009	1235582010		32	review
+3972891000006117	35	^ESCTAC397289		Accessory nerve injury	90630009	2966678014		32	review
+39731000006119	<5	S6304	S630400	Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery	450418003	2915288012		32	1
+39751000006114	<5	S630z	S630z00	Oth cereb h'ge inj no open intracran wnd+concussion unspec	450418003	2915288012		32	1
+39761000006111	<5	S6306	S630600	Oth cereb h'ge inj no open intracran wnd+LOC unspec duration	450418003	2915288012		32	1
+3979001000006111	<5	^ESCTRE397900		Repeated concussion	91012008	150817017		31	1
+3979011000006114	<5	^ESCTRE397901		Repeated concussion of brain	91012008	2672506018		31	1
+39791000006115	<5	S6313	S631300	Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc	450418003	2915288012		32	1
+39831000006110	7	S6301	S630100	Oth cerebral h'ge inj no open intracranial wnd+no loss consc	450418003	2915288012		32	1
+39841000006117	5	S61y	S61y.00	Oth cerebral laceration/contusion + open intracranial wound	269144002	402921014		32	1
+39851000006115	21	S61x	S61x.00	Oth cerebral laceration/contusion no open intracranial wound	269144002	402921014		32	1
+398571000006112	16970	Eu013	Eu01300	Mixed cortical and subcortical vascular dementia	230287006	345112018		32	exclude - stroke/infarct
+399031000006111	13132	Eu011	Eu01100	[X]Multi-infarct dementia	56267009	93568017		32	exclude - stroke/infarct
+402206010	296	Q2000	Q200000	Cerebral haemorrhage unspecified, due to birth trauma	240312009	359984010		32	exclude - child/baby
+402208011	325	Q2004	Q200400	Brain injury due to birth trauma NOS	240312009	359984010		32	exclude - child/baby
+402209015	110	Q200z	Q200z00	Subdural or cerebral haemorrhage due to birth trauma NOS	240312009	359984010		32	exclude - child/baby
+402830019	1620	S04	S04..00	Multiple fractures involving skull or face with other bones	5468008	10127011		32	review
+402921014	1806	S61	S61..00	Cerebral laceration and contusion	269144002	402921014		32	1
+402929011	2183	S620	S620.00	Subarachnoid haemorrhage following injury without open intracranial wound	28048009	483737017		32	1
+402930018	1703	S624	S624.00	Extradural haemorrhage following injury without open intracranial wound	43216008	493552012		32	1
+402934010	22538	S64z	S64z.00	Intracranial injury NOS	127296001	584010		32	1
+402934010	22538	S64z	S64Z.00	Intracranial injury NOS	127296001	584010		32	1
+402979014	1470	SC20z	SC20Z00	Late effect of intracranial injury NOS	285234008	424185011		32	1
+40395011	8031	S01	S01..00	Skull base fracture	24063002	481804018		32	review
+404771000006118	9	Qyu20	Qyu2000	[X]Other intracranial lacerations and haemorrhages due to birth injury	206196005	316153011		32	exclude - child/baby
+405339016	1206655	G66	G66..00	Cerebrovascular accident	230690007	345637012		32	exclude - stroke/infarct
+4057031000006117	6	^ESCTBR405703		Brain stem infarct	95457000	158114011		32	exclude - stroke/infarct
+4057041000006110	<5	^ESCTBR405704		Brain stem stroke	95457000	2966556014		32	exclude - stroke/infarct
+4057051000006112	<5	^ESCTIN405705		Infarction of brain stem	95457000	2966602014		32	exclude - stroke/infarct
+411234012	36210	SC20z-1	SC20z11	Traumatic brain injury	127295002	583016		32	1
+411416011	13	L440-2	L440.12	Stroke in the puerperium	275434003	411416011		32	exclude - child/baby
+4174111000006110	10199	^ESCTCO417411		Concussion injury of brain	110030002	345267014		32	1
+4174151000006111	18	^ESCTMT417415		MTBI - Mild traumatic brain injury	110030002	3034714010		32	1
+4174161000006113	1199	^ESCTMI417416		Mild traumatic brain injury	110030002	3034729012		32	1
+4193641000006111	43	^ESCTNO419364		Nonparalytic stroke	111297002	178528011		32	exclude - stroke/infarct
+4198021000006116	<5	^ESCTCL419802		Closed skull fracture with intracranial haemorrhage	111611005	363953019		31	1
+4198031000006118	<5	^ESCTCL419803		Closed skull fracture with intracranial hemorrhage	111611005	178857019		31	1
+4198441000006117	<5	^ESCTEX419844		Extradural haemorrhage following injury with open intracranial wound AND loss of consciousness	111681000	364077018		32	1
+423091000006111	1444	Eu062	EU06200	Post-concussional syndrome	40425004	492616010		32	1
+423221000006117	406	Eu011-1	Eu01111	[X]Predominantly cortical dementia	56267009	93568017		32	exclude - other non-traumatic neurologic condition
+4270361000006116	92	^ESCTPA427036		Paralytic stroke	116288000	178738015		32	exclude - stroke/infarct
+431691000006119	1957	Eu010	Eu01000	Vascular dementia of acute onset	230285003	345110014		32	exclude - stroke/infarct
+4391061000006114	31	^ESCTHY439106		Hypoxic brain damage	126944002	1495634010		31	exclude - hypoxic/anoxic
+4391071000006119	<5	^ESCTBR439107		Brain disorder resulting from a period of impaired oxygen delivery to the brain	126944002	2771576019		31	exclude - hypoxic/anoxic
+4391081000006116	166	^ESCTPE439108		Perinatal anoxic-ischaemic brain injury	126945001	473947019		32	exclude - child/baby
+4391111000006110	578	^ESCTHI439111		HIE - Perinatal hypoxic - ischaemic encephalopathy	126945001	473949016		32	exclude - child/baby
+4391121000006119	5	^ESCTHI439112		HIE - Perinatal hypoxic - ischemic encephalopathy	126945001	473950016		32	exclude - child/baby
+4391131000006116	<5	^ESCTPE439113		Perinatal hypoxic - ischemic encephalopathy	126945001	473951017		32	exclude - child/baby
+4396211000006113	12	^ESCTBR439621		Brain tissue injury	127294003	474101019		32	review
+4396221000006117	<5	^ESCTIN439622		Intracerebral injury	127294003	474102014		32	review
+4396231000006119	22	^ESCTBR439623		Brain damage	127294003	3285264010		32	review
+4396241000006112	1703	^ESCTAC439624		Acquired brain injury	127294003	2273491000000112		32	review
+4396281000006118	664	^ESCTTR439628		Traumatic brain injury with loss of consciousness	127298000	586012		32	1
+4396291000006115	1231	^ESCTTR439629		Traumatic brain injury with brief loss of consciousness	127299008	587015		32	1
+4396301000006119	320	^ESCTTR439630		Traumatic brain injury with moderate loss of consciousness	127300000	588013		32	1
+4396311000006116	21	^ESCTTR439631		Traumatic brain injury with prolonged loss of consciousness	127301001	589017		32	1
+4396351000006115	7	^ESCTCE439635		Cerebellar contusion	127304009	592018		31	1
+4396451000006110	12	^ESCTIN439645		Intracranial haemorrhage following injury with brief loss of consciousness	127309004	474110010		32	1
+4396471000006117	<5	^ESCTIN439647		Intracranial haemorrhage following injury with moderate loss of consciousness	127310009	474111014		32	1
+4396511000006110	<5	^ESCTIN439651		Intracranial haemorrhage following injury with prolonged loss of consciousness without return to pre-existing conscious level	127312001	474113012		32	1
+448203011	9329	9NlG	9NLG.00	Seen by forensic psychiatrist	305695000	448203011		37	exclude - head/skull/spine not brain
+451133011	48199	G64z2	G64z200	Left sided cerebral infarction	307766002	451133011		32	exclude - stroke/infarct
+451134017	42909	G64z3	G64z300	Right sided cerebral infarction	307767006	451134017		32	exclude - stroke/infarct
+453341000006118	371	SJ15	SJ15.00	Injury to acoustic nerve	9441002	511288012		32	review
+455455016	32	S6420	S642000	Traumatic cerebral oedema without open intracranial wound	311825006	455455016		32	1
+455458019	8	S6421	S642100	Traumatic cerebral oedema with open intracranial wound	311826007	455458019		32	1
+455458019	8	S6421	S642100	Traumatic cerebral oedema with open intracranial wound	311826007	455458019		32	1
+455459010	24	S6450	S645000	Intracranial injury with prolonged coma without open wound	311827003	455459010		32	1
+455459010	24	S6450	S645000	Intracranial injury with prolonged coma without open wound	311827003	455459010		32	1
+455461018	15	S6451	S645100	Intracranial injury with prolonged coma with open wound	311829000	455461018		32	1
+455461018	15	S6451	S645100	Intracranial injury with prolonged coma with open wound	311829000	455461018		32	1
+459511018	541	S6290	S629000	Traumatic subdural haematoma without open intracranial wound	315046005	459511018		32	1
+459514014	195	S6291	S629100	Traumatic subdural haematoma with open intracranial wound	315047001	459514014		32	1
+459514014	195	S6291	S629100	Traumatic subdural haematoma with open intracranial wound	315047001	459514014		32	1
+459518012	34	S62A1	S62A100	Traumatic extradural haematoma with open intracranial wound	315049003	459518012		32	1
+473948012	2135	Q48F-1	Q48F.11	Perinatal hypoxic - ischaemic encephalopathy	126945001	473948012		32	exclude - child/baby
+476238012	32192	F4H40	F4H4000	Ischaemic optic neuropathy	14357004	476238012		32	exclude - optic/cranial nerve
+4778181000006119	12174	^ESCTLE477818		Left sided cerebral hemisphere cerebrovascular accident	195216008	300369014		32	exclude - stroke/infarct
+4778201000006118	10134	^ESCTRI477820		Right sided cerebral hemisphere cerebrovascular accident	195217004	300372019		32	exclude - stroke/infarct
+478651017	1205	SJ13	SJ13.00	Abducens (6th) nerve injury	1852004	478651017		32	review
+478654013	727	SJ13-1	SJ13.11	Sixth cranial nerve injury	1852004	478654013		32	review
+4838761000006111	27	^ESCTNE483876		Neonatal cerebral leucomalacia	206578007	316820016		32	exclude - child/baby
+485211000006119	544	SJ1y0-1	SJ1y011	Anosmia - traumatic - NOS	72758005	502221010		32	review
+485241000006115	2460	F281-1	F281.11	Anoxic-ischaemic encephalopathy	389101006	1476227018		32	exclude - hypoxic/anoxic
+4854331000006110	12	^ESCTTR485433		Traumatic subdural hemorrhage	209987007	320837018		32	1
+4854361000006118	5	^ESCTTR485436		Traumatic subdural intracranial haemorrhage	209987007	2912530015		32	1
+486309019	97	Q424	Q424.00	Kernicterus due to isoimmunisation	359007	486309019		32	exclude - other non-traumatic neurologic condition
+4866131000006113	217	^ESCTIN486613		Injury to oculomotor nerve	212145003	323628019		32	review
+486896012	1262	S630-2	S630.12	Intracranial haematoma following injury	37955001	486896012		32	1
+486896012	1262	S630-2	S630.12	Intracranial haematoma following injury	37955001	486896012		32	1
+492615014	72940	E2A2	E2A2.00	Post-concussion syndrome	40425004	492615014		32	1
+495378018	<5	SJ1y1-1	SJ1y111	Ninth cranial nerve injury	49384009	495378018		32	review
+495379014	15	SJ1y1	SJ1y100	Glossopharyngeal (9th) nerve injury	49384009	495379014		32	review
+496199018	3328	SN201	SN20100	Sunstroke	18615009	31390012		32	exclude - stroke/infarct
+496806015	2546	SJ14	SJ14.00	Facial (7th) nerve injury	53933002	496806015		32	exclude - other non-traumatic neurologic condition
+496807012	506	SJ14-99	SJ14.99	Facial nerve injury	53933002	496807012		32	review
+496809010	307	SJ14-1	SJ14.11	Seventh cranial nerve injury	53933002	496809010		32	review
+497559016	65543	E004	E004.00	Arteriosclerotic dementia	56267009	497559016		32	exclude - stroke/infarct
+499734016	<5	SJ1y2-1	SJ1y211	Tenth cranial nerve injury	640003	499734016		32	review
+499737011	31	SJ1y2	SJ1y200	Vagus (10th) nerve injury	640003	499737011		32	review
+5005741000006115	81	^ESCTTR500574		Traumatic encephalopathy	230282000	345103015		32	1
+5005761000006116	<5	^ESCTPO500576		Post-traumatic brain syndrome	230282000	345102013		32	1
+5008941000006114	430	^ESCTAR500894		Arteritic ischaemic optic neuropathy	230508004	345412011		32	exclude - optic/cranial nerve
+5008951000006111	<5	^ESCTAR500895		Arteritic ischemic optic neuropathy	230508004	345411016		32	exclude - optic/cranial nerve
+5008961000006113	2751	^ESCTNO500896		Non-arteritic ischaemic optic neuropathy	230509007	345413018		32	exclude - optic/cranial nerve
+5008971000006118	14	^ESCTNO500897		Non-arteritic ischemic optic neuropathy	230509007	345414012		32	exclude - optic/cranial nerve
+5009041000006115	7	^ESCTIN500904		Infarction of optic tract	230518009	345424016		32	exclude - optic/cranial nerve
+5009091000006112	<5	^ESCTIN500909		Infarction of optic radiation	230523009	345429014		32	exclude - optic/cranial nerve
+5009101000006118	<5	^ESCTIN500910		Injury of optic radiation	230524003	345430016		31	review
+5010981000006119	224570	^ESCTST501098		Stroke	230690007	345636015		32	exclude - stroke/infarct
+5011041000006118	1443	^ESCTAN501104		Anterior cerebral circulation infarction	230693009	345640012		32	exclude - stroke/infarct
+5011051000006116	3519	^ESCTTO501105		Total anterior cerebral circulation infarction	230694003	345644015		32	exclude - stroke/infarct
+5011061000006119	30	^ESCTTA501106		TACI - Total anterior cerebral circulation infarction	230694003	345641011		32	exclude - stroke/infarct
+5011071000006114	93	^ESCTTO501107		Total anterior cerebral circulation stroke	230694003	345642016		32	exclude - stroke/infarct
+5011081000006112	69	^ESCTTA501108		TACS - Total anterior cerebral circulation stroke	230694003	345643014		32	exclude - stroke/infarct
+5011091000006110	8699	^ESCTPA501109		Partial anterior cerebral circulation infarction	230695002	345645019		32	exclude - stroke/infarct
+5011101000006116	64	^ESCTPA501110		PACI - Partial anterior cerebral circulation infarction	230695002	345646018		32	exclude - stroke/infarct
+5011111000006118	184	^ESCTPA501111		Partial anterior cerebral circulation stroke	230695002	345647010		32	exclude - stroke/infarct
+5011121000006114	168	^ESCTPA501112		PACS - Partial anterior cerebral circulation stroke	230695002	345648017		32	exclude - stroke/infarct
+5011131000006112	6863	^ESCTPO501113		Posterior cerebral circulation infarction	230696001	345649013		32	exclude - stroke/infarct
+5011141000006119	225	^ESCTPO501114		Posterior cerebral circulation stroke	230696001	2966565019		32	exclude - stroke/infarct
+5011161000006115	370	^ESCTLA501116		Lacunar stroke	230698000	345652017		32	exclude - stroke/infarct
+5011171000006110	57	^ESCTLA501117		LACI - Lacunar infarction	230698000	345653010		32	exclude - stroke/infarct
+5011181000006113	12	^ESCTLI501118		LI - Lacunar infarction	230698000	345654016		32	exclude - stroke/infarct
+5011191000006111	344	^ESCTPU501119		Pure motor lacunar infarction	230699008	345656019		32	exclude - stroke/infarct
+5011211000006112	193	^ESCTPU501121		Pure sensory lacunar infarction	230700009	345657011		32	exclude - stroke/infarct
+5011231000006118	28	^ESCTPU501123		Pure sensorimotor lacunar infarction	230701008	345659014		32	exclude - stroke/infarct
+5011241000006111	101	^ESCTLA501124		Lacunar ataxic hemiparesis	230702001	345660016		32	exclude - stroke/infarct
+5011251000006113	12	^ESCTDY501125		Dysarthria-clumsy hand syndrome	230703006	345661017		32	exclude - stroke/infarct
+5011291000006119	815	^ESCTHA501129		Haemorrhagic cerebral infarction	230706003	345667018		32	exclude - stroke/infarct
+5011301000006118	<5	^ESCTHE501130		Hemorrhagic cerebral infarction	230706003	345666010		32	exclude - stroke/infarct
+5011331000006114	27	^ESCTAN501133		Anterior cerebral circulation haemorrhagic infarction	230707007	345668011		32	exclude - stroke/infarct
+5011351000006119	86	^ESCTPO501135		Posterior cerebral circulation haemorrhagic infarction	230708002	345671015		32	exclude - stroke/infarct
+5011361000006117	<5	^ESCTPO501136		Posterior cerebral circulation hemorrhagic infarction	230708002	345670019		32	exclude - stroke/infarct
+5011451000006114	262	^ESCTST501145		Stroke of uncertain pathology	230713003	345680015		32	exclude - stroke/infarct
+5011461000006111	794	^ESCTAN501146		Anterior circulation stroke of uncertain pathology	230714009	345681016		32	exclude - stroke/infarct
+5011471000006116	1887	^ESCTPO501147		Posterior circulation stroke of uncertain pathology	230715005	345682011		32	exclude - stroke/infarct
+5011571000006117	<5	^ESCTSU501157		Subarachnoid hemorrhage due to ruptured arteriovenous malformation	230718007	345692015		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5012241000006115	39	^ESCTPV501224		PVL - Periventricular leucomalacia	230769007	345765017		32	exclude - other non-traumatic neurologic condition
+5012251000006118	9	^ESCTWH501225		White matter necrosis	230769007	345766016		32	exclude - other non-traumatic neurologic condition
+5012261000006116	<5	^ESCTPE501226		Periventricular leucoencephalopathy	230769007	345767013		32	exclude - other non-traumatic neurologic condition
+5012291000006112	10	^ESCTPV501229		PVL - Periventricular leukomalacia	230769007	1490510012		32	exclude - other non-traumatic neurologic condition
+501406017	18	SJ01	SJ01.00	Optic chiasm injury	69820004	501406017		32	review
+502155015	185	SJ12	SJ12.00	Trigeminal (5th) nerve injury	72556006	502155015		32	review
+502156019	40	SJ12-1	SJ12.11	Fifth cranial nerve injury	72556006	502156019		32	review
+502220011	<5	SJ1y0-2	SJ1y012	First cranial nerve injury	72758005	502220011		32	review
+502222015	123	SJ1y0	SJ1y000	Olfactory (1st) nerve injury	72758005	502222015		32	review
+503836014	199	SJ17	SJ17.00	Hypoglossal (12th) nerve injury	78458000	503836014		32	review
+503837017	40	SJ17-1	SJ17.11	Twelfth cranial nerve injury	78458000	503837017		32	review
+505322013	4057	S62	S62..00	Cerebral haemorrhage following injury	450418003	2916363013		32	1
+505324014	994	S62-4	S62..14	Traumatic cerebral haemorrhage	450418003	2916058017		32	1
+505324014	994	S62-4	S62..14	Traumatic cerebral haemorrhage	450418003	2916058017		32	1
+5058411000006114	36	^ESCTRU505841		Ruptured cerebral aneurysm	233983001	350578011		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+506303011	2383	Q205	Q205.00	Facial nerve palsy due to birth trauma	84947004	506303011		32	exclude - child/baby
+5111051000006112	<5	^ESCTSH511105		Sheehan syndrome	237684005	2842058011		32	exclude - other non-traumatic neurologic condition
+511287019	26	SJ15-1	SJ15.11	Auditory cranial nerve injury	9441002	511287019		32	review
+513921000006111	803	Q200z-1	Q200z11	Birth brain damage NOS	240312009	359984010		32	exclude - child/baby
+5170121000006118	<5	^ESCTCE517012		Cerebral decompression injury	241993004	362239019		31	review
+5170131000006115	<5	^ESCTCE517013		Cerebellar decompression injury	241994005	362240017		31	review
+524321000006119	<5	S61yz	S61yz00	Brain cont + open intracranial wound + concussion unspec	269144002	402921014		32	1
+524321000006119	<5	S61yz	S61YZ00	Brain cont + open intracranial wound + concussion unspec	269144002	402921014		32	1
+524331000006116	5	S61y6	S61y600	Brain cont + open intracranial wound + LOC unspec duration	269144002	402921014		32	1
+524351000006111	<5	S61y0	S61y000	Brain cont + open intracranial wound + unspec state consc	269144002	402921014		32	1
+524361000006113	<5	S61x5	S61x500	Brain cont no open intracranial wnd + >24hr LOC not restored	34663006	57855014		32	1
+524371000006118	6	S61x2	S61x200	Brain cont no open intracranial wound + <1hr loss of consc	34663006	57855014		32	1
+524381000006115	<5	S61x4	S61x400	Brain cont no open intracranial wound + >24hr LOC + recovery	34663006	57855014		32	1
+524391000006117	<5	S61x3	S61x300	Brain cont no open intracranial wound + 1-24hr loss of consc	34663006	57855014		32	1
+524401000006115	24	S61xz	S61xz00	Brain cont no open intracranial wound + concussion unspec	269144002	402921014		32	1
+524401000006115	24	S61xz	S61XZ00	Brain cont no open intracranial wound + concussion unspec	269144002	402921014		32	1
+524411000006117	15	S61x6	S61x600	Brain cont no open intracranial wound + LOC unspec duration	269144002	402921014		32	1
+524421000006113	26	S61x1	S61x100	Brain cont no open intracranial wound + no loss of consc	34663006	57855014		32	1
+524431000006111	2781	S61x0	S61x000	Contusion of brain	34663006	57855014		32	1
+524511000006116	10707	G663	G663.00	Brainstem stroke syndrome	195212005	300365015		32	exclude - stroke/infarct
+524541000006117	5629	G64z0	G64z000	Brain stem infarction	95457000	158113017		32	exclude - stroke/infarct
+52931000006111	6	S0034	S003400	Open fracture of vault of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207710003	318140016		32	1
+542251000006112	1075	G6760	G676000	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic	195230003	300393016		32	exclude - stroke/infarct
+542261000006114	1743	G6W	G6W..00	Cerebral infarction due to occlusion of precerebral artery	125081000119106	3042974014		32	exclude - stroke/infarct
+5455801000006110	284	^ESCTCO545580		Contusion of cerebrum	262689001	390675013		32	1
+5455811000006113	16	^ESCTCE545581		Cerebral contusion	262689001	390676014		32	1
+5455861000006111	80	^ESCTDI545586		Diffuse axonal brain injury	262693007	390683019		32	1
+5455871000006116	<5	^ESCTTR545587		Traumatic generalised cerebral oedema	262694001	390684013		31	1
+5459161000006119	<5	^ESCTTR545916		Traumatic extradural hematoma	262949005	391026017		32	1
+5459181000006112	<5	^ESCTEX545918		Extradural haemorrhage after injury	262949005	391029012		32	1
+5459201000006113	83	^ESCTTR545920		Traumatic intracranial extradural haematoma	262949005	2916480013		32	1
+5459221000006115	<5	^ESCTTR545922		Traumatic cranial subdural haematoma	262952002	391036013		32	1
+5459231000006117	49	^ESCTTR545923		Traumatic intracranial subdural haematoma	262952002	391037016		32	1
+5459241000006110	12	^ESCTTR545924		Traumatic intracranial subdural hematoma	262952002	391038014		32	1
+5459251000006112	<5	^ESCTTR545925		Traumatic cranial subdural hematoma	262952002	391039018		32	1
+5459261000006114	79	^ESCTTR545926		Traumatic subdural haematoma	262952002	2913152010		32	1
+5459271000006119	658	^ESCTTR545927		Traumatic intracranial subarachnoid haemorrhage	262955000	391048011		32	1
+5459281000006116	17	^ESCTTR545928		Traumatic cranial subarachnoid hemorrhage	262955000	391046010		32	1
+5459291000006118	8	^ESCTTR545929		Traumatic intracranial subarachnoid hemorrhage	262955000	391047018		32	1
+5459301000006117	38	^ESCTTR545930		Traumatic cranial subarachnoid haemorrhage	262955000	391049015		32	1
+5477251000006119	<5	^ESCTHY547725		Hypothalamic injury	264534009	393005014		31	review
+5518041000006112	460	^ESCTSP551804		Spontaneous subarachnoid haemorrhage	270907008	405380011		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+5518061000006111	<5	^ESCTSP551806		Spontaneous subarachnoid hemorrhage	270907008	405378017		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+5518071000006116	18	^ESCTSA551807		SAH - Spontaneous subarachnoid haemorrhage	270907008	405379013		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+5518101000006114	<5	^ESCTNO551810		Nontraumatic subarachnoid intracranial hemorrhage	270907008	3449601019		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+5572571000006119	6	^ESCTFA557257		Falx laceration	275362006	411334014		31	1
+5572701000006119	<5	^ESCTCE557270		Cerebral trauma	275382005	411356012		31	1
+5582311000006110	5762	^ESCTOC558231		Occipital cerebral infarction	276219001	412270012		32	exclude - stroke/infarct
+5582321000006119	9	^ESCTFO558232		Foville syndrome	276220007	412271011		32	exclude - stroke/infarct
+5582331000006116	<5	^ESCTMI558233		Millard-Gubler syndrome	276221006	412272016		32	exclude - stroke/infarct
+5582351000006111	6	^ESCTTO558235		Top of basilar syndrome	276222004	412273014		32	exclude - stroke/infarct
+5587571000006111	5	^ESCTCE558757		Cerebral leucomalacia	276599001	412814019		31	exclude - other non-traumatic neurologic condition
+5587581000006114	<5	^ESCTCE558758		Cerebral leukomalacia	276599001	1477402015		31	exclude - other non-traumatic neurologic condition
+5588471000006111	59	^ESCTIN558847		Intraventricular haemorrhage of prematurity	276648002	412888011		31	exclude - child/baby
+5597481000006114	5	^ESCTRU559748		Ruptured aneurysm of anterior cerebral artery	277315000	413793011		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597491000006112	13	^ESCTRU559749		Ruptured aneurysm of middle cerebral artery	277316004	413794017		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597511000006118	<5	^ESCTRU559751		Ruptured aneurysm of posterior cerebral artery	277319006	413797012		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597521000006114	42	^ESCTRU559752		Ruptured aneurysm of anterior communicating artery	277320000	413798019		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597571000006110	8	^ESCTRU559757		Ruptured aneurysm of posterior communicating artery	277322008	413802018		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597601000006115	<5	^ESCTRU559760		Ruptured aneurysm of basilar artery	277324009	413805016		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597611000006117	<5	^ESCTRU559761		Ruptured aneurysm of posterior inferior cerebellar artery	277325005	413807012		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597651000006116	<5	^ESCTRU559765		Ruptured internal carotid-posterior communicating artery zone aneurysm	277329004	413811018		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5597661000006119	<5	^ESCTRU559766		Ruptured internal carotid bifurcation aneurysm	277330009	413812013		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+559961000006110	33	S0110	S011000	Closed #skull bse + intracranial inj, unspec state of consc	111603000	178853015		32	1
+559971000006115	31	S011z	S011z00	Closed #skull bse + intracranial injury + concussion unspec	111603000	178853015		32	1
+559971000006115	31	S011z	S011Z00	Closed #skull bse + intracranial injury + concussion unspec	111603000	178853015		32	1
+559981000006117	35	S0112	S011200	Closed fracture of base of skull with intracranial injury, with less than 1 hour loss of consciousness	207728001	318172018		32	1
+559991000006119	46	S0114	S011400	Closed fracture of base of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207730004	318174017		32	1
+5599911000006118	<5	^ESCTPO559991		Post-asphyxial encephalopathy	277478008	414016015		31	exclude - hypoxic/anoxic
+5599931000006112	6	^ESCTNE559993		Neonatal asphyxial encephalopathy	277480002	414019010		31	exclude - child/baby
+560001000006112	24	S0113	S011300	Closed fracture of base of skull with intracranial injury, with 1-24 hours loss of consciousness	207729009	318173011		32	1
+560011000006110	11	S0116	S011600	Closed #skull bse + intracranial injury, LOC unspec duration	111603000	178853015		32	1
+560011000006110	11	S0116	S011600	Closed #skull bse + intracranial injury, LOC unspec duration	111603000	178853015		32	1
+560021000006119	23	S0111	S011100	Closed fracture of base of skull with intracranial injury, with no loss of consciousness	207727006	318171013		32	1
+560281000006110	15	S0012	S001200	Closed fracture of vault of skull with intracranial injury, with less than 1 hour loss of consciousness	207690005	318120011		32	1
+560291000006113	21	S0014	S001400	Closed fracture of vault of skull with intracranial injury, with more than 24 hours loss of consciousness and return to pre-existing conscious level	207692002	318122015		32	1
+560301000006114	7	S0013	S001300	Closed fracture of vault of skull with intracranial injury, with 1-24 hours loss of consciousness	207691009	318121010		32	1
+560311000006112	16	S0016	S001600	Closed #skull vlt + intracranial injury, LOC unspec duration	207687004	318117015		32	1
+560311000006112	16	S0016	S001600	Closed #skull vlt + intracranial injury, LOC unspec duration	207687004	318117015		32	1
+560321000006116	7	S0011	S001100	Closed fracture of vault of skull with intracranial injury, with no loss of consciousness	207689001	318119017		32	1
+560331000006118	19	S0010	S001000	Closed #skull vlt + intracranial injury, unspec state consc	207687004	318117015		32	1
+560331000006118	19	S0010	S001000	Closed #skull vlt + intracranial injury, unspec state consc	207687004	318117015		32	1
+560421000006110	16	S001z	S001z00	Closed #skull vlt with intracranial injury+concussion unspec	207687004	318117015		32	1
+560421000006110	16	S001z	S001Z00	Closed #skull vlt with intracranial injury+concussion unspec	207687004	318117015		32	1
+560541000006119	<5	S041z	S041Z00	Closed #skull/face,mult + intracran inj, concussion unspec	5468008	10127011		32	1
+561651000006113	489	S011	S011.00	Closed fracture of base of skull with intracranial injury	111603000	178853015		32	1
+561651000006113	489	S011	S011.00	Closed fracture of base of skull with intracranial injury	111603000	178853015		32	1
+5649201000006113	16	^ESCTEX564920		Extension of cerebrovascular accident	281240008	419214014		32	exclude - stroke/infarct
+5656921000006118	13	^ESCTNO565692		Non-traumatic intracranial subdural haematoma	281864001	419994017		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+5656941000006113	<5	^ESCTNO565694		Non-traumatic extradural intracranial haematoma	281865000	419996015		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+57341000006119	404	G64z1	G64z100	Wallenberg's syndrome	78569004	130374019		32	exclude - stroke/infarct
+578281000006118	72	S603	S603.00	Concussion with more than 24 hours loss of consciousness and return to pre-existing conscious level	209829009	320594018		32	1
+578291000006115	19	S604	S604.00	Concussion with more than 24 hours loss of consciousness without return to pre-existing conscious level	209830004	320595017		32	1
+578321000006112	820	S605	S605.00	Concussion with loss of consciousness of unspecified duration	62564004	103980016		32	1
+578321000006112	820	S605	S605.00	Concussion with loss of consciousness of unspecified duration	62564004	103980016		32	1
+57855014	37	ESCTCO6		Contusion of brain	34663006	1955801000006113		32	1
+5912811000006111	34	^ESCTIN591281		Infarction of visual cortex	302904002	444898010		32	exclude - stroke/infarct
+5934401000006111	<5	^ESCTTR593440		Trochlear nerve injury	304838007	447227011		32	review
+5967391000006111	1559	^ESCTMU596739		Multiple lacunar infarcts	307363008	450609012		32	exclude - stroke/infarct
+597731000006115	<5	S6110	S611000	Cortex cont + open intracranial wound + unspec state consc	87888006	145700010		32	1
+597771000006117	5	S610z	S610Z00	Cortex cont no open intracranial wnd + concussion unspec	209834008	320602018		32	1
+597921000006116	<5	S6130	S613000	Cortex lacn + open intracranial wound + unspec state consc	59748008	99251014		32	1
+598001000006112	5	S6120	S612000	Cortex lacn no open intracranial wound + unspec state consc	78914008	130942015		32	1
+605461000006117	174069	G64-1	G64..11	CVA - cerebrovascular accident due to cerebral artery occlusion	230691006	345638019		32	exclude - stroke/infarct
+605481000006110	178	L440-1	L440.11	CVA - cerebrovascular accident in the puerperium	275434003	411416011		32	exclude - child/baby
+605491000006113	259786	G66-3	G66..13	CVA - Cerebrovascular accident	230690007	345635016		32	exclude - stroke/infarct
+605501000006117	601521	G66-1	G66..11	CVA unspecified	230690007	345637012		32	exclude - stroke/infarct
+608121000006111	341	SJ15-2	SJ15.12	Deafness - traumatic - NOS	9441002	511288012		32	review
+62810012	64	SC00	SC00.00	Late effect of fracture of skull and face bones	37655003	62810012		32	review
+6348291000006115	269	^ESCTTH634829		Thrombotic stroke	371040005	1209750017		32	exclude - stroke/infarct
+6348301000006119	1819	^ESCTEM634830		Embolic stroke	371041009	1209751018		32	exclude - stroke/infarct
+6349401000006115	179	^ESCTNE634940		Neonatal stroke	371121002	1209825011		32	exclude - child/baby
+637301000006111	21	SJ15-3	SJ15.13	Eighth cranial nerve injury	9441002	511288012		32	review
+6431861000006113	<5	^ESCTPE643186		Periventricular haemorrhagic venous infarct	384993003	1476007010		31	exclude - stroke/infarct
+6431871000006118	<5	^ESCTPE643187		Periventricular hemorrhagic venous infarct	384993003	1476968017		31	exclude - stroke/infarct
+647051000006114	339	S624-1	S624.11	Epidural haematoma following injury	262949005	391028016		32	1
+6511711000006119	751	^ESCTAN651171		Anoxic encephalopathy	389098007	1483154012		32	exclude - hypoxic/anoxic
+6511731000006113	6	^ESCTAN651173		Anoxic brain injury	389098007	1493630015		32	exclude - hypoxic/anoxic
+6511751000006118	<5	^ESCTIS651175		Ischaemic encephalopathy	389100007	1476226010		31	exclude - stroke/infarct
+6511761000006116	<5	^ESCTIS651176		Ischemic encephalopathy	389100007	1477187015		31	exclude - stroke/infarct
+659981000006114	<5	S625z	S625z00	Extradural h'ge inj + open intracran wnd+concussion unspec	65189006	108332012		32	1
+659991000006112	5	S6256	S625600	Extradural h'ge inj + open intracran wnd+LOC unspec duration	65189006	108332012		32	1
+660001000006119	<5	S6250	S625000	Extradural h'ge inj + open intracranial wnd + unspec consc	65189006	108332012		32	1
+660031000006110	14	S6246	S624600	Extradural h'ge inj no open intracra wnd+LOC unspec duration	262949005	391026017		32	1
+660071000006113	24	S624z	S624z00	Extradural h'ge inj no open intracran wnd+concussion unspec	262949005	391026017		32	1
+660071000006113	24	S624z	S624Z00	Extradural h'ge inj no open intracran wnd+concussion unspec	262949005	391026017		32	1
+660091000006114	12	S6240	S624000	Extradural h'ge inj no open intracranial wnd + unspec consc	262949005	391026017		32	1
+660111000006117	1215	G620	G620.00	Nontraumatic extradural haemorrhage	397809001	1773153015		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+660121000006113	2226	S62-1	S62..11	Traumatic intracranial haemorrhage	450410005	2915482010		32	1
+6702691000006113	112	^ESCTAN670269		Anterior ischaemic optic neuropathy	404659001	2153877019		31	exclude - optic/cranial nerve
+6702701000006113	14	^ESCTAN670270		Anterior ischemic optic neuropathy	404659001	2154900011		31	exclude - optic/cranial nerve
+6702711000006111	<5	^ESCTAI670271		AION - anterior ischaemic optic neuropathy	404659001	2161359010		31	exclude - optic/cranial nerve
+6702721000006115	7	^ESCTAI670272		AION - anterior ischemic optic neuropathy	404659001	2161501016		31	exclude - optic/cranial nerve
+6837051000006119	11	^ESCTBA683705		Basal ganglion stroke	413102000	2966612019		32	exclude - stroke/infarct
+6837061000006117	7	^ESCTBA683706		Basal ganglion infarct	413102000	2966650013		32	exclude - stroke/infarct
+6846141000006118	525	^ESCTCA684614		Cardioembolic stroke	413758000	2535208016		32	exclude - stroke/infarct
+6870941000006117	6	^ESCTPO687094		Posterior ischaemic optic neuropathy	415147002	2535615019		31	exclude - optic/cranial nerve
+6870961000006118	<5	^ESCTPI687096		PION - posterior ischemic optic neuropathy	415147002	2538164010		31	exclude - optic/cranial nerve
+695771000006119	114	S04z	S04Z.00	Multiple fractures involving skull/face with other bones NOS	5468008	10127011		32	review
+696121000006114	33	S043	S043.00	Mult #skull/face + other bones, open + intracranial injury	5468008	10127011		32	1
+696141000006119	33	S041	S041.00	Mult #skull/face+other bones, closed + intracranial injury	5468008	10127011		32	1
+696161000006115	43563	E004-1	E004.11	Multi-infarct dementia	56267009	93568017		32	exclude - stroke/infarct
+6990471000006119	<5	^ESCTHE699047		Herpes zoster acute retinal necrosis	422471006	2645759016		31	exclude - other non-traumatic neurologic condition
+6990981000006114	25865	^ESCTIS699098		Ischaemic stroke	422504002	2644234018		32	exclude - stroke/infarct
+6990991000006112	215	^ESCTIS699099		Ischemic stroke	422504002	2644233012		32	exclude - stroke/infarct
+702641000006119	7	S620-1	S620.11	Middle meningeal haemmorhage following injury	30400005	484576014		32	1
+7052011000006119	<5	^ESCTNO705201		Non-traumatic intracerebral ventricular haemorrhage	425957003	2675296015		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+7054171000006115	2006	^ESCTAC705417		Acute lacunar infarction	426107000	2674093010		32	exclude - stroke/infarct
+7067291000006113	204	^ESCTIN706729		Infarction of medulla oblongata	426983002	2675250011		32	exclude - stroke/infarct
+7071901000006111	272	^ESCTTH707190		Thalamic infarction	427296003	2674127019		31	exclude - stroke/infarct
+7071911000006114	43	^ESCTTH707191		Thalamic stroke	427296003	2966596011		31	exclude - stroke/infarct
+7081131000006113	<5	^ESCTDI708113		Diabetic ophthalmoplegia	427943001	2692270018		31	exclude - optic/cranial nerve
+7295961000006113	12	^ESCTSU729596		Superior cerebellar artery syndrome	444657001	2872687017		32	exclude - stroke/infarct
+7339271000006112	<5	^ESCTCO733927		Concussion injury of cerebrum	447396006	2882383015		32	1
+7339281000006110	991	^ESCTCE733928		Cerebral concussion	447396006	2882382013		32	1
+7378271000006116	160	^ESCTIN737827		Intracranial haemorrhage following injury	450410005	2915426010		32	1
+7378301000006119	<5	^ESCTTR737830		Traumatic intracranial hemorrhage	450410005	2915928019		32	1
+7378401000006111	10	^ESCTTR737840		Traumatic intracerebral hemorrhage	450418003	2915288012		32	1
+7378421000006118	52	^ESCTTR737842		Traumatic intracerebral haemorrhage	450418003	2915664016		32	1
+746591000006115	7	S6415	S641500	Intracran inj NOS + open intracran wnd+>24hr LOC -restored	127296001	584010		32	1
+746601000006111	11	S6416	S641600	Intracran inj NOS + open intracran wnd+LOC unspec duration	127296001	584010		32	1
+746611000006114	40	S6405	S640500	Intracran inj NOS no open intracran wnd+>24hr LOC -restored	127296001	584010		32	1
+746621000006118	427	S6406	S640600	Intracran inj NOS no open intracran wnd+LOC unspec duration	127296001	584010		32	1
+7497191000006114	13	^ESCTCH749719		Chronic non-traumatic intracranial subdural haemorrhage	609382000	2959633012		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+7511421000006118	19	^ESCTPO751142		Post-traumatic dementia with behavioural change	698687007	2975220017		32	1
+7573591000006110	222	^ESCTHY757359		Hypoxic ischaemic encephalopathy	703300001	3008244017		31	exclude - hypoxic/anoxic
+7573601000006119	30	^ESCTHY757360		Hypoxic ischemic encephalopathy	703300001	3008235018		31	exclude - hypoxic/anoxic
+7573611000006116	24	^ESCTHY757361		Hypoxic ischaemic brain injury	703300001	3008250010		31	exclude - hypoxic/anoxic
+7573621000006112	61	^ESCTHY757362		Hypoxic ischemic brain injury	703300001	3008281018		31	exclude - hypoxic/anoxic
+7573631000006110	9	^ESCTMI757363		Mild hypoxic ischaemic encephalopathy	703301002	3008238016		31	exclude - hypoxic/anoxic
+7573641000006117	<5	^ESCTMI757364		Mild hypoxic ischemic encephalopathy	703301002	3008242018		31	exclude - hypoxic/anoxic
+7573651000006115	9	^ESCTMO757365		Moderate hypoxic ischaemic encephalopathy	703302009	3008239012		31	exclude - hypoxic/anoxic
+7573671000006113	12	^ESCTSE757367		Severe hypoxic ischaemic encephalopathy	703303004	3008243011		31	exclude - hypoxic/anoxic
+7573681000006111	<5	^ESCTSE757368		Severe hypoxic ischemic encephalopathy	703303004	3008246015		31	exclude - hypoxic/anoxic
+7573711000006112	<5	^ESCTHY757371		Hypoxic ischaemic encephalopathy due to cardiac arrest	703305006	3008230011		31	exclude - hypoxic/anoxic
+7598981000006119	124	^ESCTCE759898		Cerebral infarction due to embolism of middle cerebral artery	705128004	3023367013		31	exclude - stroke/infarct
+7599001000006116	47	^ESCTCE759900		Cerebral infarction due to thrombosis of middle cerebral artery	705130002	3023374015		31	exclude - stroke/infarct
+761201000006112	17	7J432	7J43200	Fixation of fracture of spine and skull traction HFQ	265721002	394587017		32	exclude - head/skull/spine not brain
+768821000006111	93	S6400	S640000	Intracranial inj NOS no open intracran wnd + unspec consc	127296001	584010		32	1
+768831000006114	115	S6402	S640200	Intracranial inj NOS no open intracran wnd+<1hr loss consc	127296001	584010		32	1
+768841000006116	26	S6404	S640400	Intracranial inj NOS no open intracran wnd+>24hr LOC+recover	127296001	584010		32	1
+768851000006119	29	S6403	S640300	Intracranial inj NOS no open intracran wnd+1-24hr loss consc	127296001	584010		32	1
+768861000006117	70	S640z	S640z00	Intracranial inj NOS no open intracran wnd+concussion unspec	127296001	584010		32	1
+768861000006117	70	S640z	S640Z00	Intracranial inj NOS no open intracran wnd+concussion unspec	127296001	584010		32	1
+768871000006112	9573	S6401	S640100	Intracranial inj NOS no open intracran wnd+no loss consc	127296001	584010		32	1
+768881000006110	23477	S6	S6...00	Intracranial injury, without skull fracture	54355006	90339018		32	1
+768891000006113	47066	S64	S64..00	Intracranial injury	127296001	584010		32	1
+768891000006113	47066	S64	S64..00	Intracranial injury	127296001	584010		32	1
+768911000006110	229	S641	S641.00	Intracranial injury NOS + open intracranial wound	127296001	584010		32	1
+768911000006110	229	S641	S641.00	Intracranial injury NOS + open intracranial wound	127296001	584010		32	1
+768921000006119	6311	S640	S640.00	Intracranial injury NOS no open intracranial wound	127296001	584010		32	1
+768921000006119	6311	S640	S640.00	Intracranial injury NOS no open intracranial wound	127296001	584010		32	1
+768961000006113	183	S6z	S6Z..00	Intracranial injury, excluding those with skull fracture NOS	54355006	90339018		32	1
+769311000006117	6	S6414	S641400	Intracranial inj NOS + open intracran wnd+>24hr LOC+recovery	127296001	584010		32	1
+769321000006113	33	S641z	S641z00	Intracranial inj NOS + open intracran wnd+concussion unspec	127296001	584010		32	1
+769321000006113	33	S641z	S641Z00	Intracranial inj NOS + open intracran wnd+concussion unspec	127296001	584010		32	1
+769331000006111	<5	S6413	S641300	Intracranial inj NOS + open intracranial wnd + 1-24hr LOC	127296001	584010		32	1
+769341000006118	42	S6410	S641000	Intracranial inj NOS + open intracranial wnd + unspec consc	127296001	584010		32	1
+769351000006116	10	S6412	S641200	Intracranial inj NOS + open intracranial wnd+<1hr loss consc	127296001	584010		32	1
+769361000006119	583	S6411	S641100	Intracranial inj NOS + open intracranial wound+no loss consc	127296001	584010		32	1
+777751000006119	49	SRy0	SRy0.00	Injuries of brain and cranial nerves with injuries of nerves and spinal cord at neck level	213383004	325280017		32	exclude - optic/cranial nerve
+78268012	21	S630-1	S630.11	Cerebral compression due to injury	46966000	78268012		32	1
+7833641000006118	<5	^ESCTIN783364		Injury of brain stem due to birth trauma	722576009	3332776019		31	exclude - child/baby
+7834261000006115	<5	^ESCTFO783426		Focal haemorrhagic contusion of cerebrum	722615007	3332903015		31	1
+7834271000006110	<5	^ESCTFO783427		Focal hemorrhagic contusion of cerebrum	722615007	3332902013		31	1
+7834461000006119	<5	^ESCTFO783446		Focal injury of brainstem	722627005	3323290016		31	review
+7834471000006114	<5	^ESCTTR783447		Traumatic haemorrhage of subdural space of infratentorial region	722628000	3325385018		31	1
+7834531000006110	<5	^ESCTTR783453		Traumatic haemorrhage of cerebral white matter	722630003	3332930013		31	1
+7834571000006113	<5	^ESCTTR783457		Traumatic haemorrhage of cerebellum	722631004	3332935015		31	1
+7834611000006115	<5	^ESCTTR783461		Traumatic haemorrhage of brainstem	722632006	3332940011		31	1
+7834641000006116	<5	^ESCTHA783464		Haemorrhage of brainstem due to traumatic injury	722632006	3332942015		31	1
+7834651000006119	<5	^ESCTMU783465		Multiple traumatic haemorrhages of brain tissue	722633001	3332945018		31	1
+7835431000006112	<5	^ESCTTR783543		Traumatic intraventricular haemorrhage	722703002	3334334012		31	1
+7838271000006115	<5	^ESCTPE783827		Perinatal arterial ischaemic stroke	722929005	3333965019		31	exclude - child/baby
+7839991000006115	281	^ESCTSI783999		Silent cerebral infarct	723082006	3334556014		32	exclude - stroke/infarct
+7840631000006118	101	^ESCTIS784063		Ischaemic vascular dementia	723123001	3334662012		32	exclude - stroke/infarct
+7840641000006111	<5	^ESCTIS784064		Ischemic vascular dementia	723123001	3334661017		32	exclude - stroke/infarct
+7843021000006118	<5	^ESCTFA784302		Familial acute necrotising encephalopathy	723359002	3424226011		31	exclude - other non-traumatic neurologic condition
+7855631000006111	225	^ESCTCE785563		Cerebral ischaemic stroke due to small artery occlusion	724424009	3438036013		32	exclude - stroke/infarct
+7855641000006118	<5	^ESCTCE785564		Cerebral ischemic stroke due to small artery occlusion	724424009	3438035012		32	exclude - stroke/infarct
+7855651000006116	<5	^ESCTCE785565		Cerebral ischaemic stroke due to intracranial large artery atherosclerosis	724425005	3438046010		31	exclude - stroke/infarct
+7855711000006113	18	^ESCTST785571		Stroke co-occurrent with migraine	724429004	3498186019		32	exclude - stroke/infarct
+7855721000006117	<5	^ESCTST785572		Stroke and migraine	724429004	3498187011		32	exclude - stroke/infarct
+7863741000006115	<5	^ESCTCE786374		Cerebral ischemic stroke due to stenosis of extracranial large artery	724994008	3436999014		31	exclude - stroke/infarct
+7958831000006112	16	^ESCTAR795883		Arteritic anterior ischaemic optic neuropathy	733506009	3499582018		31	exclude - optic/cranial nerve
+7958861000006115	<5	^ESCTAR795886		Arteritic anterior ischemic optic neuropathy	733506009	3499581013		31	exclude - optic/cranial nerve
+7965581000006110	21	^ESCTCL796558		Closed injury of head	451000119106	2916992016		31	review
+7965591000006113	164	^ESCTCL796559		Closed head injury	451000119106	2916751017		31	review
+7991141000006110	<5	^ESCTOC799114		Occlusion of cerebral artery with stroke	9901000119100	2967598015		31	exclude - stroke/infarct
+8015131000006115	<5	^ESCTCE801513		Cerebral infarction due to vertebral artery occlusion	34191000119104	2968199019		31	exclude - stroke/infarct
+8031281000006118	89	^ESCTCE803128		Cerebral infarction due to stenosis of carotid artery	99451000119105	2967601013		32	exclude - stroke/infarct
+8033241000006113	10	^ESCTMU803324		Multi-infarct dementia due to atherosclerosis	106021000119105	3306365017		32	exclude - stroke/infarct
+8044481000006118	2324	^ESCTIS804448		Ischaemic stroke without coma	140921000119102	2967538018		32	exclude - stroke/infarct
+8045741000006119	176	^ESCTNO804574		Nontraumatic intraparenchymal cerebral haemorrhage	143521000119103	2984396019		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+8045751000006117	<5	^ESCTSP804575		Spontaneous intraparenchymal cerebral haemorrhage	143521000119103	2984150019		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+8045761000006115	<5	^ESCTSP804576		Spontaneous intraparenchymal cerebral hemorrhage	143521000119103	2984188017		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+8045771000006110	<5	^ESCTNO804577		Nontraumatic intraparenchymal cerebral hemorrhage	143521000119103	2984239014		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+8046951000006114	<5	^ESCTCE804695		Cerebral infarction due to carotid artery occlusion	149821000119103	2967501018		31	exclude - stroke/infarct
+80749019	6218	S00	S00..00	Fracture of vault of skull	48466003	80749019		32	review
+8089861000006119	9	^ESCTSU808986		Subacute non-traumatic intracranial subdural haemorrhage	291591000119107	2959517016		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+8089871000006114	6	^ESCTSP808987		Spontaneous subacute subdural hemorrhage	291591000119107	2959496014		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+8089891000006110	5	^ESCTSP808989		Spontaneous subacute subdural haemorrhage	291591000119107	2959805014		31	exclude - non-traumatic haemorrhage/injury/aneurysm
+8090471000006119	<5	^ESCTCE809047		Cerebral infarction due to stenosis of precerebral artery	293831000119105	3043006017		31	exclude - stroke/infarct
+8106261000006116	<5	^ESCTTR810626		Traumatic subarachnoid haemorrhage with loss of consciousness	329671000119106	3487914011		31	1
+823511000006117	<5	S616	S616.00	Hind brain laceration without open intracranial wound	78914008	130942015		32	1
+823521000006113	<5	S6176	S617600	Hind brain lacn + open intracran wnd + LOC unspec duration	209900006	320672017		32	1
+823551000006116	<5	S617z	S617z00	Hind brain lacn + open intracranial wnd + concussion unspec	209900006	320672017		32	1
+823571000006114	<5	S6170	S617000	Hind brain lacn + open intracranial wnd + unspec state consc	209900006	320672017		32	1
+823591000006110	<5	S6166	S616600	Hind brain lacn no open intracran wnd + LOC unspec duration	78914008	130942015		32	1
+823601000006119	<5	S6165	S616500	Hind brain lacn no open intracran wnd+>24hr LOC not restored	78914008	130942015		32	1
+823611000006116	<5	S6162	S616200	Hind brain lacn no open intracranial wnd + <1hr loss consc	78914008	130942015		32	1
+823621000006112	<5	S6163	S616300	Hind brain lacn no open intracranial wnd + 1-24hr loss consc	78914008	130942015		32	1
+823631000006110	<5	S616z	S616z00	Hind brain lacn no open intracranial wnd + concussion unspec	78914008	130942015		32	1
+823641000006117	<5	S6161	S616100	Hind brain lacn no open intracranial wnd + no loss consc	78914008	130942015		32	1
+823651000006115	<5	S6164	S616400	Hind brain lacn no open intracranial wnd +>24hr LOC+recovery	78914008	130942015		32	1
+823661000006118	<5	S6160	S616000	Hind brain lacn no open intracranial wnd +unspec state consc	78914008	130942015		32	1
+83530016	59	Q4370	Q437000	Bilirubin encephalopathy	50143004	83530016		32	exclude - other non-traumatic neurologic condition
+8453031000006117	7253	^ESCTHA845303		Haemorrhagic stroke	1078001000000105	2702821000000119		32	exclude - stroke/infarct
+86021000006119	135	S62A0	S62A000	Traumatic extradural haematoma without open intracranial wound	315048006	459515010		32	1
+884431000006116	110	G620-99	G620.99	Extradural haemorrhage	397809001	884431000006116		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+884441000006114	1171	G621-99	G621.99	Subdural haemorrhage	195176009	884441000006114		32	exclude - non-traumatic haemorrhage/injury/aneurysm
+88501000006117	722	SJ11	SJ11.00	Injury of trochlear nerve	304838007	2470217018		32	review
+894091000006111	18	Q200-99	Q200.99	Cerebral haemorrhage - birth	206196005	894091000006111		32	exclude - child/baby
+894141000006115	12	Q205-99	Q205.99	Facial nerve injury - birth	84947004	894141000006115		32	exclude - child/baby
+894401000006111	5	Q424-99	Q424.99	Kernicterus - due to isoimm.	359007	894401000006111		32	exclude - other non-traumatic neurologic condition
+896521000006112	125	S61-99	S61..99	Cerebral laceration/contusion	269144002	896521000006112		32	1
+897431000006113	575	SC200-99	SC20099	Post traumatic epilepsy	75023009	897431000006113		32	review
+928621000006111	1267	C3151	C315100	MELAS - Mitochondrial encephalopathy, lactic acidosis and stroke-like episodes	39925003	1229580019		32	exclude - stroke/infarct
+9875641000006111	46	^ESCTCE987564		Cerebrovascular accident due to right carotid artery occlusion	16023911000119108	3308761018		32	exclude - stroke/infarct
+9875951000006117	32	^ESCTCE987595		Cerebrovascular accident due to right carotid artery stenosis	16026951000119102	3308759010		32	exclude - stroke/infarct
+9875961000006115	39	^ESCTCE987596		Cerebrovascular accident due to left carotid artery stenosis	16026991000119107	3308763015		32	exclude - stroke/infarct
+9912271000006112	3675	^ESCTCE991227		Cerebellar stroke	16371781000119100	3320493016		32	exclude - stroke/infarct
+99251014	11	S613	S613.00	Cortex laceration with open intracranial wound	59748008	99251014		32	1
