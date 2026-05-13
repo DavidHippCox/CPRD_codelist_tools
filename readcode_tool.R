@@ -49,9 +49,8 @@ readcode_tool <- function(fileA,
 
   # ---- Normalisation ----
   if (normalise) {
-    clean_readcode <- function(x) toupper(trimws(x))
-    A_codes[, readcode := clean_readcode(readcode)]
-    B_codes[, readcode := clean_readcode(readcode)]
+    A_codes[, readcode := toupper(trimws(readcode))]
+    B_codes[, readcode := toupper(trimws(readcode))]
   }
 
   # ---- Deduplicate ----
@@ -208,7 +207,7 @@ oxcprd_001b_aurum_read <- file.path(oxcprd_001b_codelist_tools, "aurum/readcodes
 gold_txt <- file.path(oxcprd_001b_gold_read, "medical/medical_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_read, "medical/CPRDAurumMedical_202601.txt")
 
-group_A <- file.path(oxcprd_001b_gold_read, "v1_neuropsychariatric_codes_GOLD.txt")
+group_A <- file.path(oxcprd_001b_gold_read, "v1.5_dementia_codes_GOLD.txt")
 
 group_B <- file.path(aurum_txt)
 
