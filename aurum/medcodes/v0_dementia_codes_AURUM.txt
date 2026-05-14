@@ -5,43 +5,43 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 12106381000006114	44	^ESCT1210638		BPSD - behavioural and psychological symptoms of dementia	10171000132106	3672962011		31	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 12106391000006112	28	^ESCT1210639		Behavioral and psychological symptoms of dementia	10171000132106	3672963018		31	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 12116721000006112	224	^ESCT1211672		Dementia advance care planning declined	1098271000000104	2749881000000117		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-1221500015	330	E040	E040.00	Non-alcoholic amnestic syndrome	17262008	1221500015		32	Mild cognitive impairment			AT to review - possible dementia/pseudodementia
+1221500015	330	E040	E040.00	Non-alcoholic amnestic syndrome	17262008	1221500015		32	Mild cognitive impairment			
 1235534016	73	F21y2-1	F21y211	Binswanger's encephalopathy	90099008	1235534016		32	Vascular dementia			
 12370641000006110	16	^ESCT1237064		Dementia with mixed etiology	79341000119107	3670850017		32	Unspecified			
 12370651000006112	1110	^ESCT1237065		MVAD - Mixed vascular Alzheimer dementia	79341000119107	3670851018		32	Unspecified			
 12370661000006114	61	^ESCT1237066		Dementia with mixed aetiology	79341000119107	3670852013		32	Unspecified			
-125891000006119	45	F24y0-2	F24y012	Steele - Richardson Oszewski syndrome	28978003	48512013		32	PSP - rare?			AT to review - possible dementia/pseudodementia
-125901000006115	160	F24y0-1	F24y011	Steele Richardson Olszewsk syn	28978003	48512013		32	PSP - rare?			AT to review - possible dementia/pseudodementia
+125891000006119	45	F24y0-2	F24y012	Steele - Richardson Oszewski syndrome	28978003	48512013		32	PSP - rare?			
+125901000006115	160	F24y0-1	F24y011	Steele Richardson Olszewsk syn	28978003	48512013		32	PSP - rare?			
 12625101000006116	2259733	^ESCT1262510		QOF (Quality and Outcomes Framework) quality indicator-related care invitation	1109921000000106	2777371000000119		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 12626321000006119	26013	^ESCT1262632		QOF (Quality and Outcomes Framework) dementia quality indicator-related care invitation	1110901000000109	2779781000000113		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-12702281000006111	180	^ESCT1270228		Degenerative brain disorder	52522001	198391016		32	Unspecified			AT to review - possible dementia/pseudodementia
+12702281000006111	180	^ESCT1270228		Degenerative brain disorder	52522001	198391016		32	Unspecified			
 12734321000006118	435	^ESCT1273432		QOF (Quality and Outcomes Framework) dementia quality indicator-related care invitation using preferred method of communication	143381000000102	1628231000000118		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 13530081000006117	<5	^ESCT1353008		PRKAR1B-related neurodegenerative dementia with intermediate filaments	774069007	3727868019		32	Unspecified			
-13627771000006114	<5	^ESCT1362777		ABri amyloidosis	783161005	3757897019		32	Rare inherited			AT to review - possible dementia/pseudodementia
+13627771000006114	<5	^ESCT1362777		ABri amyloidosis	783161005	3757897019		32	Rare inherited			
 13810191000006114	<5	^ESCT1381019		SDLT - senile dementia of Lewy body type	312991009	3760331014		32	Lewy body dementia			
 13909621000006119	424	^ESCT1390962		Aggression due to dementia	788861009	3786008015		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 13909641000006114	2240	^ESCT1390964		Agitation due to dementia	788862002	3786010018		27	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 13913061000006118	61	^ESCT1391306		Disinhibited behaviour due to dementia	789170003	3787502016		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 13934381000006118	151	^ESCT1393438		Cortical vascular dementia	833326008	3884948011		32	Vascular dementia			
-13935251000006116	217	^ESCT1393525		Amnestic mild cognitive disorder	836301008	3890853014		32	Mild cognitive impairment			AT to review
-13935261000006119	8	^ESCT1393526		aMCI - amnestic mild cognitive impairment	836301008	3891030015		32	Mild cognitive impairment			AT to review
-13937211000006114	<5	^ESCT1393721		Lytico Bodig disease	838276009	3896346015		32	Rare?			AT to review - possible dementia/pseudodementia
+13935251000006116	217	^ESCT1393525		Amnestic mild cognitive disorder	836301008	3890853014		32	Mild cognitive impairment			
+13935261000006119	8	^ESCT1393526		aMCI - amnestic mild cognitive impairment	836301008	3891030015		32	Mild cognitive impairment			
+13937211000006114	<5	^ESCT1393721		Lytico Bodig disease	838276009	3896346015		32	Rare?			
 13943181000006116	6	^ESCT1394318		Classical sporadic Creutzfeldt-Jakob disease	840452004	3943136017		32	Rare?			
 14091281000006114	<5	^ESCT1409128		Dementia with progressive multifocal leucoencephalopathy	733193001	3866551016		32	Vascular dementia			
-14195861000006111	<5	^ESCT1419586		Huntington disease	58756001	4024764019		32	Dementia in HD			AT to review - possible dementia/pseudodementia
+14195861000006111	<5	^ESCT1419586		Huntington disease	58756001	4024764019		32	Dementia in HD			
 14464361000006117	32	^ESCT1446436		Autosomal dominant Alzheimer disease due to mutation of presenilin 1	1156800008	4576889014		32	Alzheimer's disease			
 14479161000006110	9143	^ESCT1447916		Review of dementia care plan	1148161000000104	1996991000000118		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 14514611000006117	<5	^ESCT1451461		Altered behaviour due to Pick's disease	82351000119105	4570086011		32	Frontotemporal dementia			
-14575911000006117	78	^ESCT1457591		Chronic traumatic encephalopathy	1187004001	4668702019		32	Rare?			AT to review - possible dementia/pseudodementia
-14575921000006113	13	^ESCT1457592		CTE - chronic traumatic encephalopathy	1187004001	4668701014		32	Rare?			AT to review - possible dementia/pseudodementia
+14575911000006117	78	^ESCT1457591		Chronic traumatic encephalopathy	1187004001	4668702019		32	Rare?			
+14575921000006113	13	^ESCT1457592		CTE - chronic traumatic encephalopathy	1187004001	4668701014		32	Rare?			
 14669181000006111	<5	^ESCT1466918		Presenile dementia with AIDS (acquired immunodeficiency syndrome)	421023003	4577567013		32	Dementia in aids	E		
 14669521000006116	18	^ESCT1466952		Dementia with AIDS (acquired immunodeficiency syndrome)	421529006	4577418013		32	Dementia in aids			
-14799151000006112	236	^ESCT1479915		Cognitive impairment caused by ethanol	1234774002	5083958010		32	Alcohol		Alcoholic dementia	AT to review
-14799161000006114	33	^ESCT1479916		Cognitive impairment caused by alcohol	1234774002	5083956014		32	Alcohol		Alcoholic dementia	AT to review
+14799151000006112	236	^ESCT1479915		Cognitive impairment caused by ethanol	1234774002	5083958010		32	Alcohol		Alcoholic dementia	
+14799161000006114	33	^ESCT1479916		Cognitive impairment caused by alcohol	1234774002	5083956014		32	Alcohol		Alcoholic dementia	
 14805251000006118	14	^ESCT1480525		Behavioural disturbance due to multi-infarct dementia	293671000119109	5025336010		32	Vascular dementia			
 148381000006115	185586	E00-2	E00..12	Senile/presenile dementia	52448006	87274019		32	Unspecified	E		
-1491795010	91912	28E3	28E3.00	Cognitive impairment	386806002	1491795010		27	Mild cognitive impairment			AT to review
-1491798012	196736	28E	28E..00	Cognitive decline	386806002	1491798012		27	Mild cognitive impairment			AT to review
+1491795010	91912	28E3	28E3.00	Cognitive impairment	386806002	1491795010		27	Mild cognitive impairment			
+1491798012	196736	28E	28E..00	Cognitive decline	386806002	1491798012		27	Mild cognitive impairment			
 149347010	712	F21y2	F21y200	Binswanger's disease	90099008	149347010		32	Vascular dementia			
 15035231000006112	5	^ESCT1503523		Amyotrophic lateral sclerosis with frontotemporal dementia	1259124000	5155723010		32	Frontotemporal dementia			
 15035271000006110	41	^ESCT1503527		Alzheimer disease with psychosis	1259128002	5155731017		32	Alzheimer's disease			
@@ -52,15 +52,15 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 15041761000006110	<5	^ESCT1504176		Dementia due to atypical pantothenate kinase associated neurodegeneration	1259679007	5158778017		32	Rare?			
 15215571000006110	53	^ESCT1521557		Logopenic non-amnestic Alzheimer disease	1263555006	5169555015		32	Alzheimer's disease			
 15215821000006112	25	^ESCT1521582		Frontal variant non-amnestic Alzheimer disease	1263585001	5169132011		32	Alzheimer's disease			
-15317021000006119	4006	^ESCT1531702		Mild neurocognitive disorder	386805003	5245425012		32	Mild cognitive impairment			AT to review
+15317021000006119	4006	^ESCT1531702		Mild neurocognitive disorder	386805003	5245425012		32	Mild cognitive impairment			
 1576281000006119	126	EGTON2EGTONAL1		Cause of Death- Alzheimer'S Disease	1576281000006103	1576281000006119		37	Alzheimer's disease			
-16350311000006115	40	^ESCT1635031		Lewy body disease	80098002	5447540014		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
+16350311000006115	40	^ESCT1635031		Lewy body disease	80098002	5447540014		32	Lewy body dementia			
 16354761000006111	<5	^ESCT1635476		Alzheimer's disease with progressive aphasia	230280008	5406673017		32	Alzheimer's disease			
 16359631000006110	18	^ESCT1635963		Late onset dementia due to Lewy body disease	312991009	5447550010		32	Lewy body dementia			
 16370941000006119	<5	^ESCT1637094		Alzheimer's disease with depressed mood	142001000119106	5406671015		32	Alzheimer's disease			
-1776531000006118	925	EMISNQRE211		Reason for referral: Cognitive Problems	1776531000006102	1776531000006118		40	Mild cognitive impairment			AT to review
+1776531000006118	925	EMISNQRE211		Reason for referral: Cognitive Problems	1776531000006102	1776531000006118		40	Mild cognitive impairment			
 1805751000006115	14	EMISNQVA13		Variant Creutzfeldt-Jakob disease	304603007	2532511011		32	Dementia in CJD			
-1807641000006115	791	EMISNQIM12		Impaired cognition	386806002	1807641000006115		27	Mild cognitive impairment			AT to review
+1807641000006115	791	EMISNQIM12		Impaired cognition	386806002	1807641000006115		27	Mild cognitive impairment			
 1823871000006112	611	EMISNQDE35		Dementia confirmed	1823871000006108	1823871000006112		27	Unspecified			
 1834091000006117	<5	EMISNQDE37		Dementia care plan	1834091000006101	1834091000006117		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 1916981000006111	<5	EMISNQDE54		Dementia medication review	1916981000006107	1916981000006111		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
@@ -143,18 +143,18 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1976831000006111	968	EMISICD10|F0194		Vascular dementia, unspecified, other mixed symptoms	1976831000006107	1976831000006111		32	Vascular dementia			
 2002211000006119	262	EMISNQMI228		Mild cognitive impairment annual review	1052381000000103	2648391000000112		1	Mild cognitive impairment			not for subtyping (including unspecified) just evidence of to get index date
 21256010	18525	E001	E001.00	Presenile dementia	12348006	21256010		32	Unspecified	E		
-215831000000117	157316	Eu057	Eu05700	Mild cognitive disorder	386805003	1480925015		32	Mild cognitive impairment			AT to review
-2159230012	2866	3AE1	3AE1.00	GDS level 2 - very mild cognitive decline	407630006	2159230012		3	Mild cognitive impairment			AT to review
-2159231011	5998	3AE2	3AE2.00	GDS level 3 - mild cognitive decline	407631005	2159231011		3	Mild cognitive impairment			AT to review
-2159232016	8333	3AE3	3AE3.00	GDS level 4 - moderate cognitive decline	407632003	2159232016		3	Mild cognitive impairment			AT to review
-2159233014	6100	3AE4	3AE4.00	GDS level 5 - moderately severe cognitive decline	407633008	2159233014		3	Mild cognitive impairment			AT to review
-2159234015	6434	3AE5	3AE5.00	GDS level 6 - severe cognitive decline	407634002	2159234015		3	Mild cognitive impairment			AT to review
-2159235019	1874	3AE6	3AE6.00	GDS level 7 - very severe cognitive decline	407635001	2159235019		3	Mild cognitive impairment			AT to review
+215831000000117	157316	Eu057	Eu05700	Mild cognitive disorder	386805003	1480925015		32	Mild cognitive impairment			
+2159230012	2866	3AE1	3AE1.00	GDS level 2 - very mild cognitive decline	407630006	2159230012		3	Mild cognitive impairment			
+2159231011	5998	3AE2	3AE2.00	GDS level 3 - mild cognitive decline	407631005	2159231011		3	Mild cognitive impairment			
+2159232016	8333	3AE3	3AE3.00	GDS level 4 - moderate cognitive decline	407632003	2159232016		3	Mild cognitive impairment			
+2159233014	6100	3AE4	3AE4.00	GDS level 5 - moderately severe cognitive decline	407633008	2159233014		3	Mild cognitive impairment			
+2159234015	6434	3AE5	3AE5.00	GDS level 6 - severe cognitive decline	407634002	2159234015		3	Mild cognitive impairment			
+2159235019	1874	3AE6	3AE6.00	GDS level 7 - very severe cognitive decline	407635001	2159235019		3	Mild cognitive impairment			
 22408016	2884	F111	F111.00	Pick's disease	13092008	22408016		32	Frontotemporal dementia			
 2248021000000110	536379	8CMZ	8CMZ.00	Dementia care plan	736371006	3517265010		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-2288201000000116	103130	28E0	28E0.00	Mild cognitive impairment	386805003	2956731015		32	Mild cognitive impairment			AT to review
-2288241000000118	13109	28E1	28E1.00	Moderate cognitive impairment	702955000	3006646017		27	Mild cognitive impairment			AT to review
-2288281000000114	7030	28E2	28E2.00	Severe cognitive impairment	702956004	3006632017		27	Mild cognitive impairment			AT to review
+2288201000000116	103130	28E0	28E0.00	Mild cognitive impairment	386805003	2956731015		32	Mild cognitive impairment			
+2288241000000118	13109	28E1	28E1.00	Moderate cognitive impairment	702955000	3006646017		27	Mild cognitive impairment			
+2288281000000114	7030	28E2	28E2.00	Severe cognitive impairment	702956004	3006632017		27	Mild cognitive impairment			
 2290431000000110	788	8BPa	8BPa.00	Antipsychotic drug therapy for dementia	700214004	2989656010		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 2345801000000113	12610	8IAe0	8IAe000	Dementia advance care plan declined	956881000000103	2439671000000110		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 2345881000000115	217654	8CSA	8CSA.00	Dementia advance care plan agreed	1095121000000102	2743011000000119		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
@@ -175,8 +175,8 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2502981000006117	7	^ESCTAL250298		Alcohol-induced persisting dementia	281004	1558011		32	Alcohol		Alcoholic dementia	
 2510951000006114	634	^ESCTCR251095		Creutzfeldt-Jakob disease	792004	2387010		32	Dementia in CJD			
 2510981000006118	11	^ESCTCJ251098		CJD - Creutzfeldt-Jakob disease	792004	1234325017		32	Dementia in CJD			
-2551441000006116	<5	^ESCTAM255144		Amnestic syndrome	3298001	485379011		32	Mild cognitive impairment			AT to review - possible dementia/pseudodementia
-2551451000006119	13	^ESCTAM255145		Amnesic syndrome	3298001	485380014		32	Mild cognitive impairment			AT to review - possible dementia/pseudodementia
+2551441000006116	<5	^ESCTAM255144		Amnestic syndrome	3298001	485379011		32	Mild cognitive impairment			
+2551451000006119	13	^ESCTAM255145		Amnesic syndrome	3298001	485380014		32	Mild cognitive impairment			
 2575731000006115	38	^ESCTPR257573		Primary degenerative dementia of the Alzheimer type, senile onset, with delirium	4817008	9023015		32	Alzheimer's disease			
 2575741000006113	<5	^ESCTDE257574		Dementia of the Alzheimer's type, with late onset, with delirium	4817008	9024014		32	Alzheimer's disease			
 2575751000006110	<5	^ESCTDE257575		Dementia Alzheimers type, late onset with delirium	4817008	2951806012		32	Alzheimer's disease			
@@ -189,12 +189,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2617211000000117	22	9Nip		Did not attend mild cognitive impairment review	1036961000000106	2617211000000117		37	Mild cognitive impairment			not for subtyping (including unspecified) just evidence of to get index date
 2620431000000115	5730	8BM50		Shared care prescribing of drug for dementia	719787003	3317833010		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 2620471000000118	98	8BM60		Shared care prescribing of drugs for dementia declined	720022007	3318963016		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-2638111000000116	4043	6AQ		Mild cognitive impairment review	1047041000000108	2638111000000116		1	Mild cognitive impairment			AT to review
+2638111000000116	4043	6AQ		Mild cognitive impairment review	1047041000000108	2638111000000116		1	Mild cognitive impairment			
 26545010	356023	E00-1	E00..11	Senile dementia	15662003	26545010		32	Unspecified			
 2664601000006115	12	^ESCTMU266460		Multi-infarct dementia with delirium	10349009	18020012		32	Vascular dementia			
 2664611000006117	5	^ESCTVA266461		Vascular dementia, with delirium	10349009	18021011		32	Vascular dementia			
 2667431000006115	138	^ESCTPR266743		Primary degenerative dementia of the Alzheimer type, presenile onset, with depression	10532003	18304011		32	Alzheimer's disease	E		
-2707651000006116	<5	^ESCTCI270765		Circumscribed cerebral atrophy	13092008	22409012		32	Unspecified			AT to review - possible dementia/pseudodementia
+2707651000006116	<5	^ESCTCI270765		Circumscribed cerebral atrophy	13092008	22409012		32	Unspecified			
 2707661000006119	<5	^ESCTPI270766		Pick disease	13092008	2838911012		32	Frontotemporal dementia			
 2707671000006114	<5	^ESCTPI270767		Picks disease	13092008	2923478011		32	Frontotemporal dementia			
 2714871000000112	17769	ESCTSI53		Signposting to dementia support service	1083391000000101	2714871000000112		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
@@ -206,17 +206,17 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2742991000000115	34400	^ESCT1172376		Review of dementia advance care plan	1095111000000108	2742991000000115		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 2743011000000119	46653	^ESCT1172377		Dementia advance care plan agreed	1095121000000102	2743011000000119		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 2748441000006111	<5	^ESCTSD274844		SD - Senile dementia	15662003	1221222011		32	Unspecified			
-2825541000006118	69	^ESCTPR282554		Prion disease	20484008	34472014		32	Rare			AT to review - possible dementia/pseudodementia
-2854601000006117	5	^ESCTPR285460		Progressive multifocal leukoencephalopathy	22255007	37365019		32	Rare			AT to review - possible dementia/pseudodementia
-2854611000006119	<5	^ESCTMU285461		Multifocal leukoencephalopathy	22255007	37367010		32	Vascular dementia			AT to review - possible dementia/pseudodementia
-2854631000006113	<5	^ESCTMU285463		Multifocal leucoencephalopathy	22255007	481282014		32	Vascular dementia			AT to review - possible dementia/pseudodementia
+2825541000006118	69	^ESCTPR282554		Prion disease	20484008	34472014		32	Rare			
+2854601000006117	5	^ESCTPR285460		Progressive multifocal leukoencephalopathy	22255007	37365019		32	Rare			
+2854611000006119	<5	^ESCTMU285461		Multifocal leukoencephalopathy	22255007	37367010		32	Vascular dementia			
+2854631000006113	<5	^ESCTMU285463		Multifocal leucoencephalopathy	22255007	481282014		32	Vascular dementia			
 2912321000006113	<5	^ESCTMU291232		Multi-infarct dementia with delusions	25772007	43182011		32	Vascular dementia			
 2912331000006111	<5	^ESCTVA291233		Vascular dementia, with delusions	25772007	43183018		32	Vascular dementia			
 2929931000006112	46	^ESCTPR292993		Primary degenerative dementia of the Alzheimer type, senile onset, with depression	26852004	44934012		32	Alzheimer's disease			
 2931231000006118	68	^ESCTAD293123		AD - Alzheimer's disease	26929004	1225144019		32	Alzheimer's disease			
 2931241000006111	696	^ESCTAL293124		Alzheimer disease	26929004	2839267017		32	Alzheimer's disease			
 2931251000006113	6152	^ESCTAL293125		Alzheimer dementia	26929004	3424952012		32	Alzheimer's disease			
-293711000006110	663	R140z	R140z00	Neurocognitive disorder	709073001	3037963010		32	Mild cognitive impairment			AT to review
+293711000006110	663	R140z	R140z00	Neurocognitive disorder	709073001	3037963010		32	Mild cognitive impairment			
 294111000000119	2485	9hD	9hD..00	Exception reporting - dementia quality indicators	715881000000108	1568441000000113		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 294321000000111	17953	9hD1	9hD1.00	Excepted from dementia quality indicators - informed dissent	716131000000105	1568691000000118		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 294635013	113711	E000	E000.00	Uncomplicated senile dementia	191449005	294635013		32	Unspecified			
@@ -251,24 +251,24 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 295688010	58980	Eu023	Eu02300	Dementia in Parkinsons disease	425390006	2921040013		32	PDD			
 295690011	1695	Eu02y	Eu02y00	[X]Dementia in other specified diseases classif elsewhere	191519005	2547722017		32	Unspecified			
 295714013	3122	Eu041	Eu04100	[X]Delirium superimposed on dementia	2776000	5694012		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-296990017	6	F1020	F102000	Cerebral degeneration in Gaucher's disease	192791009	296990017		32	Rare			AT to review - possible dementia/pseudodementia
+296990017	6	F1020	F102000	Cerebral degeneration in Gaucher's disease	192791009	296990017		32	Rare			
 296991018	5	F1021	F102100	Cerebral degeneration in Niemann-Pick disease	192792002	296991018		32	Frontotemporal dementia			
-296992013	<5	F102z	F102z00	Cerebral degeneration in lipidosis NOS	192794001	296993015		32	Rare			AT to review - possible dementia/pseudodementia
-296993015	19	F103	F103.00	Cerebral degeneration in diseases EC	192794001	296993015		32	Rare			AT to review - possible dementia/pseudodementia
-296994014	38	F1030	F103000	Cerebral degeneration in Hunter's disease	192795000	296994014		32	Rare			AT to review - possible dementia/pseudodementia
-296995010	9	F1031	F103100	Cerebral degeneration in mucopolysaccharidoses	192796004	296995010		32	Rare			AT to review - possible dementia/pseudodementia
-296996011	127	F103z	F103z00	Cerebral degeneration in disease NOS	192794001	296993015		32	Rare			AT to review - possible dementia/pseudodementia
-297000018	3793	F11	F11..00	Degenerative brain disorder	52522001	87406016		32	Unspecified			AT to review - possible dementia/pseudodementia
+296992013	<5	F102z	F102z00	Cerebral degeneration in lipidosis NOS	192794001	296993015		32	Rare			
+296993015	19	F103	F103.00	Cerebral degeneration in diseases EC	192794001	296993015		32	Rare			
+296994014	38	F1030	F103000	Cerebral degeneration in Hunter's disease	192795000	296994014		32	Rare			
+296995010	9	F1031	F103100	Cerebral degeneration in mucopolysaccharidoses	192796004	296995010		32	Rare			
+296996011	127	F103z	F103z00	Cerebral degeneration in disease NOS	192794001	296993015		32	Rare			
+297000018	3793	F11	F11..00	Degenerative brain disorder	52522001	87406016		32	Unspecified			
 297011014	3812	F11x0-1	F11x011	Alcoholic encephalopathy	192811002	297011014		32	Alcohol		Korsakov's syndrome	
-297012019	<5	F11x1	F11x100	Cerebral degeneration due to beriberi	192812009	297012019		32	Rare			AT to review - possible dementia/pseudodementia
-297013012	660	F11x2	F11x200	Cerebral degeneration due to cerebrovascular disease	192813004	297013012		32	Vascular dementia			AT to review - possible dementia/pseudodementia
-297015017	<5	F11x4	F11x400	Cerebral degeneration due to neoplastic disease	192815006	297015017		32	Unspecified			AT to review - possible dementia/pseudodementia
-297022013	122	F11xz	F11xz00	Cerebral degeneration other disease NOS	192794001	296993015		32	Unspecified			AT to review - possible dementia/pseudodementia
-297025010	277	F11yz	F11yz00	Other cerebral degeneration NOS	418143002	2577820013		32	Unspecified			AT to review - possible dementia/pseudodementia
+297012019	<5	F11x1	F11x100	Cerebral degeneration due to beriberi	192812009	297012019		32	Rare			
+297013012	660	F11x2	F11x200	Cerebral degeneration due to cerebrovascular disease	192813004	297013012		32	Vascular dementia			
+297015017	<5	F11x4	F11x400	Cerebral degeneration due to neoplastic disease	192815006	297015017		32	Unspecified			
+297022013	122	F11xz	F11xz00	Cerebral degeneration other disease NOS	192794001	296993015		32	Unspecified			
+297025010	277	F11yz	F11yz00	Other cerebral degeneration NOS	418143002	2577820013		32	Unspecified			
 299325013	526	Fyu30	Fyu3000	[X]Other Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
-299641000000112	72960	Eu025	Eu02500	Diffuse Lewy body disease	80098002	132893017		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
-3189531000006118	<5	^ESCTDI318953		Diffuse Lewy body disease with spongiform cortical change	42769004	71362016		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
-3240651000006113	<5	^ESCTAG324065		Age-related degeneration of brain	45864009	2966662012		32	Unspecified			AT to review - possible dementia/pseudodementia
+299641000000112	72960	Eu025	Eu02500	Diffuse Lewy body disease	80098002	132893017		32	Lewy body dementia			
+3189531000006118	<5	^ESCTDI318953		Diffuse Lewy body disease with spongiform cortical change	42769004	71362016		32	Lewy body dementia			
+3240651000006113	<5	^ESCTAG324065		Age-related degeneration of brain	45864009	2966662012		32	Unspecified			
 3350441000006115	<5	^ESCTOR335044		Organic dementia	52448006	2970981011		32	Unspecified			
 3384371000006119	<5	^ESCTPR338437		Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions	54502004	90601018		32	Alzheimer's disease	E		
 3392881000006115	16	^ESCTPR339288		Primary degenerative dementia of the Alzheimer type, senile onset, with delusions	55009008	91452019		32	Alzheimer's disease			
@@ -277,23 +277,23 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3414251000006112	10484	^ESCTVA341425		VAD - Vascular dementia	56267009	497560014		32	Vascular dementia			
 3414261000006114	<5	^ESCTMU341426		Multi infarct dementia	56267009	2921000019		32	Vascular dementia			
 345092016	6225	F118	F118.00	Frontotemporal degeneration	230273006	345092016		32	Frontotemporal dementia			
-3454551000006117	16	^ESCTHU345455		Huntington chorea	58756001	2838433019		32	Dementia in HD			AT to review - possible dementia/pseudodementia
+3454551000006117	16	^ESCTHU345455		Huntington chorea	58756001	2838433019		32	Dementia in HD			
 346929012	7987	E012-1	E012.11	Alcoholic dementia	281004	1225776018		32	Alcohol		Alcoholic dementia	
 3511181000006115	9	^ESCTPA351118		Parkinson-dementia complex of Guam	62239001	103435012		31	PDD			
 3558401000006117	<5	^ESCTPR355840		Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium	65096006	108178014		32	Alzheimer's disease	E		
-35741000006114	546	F11y	F11y.00	Other cerebral degeneration	52522001	87406016		32	Unspecified			AT to review - possible dementia/pseudodementia
+35741000006114	546	F11y	F11y.00	Other cerebral degeneration	52522001	87406016		32	Unspecified			
 3575041000006117	264	^ESCTPR357504		Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated	66108005	109791011		32	Alzheimer's disease			
 359081000006118	696	Eu02z-1	Eu02z11	[X] Presenile dementia NOS	12348006	21256010		32	Unspecified	E		
 359101000006114	497	Eu02z-3	Eu02z13	Cerebral degeneration presenting primarily with dementia	279982005	417465012		32	Unspecified			
 359141000006111	48866	Eu02z-4	Eu02z14	[X] Senile dementia NOS	15662003	26545010		32	Unspecified			
 359151000006113	917	Eu02z-6	Eu02z16	[X] Senile dementia, depressed or paranoid type	191457008	294644014		32	Unspecified			
-3591821000006112	33	^ESCTGE359182		Gerstmann-Straussler-Scheinker syndrome	67155006	111548011		32	Rare			AT to review - possible dementia/pseudodementia
+3591821000006112	33	^ESCTGE359182		Gerstmann-Straussler-Scheinker syndrome	67155006	111548011		32	Rare			
 359241000006119	678097	Eu02z	Eu02z00	Dementia	52448006	87274019		32	Unspecified			
 362941000006113	3571	Eu107-1	Eu10711	[X]Alcoholic dementia NOS	281004	1225776018		32	Alcohol		Alcoholic dementia	
 3630091000006111	26	^ESCTWE363009		Wernicke-Korsakoff syndrome	69482004	115435016		32	Alcohol		Korsakov's syndrome	
-3630121000006110	13	^ESCTKO363012		Korsakoff psychosis	69482004	501295013		32	Alcohol		Korsakov's syndrome	AT to review - possible dementia/pseudodementia
+3630121000006110	13	^ESCTKO363012		Korsakoff psychosis	69482004	501295013		32	Alcohol		Korsakov's syndrome	
 3630141000006115	9	^ESCTKO363014		Korsakov syndrome - alcoholic	69482004	501297017		32	Alcohol		Korsakov's syndrome	
-3630151000006118	<5	^ESCTKO363015		Korsakov psychosis	69482004	501298010		32	Alcohol		Korsakov's syndrome	AT to review - possible dementia/pseudodementia
+3630151000006118	<5	^ESCTKO363015		Korsakov psychosis	69482004	501298010		32	Alcohol		Korsakov's syndrome	
 3630161000006116	62	^ESCTAM363016		Amnesic syndrome due to alcohol	69482004	501299019		32	Alcohol		Alcoholic dementia	
 3630171000006111	82	^ESCTAL363017		Alcoholic amnestic syndrome	69482004	501300010		32	Alcohol		Alcoholic dementia	
 363021000006113	67422	Eu00z-1	Eu00z11	[X]Alzheimer's dementia unspec	26929004	45046017		32	Alzheimer's disease			
@@ -305,35 +305,35 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 363791000006112	8333	Eu01-1	Eu01.11	[X]Arteriosclerotic dementia	56267009	497559016		32	Vascular dementia			
 3653671000006113	<5	^ESCTMU365367		Multi-infarct dementia, uncomplicated	70936005	117833018		32	Vascular dementia			
 370961000006119	496	Eu107-2	Eu10712	[X]Chronic alcoholic brain syndrome	191475009	294668018		32	Alcohol		Alcoholic dementia	
-37365019	284	A413-1	A413.11	PML - Progressive multifocal leukoencephalopathy	22255007	481280018		32	Vascular dementia			AT to review - possible dementia/pseudodementia
+37365019	284	A413-1	A413.11	PML - Progressive multifocal leukoencephalopathy	22255007	481280018		32	Vascular dementia			
 376531000006119	13078	Eu000	Eu00000	Dementia in Alzheimer's disease with early onset	416780008	2957119019		32	Alzheimer's disease	E		
 376541000006112	123295	Eu001	Eu00100	Dementia in Alzheimer's disease with late onset	416975007	2957137018		32	Alzheimer's disease			
 376571000006116	379	Eu024	Eu02400	[X]Dementia in human immunodef virus [HIV] disease	421529006	2622767013		32	Dementia in HIV			
 3802621000006119	6	^ESCTLE380262		Lewy body variant of Alzheimer's disease	80098002	132894011		32	Lewy body dementia			
-3802641000006114	65	^ESCTLB380264		LBD - Lewy body disease	80098002	1234436013		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
+3802641000006114	65	^ESCTLB380264		LBD - Lewy body disease	80098002	1234436013		32	Lewy body dementia			
 3802651000006111	3918	^ESCTDE380265		Dementia of the Lewy body type	80098002	1234437016		32	Lewy body dementia			
-3802661000006113	21	^ESCTDL380266		DLBD - Diffuse Lewy body disease	80098002	1234438014		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
-3802671000006118	16	^ESCTCO380267		Cortical Lewy body disease	80098002	1234439018		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
-394681000006119	9871	Eu106-1	Eu10611	Korsakoff's psychosis	69482004	115434017		32	Alcohol		Korsakov's syndrome	AT to review - possible dementia/pseudodementia
-3964591000006117	22	^ESCTSU396459		Subcortical leucoencephalopathy	90099008	508841015		32	Vascular dementia			AT to review - possible dementia/pseudodementia
+3802661000006113	21	^ESCTDL380266		DLBD - Diffuse Lewy body disease	80098002	1234438014		32	Lewy body dementia			
+3802671000006118	16	^ESCTCO380267		Cortical Lewy body disease	80098002	1234439018		32	Lewy body dementia			
+394681000006119	9871	Eu106-1	Eu10611	Korsakoff's psychosis	69482004	115434017		32	Alcohol		Korsakov's syndrome	
+3964591000006117	22	^ESCTSU396459		Subcortical leucoencephalopathy	90099008	508841015		32	Vascular dementia			
 3964651000006112	<5	^ESCTSU396465		Subcortical arteriosclerotic encephalopathy	90099008	1235535015		32	Vascular dementia			
 3964661000006114	<5	^ESCTSU396466		Subcortical atherosclerotic dementia	90099008	1235536019		32	Vascular dementia			
-3964671000006119	<5	^ESCTCH396467		Chronic progressive subcortical encephalopathy	90099008	1235537011		32	Vascular dementia			AT to review - possible dementia/pseudodementia
+3964671000006119	<5	^ESCTCH396467		Chronic progressive subcortical encephalopathy	90099008	1235537011		32	Vascular dementia			
 397791000006118	962	Eu106	Eu10600	Alcohol amnestic disorder	73097000	121405015		32	Alcohol		Alcoholic dementia	
 398571000006112	16970	Eu013	Eu01300	Mixed cortical and subcortical vascular dementia	230287006	345112018		32	Vascular dementia			
 399031000006111	13132	Eu011	Eu01100	[X]Multi-infarct dementia	56267009	93568017		32	Vascular dementia			
-399393010	43770	F11z	F11z.00	Cerebral degeneration	418143002	2577820013		32	Unspecified			AT to review - possible dementia/pseudodementia
+399393010	43770	F11z	F11z.00	Cerebral degeneration	418143002	2577820013		32	Unspecified			
 399481000000113	147	4L49	4L49.00	Prion protein markers for Creutzfeldt-Jakob disease	1018591000000102	2583551000000117		3	Dementia in CJD			
 401760017	1960	E012	E012.00	Other alcoholic dementia	281004	1225776018		32	Alcohol		Alcoholic dementia	
-403921000006119	657	Eu03	Eu03.00	Amnestic disorder	3298001	6563014		32	Mild cognitive impairment			AT to review - possible dementia/pseudodementia
-404241000006118	128497	Ryu51	Ryu5100	Impaired cognition	386806002	1480926019		27	Mild cognitive impairment			AT to review
+403921000006119	657	Eu03	Eu03.00	Amnestic disorder	3298001	6563014		32	Mild cognitive impairment			
+404241000006118	128497	Ryu51	Ryu5100	Impaired cognition	386806002	1480926019		27	Mild cognitive impairment			
 408361000000111	161901	9Ou1	9Ou1.00	Dementia monitoring first letter	715821000000107	1568381000000110		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 408401000000119	1311964	6AB	6AB..00	Dementia annual review	249181000000100	408401000000119		1	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 408421000000111	40885	9Ou2	9Ou2.00	Dementia monitoring second letter	717471000000101	1570011000000111		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 408461000000115	10908	9Ou3	9Ou3.00	Dementia monitoring third letter	716671000000102	1569221000000112		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 408481000000112	7737	9Ou4	9Ou4.00	Dementia monitoring verbal invitation	716221000000104	1568781000000111		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 408501000000115	24162	9Ou5	9Ou5.00	Dementia monitoring telephone invitation	716991000000108	1569541000000119		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-415873013	57437	F11z-1	F11z.11	Cerebral atrophy	278849000	415873013		32	Unspecified			AT to review - possible dementia/pseudodementia
+415873013	57437	F11z-1	F11z.11	Cerebral atrophy	278849000	415873013		32	Unspecified			
 423221000006117	406	Eu011-1	Eu01111	[X]Predominantly cortical dementia	56267009	93568017		32	Unspecified			
 423351000006115	617	Eu000-1	Eu00011	[X]Presenile dementia,Alzheimer's type	416780008	2957138011		32	Alzheimer's disease	E		
 423381000006111	287	Eu001-3	Eu00113	[X]Primary degen dementia of Alzheimer's type, senile onset	416975007	2957137018		32	Alzheimer's disease			
@@ -345,10 +345,10 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 45046017	1283817	F110	F110.00	Alzheimer's disease	26929004	45046017		32	Alzheimer's disease			
 476361000006114	774	E011	E011.00	Alcohol amnestic syndrome	69482004	501300010		32	Alcohol		Alcoholic dementia	
 4768981000006114	7	^ESCTCE476898		Cerebral degeneration due to Creutzfeldt-Jakob disease	192818008	297019011		32	Dementia in CJD			
-481281019	1616	A413	A413.00	Progressive multifocal leucoencephalopathy	22255007	481281019		32	Vascular dementia			AT to review - possible dementia/pseudodementia
-48512013	2891	F1304	F130400	Progressive supranuclear ophthalmoplegia	28978003	48512013		32	PSP - rare			AT to review - possible dementia/pseudodementia
-48513015	25103	F24y0	F24y000	Progressive supranuclear palsy	28978003	48512013		32	PSP - rare			AT to review - possible dementia/pseudodementia
-48515010	291	F24y2	F24y200	Steele-Richardson-Olszewski syndrome	28978003	48512013		32	PSP - rare			AT to review - possible dementia/pseudodementia
+481281019	1616	A413	A413.00	Progressive multifocal leucoencephalopathy	22255007	481281019		32	Vascular dementia			
+48512013	2891	F1304	F130400	Progressive supranuclear ophthalmoplegia	28978003	48512013		32	PSP - rare			
+48513015	25103	F24y0	F24y000	Progressive supranuclear palsy	28978003	48512013		32	PSP - rare			
+48515010	291	F24y2	F24y200	Steele-Richardson-Olszewski syndrome	28978003	48512013		32	PSP - rare			
 497559016	65543	E004	E004.00	Arteriosclerotic dementia	56267009	497559016		32	Vascular dementia			
 4997811000006116	<5	^ESCTLA499781		Language disorder of dementia	229672009	344277018		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 499946014	29375	F1100	F110000	Alzheimer's disease with early onset	416780008	2957141019		32	Alzheimer's disease	E		
@@ -362,20 +362,20 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5005581000006119	59	^ESCTFO500558		Focal Alzheimer's disease	230269008	345087018		32	Alzheimer's disease			
 5005601000006112	7257	^ESCTFR500560		Frontotemporal dementia	230270009	345088011		32	Frontotemporal dementia			
 5005611000006110	<5	^ESCTPI500561		Pick's disease with Pick bodies	230271008	345089015		32	Frontotemporal dementia			
-5005661000006113	14	^ESCTLO500566		Lobar atrophy	230273006	345091011		32	Unspecified			AT to review - possible dementia/pseudodementia
+5005661000006113	14	^ESCTLO500566		Lobar atrophy	230273006	345091011		32	Unspecified			
 5005671000006118	8	^ESCTFR500567		Frontal lobe degeneration with motor neurone disease	230274000	345093014		32	Frontotemporal dementia			
 5005711000006119	414	^ESCTPR500571		Progressive aphasia in Alzheimer's disease	230280008	345099013		32	Alzheimer's disease			
 5005871000006119	639	^ESCTSE500587		Semantic dementia	230288001	345113011		32	Unspecified			
 5005881000006116	19	^ESCTPA500588		Patchy dementia	230289009	345114017		32	Unspecified			
-5006011000006113	5	^ESCTJU500601		Juvenile onset Huntington's disease	230299004	345125014		31	Dementia in HD	E		AT to review - possible dementia/pseudodementia
-5006021000006117	7	^ESCTJU500602		Juvenile onset Huntington disease	230299004	2839282010		31	Dementia in HD	E		AT to review - possible dementia/pseudodementia
-5006031000006119	22	^ESCTLA500603		Late onset Huntington's disease	230300007	345126010		31	Dementia in HD			AT to review - possible dementia/pseudodementia
-5006041000006112	9	^ESCTLA500604		Late onset Huntington disease	230300007	2839283017		31	Dementia in HD			AT to review - possible dementia/pseudodementia
+5006011000006113	5	^ESCTJU500601		Juvenile onset Huntington's disease	230299004	345125014		31	Dementia in HD	E		
+5006021000006117	7	^ESCTJU500602		Juvenile onset Huntington disease	230299004	2839282010		31	Dementia in HD	E		
+5006031000006119	22	^ESCTLA500603		Late onset Huntington's disease	230300007	345126010		31	Dementia in HD			
+5006041000006112	9	^ESCTLA500604		Late onset Huntington disease	230300007	2839283017		31	Dementia in HD			
 501294012	4807	E0112	E011200	Wernicke-Korsakov syndrome	69482004	501294012		32	Alcohol		Korsakov's syndrome	
 542611000006114	1270	F11x0	F11x000	Cerebral degeneration due to alcoholism	192811002	297011014		32	Alcohol		Alcoholic dementia	
 542651000006110	669	F11x7	F11x700	Cerebral degeneration due to Jakob - Creutzfeldt disease	192818008	297019011		32	Dementia in CJD			
-542661000006112	242	F11x8	F11x800	Cerebral degeneration due to progressive multifocal leucoencephalopathy	192819000	297021018		32	Vascular dementia			AT to review - possible dementia/pseudodementia
-542781000006113	65	F11x	F11x.00	Cerebral degeneration associated with another disorder	192794001	2575727019		32	Unspecified			AT to review - possible dementia/pseudodementia
+542661000006112	242	F11x8	F11x800	Cerebral degeneration due to progressive multifocal leucoencephalopathy	192819000	297021018		32	Vascular dementia			
+542781000006113	65	F11x	F11x.00	Cerebral degeneration associated with another disorder	192794001	2575727019		32	Unspecified			
 5618231000006117	98	^ESCTFR561823		Frontal lobe degeneration	278855005	415879012		32	Frontotemporal dementia			
 5618261000006114	941	^ESCTDE561826		Dementia of frontal lobe type	278857002	415883012		32	Frontotemporal dementia			
 5618271000006119	9	^ESCTDF561827		DFT - Dementia frontal lobe type	278857002	415882019		32	Frontotemporal dementia			
@@ -383,12 +383,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 6024071000006116	66	^ESCTLE602407		Lewy body dementia	312991009	1227470010		32	Lewy body dementia			
 6348031000006112	10	^ESCTSE634803		Senile dementia with delusion	371024007	1209735014		32	Unspecified			
 6348061000006115	140	^ESCTSE634806		Senile dementia with psychosis	371026009	1209737018		32	Unspecified			
-636681000000117	240	F11x9	F11x900	Cerebral degeneration in Parkinson's disease	341551000000108	636681000000117		32	PDD			AT to review - possible dementia/pseudodementia
-6462111000006115	35	^ESCTCO646211		Cognitive deficit	386806002	3289770014		27	Mild cognitive impairment			AT to review
-6749711000006110	<5	^ESCTGL674971		Global Deterioration Scale (GDS) level 4 - moderate cognitive decline	407632003	2621622011		3	Mild cognitive impairment			AT to review
-6749741000006114	<5	^ESCTGL674974		Global Deterioration Scale (GDS) level 5 - moderately severe cognitive decline	407633008	2621623018		3	Mild cognitive impairment			AT to review
-6749771000006118	6	^ESCTGL674977		Global Deterioration Scale (GDS) level 6 - severe cognitive decline	407634002	2621624012		3	Mild cognitive impairment			AT to review
-6749801000006116	<5	^ESCTGL674980		Global Deterioration Scale (GDS) level 7 - very severe cognitive decline	407635001	2621625013		3	Mild cognitive impairment			AT to review
+636681000000117	240	F11x9	F11x900	Cerebral degeneration in Parkinson's disease	341551000000108	636681000000117		32	PDD			
+6462111000006115	35	^ESCTCO646211		Cognitive deficit	386806002	3289770014		27	Mild cognitive impairment			
+6749711000006110	<5	^ESCTGL674971		Global Deterioration Scale (GDS) level 4 - moderate cognitive decline	407632003	2621622011		3	Mild cognitive impairment			
+6749741000006114	<5	^ESCTGL674974		Global Deterioration Scale (GDS) level 5 - moderately severe cognitive decline	407633008	2621623018		3	Mild cognitive impairment			
+6749771000006118	6	^ESCTGL674977		Global Deterioration Scale (GDS) level 6 - severe cognitive decline	407634002	2621624012		3	Mild cognitive impairment			
+6749801000006116	<5	^ESCTGL674980		Global Deterioration Scale (GDS) level 7 - very severe cognitive decline	407635001	2621625013		3	Mild cognitive impairment			
 6897211000006117	5819	^ESCTPR689721		Primary degenerative dementia of the Alzheimer type, presenile onset	416780008	2549310013		32	Alzheimer's disease	E		
 6897241000006118	50	^ESCTDE689724		Dementia of the Alzheimers type with early onset	416780008	2957133019		32	Alzheimer's disease	E		
 6897251000006116	255	^ESCTPR689725		Presenile dementia, Alzheimer's type	416780008	2957138011		32	Alzheimer's disease	E		
@@ -404,7 +404,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7043651000006119	10025	^ESCTDE704365		Dementia associated with Parkinson's Disease	425390006	2645368017		32	PDD			
 7043661000006117	22	^ESCTDE704366		Dementia associated with Parkinson Disease	425390006	2842012010		32	PDD			
 7263011000006112	<5	^ESCTDE726301		Dementia due to Huntington disease	442344002	2820375012		32	Dementia in HD			
-745381000006119	18441	F116	F116.00	Lewy body disease	80098002	132893017		32	Lewy body dementia			AT to review - possible dementia/pseudodementia
+745381000006119	18441	F116	F116.00	Lewy body disease	80098002	132893017		32	Lewy body dementia			
 7515061000006117	6	^ESCTVA751506		Vascular dementia in remission	698948009	2981750014		32	Vascular dementia			
 7515071000006112	10	^ESCTDE751507		Dementia in remission	698949001	2981630018		32	Unspecified			
 7515121000006112	8	^ESCTPR751512		Primary degenerative dementia of the Alzheimer type, senile onset in remission	698954005	2981791011		32	Alzheimer's disease			
@@ -416,12 +416,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 7560531000006110	11	^ESCTFR756053		Frontotemporal dementia with parkinsonism-17	702429008	2995187016		32	Frontotemporal dementia			
 76484016	7152	F112	F112.00	Senile degeneration of brain	45864009	76484016		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 7710381000006117	10	^ESCTDE771038		Dementia co-occurrent with human immunodeficiency virus infection	713844000	3297772011		32	Dementia in HIV			
-7734271000006112	169	^ESCTPO773427		Posterior cortical atrophy syndrome	715574002	3305489017		32	Alzheimer's disease			AT to review - possible dementia/pseudodementia
-7734291000006113	61	^ESCTPO773429		Posterior cortical atrophy	715574002	3305490014		32	Alzheimer's disease			AT to review - possible dementia/pseudodementia
+7734271000006112	169	^ESCTPO773427		Posterior cortical atrophy syndrome	715574002	3305489017		32	Alzheimer's disease			
+7734291000006113	61	^ESCTPO773429		Posterior cortical atrophy	715574002	3305490014		32	Alzheimer's disease			
 7737011000006118	<5	^ESCTPA773701		Parkinsonism with dementia of Guadeloupe	715737004	3303571017		32	PDD			
-7745161000006112	152	^ESCTPR774516		Primary progressive non fluent aphasia	716281000	3305385012		32	Frontotemporal dementia			AT to review - possible dementia/pseudodementia
-7745171000006117	<5	^ESCTPR774517		Progressive non-fluent aphasia	716281000	3305386013		32	Frontotemporal dementia			AT to review - possible dementia/pseudodementia
-7750411000006114	37	^ESCTRI775041		Right temporal lobar atrophy	716667005	3307153015		32	Frontotemporal dementia			AT to review - possible dementia/pseudodementia
+7745161000006112	152	^ESCTPR774516		Primary progressive non fluent aphasia	716281000	3305385012		32	Frontotemporal dementia			
+7745171000006117	<5	^ESCTPR774517		Progressive non-fluent aphasia	716281000	3305386013		32	Frontotemporal dementia			
+7750411000006114	37	^ESCTRI775041		Right temporal lobar atrophy	716667005	3307153015		32	Frontotemporal dementia			
 7750421000006118	<5	^ESCTRI775042		Right temporal atrophy variant frontotemporal dementia	716667005	3307152013		32	Frontotemporal dementia			
 7755121000006115	263	^ESCTBE775512		Behavioural variant of frontotemporal dementia	716994006	3308115011		32	Frontotemporal dementia			
 7755131000006117	<5	^ESCTBE775513		Behavioral variant of frontotemporal dementia	716994006	3308114010		32	Frontotemporal dementia			
@@ -476,7 +476,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 882201000006116	4654	E000-99	E000.99	Senile dementia - simple type	191449005	882201000006116		32	Unspecified			
 882211000006118	469	E003-99	E003.99	Senile dementia-acute confused	191461002	882211000006118		32	Unspecified			
 882941000006113	208	F112-99	F112.99	Senile brain degeneration	45864009	882941000006113		32	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-882951000006110	428	F11z-99	F11z.99	Cerebral degenerations NOS	668731000000103	882951000006110		32	Unspecified			AT to review - possible dementia/pseudodementia
+882951000006110	428	F11z-99	F11z.99	Cerebral degenerations NOS	668731000000103	882951000006110		32	Unspecified			
 905791000006115	774	HNG0062		[RFC] Reason for care : Alzheimer's disease	905791000006104	905791000006115		12	Alzheimer's disease			RFC - reason for care
 914921000006117	1990	EMISNQDV1		[D] Vascular dementia	914921000006101	914921000006117		32	Vascular dementia			
 914931000006119	667	EMISNQDD1		[D] Dementia with Lewy bodies	914931000006103	914931000006119		32	Lewy body dementia			
@@ -484,11 +484,11 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 914951000006114	25646	EMISNQDD3		[D] Dementia in Alzheimer's disease	914951000006105	914951000006114		32	Alzheimer's disease			
 915111000006112	30849	EMISNQDE1		Dementia review	915111000006108	915111000006112		1	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 915121000006116	1470	EMISNQDE2		Dementia review with third party	915121000006100	915121000006116		1	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
-932191000006119	<5	EMISR4QCO2		Cognitive impairment	932191000006103	932191000006119		27	Mild cognitive impairment			AT to review
+932191000006119	<5	EMISR4QCO2		Cognitive impairment	932191000006103	932191000006119		27	Mild cognitive impairment			
 939491000006118	2739	HNGNQRF130		[RFC] Reason for care : Dementia	939491000006102	939491000006118		12	Unspecified			RFC - reason for care
 97154016	1115	C3272	C327200	Niemann-Pick disease	58459009	97154016		32	Frontotemporal dementia			
-97642017	76383	F134	F134.00	Huntington's chorea	58756001	97642017		32	Dementia in HD			AT to review - possible dementia/pseudodementia
-988981000006113	<5	F11xz-99	F11xz99	Prion protein disease	603691000000101	988981000006113		32	Rare			AT to review - possible dementia/pseudodementia
+97642017	76383	F134	F134.00	Huntington's chorea	58756001	97642017		32	Dementia in HD			
+988981000006113	<5	F11xz-99	F11xz99	Prion protein disease	603691000000101	988981000006113		32	Rare			
 9896131000006110	98	^ESCTBE989613		Behavioural disturbance co-occurrent and due to late onset Alzheimer dementia	16219201000119101	3512938016		32	Alzheimer's disease			
 9902251000006117	71	^ESCTVA990225		Vascular dementia without behavioural disturbance	16276361000119109	3447365013		32	Vascular dementia			
 999961000006114	61302	9hD0	9hD0.00	Excepted from dementia quality indicators - patient unsuitable	716341000000104	1568891000000117		37	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
