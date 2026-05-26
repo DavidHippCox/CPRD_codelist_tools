@@ -4,18 +4,14 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 117761000006116	16243	1369	1369.00	Denies alcohol abuse	413968004	2534341013		17	check_upd				
 11928671000006111	10	^ESCT1192867		Alcohol units per week	228958009	556651000000116		31	check_upd			convert to units per day	
 12002341000006114	4435	^ESCT1200234		Assessment using AUDIT-C (Alcohol Use Disorders Identification Test - Consumption)	763302001	3638465017		32	alc_test			another type of check in observation table? 	
-14197121000006115	<5	^ESCT1419712		Foetal or neonatal effect of maternal use of alcohol	205791004	4230097013		32	FAS				Unclear if refers to child - FAS?
 1221271018	41214297	136	136..00	Alcohol consumption	160573003	1221271018		17	check_upd				
 14798891000006118	5	^ESCT1479889		Dilated cardiomyopathy caused by alcohol	1234750000	5083873012		32	aud				
 14799151000006112	236	^ESCT1479915		Cognitive impairment caused by ethanol	1234774002	5083958010		32	aud	Alcoholic dementia		include in dementia codelist?	yes
 14799161000006114	33	^ESCT1479916		Cognitive impairment caused by alcohol	1234774002	5083956014		32	aud	Alcoholic dementia		include in dementia codelist?	yes
 12619041000006111	32	^ESCT1261904		History of alcohol use	1104851000000107	2765571000000113		31	check_upd		1		
-15374151000006114	38	^ESCT1537415		Fetal Alcohol Spectrum Disorder (FASD) without sentinel facial features	1894461000000101	1844721000000111		32	FAS				FAS
 13530371000006117	6481	^ESCT1353037		Alcohol Use Disorders Identification Test for Primary Care score	774089008	3727938010		3	alc_test			another type of check in observation table? 	Would need high score to say AUD
 13628811000006110	53963	^ESCT1362881		Lifetime non-drinker of alcohol	783261004	3758327018		17	non-drinker				
 13667221000006114	<5	^ESCT1366722		Psychotic behaviour caused by ingestible alcohol	787768005	3776879017		27	check_upd			add to alcohol_related_psychiatric_codes	
-15374171000006116	23	^ESCT1537417		Fetal Alcohol Spectrum Disorder (FASD) with sentinel facial features	1894471000000108	1844751000000118		32	FAS				FAS
-15419861000006115	<5	^ESCT1541986		Fetal disorder caused by maternal alcohol dependence in pregnancy	1293117004	5277454014		32	FAS				FAS
 16079361000006112	<5	^ESCT1607936		Continuous nondependent harmful pattern of use of alcohol	191882002	5392794013		32	aud				
 13936661000006112	<5	^ESCT1393666		Adverse reaction to alcohol	836464003	3891707019		15	check_upd				
 16079371000006117	14	^ESCT1607937		Episodic nondependent harmful pattern of use of alcohol	191883007	5392779014		32	aud				
@@ -63,7 +59,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2475831000000114	2247	8BAu	8BAu.00	Alcohol harm reduction programme	720175009	3319643016		32	aud				
 1660411000006112	20178157	38D4	38D4.00	AUDIT-C (Alcohol Use Disorders Identification Test - Consumption) score	763256006	3638304015		3	alc_test			another type of check in observation table? 	
 2485391000000114	27	8BAw	8BAw.00	Alcohol twelve step programme	720178006	3319659016		32	aud				
-263572010	2037	63C7	63C7.00	Maternal alcohol abuse	169942003	263572010		16	FAS				FAS? Unclear if mother
 2658601000006116	189	^ESCTAC265860		Acute alcoholic liver disease	9953008	17389017		32	aud			aud - should we include acute intoxication?	AUD
 2740831000000114	249	^ESCT1172280		Harmful use of alcohol	1094151000000108	2740831000000114		31	aud				
 223671000000110	1168	E250-2	E250.12	Hangover from alcohol	32553006	485256013		32	check_upd				
@@ -88,12 +83,9 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 306615012	33	L2553	L255300	Maternal care for (suspected) damage to fetus from alcohol	173300003	268308014		32	aud				
 3073921000006112	2064	^ESCTAL307392		Alcohol rehabilitation	35637008	59452011		32	aud 				
 315091000000117	31768	Eu108	Eu10800	Alcohol withdrawal-induced seizure	308742005	452061016		32	aud				
-315571015	929	Q0071-1	Q007111	Fetal alcohol syndrome	205788004	315571015		32	FAS				FAS - implies child?
-315575012	69	PK83	PK83.00	Fetus and newborn affected by maternal use of alcohol	205791004	315575012		32	FAS				FAS - implies child?
 3402351000006111	<5	^ESCTKE340235		Ketoacidosis due to acute alcohol intoxication	55571001	3035704010		31	aud			aud - should we include acute intoxication?	AUD
 3402381000006115	<5	^ESCTKE340238		Ketoacidosis due to acute alcoholic intoxication	55571001	3035837017		31	aud			aud - should we include acute intoxication?	AUD
 342361016	395	136Y	136Y.00	Drinks in morning to get rid of hangover	228310006	342361016		17	aud 				
-355467015	749	L254-1	L254.11	Suspected foetal damage from maternal alcohol	609418009	2965662019		32	FAS				FAS - implies child? 
 362961000006112	44	Eu105-2	Eu10512	[X]Alcoholic jealousy	42344001	70655012		32	aud 				
 3630121000006110	13	^ESCTKO363012		Korsakoff psychosis	69482004	501295013		32	aud	Korsakov's syndrome		add to alcohol_related_psychiatric_codes	
 3630151000006118	<5	^ESCTKO363015		Korsakov psychosis	69482004	501298010		32	aud	Korsakov's syndrome		add to alcohol_related_psychiatric_codes	
@@ -104,8 +96,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4722771000006115	9	^ESCTAL472277		Alcohol aversion therapy	183388004	283452013		32	aud				
 478024019	3568	F25B	F25B.00	Alcohol-induced epilepsy	361268000	478024019		15	aud 				
 480271000000113	1329	13ZY	13ZY.00	Disqualified from driving due to excess alcohol	279651000000104	480271000000113		17	check_upd				
-4831751000006117	26	^ESCTFO483175		Foetal alcohol syndrome	205788004	3010279011		32	FAS				FAS - implies child?
-4831771000006110	102	^ESCTFE483177		Fetal or neonatal effect of maternal use of alcohol	205791004	2965782011		32	FAS				FAS - implies child?
 2502091000006118	129	^ESCTCU250209		Current drinker of alcohol	219006	2668982019		32	check_upd				
 250317010	686875	1367	1367.00	Stopped drinking alcohol	160579004	250317010		17	check_upd		1		
 4977991000006113	745	^ESCTFA497799		Fairly heavy drinker	228278007	342321017		17	aud				
@@ -119,7 +109,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 250332015	219480	136G	136G.00	Beer drinker	160589000	250332015		17	check_upd				
 502017010	1144634	E23-2	E23..12	Alcohol problem drinking	7200002	502017010		32	aud				
 504762019	<5	J61y0	J61y000	Chronic yellow liver atrophy	81675001	504762019		32	aud				
-5506961000006114	11	^ESCTFE550696		Fetal or neonatal effect of placental or breast transfer of alcohol	268796000	2965854013		32	FAS				FAS implies child
 5981291000006110	15464	^ESCTAL598129		Alcohol withdrawal-induced convulsion	308742005	452062011		32	aud				
 6047161000006116	7	^ESCTAL604716		Alcohol related optic neuropathy	314539001	458914014		5	aud				
 606991000000117	67469	136W	136W.00	Alcohol misuse	15167005	606991000000117		32	aud				
@@ -128,7 +117,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 250334019	210449	136I	136I.00	Drinks wine	160591008	250334019		17	check_upd				
 250340014	2179287	136L	136L.00	Alcohol intake within recommended sensible limits	160593006	250340014		17	check_upd				
 254305017	10797	2577	2577.00	O/E - breath - alcohol smell	163184002	254305017		27	check_upd				
-669211000006118	5483	PK80	PK80.00	Fetal alcohol syndrome	205788004	315571015		32	FAS				FAS implies child
 7104281000006114	40	^ESCTAL710428		Alcohol withdrawal scale	429501006	2695605014		31	aud			aud - do not derive score	
 250312016	3013062	1363	1363.00	Light drinker - 1-2u/day	160575005	250312016		17	light-drinker				
 250313014	1550997	1364	1364.00	Moderate drinker - 3-6u/day	160576006	250313014		17	moderate-drinker				
@@ -146,9 +134,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 295251015	50871	E2500	E250000	Nondependent alcohol abuse, unspecified	268645007	401797010		32	aud				
 295252010	4066	E2501	E250100	Nondependent alcohol abuse, continuous	191882002	295252010		32	aud				
 295253017	5657	E2502	E250200	Nondependent alcohol abuse, episodic	191883007	295253017		32	aud				
-7497781000006112	28	^ESCTSU749778		Suspected foetal damage from maternal alcohol addiction	609424003	2965654010		32	FAS				FAS implies child
-7497791000006110	<5	^ESCTSU749779		Suspected fetal damage from maternal alcohol addiction	609424003	2965657015		32	FAS				FAS implies child
-7498031000006110	459	^ESCTFE749803		Fetal Alcohol Spectrum Disorder	609437000	2965739010		32	FAS				FAS implies child
 7518461000006118	<5	^ESCTTH751846		Thrombocytopenia due to alcohol	699208000	2983110014		31	aud				
 7613321000006119	29657	^ESCTAL761332		Alcohol reduction programme	707166002	3028954019		31	aud				
 295254011	1152	E2503	E250300	Nondependent alcohol abuse in remission	191884001	295254011		32	aud				
@@ -461,7 +446,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5110241000006114	<5	^ESCTAL511024		Alcohol-induced hypoglycemia	237641009	356163019		31	aud				
 542611000006114	1270	F11x0	F11x000	Cerebral degeneration due to alcoholism	192811002	297011014		32	aud 	Alcoholic dementia			
 5564291000006118	39	^ESCTAL556429		Alcoholism detoxication centre	274517002	410336016		31	aud 				
-7498021000006112	49	^ESCTFO749802		Foetal Alcohol Spectrum Disorder	609437000	2965959019		32	FAS				FAS
 5612351000006115	22	^ESCTAL561235		Alcoholic macrocytosis	278363000	415240012		31	aud				
 5689771000006115	508	^ESCTPE568977		Persistent alcohol abuse	284591009	423307016		31	aud				
 250335018	420332	136K	136K.00	Alcohol intake above recommended sensible limits	160592001	250335018		17	check_upd				AUD?
@@ -521,8 +505,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4978461000006111	<5	^ESCTEP497846		Episodic drinker	228315001	342368010		17	check_upd				Agree
 4978991000006114	<5	^ESCTFE497899		Feels effect of alcohol at work	228358002	342417011		31	check_upd				Agree
 750721000000118	10183	136X	136X.00	Number of alcohol units consumed on heaviest drinking day	442547005	2819352010		17	check_upd			another type of check in observation table? 	Agree
-7650131000006115	175	^ESCTFE765013		Fetal exposure to alcohol	709462001	3040342018		32	FAS				FAS
-7650141000006113	<5	^ESCTFO765014		Foetal exposure to alcohol	709462001	3039436014		32	FAS				FAS
 7849301000006110	<5	^ESCTMO784930		Mood disorder with depressive symptoms caused by alcohol	723928009	3429901013		31	aud				AUD
 8042631000006112	<5	^ESCTIN804263		Insomnia caused by alcohol	135311000119100	3289991010		5	check_upd				Agree
 83834016	72160	J610	J610.00	Alcoholic fatty liver	50325005	83834016		32	aud				
