@@ -3,10 +3,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 11930971000006115	5	^ESCT1193097		CIWA-Ar - Clinical Institute Withdrawal Assessment for Alcohol scale, revised	895761000000107	2304881000000113		32	aud			aud - do not derive score	
 117761000006116	16243	1369	1369.00	Denies alcohol abuse	413968004	2534341013		17	check_upd				
 11928671000006111	10	^ESCT1192867		Alcohol units per week	228958009	556651000000116		31	check_upd			convert to units per day	
-12054431000006113	<5	^ESCT1205443		Chronic pancreatitis due to acute alcohol intoxication	767291004	3670493010		31				exclude - not aud	Not acute intox only
 12002341000006114	4435	^ESCT1200234		Assessment using AUDIT-C (Alcohol Use Disorders Identification Test - Consumption)	763302001	3638465017		32	alc_test			another type of check in observation table? 	
-1225183017	167	SLH3	SLH3.00	Alcohol deterrent poisoning	27134008	1225183017		32				exclude - alcohol drug use	
-13938641000006112	<5	^ESCT1393864		Acute alcoholic myopathy	838386008	3896638012		5				exclude - not aud	No - exclude
 14197121000006115	<5	^ESCT1419712		Foetal or neonatal effect of maternal use of alcohol	205791004	4230097013		32	FAS				Unclear if refers to child - FAS?
 1221271018	41214297	136	136..00	Alcohol consumption	160573003	1221271018		17	check_upd				
 14798891000006118	5	^ESCT1479889		Dilated cardiomyopathy caused by alcohol	1234750000	5083873012		32	aud				
@@ -97,7 +94,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3402381000006115	<5	^ESCTKE340238		Ketoacidosis due to acute alcoholic intoxication	55571001	3035837017		31	aud			aud - should we include acute intoxication?	AUD
 342361016	395	136Y	136Y.00	Drinks in morning to get rid of hangover	228310006	342361016		17	aud 				
 355467015	749	L254-1	L254.11	Suspected foetal damage from maternal alcohol	609418009	2965662019		32	FAS				FAS - implies child? 
-362931000006115	11	U60H3	U60H300	[X]Alcohol deterrents caus adverse effects in therapeut use	292416003	432554017		5	aud			exclude - alcohol drug use	
 362961000006112	44	Eu105-2	Eu10512	[X]Alcoholic jealousy	42344001	70655012		32	aud 				
 3630121000006110	13	^ESCTKO363012		Korsakoff psychosis	69482004	501295013		32	aud	Korsakov's syndrome		add to alcohol_related_psychiatric_codes	
 3630151000006118	<5	^ESCTKO363015		Korsakov psychosis	69482004	501298010		32	aud	Korsakov's syndrome		add to alcohol_related_psychiatric_codes	
@@ -124,7 +120,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 502017010	1144634	E23-2	E23..12	Alcohol problem drinking	7200002	502017010		32	aud				
 504762019	<5	J61y0	J61y000	Chronic yellow liver atrophy	81675001	504762019		32	aud				
 5506961000006114	11	^ESCTFE550696		Fetal or neonatal effect of placental or breast transfer of alcohol	268796000	2965854013		32	FAS				FAS implies child
-5547201000006114	228	^ESCTAL554720		Alcohol dependence scale	273264006	408547016		31				exclude - (dependence scale) numbers too low for score to be considered/evaluated (<300)	
 5981291000006110	15464	^ESCTAL598129		Alcohol withdrawal-induced convulsion	308742005	452062011		32	aud				
 6047161000006116	7	^ESCTAL604716		Alcohol related optic neuropathy	314539001	458914014		5	aud				
 606991000000117	67469	136W	136W.00	Alcohol misuse	15167005	606991000000117		32	aud				
@@ -276,12 +271,9 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 2740351000006116	15	^ESCTET274035		Ethanol abuse	15167005	477198011		32	aud				
 2740361000006119	8	^ESCTAA274036		AA - Alcohol abuse	15167005	477199015		32	aud				
 2819381000006112	148	^ESCTAL281938		Alcohol rehabilitation and detoxification	20093000	33815017		31	aud				
-2834131000006116	256	^ESCTWE283413		Wernicke's disease	21007002	35313017		32				exclude - not aud	Technically B1 def not only alcohol - can we look for other aud/dpu?
-2834151000006111	5	^ESCTWE283415		Wernicke disease	21007002	2839693018		32				exclude - not aud	Technically B1 def not only alcohol - can we look for other aud/dpu?
 283559019	20099	8H35	8H35.00	Admitted to alcohol detoxification centre	183486001	283559019		40	aud				
 2881581000006119	8	^ESCTCO288158		Combined alcohol and drug rehabilitation and detoxification	23915005	40167017		31	aud				
 2885451000006111	6	^ESCTAL288545		Alcoholism counseling	24165007	40570014		32	aud 				
-2934661000006111	6	^ESCTPO293466		Poisoning by alcohol deterrent	27134008	45382016		32	aud			exclude - alcohol drug use	
 294662017	463	E0111	E011100	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	294662017		32	aud	Korsakov's syndrome		add to alcohol_related_psychiatric_codes	
 294664016	137	E011z	E011z00	Alcohol amnestic syndrome NOS	73097000	121405015		32	aud	Alcoholic dementia			
 47085011	735046	136J	136J.00	Social drinker	28127009	47085011		17	check_upd				
@@ -306,7 +298,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 299081000000114	124577	136T	136T.00	Harmful alcohol use	198431000000105	299081000000114		17	aud 				
 303399018	129556	J613	J613.00	Alcoholic liver damage	41309000	68906017		32	aud				
 3122331000006110	109	^ESCTPA312233		Patient referral for alcoholism rehabilitation	38670004	3122331000006110		40	aud				
-4895571000006112	79	^ESCTAC489557		Accidental poisoning by alcoholic beverage	216633005	3300762012		32	check_upd			exclude - poisoning/toxic effect	
 3165681000006118	624	^ESCTAL316568		Alcoholic liver disease	41309000	68909012		32	aud				
 4977871000006118	17697	^ESCTFI497787		Finding relating to alcohol drinking behaviour	228273003	1206283014		27	check_upd				
 4977891000006117	1516	^ESCTAL497789		Alcohol drinking behaviour	228273003	1216142012		27	check_upd				
@@ -344,7 +335,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4978281000006117	12	^ESCTDR497828		Drinks in company	228298002	342349012		31	check_upd				
 350971000006112	61	U60H3-1	U60H311	[X] Adverse reaction to alcohol deterrents	292416003	432554017		5	aud				
 3510721000006113	435	^ESCTCO351072		Combined alcohol and drug rehabilitation	62213004	103391017		31	aud				
-35314011	3929	C253	C253.00	Wernicke's encephalopathy	21007002	35314011		32				exclude - not aud	Check for other AUD/dpu record
 4978321000006111	150	^ESCTDR497832		Drinks with friends	228302005	342353014		31	check_upd				
 4978331000006114	<5	^ESCTDR497833		Drinks with work colleagues	228303000	342354015		31	check_upd				
 353587018	34579	J617	J617.00	Alcoholic hepatitis	235875008	353587018		32	aud				
@@ -482,9 +472,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5801861000006113	<5	^ESCTDI580186		Disulfiram allergy	293960001	434213010		5	aud				
 5886961000006112	6024	^ESCTAB588696		Abstinent alcoholic	300939009	442138014		17	aud		1		
 3843491000006118	27483	^ESCTEX384349		Ex-drinker	82581004	136989013		17	check_upd		1		Agree
-3846821000006114	260	^ESCTAL384682		Alcohol poisoning	82782008	1234741018		32	check_upd			exclude - poisoning/toxic effect	
 5887581000006113	27	^ESCTAL588758		Alcohol-induced cerebellar ataxia	300992002	442200018		31	aud				
-59951000006113	5694	C251-1	C251.11	Wernicke's encephalopathy	21007002	35314011		32				exclude - not aud	Need other Aud/alcohol record
 6221531000006118	267	^ESCTAL622153		Alcoholic cerebellar degeneration	361273006	478048011		32	aud				
 6221541000006111	<5	^ESCTAL622154		Alcoholic cerebellar degeneration syndrome	361273006	1490764012		32	aud				
 622961000000116	42328	8HkG	8HkG.00	Referral to specialist alcohol treatment service	431260004	2768649019		40	aud 				
