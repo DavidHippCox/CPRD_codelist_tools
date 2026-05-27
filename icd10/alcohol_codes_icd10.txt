@@ -25,4 +25,3 @@ K70.4	Alcoholic hepatic failure	aud
 K70.9	Alcohol liver disease, unspecified	aud	
 K85.2	Alcohol-induced acute pancreatitis	aud	
 K86.0	Alcohol-induced chronic pancreatitis	aud	
-Q86.0	Fetal alcohol syndrome (dysmorphic)	NA	
