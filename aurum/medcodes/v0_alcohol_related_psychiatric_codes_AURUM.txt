@@ -1,17 +1,48 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+13667221000006114	<5	^ESCT1366722		Psychotic behaviour caused by ingestible alcohol	787768005	3776879017		27
+14798821000006115	114	^ESCT1479882		Psychosis caused by ethanol	1231846001	5075973019		32
+14798841000006110	35	^ESCT1479884		Alcohol-induced psychosis	1231846001	5075978011		32
 15243013	6345	E010	E010.00	Alcohol withdrawal delirium	8635005	15243013		32
 15244019	3604	E010-2	E010.12	Delirium tremens	8635005	15244019		32
+1974301000006117	15	EMISICD10|F1040		Mental & behav dis due to use alcohol: withdrawl state with delirium, without convulsions	1974301000006101	1974301000006117		32
+1974521000006117	17	EMISICD10|F1041		Mental & behav dis due to use alcohol: withdrawl state with delirium, with convulsions	1974521000006101	1974521000006117		32
+1975141000006117	<5	EMISICD10|F1050		Mental & behav dis due to use alcohol: psychotic disorder, schizophrenia-like	1975141000006101	1975141000006117		32
+1975181000006111	8	EMISICD10|F1051		Mental & behav dis due to use alcohol: psychotic disorder, predominantly delusional	1975181000006107	1975181000006111		32
+1975291000006117	20	EMISICD10|F1052		Mental & behav dis due to use alcohol: psychotic disorder, predominantly hallucinatory	1975291000006101	1975291000006117		32
+1975341000006119	<5	EMISICD10|F1053		Mental & behav dis due to use alcohol: psychotic disorder, predominantly polymorphic	1975341000006103	1975341000006119		32
+1975371000006110	26	EMISICD10|F1054		Mental & behav dis due to use alcohol: psychotic disorder, predominantly depressive symptoms	1975371000006106	1975371000006110		32
+1975411000006111	<5	EMISICD10|F1055		Mental & behav dis due to use alcohol: psychotic disorder, predominantly manic symptoms	1975411000006107	1975411000006111		32
+1975461000006114	467	EMISICD10|F1056		Mental & behav dis due to use alcohol: psychotic disorder, mixed	1975461000006105	1975461000006114		32
+1975511000006112	<5	EMISICD10|F1070		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, flashbacks	1975511000006108	1975511000006112		32
+1975541000006111	108	EMISICD10|F1071		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, personality or behaviour disorder	1975541000006107	1975541000006111		32
+1975591000006119	22	EMISICD10|F1073		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, dementia	1975591000006103	1975591000006119		32
+1975661000006111	<5	EMISICD10|F1072		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, residual affective disorder	1975661000006107	1975661000006111		32
+1976071000006119	74	EMISICD10|F1074		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, other persisting cognitive impairment	1976071000006103	1976071000006119		32
+1976111000006110	8	EMISICD10|F1075		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, late-onset psychotic disorder	1976111000006106	1976111000006110		32
+2549849017	1494	1B1c	1B1c.00	Alcohol induced hallucinations	417633001	2549849017		27
+2612481000006116	61	^ESCTAL261248		Alcohol hallucinosis	7052005	12634015		32
+2796011000006111	196	^ESCTAL279601		Alcohol intoxication delirium	18653004	31451012		32
+294662017	463	E0111	E011100	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	294662017		32
 294669014	2055	E013	E013.00	Alcohol withdrawal hallucinosis	191476005	294669014		32
 294672019	735	E015	E015.00	Alcoholic paranoia	191478006	294672019		32
-294675017	41	E01yz	E01YZ00	Other alcoholic psychosis NOS	42344001	70655012		32
-294676016	887	E01z	E01Z.00	Alcoholic psychosis NOS	42344001	70655012		32
-507053019	1896	E010-1	E010.11	DTs - delirium tremens	8635005	507053019		32
+294673012	4274	E01y	E01y.00	Other alcoholic psychosis	42344001	70655012		32
+294675017	41	E01yz	E01yz00	Other alcoholic psychosis NOS	42344001	70655012		32
+294676016	887	E01z	E01z.00	Alcoholic psychosis NOS	42344001	70655012		32
+295765017	20282	Eu10	Eu10.00	Alcohol-induced organic mental disorder	29212009	48886010		32
+3182581000006111	<5	^ESCTAL318258		Alcoholic psychosis	42344001	70658014		32
+3182591000006114	<5	^ESCTAL318259		Alcohol induced psychosis	42344001	2951763010		32
 362951000006110	2001	Eu105-1	EU10511	Alcoholic hallucinosis	7052005	1233279015		32
 362961000006112	44	Eu105-2	EU10512	[X]Alcoholic jealousy	42344001	70655012		32
 362971000006117	214	Eu105-3	EU10513	[X]Alcoholic paranoia	42344001	70655012		32
-362981000006119	1634	Eu105-4	EU10514	[X]Alcoholic psychosis NOS	42344001	70655012		32
-376451000006113	1963	Eu104-1	EU10411	[X]Delirium tremens, alcohol induced	8635005	15243013		32
-397201000006116	210	Eu107	EU10700	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	42344001	70655012		32
-397211000006118	381	Eu104	EU10400	[X]Men & behav dis due alcohl: withdrawl state with delirium	8635005	15243013		32
-397621000006111	1240	Eu105	EU10500	Alcohol-induced psychosis	42344001	70655012		32
+362981000006119	1634	Eu105-4	Eu10514	[X]Alcoholic psychosis NOS	42344001	70655012		32
+3630121000006110	13	^ESCTKO363012		Korsakoff psychosis	69482004	501295013		32
+3630151000006118	<5	^ESCTKO363015		Korsakov psychosis	69482004	501298010		32
+376451000006113	1963	Eu104-1	Eu10411	[X]Delirium tremens, alcohol induced	8635005	15243013		32
+394681000006119	9871	Eu106-1	Eu10611	Korsakoff's psychosis	69482004	115434017		32
+397201000006116	210	Eu107	Eu10700	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	42344001	70655012		32
+397211000006118	381	Eu104	Eu10400	[X]Men & behav dis due alcohl: withdrawl state with delirium	8635005	15243013		32
+397621000006111	1240	Eu105	Eu10500	Alcohol-induced psychosis	42344001	70655012		32
+476741000006111	5585	E01	E01..00	Alcohol-induced psychosis	42344001	70655012		32
+507053019	1896	E010-1	E010.11	DTs - delirium tremens	8635005	507053019		32
 753331000006118	11510	E0110	E011000	Korsakov alcoholic psychosis	69482004	501296014		32
+7858041000006119	<5	^ESCTAL785804		Alcohol-related neurological disorder	724574008	3441485019		5
