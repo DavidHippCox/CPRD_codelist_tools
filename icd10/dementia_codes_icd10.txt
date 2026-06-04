@@ -1,28 +1,34 @@
-icd10	description	alc_category	strict_phenotype
-G31.2	Degeneration of nervous system due to alcohol	aud	 Alcoholic dementia
-F10	Alcohol-related conditions	aud	
-F10.0	Acute intoxication	aud	
-F10.1	Harmful use	aud	
-F10.2	Dependence syndrome	aud	
-F10.3	Withdrawal state	aud	
-F10.4	Withdrawal state with delirium	aud	
-F10.5	Psychotic disorder	aud	
-F10.6	Alcohol-related amnestic syndrome	aud	Korsakov's syndrome
-F10.7	Alcohol-related residual and late-onset psychotic disorder	aud	
-F10.8	Alcohol-related other mental/behavioural	aud	
-F10.9	Alcoho-related unspecified	aud	
-I42.6	Alcoholic cardiomyopathy	aud	
-G62.1	Alcoholic polyneuropathy	aud	
-Z71.4	Alcohol abuse counselling	aud	
-G72.1	Alcohol myopathy	aud	
-K29.2	Alcoholic gastritis	aud	
-K70	Alcoholic liver disease	aud	
-K70.0	Alcoholic fatty liver	aud	
-K70.1	Alcohol hepatitis	aud	
-K70.2	Alcoholic fibrosis	aud	
-K70.3	Alcoholic cirrhosis	aud	
-K70.4	Alcoholic hepatic failure	aud	
-K70.9	Alcohol liver disease, unspecified	aud	
-K85.2	Alcohol-induced acute pancreatitis	aud	
-K86.0	Alcohol-induced chronic pancreatitis	aud	
-Q86.0	Fetal alcohol syndrome (dysmorphic)	NA	
+icd10	description	subtype	aud	strict_phenotype
+F00	Dementia in Alzheimer's disease	Alzheimer's disease		
+F00.0	Dementia in Alzheimer's, early onset	Alzheimer's disease		
+F00.1	Dementia in Alzheimer's, late onset	Alzheimer's disease		
+F00.2	Dementia in Alzheimer's, atypical/mixed	Alzheimer's disease		
+F00.9	Dementia in Alzheimer's, unspecified	Alzheimer's disease		
+F01	Vascular dementia	Vascular dementia		
+F01.0	Vascular dementia, acute onset	Vascular dementia		
+F01.1	Multi-infarct dementia	Vascular dementia		
+F01.2	Subcortical vascular dementia	Vascular dementia		
+F01.3	Mixed cortical/subcortical vascular dementia	Vascular dementia		
+F01.9	Vascular dementia, unspecified	Vascular dementia		
+F02	Dementia as a result of other diseases	Unspecified		
+F02.0	Dementia in Pick disease	Frontotemporal dementia		
+F02.1	Dementia in CJD	Dementia in CJD		
+F02.2	Dementia in HD	Dementia in HD		
+F02.3	Dementia in PD	Parkinson's disease		
+F02.4	Dementia in HIV	Dementia in HIV		
+F02.8	Dementia in other disease	Unspecified		
+F03	Unspecified dementia	Unspecified		
+F05.1	Delirum superimposed on dementia	Unspecified		
+F06.7	MCI	Mild cognitive impairment		
+F10.6	Alcohol-related amnestic syndrome	Alcohol	1	Korsakov's syndrome
+G30	Alzheimer's disease	Alzheimer's disease		
+G30.0	Alzheimer's disease, EO	Alzheimer's disease		
+G30.1	Alzheimer's disease, LO	Alzheimer's disease		
+G30.8	Other Alzheimer's disease	Alzheimer's disease		
+G30.9	Alzheimer's, unspecified	Alzheimer's disease		
+G31	Other degenerative disease of NS	Unspecified		
+G31.0	Senile degeneration of brain, not elsewhere classified	Unspecified		
+G31.2	Degeneration of nervous system due to alcohol	Alcohol	1	 Alcoholic dementia
+G31.8	Other specified degenerative disease of NS	Other specified degenerative disease of NS		
+G31.9	Degenerative disease, unspecified	Degenerative disease, unspecified		
+I67.3	Progressive Vascular Leukoencephalopathy	Progressive Vascular Leukoencephalopathy		
