@@ -11013,3 +11013,1650 @@ BNF Code	dmdid	drugtypes	DM+D: Product Description	VTM	VTM Name
 0402030R0AAAEAE	45695311000001100	antipsychotics	Asenapine 7.6mg/24hours transdermal patches	774652006	Asenapine
 0402030R0AAAEAE	45695411000001107	antipsychotics	Asenapine 7.6mg/24hours transdermal patches (Imported)	774652006	Asenapine
 0402030R0AAAEAE	45695511000001106	antipsychotics	Asenapine 7.6mg/24hours transdermal patches (Imported)	774652006	Asenapine
+	5405011000001102		Prozac 20mg capsules (Waymade Healthcare Plc)	776003008	Fluoxetine
+	5405111000001101		Prozac 20mg capsules (Waymade Healthcare Plc)	776003008	Fluoxetine
+	5505911000001108		Fluoxetine 20mg capsules (Dowelhurst Ltd)	776003008	Fluoxetine
+	5506111000001104		Fluoxetine 20mg capsules (Dowelhurst Ltd)	776003008	Fluoxetine
+	5577211000001101		Prozac 20mg capsules (Dowelhurst Ltd)	776003008	Fluoxetine
+	5577411000001102		Prozac 20mg capsules (Dowelhurst Ltd)	776003008	Fluoxetine
+	13949811000001105		Prozac 20mg capsules (DE Pharmaceuticals)	776003008	Fluoxetine
+	13949911000001100		Prozac 20mg capsules (DE Pharmaceuticals)	776003008	Fluoxetine
+	16229811000001102		Prozac 20mg capsules (Lexon (UK) Ltd)	776003008	Fluoxetine
+	16229911000001107		Prozac 20mg capsules (Lexon (UK) Ltd)	776003008	Fluoxetine
+	17424311000001105		Prozac 20mg capsules (Mawdsley-Brooks & Company Ltd)	776003008	Fluoxetine
+	17424611000001100		Prozac 20mg capsules (Mawdsley-Brooks & Company Ltd)	776003008	Fluoxetine
+	17424511000001104		Prozac 20mg capsules (Mawdsley-Brooks & Company Ltd)	776003008	Fluoxetine
+	18174111000001100		Prozac 20mg capsules (Necessity Supplies Ltd)	776003008	Fluoxetine
+	18174211000001106		Prozac 20mg capsules (Necessity Supplies Ltd)	776003008	Fluoxetine
+	10464211000001100		Zimovane LS 3.75mg tablets (Dowelhurst Ltd)	777992004	Zopiclone
+	10464311000001108		Zimovane LS 3.75mg tablets (Dowelhurst Ltd)	777992004	Zopiclone
+	10845611000001104		Zimovane LS 3.75mg tablets (Waymade Healthcare Plc)	777992004	Zopiclone
+	10845711000001108		Zimovane LS 3.75mg tablets (Waymade Healthcare Plc)	777992004	Zopiclone
+	10463711000001105		Zimovane 7.5mg tablets (Dowelhurst Ltd)	777992004	Zopiclone
+	10464111000001106		Zimovane 7.5mg tablets (Dowelhurst Ltd)	777992004	Zopiclone
+	10483211000001101		Zimovane 7.5mg tablets (Waymade Healthcare Plc)	777992004	Zopiclone
+	10845311000001109		Zimovane 7.5mg tablets (Waymade Healthcare Plc)	777992004	Zopiclone
+	10483411000001102		Zimovane 7.5mg tablets (Waymade Healthcare Plc)	777992004	Zopiclone
+	13984511000001102		Zimovane 7.5mg tablets (DE Pharmaceuticals)	777992004	Zopiclone
+	13985711000001106		Zimovane 7.5mg tablets (DE Pharmaceuticals)	777992004	Zopiclone
+	20032211000001105		Zimovane 7.5mg tablets (Lexon (UK) Ltd)	777992004	Zopiclone
+	20032311000001102		Zimovane 7.5mg tablets (Lexon (UK) Ltd)	777992004	Zopiclone
+	13109811000001104		Amitriptyline 10mg tablets (Dowelhurst Ltd)	774553005	Amitriptyline
+	13109911000001109		Amitriptyline 10mg tablets (Dowelhurst Ltd)	774553005	Amitriptyline
+	5347911000001108		Cipramil 10mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	5348011000001105		Cipramil 10mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	13224311000001101		Citalopram 10mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	13224611000001106		Citalopram 10mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	5348211000001100		Cipramil 20mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	5348311000001108		Cipramil 20mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	5455511000001101		Citalopram 20mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	5455611000001102		Citalopram 20mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	5532311000001109		Cipramil 20mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	5532411000001102		Cipramil 20mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	10508411000001100		Citalopram 20mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	10508711000001106		Citalopram 20mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	13849411000001103		Cipramil 20mg tablets (DE Pharmaceuticals)	775266004	Citalopram
+	13849511000001104		Cipramil 20mg tablets (DE Pharmaceuticals)	775266004	Citalopram
+	14496111000001103		Cipramil 20mg tablets (Sigma Pharmaceuticals Plc)	775266004	Citalopram
+	14496211000001109		Cipramil 20mg tablets (Sigma Pharmaceuticals Plc)	775266004	Citalopram
+	16148511000001107		Cipramil 20mg tablets (Lexon (UK) Ltd)	775266004	Citalopram
+	16148611000001106		Cipramil 20mg tablets (Lexon (UK) Ltd)	775266004	Citalopram
+	16502511000001109		Cipramil 20mg tablets (Mawdsley-Brooks & Company Ltd)	775266004	Citalopram
+	16502611000001108		Cipramil 20mg tablets (Mawdsley-Brooks & Company Ltd)	775266004	Citalopram
+	18522611000001107		Cipramil 20mg tablets (Mawdsley-Brooks & Company Ltd)	775266004	Citalopram
+	10850111000001102		Cipramil 40mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	10850211000001108		Cipramil 40mg tablets (Waymade Healthcare Plc)	775266004	Citalopram
+	13107111000001100		Cipramil 40mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	13107311000001103		Cipramil 40mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	13224811000001105		Citalopram 40mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	13224911000001100		Citalopram 40mg tablets (Dowelhurst Ltd)	775266004	Citalopram
+	13849611000001100		Cipramil 40mg tablets (DE Pharmaceuticals)	775266004	Citalopram
+	13849711000001109		Cipramil 40mg tablets (DE Pharmaceuticals)	775266004	Citalopram
+	14496311000001101		Cipramil 40mg tablets (Sigma Pharmaceuticals Plc)	775266004	Citalopram
+	14496411000001108		Cipramil 40mg tablets (Sigma Pharmaceuticals Plc)	775266004	Citalopram
+	16148811000001105		Cipramil 40mg tablets (Lexon (UK) Ltd)	775266004	Citalopram
+	16148911000001100		Cipramil 40mg tablets (Lexon (UK) Ltd)	775266004	Citalopram
+	19736911000001101		Cipramil 40mg tablets (Mawdsley-Brooks & Company Ltd)	775266004	Citalopram
+	19737011000001102		Cipramil 40mg tablets (Mawdsley-Brooks & Company Ltd)	775266004	Citalopram
+	5413111000001100		Sertraline 50mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	5413211000001106		Sertraline 50mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	5452311000001101		Sertraline 50mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	5452511000001107		Sertraline 50mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	5523311000001101		Lustral 50mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	5616411000001103		Lustral 50mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	5523511000001107		Lustral 50mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	10767811000001100		Lustral 50mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	25400511000001103		Lustral 50mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	10767911000001105		Lustral 50mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	13927211000001101		Lustral 50mg tablets (DE Pharmaceuticals)	777521008	Sertraline
+	13927311000001109		Lustral 50mg tablets (DE Pharmaceuticals)	777521008	Sertraline
+	16203811000001107		Lustral 50mg tablets (Lexon (UK) Ltd)	777521008	Sertraline
+	16203911000001102		Lustral 50mg tablets (Lexon (UK) Ltd)	777521008	Sertraline
+	37540711000001109		Lustral 50mg tablets (Mawdsley-Brooks & Company Ltd)	777521008	Sertraline
+	37540811000001101		Lustral 50mg tablets (Mawdsley-Brooks & Company Ltd)	777521008	Sertraline
+	13110011000001104		Amitriptyline 25mg tablets (Dowelhurst Ltd)	774553005	Amitriptyline
+	13110111000001103		Amitriptyline 25mg tablets (Dowelhurst Ltd)	774553005	Amitriptyline
+	5413411000001105		Sertraline 100mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	5413611000001108		Sertraline 100mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	5509011000001106		Sertraline 100mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	5509211000001101		Sertraline 100mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	5523011000001104		Lustral 100mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	5523111000001103		Lustral 100mg tablets (Dowelhurst Ltd)	777521008	Sertraline
+	10920611000001104		Lustral 100mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	10920711000001108		Lustral 100mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	18666711000001103		Lustral 100mg tablets (Waymade Healthcare Plc)	777521008	Sertraline
+	13927411000001102		Lustral 100mg tablets (DE Pharmaceuticals)	777521008	Sertraline
+	13927511000001103		Lustral 100mg tablets (DE Pharmaceuticals)	777521008	Sertraline
+	13927711000001108		Lustral 100mg tablets (DE Pharmaceuticals)	777521008	Sertraline
+	14375011000001106		Lustral 100mg tablets (Sigma Pharmaceuticals Plc)	777521008	Sertraline
+	14375211000001101		Lustral 100mg tablets (Sigma Pharmaceuticals Plc)	777521008	Sertraline
+	16514711000001106		Lustral 100mg tablets (Mawdsley-Brooks & Company Ltd)	777521008	Sertraline
+	16514911000001108		Lustral 100mg tablets (Mawdsley-Brooks & Company Ltd)	777521008	Sertraline
+	16582411000001109		Lustral 100mg tablets (Stephar (U.K.) Ltd)	777521008	Sertraline
+	16582611000001107		Lustral 100mg tablets (Stephar (U.K.) Ltd)	777521008	Sertraline
+	19968211000001105		Lustral 100mg tablets (Lexon (UK) Ltd)	777521008	Sertraline
+	19968311000001102		Lustral 100mg tablets (Lexon (UK) Ltd)	777521008	Sertraline
+	13110411000001108		Amitriptyline 50mg tablets (Dowelhurst Ltd)	774553005	Amitriptyline
+	13110611000001106		Amitriptyline 50mg tablets (Dowelhurst Ltd)	774553005	Amitriptyline
+	10528711000001102		Prothiaden 25mg capsules (Waymade Healthcare Plc)	775693007	Dosulepin
+	10528911000001100		Prothiaden 25mg capsules (Waymade Healthcare Plc)	775693007	Dosulepin
+	14344411000001102		Prothiaden 25mg capsules (Sigma Pharmaceuticals Plc)	775693007	Dosulepin
+	17589611000001101		Prothiaden 25mg capsules (Sigma Pharmaceuticals Plc)	775693007	Dosulepin
+	14344511000001103		Prothiaden 25mg capsules (Sigma Pharmaceuticals Plc)	775693007	Dosulepin
+	16228611000001105		Prothiaden 25mg capsules (Lexon (UK) Ltd)	775693007	Dosulepin
+	16228711000001101		Prothiaden 25mg capsules (Lexon (UK) Ltd)	775693007	Dosulepin
+	16586411000001105		Prothiaden 25mg capsules (Stephar (U.K.) Ltd)	775693007	Dosulepin
+	16586511000001109		Prothiaden 25mg capsules (Stephar (U.K.) Ltd)	775693007	Dosulepin
+	5403111000001102		Prothiaden 75mg tablets (Waymade Healthcare Plc)	775693007	Dosulepin
+	5403311000001100		Prothiaden 75mg tablets (Waymade Healthcare Plc)	775693007	Dosulepin
+	5503211000001103		Dosulepin 75mg tablets (Dowelhurst Ltd)	775693007	Dosulepin
+	5503311000001106		Dosulepin 75mg tablets (Dowelhurst Ltd)	775693007	Dosulepin
+	5575311000001101		Prothiaden 75mg tablets (Dowelhurst Ltd)	775693007	Dosulepin
+	5575411000001108		Prothiaden 75mg tablets (Dowelhurst Ltd)	775693007	Dosulepin
+	42841611000001106		Dosulepin 75mg tablets (Necessity Supplies Ltd)	775693007	Dosulepin
+	42841711000001102		Dosulepin 75mg tablets (Necessity Supplies Ltd)	775693007	Dosulepin
+	42884111000001107		Temazepam 20mg tablets (Necessity Supplies Ltd)	777699005	Temazepam
+	42884211000001101		Temazepam 20mg tablets (Necessity Supplies Ltd)	777699005	Temazepam
+	13217711000001104		Chlorpromazine 25mg tablets (Dowelhurst Ltd)	775216005	Chlorpromazine
+	13217911000001102		Chlorpromazine 25mg tablets (Dowelhurst Ltd)	775216005	Chlorpromazine
+	13227611000001100		Clomipramine 10mg capsules (Dowelhurst Ltd)	775307008	Clomipramine
+	13227811000001101		Clomipramine 10mg capsules (Dowelhurst Ltd)	775307008	Clomipramine
+	13228111000001109		Clomipramine 25mg capsules (Dowelhurst Ltd)	775307008	Clomipramine
+	13228211000001103		Clomipramine 25mg capsules (Dowelhurst Ltd)	775307008	Clomipramine
+	13228611000001101		Clomipramine 25mg capsules (Dowelhurst Ltd)	775307008	Clomipramine
+	10981911000001107		Largactil 50mg tablets (Waymade Healthcare Plc)	775216005	Chlorpromazine
+	10982011000001100		Largactil 50mg tablets (Waymade Healthcare Plc)	775216005	Chlorpromazine
+	13221411000001106		Chlorpromazine 50mg tablets (Dowelhurst Ltd)	775216005	Chlorpromazine
+	13221511000001105		Chlorpromazine 50mg tablets (Dowelhurst Ltd)	775216005	Chlorpromazine
+	13229011000001103		Clomipramine 50mg capsules (Dowelhurst Ltd)	775307008	Clomipramine
+	13229311000001100		Clomipramine 50mg capsules (Dowelhurst Ltd)	775307008	Clomipramine
+	13217511000001109		Chlorpromazine 100mg tablets (Dowelhurst Ltd)	775216005	Chlorpromazine
+	13217611000001108		Chlorpromazine 100mg tablets (Dowelhurst Ltd)	775216005	Chlorpromazine
+	10545011000001105		Lorazepam 1mg tablets (Waymade Healthcare Plc)	776574008	Lorazepam
+	10545211000001100		Lorazepam 1mg tablets (Waymade Healthcare Plc)	776574008	Lorazepam
+	15171211000001103		Lorazepam 1mg tablets (Waymade Healthcare Plc)	776574008	Lorazepam
+	15171311000001106		Lorazepam 1mg tablets (Waymade Healthcare Plc)	776574008	Lorazepam
+	17568411000001109		Lorazepam 1mg tablets (Sigma Pharmaceuticals Plc)	776574008	Lorazepam
+	17568511000001108		Lorazepam 1mg tablets (Sigma Pharmaceuticals Plc)	776574008	Lorazepam
+	18589811000001109		Lorazepam 1mg tablets (DE Pharmaceuticals)	776574008	Lorazepam
+	18590111000001108		Lorazepam 1mg tablets (DE Pharmaceuticals)	776574008	Lorazepam
+	42856811000001102		Lorazepam 1mg tablets (Necessity Supplies Ltd)	776574008	Lorazepam
+	42857011000001106		Lorazepam 1mg tablets (Necessity Supplies Ltd)	776574008	Lorazepam
+	42857211000001101		Lorazepam 2.5mg tablets (Necessity Supplies Ltd)	776574008	Lorazepam
+	42857411000001102		Lorazepam 2.5mg tablets (Necessity Supplies Ltd)	776574008	Lorazepam
+	5314011000001109		Risperdal 1mg/ml oral solution (Dowelhurst Ltd)	777450003	Risperidone
+	5314211000001104		Risperdal 1mg/ml oral solution (Dowelhurst Ltd)	777450003	Risperidone
+	5407711000001106		Risperdal 1mg/ml oral solution (Waymade Healthcare Plc)	777450003	Risperidone
+	5407811000001103		Risperdal 1mg/ml oral solution (Waymade Healthcare Plc)	777450003	Risperidone
+	13960211000001105		Risperdal 1mg/ml oral solution (DE Pharmaceuticals)	777450003	Risperidone
+	13960311000001102		Risperdal 1mg/ml oral solution (DE Pharmaceuticals)	777450003	Risperidone
+	14660611000001109		Risperdal 1mg/ml oral solution (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	14660711000001100		Risperdal 1mg/ml oral solution (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	16234611000001102		Risperdal 1mg/ml oral solution (Lexon (UK) Ltd)	777450003	Risperidone
+	16234711000001106		Risperdal 1mg/ml oral solution (Lexon (UK) Ltd)	777450003	Risperidone
+	17437111000001100		Risperdal 1mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	17437211000001106		Risperdal 1mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	18183011000001105		Risperdal 1mg/ml oral solution (Necessity Supplies Ltd)	777450003	Risperidone
+	18183111000001106		Risperdal 1mg/ml oral solution (Necessity Supplies Ltd)	777450003	Risperidone
+	36873511000001107		Risperdal 1mg/ml oral solution (Abacus Medicine Ltd)	777450003	Risperidone
+	36873611000001106		Risperdal 1mg/ml oral solution (Abacus Medicine Ltd)	777450003	Risperidone
+	39834611000001103		Risperdal 1mg/ml oral solution (CST Pharma Ltd)	777450003	Risperidone
+	39834711000001107		Risperdal 1mg/ml oral solution (CST Pharma Ltd)	777450003	Risperidone
+	19859711000001109		Risperdal 500microgram tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	19859811000001101		Risperdal 500microgram tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	5408511000001102		Risperdal 1mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5409011000001100		Risperdal 1mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5409311000001102		Risperdal 1mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5408711000001107		Risperdal 1mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5507111000001101		Risperidone 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5507311000001104		Risperidone 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5507511000001105		Risperidone 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5507211000001107		Risperidone 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5577811000001100		Risperdal 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5578111000001108		Risperdal 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5578211000001102		Risperdal 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5578011000001107		Risperdal 1mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	13960411000001109		Risperdal 1mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	13960511000001108		Risperdal 1mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	14661611000001104		Risperdal 1mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	14661711000001108		Risperdal 1mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	16234811000001103		Risperdal 1mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	16234911000001108		Risperdal 1mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	17437311000001103		Risperdal 1mg tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	17437411000001105		Risperdal 1mg tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	18183211000001100		Risperdal 1mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	18183311000001108		Risperdal 1mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	18183511000001102		Risperdal 1mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	5409911000001101		Risperdal 2mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5410111000001107		Risperdal 2mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5508511000001109		Risperidone 2mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5508611000001108		Risperidone 2mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5579911000001103		Risperdal 2mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5580011000001102		Risperdal 2mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	13960611000001107		Risperdal 2mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	13960711000001103		Risperdal 2mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	14662211000001108		Risperdal 2mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	14662311000001100		Risperdal 2mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	16235011000001108		Risperdal 2mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	16235111000001109		Risperdal 2mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	17437511000001109		Risperdal 2mg tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	17437611000001108		Risperdal 2mg tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	18183611000001103		Risperdal 2mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	18183711000001107		Risperdal 2mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	5410411000001102		Risperdal 3mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5410511000001103		Risperdal 3mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5507411000001106		Risperidone 3mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5507711000001100		Risperidone 3mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5617711000001107		Risperdal 3mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5617811000001104		Risperdal 3mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	13960811000001106		Risperdal 3mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	13960911000001101		Risperdal 3mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	13961111000001105		Risperdal 3mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	14662611000001105		Risperdal 3mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	14662711000001101		Risperdal 3mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	16235211000001103		Risperdal 3mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	16235311000001106		Risperdal 3mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	17437711000001104		Risperdal 3mg tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	17437811000001107		Risperdal 3mg tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	18183811000001104		Risperdal 3mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	18183911000001109		Risperdal 3mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	5410711000001108		Risperdal 4mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5410811000001100		Risperdal 4mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5507911000001103		Risperidone 4mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5508111000001100		Risperidone 4mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5618011000001106		Risperdal 4mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5618111000001107		Risperdal 4mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	13962211000001106		Risperdal 4mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	13962311000001103		Risperdal 4mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	13962511000001109		Risperdal 4mg tablets (DE Pharmaceuticals)	777450003	Risperidone
+	14662811000001109		Risperdal 4mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	14662911000001104		Risperdal 4mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	16235411000001104		Risperdal 4mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	16235511000001100		Risperdal 4mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	18184011000001107		Risperdal 4mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	18184111000001108		Risperdal 4mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	5483511000001107		Risperdal 6mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5483811000001105		Risperdal 6mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	10769211000001107		Risperdal 6mg tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	5618611000001104		Risperdal 6mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	5618711000001108		Risperdal 6mg tablets (Dowelhurst Ltd)	777450003	Risperidone
+	14663211000001102		Risperdal 6mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	14663311000001105		Risperdal 6mg tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	16235611000001101		Risperdal 6mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	16235711000001105		Risperdal 6mg tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	18184211000001102		Risperdal 6mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	18184311000001105		Risperdal 6mg tablets (Necessity Supplies Ltd)	777450003	Risperidone
+	5432711000001103		Zyprexa 2.5mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	5432811000001106		Zyprexa 2.5mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	10460511000001106		Zyprexa 2.5mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	10460711000001101		Zyprexa 2.5mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	14001611000001109		Zyprexa 2.5mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14001811000001108		Zyprexa 2.5mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14747511000001107		Zyprexa 2.5mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14747611000001106		Zyprexa 2.5mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17485711000001104		Zyprexa 2.5mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17485811000001107		Zyprexa 2.5mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18218011000001104		Zyprexa 2.5mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	18218111000001103		Zyprexa 2.5mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	37539311000001102		Zalasta 2.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37539411000001109		Zalasta 2.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37547511000001100		Zyprexa 2.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37547611000001101		Zyprexa 2.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	5433111000001105		Zyprexa 7.5mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	5433411000001100		Zyprexa 7.5mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	5433311000001107		Zyprexa 7.5mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	10461111000001108		Zyprexa 7.5mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	10461411000001103		Zyprexa 7.5mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	10461211000001102		Zyprexa 7.5mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	14002511000001102		Zyprexa 7.5mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14002811000001104		Zyprexa 7.5mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14002611000001103		Zyprexa 7.5mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14747711000001102		Zyprexa 7.5mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14747911000001100		Zyprexa 7.5mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14747811000001105		Zyprexa 7.5mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17486111000001106		Zyprexa 7.5mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17486211000001100		Zyprexa 7.5mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17486311000001108		Zyprexa 7.5mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18069911000001104		Zyprexa 7.5mg tablets (Lexon (UK) Ltd)	776977006	Olanzapine
+	18070011000001100		Zyprexa 7.5mg tablets (Lexon (UK) Ltd)	776977006	Olanzapine
+	18217011000001100		Zyprexa 7.5mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	18217111000001104		Zyprexa 7.5mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	37544411000001109		Zalasta 7.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37544611000001107		Zalasta 7.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37548911000001108		Zyprexa 7.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37549011000001104		Zyprexa 7.5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	5432911000001101		Zyprexa 5mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	5433011000001109		Zyprexa 5mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	10460911000001104		Zyprexa 5mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	10461011000001107		Zyprexa 5mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	14002111000001106		Zyprexa 5mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14002211000001100		Zyprexa 5mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14748011000001103		Zyprexa 5mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14748111000001102		Zyprexa 5mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17485911000001102		Zyprexa 5mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17486011000001105		Zyprexa 5mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18218311000001101		Zyprexa 5mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	18218511000001107		Zyprexa 5mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	37544211000001105		Zalasta 5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37544311000001102		Zalasta 5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37548111000001105		Zyprexa 5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37548311000001107		Zyprexa 5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37750211000001100		Olanzapine 5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37750311000001108		Olanzapine 5mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	5433511000001101		Zyprexa 10mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	5433611000001102		Zyprexa 10mg tablets (Waymade Healthcare Plc)	776977006	Olanzapine
+	10459611000001106		Zyprexa 10mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	10459711000001102		Zyprexa 10mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	10459811000001105		Zyprexa 10mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	14003211000001106		Zyprexa 10mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14003411000001105		Zyprexa 10mg tablets (DE Pharmaceuticals)	776977006	Olanzapine
+	14747111000001103		Zyprexa 10mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14747211000001109		Zyprexa 10mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17599711000001109		Zyprexa 10mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17486711000001107		Zyprexa 10mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17486811000001104		Zyprexa 10mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18217211000001105		Zyprexa 10mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	18217311000001102		Zyprexa 10mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	18217411000001109		Zyprexa 10mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	36919011000001100		Zyprexa 10mg tablets (Abacus Medicine Ltd)	776977006	Olanzapine
+	36919111000001104		Zyprexa 10mg tablets (Abacus Medicine Ltd)	776977006	Olanzapine
+	37538911000001109		Zalasta 10mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37539011000001100		Zalasta 10mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37546411000001101		Zyprexa 10mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37546511000001102		Zyprexa 10mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37749611000001107		Olanzapine 10mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37749711000001103		Olanzapine 10mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	5435011000001105		Zyprexa 10mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	5435111000001106		Zyprexa 10mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	10461611000001100		Zyprexa 10mg Velotabs (Dowelhurst Ltd)	776977006	Olanzapine
+	10461711000001109		Zyprexa 10mg Velotabs (Dowelhurst Ltd)	776977006	Olanzapine
+	14004211000001109		Zyprexa 10mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	14004311000001101		Zyprexa 10mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	14748311000001100		Zyprexa 10mg Velotabs (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14748411000001107		Zyprexa 10mg Velotabs (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14748511000001106		Zyprexa 10mg Velotabs (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17486411000001101		Zyprexa 10mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17486511000001102		Zyprexa 10mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18218911000001100		Zyprexa 10mg Velotabs (Necessity Supplies Ltd)	776977006	Olanzapine
+	18219011000001109		Zyprexa 10mg Velotabs (Necessity Supplies Ltd)	776977006	Olanzapine
+	20033811000001103		Zyprexa 10mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	20033911000001108		Zyprexa 10mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	36919611000001107		Zyprexa 10mg Velotabs (Abacus Medicine Ltd)	776977006	Olanzapine
+	36919711000001103		Zyprexa 10mg Velotabs (Abacus Medicine Ltd)	776977006	Olanzapine
+	37549111000001103		Zyprexa 10mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	37549411000001108		Zyprexa 10mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	5583811000001101		Solian 50 tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5584011000001109		Solian 50 tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5617011000001105		Amisulpride 50mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	13108711000001103		Amisulpride 50mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5617111000001106		Amisulpride 50mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5332111000001109		Amisulpride 200mg tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	5332211000001103		Amisulpride 200mg tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	5412811000001104		Solian 200 tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	5413011000001101		Solian 200 tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	5447211000001109		Amisulpride 200mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5447311000001101		Amisulpride 200mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5522011000001108		Solian 200 tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5522211000001103		Solian 200 tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	14369011000001103		Solian 200 tablets (Sigma Pharmaceuticals Plc)	774552000	Amisulpride
+	14369111000001102		Solian 200 tablets (Sigma Pharmaceuticals Plc)	774552000	Amisulpride
+	17454011000001108		Solian 200 tablets (Mawdsley-Brooks & Company Ltd)	774552000	Amisulpride
+	17454111000001109		Solian 200 tablets (Mawdsley-Brooks & Company Ltd)	774552000	Amisulpride
+	18191211000001103		Solian 200 tablets (Necessity Supplies Ltd)	774552000	Amisulpride
+	18191311000001106		Solian 200 tablets (Necessity Supplies Ltd)	774552000	Amisulpride
+	5582711000001101		Solian 400 tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5582911000001104		Solian 400 tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	5582811000001109		Solian 400 tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	10509911000001100		Solian 400 tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	10510011000001105		Solian 400 tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	13108411000001109		Amisulpride 400mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	13108511000001108		Amisulpride 400mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	14369411000001107		Solian 400 tablets (Sigma Pharmaceuticals Plc)	774552000	Amisulpride
+	14369711000001101		Solian 400 tablets (Sigma Pharmaceuticals Plc)	774552000	Amisulpride
+	18191611000001101		Solian 400 tablets (Necessity Supplies Ltd)	774552000	Amisulpride
+	18192111000001104		Solian 400 tablets (Necessity Supplies Ltd)	774552000	Amisulpride
+	45254711000001109		Amisulpride 400mg tablets (Necessity Supplies Ltd)	774552000	Amisulpride
+	45254811000001101		Amisulpride 400mg tablets (Necessity Supplies Ltd)	774552000	Amisulpride
+	5360711000001104		Efexor 37.5mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5361011000001105		Efexor 37.5mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5513911000001109		Venlafaxine 37.5mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5614511000001105		Venlafaxine 37.5mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5515411000001102		Venlafaxine 37.5mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5539811000001105		Efexor 37.5mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5540011000001106		Efexor 37.5mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5540111000001107		Efexor 37.5mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	11580511000001105		Venlafaxine 37.5mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	11580611000001109		Venlafaxine 37.5mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	13869311000001100		Efexor 37.5mg tablets (DE Pharmaceuticals)	777926007	Venlafaxine
+	13869511000001106		Efexor 37.5mg tablets (DE Pharmaceuticals)	777926007	Venlafaxine
+	13869411000001107		Efexor 37.5mg tablets (DE Pharmaceuticals)	777926007	Venlafaxine
+	14215711000001108		Efexor 37.5mg tablets (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14225311000001100		Efexor 37.5mg tablets (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	16170211000001107		Efexor 37.5mg tablets (Lexon (UK) Ltd)	777926007	Venlafaxine
+	16170311000001104		Efexor 37.5mg tablets (Lexon (UK) Ltd)	777926007	Venlafaxine
+	5461211000001108		Venlafaxine 50mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5461411000001107		Venlafaxine 50mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5540311000001109		Efexor 50mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5540411000001102		Efexor 50mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5361311000001108		Efexor 75mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5361411000001101		Efexor 75mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5515911000001105		Venlafaxine 75mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5614611000001109		Venlafaxine 75mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5516311000001104		Venlafaxine 75mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5540911000001105		Efexor 75mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5541011000001102		Efexor 75mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	5541111000001101		Efexor 75mg tablets (Dowelhurst Ltd)	777926007	Venlafaxine
+	10769811000001108		Venlafaxine 75mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	10769911000001103		Venlafaxine 75mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	13869611000001105		Efexor 75mg tablets (DE Pharmaceuticals)	777926007	Venlafaxine
+	13869711000001101		Efexor 75mg tablets (DE Pharmaceuticals)	777926007	Venlafaxine
+	14216911000001103		Efexor 75mg tablets (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14217011000001104		Efexor 75mg tablets (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	16170411000001106		Efexor 75mg tablets (Lexon (UK) Ltd)	777926007	Venlafaxine
+	16170511000001105		Efexor 75mg tablets (Lexon (UK) Ltd)	777926007	Venlafaxine
+	5361711000001107		Efexor XL 75mg capsules (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5361811000001104		Efexor XL 75mg capsules (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5362011000001102		Efexor XL 75mg capsules (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5539311000001101		Efexor XL 75mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	10510811000001104		Efexor XL 75mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	5539611000001106		Efexor XL 75mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	5539511000001107		Efexor XL 75mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	13869811000001109		Efexor XL 75mg capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	13869911000001104		Efexor XL 75mg capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	13870011000001100		Efexor XL 75mg capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	14191811000001101		Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	14191911000001106		Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	14215911000001105		Efexor XL 75mg capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14217211000001109		Efexor XL 75mg capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14216611000001109		Efexor XL 75mg capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	16170611000001109		Efexor XL 75mg capsules (Lexon (UK) Ltd)	777926007	Venlafaxine
+	16170711000001100		Efexor XL 75mg capsules (Lexon (UK) Ltd)	777926007	Venlafaxine
+	16170811000001108		Efexor XL 75mg capsules (Lexon (UK) Ltd)	777926007	Venlafaxine
+	16567211000001105		Efexor XL 75mg capsules (Mawdsley-Brooks & Company Ltd)	777926007	Venlafaxine
+	16567411000001109		Efexor XL 75mg capsules (Mawdsley-Brooks & Company Ltd)	777926007	Venlafaxine
+	16567311000001102		Efexor XL 75mg capsules (Mawdsley-Brooks & Company Ltd)	777926007	Venlafaxine
+	18255611000001105		Efexor XL 75mg capsules (Necessity Supplies Ltd)	777926007	Venlafaxine
+	18255811000001109		Efexor XL 75mg capsules (Necessity Supplies Ltd)	777926007	Venlafaxine
+	18255911000001104		Efexor XL 75mg capsules (Necessity Supplies Ltd)	777926007	Venlafaxine
+	18255711000001101		Efexor XL 75mg capsules (Necessity Supplies Ltd)	777926007	Venlafaxine
+	5362111000001101		Efexor XL 150mg capsules (Waymade Healthcare Plc)	777926007	Venlafaxine
+	21500611000001109		Efexor XL 150mg capsules (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5362311000001104		Efexor XL 150mg capsules (Waymade Healthcare Plc)	777926007	Venlafaxine
+	5538911000001108		Efexor XL 150mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	10510611000001103		Efexor XL 150mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	5539011000001104		Efexor XL 150mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	5539111000001103		Efexor XL 150mg capsules (Dowelhurst Ltd)	777926007	Venlafaxine
+	13870111000001104		Efexor XL 150mg capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	13870211000001105		Efexor XL 150mg capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	13870311000001102		Efexor XL 150mg capsules (DE Pharmaceuticals)	777926007	Venlafaxine
+	14216211000001107		Efexor XL 150mg capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14217111000001103		Efexor XL 150mg capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14216511000001105		Efexor XL 150mg capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14750511000001106		Venlafaxine 150mg modified-release capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	14750711000001101		Venlafaxine 150mg modified-release capsules (Sigma Pharmaceuticals Plc)	777926007	Venlafaxine
+	16567511000001108		Efexor XL 150mg capsules (Mawdsley-Brooks & Company Ltd)	777926007	Venlafaxine
+	37398411000001106		Efexor XL 150mg capsules (Mawdsley-Brooks & Company Ltd)	777926007	Venlafaxine
+	16567611000001107		Efexor XL 150mg capsules (Mawdsley-Brooks & Company Ltd)	777926007	Venlafaxine
+	18254311000001104		Efexor XL 150mg capsules (Necessity Supplies Ltd)	777926007	Venlafaxine
+	18254411000001106		Efexor XL 150mg capsules (Necessity Supplies Ltd)	777926007	Venlafaxine
+	18254511000001105		Efexor XL 150mg capsules (Necessity Supplies Ltd)	777926007	Venlafaxine
+	19963311000001105		Efexor XL 150mg capsules (Lexon (UK) Ltd)	777926007	Venlafaxine
+	19963411000001103		Efexor XL 150mg capsules (Lexon (UK) Ltd)	777926007	Venlafaxine
+	5434611000001104		Zyprexa 5mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	5434911000001105		Zyprexa 5mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	10462411000001108		Zyprexa 5mg Velotabs (Dowelhurst Ltd)	776977006	Olanzapine
+	10462511000001107		Zyprexa 5mg Velotabs (Dowelhurst Ltd)	776977006	Olanzapine
+	14003811000001107		Zyprexa 5mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	14003911000001102		Zyprexa 5mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	14749011000001108		Zyprexa 5mg Velotabs (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14749111000001109		Zyprexa 5mg Velotabs (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17487311000001106		Zyprexa 5mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17487411000001104		Zyprexa 5mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18219611000001102		Zyprexa 5mg Velotabs (Necessity Supplies Ltd)	776977006	Olanzapine
+	18219711000001106		Zyprexa 5mg Velotabs (Necessity Supplies Ltd)	776977006	Olanzapine
+	20033611000001102		Zyprexa 5mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	20033711000001106		Zyprexa 5mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	36919411000001109		Zyprexa 5mg Velotabs (Abacus Medicine Ltd)	776977006	Olanzapine
+	36919511000001108		Zyprexa 5mg Velotabs (Abacus Medicine Ltd)	776977006	Olanzapine
+	37550111000001105		Zyprexa 5mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	37550211000001104		Zyprexa 5mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	5408211000001100		Seroxat 20mg tablets (Waymade Healthcare Plc)	777085007	Paroxetine
+	11056811000001103		Seroxat 20mg tablets (Waymade Healthcare Plc)	777085007	Paroxetine
+	5409411000001109		Seroxat 20mg tablets (Waymade Healthcare Plc)	777085007	Paroxetine
+	5533411000001106		Seroxat 20mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	13204011000001107		Seroxat 20mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	5534011000001100		Seroxat 20mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	5533811000001108		Seroxat 20mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	13234911000001103		Paroxetine 20mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	13235011000001103		Paroxetine 20mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	16243511000001100		Seroxat 20mg tablets (Lexon (UK) Ltd)	777085007	Paroxetine
+	16243611000001101		Seroxat 20mg tablets (Lexon (UK) Ltd)	777085007	Paroxetine
+	17449311000001109		Seroxat 20mg tablets (Mawdsley-Brooks & Company Ltd)	777085007	Paroxetine
+	17449411000001102		Seroxat 20mg tablets (Mawdsley-Brooks & Company Ltd)	777085007	Paroxetine
+	18612611000001107		Seroxat 20mg tablets (DE Pharmaceuticals)	777085007	Paroxetine
+	18612711000001103		Seroxat 20mg tablets (DE Pharmaceuticals)	777085007	Paroxetine
+	42881211000001103		Seroxat 20mg tablets (Necessity Supplies Ltd)	777085007	Paroxetine
+	42881311000001106		Seroxat 20mg tablets (Necessity Supplies Ltd)	777085007	Paroxetine
+	12561311000001107		Seroxat 30mg tablets (Waymade Healthcare Plc)	777085007	Paroxetine
+	12561411000001100		Seroxat 30mg tablets (Waymade Healthcare Plc)	777085007	Paroxetine
+	13204111000001108		Seroxat 30mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	13204211000001102		Seroxat 30mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	13235111000001102		Paroxetine 30mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	13235311000001100		Paroxetine 30mg tablets (Dowelhurst Ltd)	777085007	Paroxetine
+	16243711000001105		Seroxat 30mg tablets (Lexon (UK) Ltd)	777085007	Paroxetine
+	16243811000001102		Seroxat 30mg tablets (Lexon (UK) Ltd)	777085007	Paroxetine
+	17449511000001103		Seroxat 30mg tablets (Mawdsley-Brooks & Company Ltd)	777085007	Paroxetine
+	17449611000001104		Seroxat 30mg tablets (Mawdsley-Brooks & Company Ltd)	777085007	Paroxetine
+	5339411000001105		Buspar 5mg tablets (Waymade Healthcare Plc)	774943004	Buspirone
+	14754011000001105		Buspar 5mg tablets (Waymade Healthcare Plc)	774943004	Buspirone
+	5339511000001109		Buspar 5mg tablets (Waymade Healthcare Plc)	774943004	Buspirone
+	5526911000001106		Buspar 5mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	5527011000001105		Buspar 5mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	13189111000001105		Buspirone 5mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	13189211000001104		Buspirone 5mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	14301511000001106		Buspar 5mg tablets (Sigma Pharmaceuticals Plc)	774943004	Buspirone
+	14301811000001109		Buspar 5mg tablets (Sigma Pharmaceuticals Plc)	774943004	Buspirone
+	16143011000001106		Buspar 5mg tablets (Lexon (UK) Ltd)	774943004	Buspirone
+	16143111000001107		Buspar 5mg tablets (Lexon (UK) Ltd)	774943004	Buspirone
+	16349311000001104		Buspar 5mg tablets (Mawdsley-Brooks & Company Ltd)	774943004	Buspirone
+	16349511000001105		Buspar 5mg tablets (Mawdsley-Brooks & Company Ltd)	774943004	Buspirone
+	16349711000001100		Buspar 5mg tablets (Mawdsley-Brooks & Company Ltd)	774943004	Buspirone
+	17896011000001100		Buspirone 5mg tablets (Sigma Pharmaceuticals Plc)	774943004	Buspirone
+	17896111000001104		Buspirone 5mg tablets (Sigma Pharmaceuticals Plc)	774943004	Buspirone
+	5339011000001101		Buspar 10mg tablets (Waymade Healthcare Plc)	774943004	Buspirone
+	5339111000001100		Buspar 10mg tablets (Waymade Healthcare Plc)	774943004	Buspirone
+	14753711000001105		Buspar 10mg tablets (Waymade Healthcare Plc)	774943004	Buspirone
+	10838611000001109		Buspar 10mg tablets (Waymade Healthcare Plc)	774943004	Buspirone
+	5526311000001105		Buspar 10mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	5526511000001104		Buspar 10mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	5526811000001101		Buspar 10mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	13188711000001102		Buspirone 10mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	13188811000001105		Buspirone 10mg tablets (Dowelhurst Ltd)	774943004	Buspirone
+	13838811000001107		Buspar 10mg tablets (DE Pharmaceuticals)	774943004	Buspirone
+	13839311000001109		Buspar 10mg tablets (DE Pharmaceuticals)	774943004	Buspirone
+	18548011000001100		Buspar 10mg tablets (DE Pharmaceuticals)	774943004	Buspirone
+	14300511000001104		Buspar 10mg tablets (Sigma Pharmaceuticals Plc)	774943004	Buspirone
+	14301111000001102		Buspar 10mg tablets (Sigma Pharmaceuticals Plc)	774943004	Buspirone
+	16143211000001101		Buspar 10mg tablets (Lexon (UK) Ltd)	774943004	Buspirone
+	16143411000001102		Buspar 10mg tablets (Lexon (UK) Ltd)	774943004	Buspirone
+	16143311000001109		Buspar 10mg tablets (Lexon (UK) Ltd)	774943004	Buspirone
+	16350511000001104		Buspar 10mg tablets (Mawdsley-Brooks & Company Ltd)	774943004	Buspirone
+	16350911000001106		Buspar 10mg tablets (Mawdsley-Brooks & Company Ltd)	774943004	Buspirone
+	16350711000001109		Buspar 10mg tablets (Mawdsley-Brooks & Company Ltd)	774943004	Buspirone
+	5366511000001106		Fluanxol 500microgram tablets (Waymade Healthcare Plc)	13314611000001107	Flupentixol dihydrochloride
+	5367211000001105		Fluanxol 500microgram tablets (Waymade Healthcare Plc)	13314611000001107	Flupentixol dihydrochloride
+	10521911000001109		Fluanxol 500microgram tablets (Dowelhurst Ltd)	13314611000001107	Flupentixol dihydrochloride
+	10522111000001101		Fluanxol 500microgram tablets (Dowelhurst Ltd)	13314611000001107	Flupentixol dihydrochloride
+	13880011000001108		Fluanxol 500microgram tablets (DE Pharmaceuticals)	13314611000001107	Flupentixol dihydrochloride
+	13880111000001109		Fluanxol 500microgram tablets (DE Pharmaceuticals)	13314611000001107	Flupentixol dihydrochloride
+	14236611000001103		Fluanxol 500microgram tablets (Sigma Pharmaceuticals Plc)	13314611000001107	Flupentixol dihydrochloride
+	14236711000001107		Fluanxol 500microgram tablets (Sigma Pharmaceuticals Plc)	13314611000001107	Flupentixol dihydrochloride
+	16181211000001106		Fluanxol 500microgram tablets (Lexon (UK) Ltd)	13314611000001107	Flupentixol dihydrochloride
+	16181311000001103		Fluanxol 500microgram tablets (Lexon (UK) Ltd)	13314611000001107	Flupentixol dihydrochloride
+	18263411000001101		Fluanxol 500microgram tablets (Necessity Supplies Ltd)	13314611000001107	Flupentixol dihydrochloride
+	18263511000001102		Fluanxol 500microgram tablets (Necessity Supplies Ltd)	13314611000001107	Flupentixol dihydrochloride
+	5368311000001101		Fluanxol 1mg tablets (Waymade Healthcare Plc)	13314611000001107	Flupentixol dihydrochloride
+	5368411000001108		Fluanxol 1mg tablets (Waymade Healthcare Plc)	13314611000001107	Flupentixol dihydrochloride
+	5544211000001109		Fluanxol 1mg tablets (Dowelhurst Ltd)	13314611000001107	Flupentixol dihydrochloride
+	5545211000001105		Fluanxol 1mg tablets (Dowelhurst Ltd)	13314611000001107	Flupentixol dihydrochloride
+	13880211000001103		Fluanxol 1mg tablets (DE Pharmaceuticals)	13314611000001107	Flupentixol dihydrochloride
+	13880311000001106		Fluanxol 1mg tablets (DE Pharmaceuticals)	13314611000001107	Flupentixol dihydrochloride
+	14236811000001104		Fluanxol 1mg tablets (Sigma Pharmaceuticals Plc)	13314611000001107	Flupentixol dihydrochloride
+	14236911000001109		Fluanxol 1mg tablets (Sigma Pharmaceuticals Plc)	13314611000001107	Flupentixol dihydrochloride
+	16181411000001105		Fluanxol 1mg tablets (Lexon (UK) Ltd)	13314611000001107	Flupentixol dihydrochloride
+	16181511000001109		Fluanxol 1mg tablets (Lexon (UK) Ltd)	13314611000001107	Flupentixol dihydrochloride
+	16581011000001108		Fluanxol 1mg tablets (Mawdsley-Brooks & Company Ltd)	13314611000001107	Flupentixol dihydrochloride
+	16581111000001109		Fluanxol 1mg tablets (Mawdsley-Brooks & Company Ltd)	13314611000001107	Flupentixol dihydrochloride
+	5413511000001109		Sonata 5mg capsules (Waymade Healthcare Plc)	777968007	Zaleplon
+	5413711000001104		Sonata 5mg capsules (Waymade Healthcare Plc)	777968007	Zaleplon
+	10471111000001104		Sonata 5mg capsules (Dowelhurst Ltd)	777968007	Zaleplon
+	10471211000001105		Sonata 5mg capsules (Dowelhurst Ltd)	777968007	Zaleplon
+	14004811000001105		Sonata 5mg capsules (DE Pharmaceuticals)	777968007	Zaleplon
+	14004911000001100		Sonata 5mg capsules (DE Pharmaceuticals)	777968007	Zaleplon
+	14370411000001109		Sonata 5mg capsules (Sigma Pharmaceuticals Plc)	777968007	Zaleplon
+	14370811000001106		Sonata 5mg capsules (Sigma Pharmaceuticals Plc)	777968007	Zaleplon
+	17454211000001103		Sonata 5mg capsules (Mawdsley-Brooks & Company Ltd)	777968007	Zaleplon
+	17454311000001106		Sonata 5mg capsules (Mawdsley-Brooks & Company Ltd)	777968007	Zaleplon
+	5413811000001107		Sonata 10mg capsules (Waymade Healthcare Plc)	777968007	Zaleplon
+	5414011000001104		Sonata 10mg capsules (Waymade Healthcare Plc)	777968007	Zaleplon
+	10471511000001108		Sonata 10mg capsules (Dowelhurst Ltd)	777968007	Zaleplon
+	10471611000001107		Sonata 10mg capsules (Dowelhurst Ltd)	777968007	Zaleplon
+	14005011000001100		Sonata 10mg capsules (DE Pharmaceuticals)	777968007	Zaleplon
+	14005211000001105		Sonata 10mg capsules (DE Pharmaceuticals)	777968007	Zaleplon
+	5307311000001101		Paroxetine 10mg/5ml oral suspension sugar free (Dowelhurst Ltd)	777085007	Paroxetine
+	5307511000001107		Paroxetine 10mg/5ml oral suspension sugar free (Dowelhurst Ltd)	777085007	Paroxetine
+	5319311000001108		Seroxat 20mg/10ml liquid (Dowelhurst Ltd)	777085007	Paroxetine
+	5319411000001101		Seroxat 20mg/10ml liquid (Dowelhurst Ltd)	777085007	Paroxetine
+	5411611000001109		Seroxat 20mg/10ml liquid (Waymade Healthcare Plc)	777085007	Paroxetine
+	5411811000001108		Seroxat 20mg/10ml liquid (Waymade Healthcare Plc)	777085007	Paroxetine
+	14001011000001102		Seroxat 20mg/10ml liquid (DE Pharmaceuticals)	777085007	Paroxetine
+	14001111000001101		Seroxat 20mg/10ml liquid (DE Pharmaceuticals)	777085007	Paroxetine
+	14708411000001101		Paroxetine 10mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc)	777085007	Paroxetine
+	14708511000001102		Paroxetine 10mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc)	777085007	Paroxetine
+	16243311000001106		Seroxat 20mg/10ml liquid (Lexon (UK) Ltd)	777085007	Paroxetine
+	16243411000001104		Seroxat 20mg/10ml liquid (Lexon (UK) Ltd)	777085007	Paroxetine
+	17595111000001106		Seroxat 20mg/10ml liquid (Sigma Pharmaceuticals Plc)	777085007	Paroxetine
+	17595411000001101		Seroxat 20mg/10ml liquid (Sigma Pharmaceuticals Plc)	777085007	Paroxetine
+	18187711000001102		Seroxat 20mg/10ml liquid (Necessity Supplies Ltd)	777085007	Paroxetine
+	18188011000001103		Seroxat 20mg/10ml liquid (Necessity Supplies Ltd)	777085007	Paroxetine
+	37596511000001107		Seroxat 20mg/10ml liquid (CST Pharma Ltd)	777085007	Paroxetine
+	37596611000001106		Seroxat 20mg/10ml liquid (CST Pharma Ltd)	777085007	Paroxetine
+	24593811000001106		Pericyazine 10mg tablets (Waymade Healthcare Plc)	777141008	Pericyazine
+	24593911000001101		Pericyazine 10mg tablets (Waymade Healthcare Plc)	777141008	Pericyazine
+	5309711000001105		Prozac 20mg/5ml liquid (Dowelhurst Ltd)	776003008	Fluoxetine
+	5309811000001102		Prozac 20mg/5ml liquid (Dowelhurst Ltd)	776003008	Fluoxetine
+	5405411000001106		Prozac 20mg/5ml liquid (Waymade Healthcare Plc)	776003008	Fluoxetine
+	5405511000001105		Prozac 20mg/5ml liquid (Waymade Healthcare Plc)	776003008	Fluoxetine
+	5504511000001102		Fluoxetine 20mg/5ml oral solution (Dowelhurst Ltd)	776003008	Fluoxetine
+	5504711000001107		Fluoxetine 20mg/5ml oral solution (Dowelhurst Ltd)	776003008	Fluoxetine
+	13952011000001108		Prozac 20mg/5ml liquid (DE Pharmaceuticals)	776003008	Fluoxetine
+	13952111000001109		Prozac 20mg/5ml liquid (DE Pharmaceuticals)	776003008	Fluoxetine
+	14380011000001108		Prozac 20mg/5ml liquid (Sigma Pharmaceuticals Plc)	776003008	Fluoxetine
+	14380411000001104		Prozac 20mg/5ml liquid (Sigma Pharmaceuticals Plc)	776003008	Fluoxetine
+	16229611000001101		Prozac 20mg/5ml liquid (Lexon (UK) Ltd)	776003008	Fluoxetine
+	16229711000001105		Prozac 20mg/5ml liquid (Lexon (UK) Ltd)	776003008	Fluoxetine
+	17424711000001109		Prozac 20mg/5ml liquid (Mawdsley-Brooks & Company Ltd)	776003008	Fluoxetine
+	17424811000001101		Prozac 20mg/5ml liquid (Mawdsley-Brooks & Company Ltd)	776003008	Fluoxetine
+	18174311000001103		Prozac 20mg/5ml liquid (Necessity Supplies Ltd)	776003008	Fluoxetine
+	18174411000001105		Prozac 20mg/5ml liquid (Necessity Supplies Ltd)	776003008	Fluoxetine
+	5359511000001105		Edronax 4mg tablets (Waymade Healthcare Plc)	777405000	Reboxetine
+	5359711000001100		Edronax 4mg tablets (Waymade Healthcare Plc)	777405000	Reboxetine
+	5538511000001101		Edronax 4mg tablets (Dowelhurst Ltd)	777405000	Reboxetine
+	5538711000001106		Edronax 4mg tablets (Dowelhurst Ltd)	777405000	Reboxetine
+	13869111000001102		Edronax 4mg tablets (DE Pharmaceuticals)	777405000	Reboxetine
+	13869211000001108		Edronax 4mg tablets (DE Pharmaceuticals)	777405000	Reboxetine
+	14215511000001103		Edronax 4mg tablets (Sigma Pharmaceuticals Plc)	777405000	Reboxetine
+	14215811000001100		Edronax 4mg tablets (Sigma Pharmaceuticals Plc)	777405000	Reboxetine
+	17541411000001109		Edronax 4mg tablets (Sigma Pharmaceuticals Plc)	777405000	Reboxetine
+	16170011000001102		Edronax 4mg tablets (Lexon (UK) Ltd)	777405000	Reboxetine
+	16170111000001101		Edronax 4mg tablets (Lexon (UK) Ltd)	777405000	Reboxetine
+	16567011000001100		Edronax 4mg tablets (Mawdsley-Brooks & Company Ltd)	777405000	Reboxetine
+	16567111000001104		Edronax 4mg tablets (Mawdsley-Brooks & Company Ltd)	777405000	Reboxetine
+	18254111000001101		Edronax 4mg tablets (Necessity Supplies Ltd)	777405000	Reboxetine
+	18254211000001107		Edronax 4mg tablets (Necessity Supplies Ltd)	777405000	Reboxetine
+	37379811000001106		Edronax 4mg tablets (CST Pharma Ltd)	777405000	Reboxetine
+	37379911000001101		Edronax 4mg tablets (CST Pharma Ltd)	777405000	Reboxetine
+	37633211000001103		Edronax 4mg tablets (Pilsco Ltd)	777405000	Reboxetine
+	37633311000001106		Edronax 4mg tablets (Pilsco Ltd)	777405000	Reboxetine
+	13109111000001106		Amitriptyline 25mg/5ml oral solution sugar free (Dowelhurst Ltd)	774553005	Amitriptyline
+	13109311000001108		Amitriptyline 25mg/5ml oral solution sugar free (Dowelhurst Ltd)	774553005	Amitriptyline
+	13109611000001103		Amitriptyline 50mg/5ml oral solution sugar free (Dowelhurst Ltd)	774553005	Amitriptyline
+	13109711000001107		Amitriptyline 50mg/5ml oral solution sugar free (Dowelhurst Ltd)	774553005	Amitriptyline
+	5408411000001101		Seroquel 25mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	5408611000001103		Seroquel 25mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	5581111000001107		Seroquel 25mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	5581811000001100		Seroquel 25mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	13203911000001109		Seroquel 25mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	13999111000001106		Seroquel 25mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	13999511000001102		Seroquel 25mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	13999311000001108		Seroquel 25mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	14707511000001101		Seroquel 25mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	14707711000001106		Seroquel 25mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	14707911000001108		Seroquel 25mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	17593311000001107		Seroquel 25mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	16242111000001103		Seroquel 25mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16242211000001109		Seroquel 25mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	17441511000001104		Seroquel 25mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	17441611000001100		Seroquel 25mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	18187111000001103		Seroquel 25mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	18187211000001109		Seroquel 25mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	37373211000001108		Seroquel 25mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	37373311000001100		Seroquel 25mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	5409111000001104		Seroquel 100mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	5409211000001105		Seroquel 100mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	5580711000001100		Seroquel 100mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	5580811000001108		Seroquel 100mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	13999611000001103		Seroquel 100mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	13999711000001107		Seroquel 100mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	14706711000001108		Seroquel 100mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	14706911000001105		Seroquel 100mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	16242311000001101		Seroquel 100mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16242411000001108		Seroquel 100mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16588311000001104		Seroquel 100mg tablets (Stephar (U.K.) Ltd)	777377006	Quetiapine
+	16588411000001106		Seroquel 100mg tablets (Stephar (U.K.) Ltd)	777377006	Quetiapine
+	17441711000001109		Seroquel 100mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	17441811000001101		Seroquel 100mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	18186611000001109		Seroquel 100mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	18186711000001100		Seroquel 100mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	37370111000001109		Seroquel 100mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	37370211000001103		Seroquel 100mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	37741511000001107		Quetiapine 100mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	37741611000001106		Quetiapine 100mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	13365111000001101		Seroquel 150mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	13365211000001107		Seroquel 150mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	5409511000001108		Seroquel 200mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	5409711000001103		Seroquel 200mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	5580911000001103		Seroquel 200mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	5581011000001106		Seroquel 200mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	14000011000001106		Seroquel 200mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	14000111000001107		Seroquel 200mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	14707011000001109		Seroquel 200mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	14707111000001105		Seroquel 200mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	16242511000001107		Seroquel 200mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16242611000001106		Seroquel 200mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16588711000001100		Seroquel 200mg tablets (Stephar (U.K.) Ltd)	777377006	Quetiapine
+	16588811000001108		Seroquel 200mg tablets (Stephar (U.K.) Ltd)	777377006	Quetiapine
+	17448611000001108		Seroquel 200mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	17448711000001104		Seroquel 200mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	18186811000001108		Seroquel 200mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	18187011000001104		Seroquel 200mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	37368911000001101		Seroquel 200mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	37369011000001105		Seroquel 200mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	5333911000001100		Anafranil SR 75mg tablets (Waymade Healthcare Plc)	775307008	Clomipramine
+	5334011000001102		Anafranil SR 75mg tablets (Waymade Healthcare Plc)	775307008	Clomipramine
+	13618511000001106		Anafranil SR 75mg tablets (Waymade Healthcare Plc)	775307008	Clomipramine
+	5615711000001101		Anafranil SR 75mg tablets (Dowelhurst Ltd)	775307008	Clomipramine
+	5616011000001107		Anafranil SR 75mg tablets (Dowelhurst Ltd)	775307008	Clomipramine
+	5615911000001104		Anafranil SR 75mg tablets (Dowelhurst Ltd)	775307008	Clomipramine
+	5616211000001102		Anafranil SR 75mg tablets (Dowelhurst Ltd)	775307008	Clomipramine
+	13828111000001103		Anafranil SR 75mg tablets (DE Pharmaceuticals)	775307008	Clomipramine
+	13828211000001109		Anafranil SR 75mg tablets (DE Pharmaceuticals)	775307008	Clomipramine
+	14193311000001106		Anafranil SR 75mg tablets (Sigma Pharmaceuticals Plc)	775307008	Clomipramine
+	19691811000001101		Anafranil SR 75mg tablets (Sigma Pharmaceuticals Plc)	775307008	Clomipramine
+	14193411000001104		Anafranil SR 75mg tablets (Sigma Pharmaceuticals Plc)	775307008	Clomipramine
+	16138211000001108		Anafranil SR 75mg tablets (Lexon (UK) Ltd)	775307008	Clomipramine
+	16138411000001107		Anafranil SR 75mg tablets (Lexon (UK) Ltd)	775307008	Clomipramine
+	16138311000001100		Anafranil SR 75mg tablets (Lexon (UK) Ltd)	775307008	Clomipramine
+	16262311000001107		Anafranil SR 75mg tablets (Mawdsley-Brooks & Company Ltd)	775307008	Clomipramine
+	16262511000001101		Anafranil SR 75mg tablets (Mawdsley-Brooks & Company Ltd)	775307008	Clomipramine
+	18522411000001109		Anafranil SR 75mg tablets (Mawdsley-Brooks & Company Ltd)	775307008	Clomipramine
+	16540611000001101		Anafranil SR 75mg tablets (Stephar (U.K.) Ltd)	775307008	Clomipramine
+	16540811000001102		Anafranil SR 75mg tablets (Stephar (U.K.) Ltd)	775307008	Clomipramine
+	17584911000001106		Anafranil SR 75mg tablets (Necessity Supplies Ltd)	775307008	Clomipramine
+	17585411000001102		Anafranil SR 75mg tablets (Necessity Supplies Ltd)	775307008	Clomipramine
+	17585011000001106		Anafranil SR 75mg tablets (Necessity Supplies Ltd)	775307008	Clomipramine
+	13214911000001108		Chlordiazepoxide 10mg capsules (Dowelhurst Ltd)	775162005	Chlordiazepoxide
+	13215011000001108		Chlordiazepoxide 10mg capsules (Dowelhurst Ltd)	775162005	Chlordiazepoxide
+	13215111000001109		Chlordiazepoxide 5mg capsules (Dowelhurst Ltd)	775162005	Chlordiazepoxide
+	13215211000001103		Chlordiazepoxide 5mg capsules (Dowelhurst Ltd)	775162005	Chlordiazepoxide
+	13246911000001105		Promazine 25mg/5ml oral solution (Dowelhurst Ltd)	777330001	Promazine
+	13247011000001109		Promazine 25mg/5ml oral solution (Dowelhurst Ltd)	777330001	Promazine
+	13216211000001109		Chlorpromazine 25mg/5ml oral solution (Dowelhurst Ltd)	775216005	Chlorpromazine
+	13216311000001101		Chlorpromazine 25mg/5ml oral solution (Dowelhurst Ltd)	775216005	Chlorpromazine
+	10541511000001100		Heminevrin 192mg capsules (Waymade Healthcare Plc)	775305000	Clomethiazole
+	10541711000001105		Heminevrin 192mg capsules (Waymade Healthcare Plc)	775305000	Clomethiazole
+	21022611000001103		Clomethiazole 192mg capsules (Waymade Healthcare Plc)	775305000	Clomethiazole
+	21022711000001107		Clomethiazole 192mg capsules (Waymade Healthcare Plc)	775305000	Clomethiazole
+	38125711000001102		Clomethiazole 192mg capsules (DE Pharmaceuticals)	775305000	Clomethiazole
+	38125811000001105		Clomethiazole 192mg capsules (DE Pharmaceuticals)	775305000	Clomethiazole
+	15047511000001101		Lormetazepam 1mg tablets (Waymade Healthcare Plc)	776575009	Lormetazepam
+	15047611000001102		Lormetazepam 1mg tablets (Waymade Healthcare Plc)	776575009	Lormetazepam
+	16510611000001109		Lormetazepam 1mg tablets (Mawdsley-Brooks & Company Ltd)	776575009	Lormetazepam
+	16510811000001108		Lormetazepam 1mg tablets (Mawdsley-Brooks & Company Ltd)	776575009	Lormetazepam
+	17568611000001107		Lormetazepam 1mg tablets (Sigma Pharmaceuticals Plc)	776575009	Lormetazepam
+	17568711000001103		Lormetazepam 1mg tablets (Sigma Pharmaceuticals Plc)	776575009	Lormetazepam
+	17572211000001102		Lormetazepam 1mg tablets (Necessity Supplies Ltd)	776575009	Lormetazepam
+	17572411000001103		Lormetazepam 1mg tablets (Necessity Supplies Ltd)	776575009	Lormetazepam
+	37673011000001105		Lormetazepam 1mg tablets (Pilsco Ltd)	776575009	Lormetazepam
+	37673111000001106		Lormetazepam 1mg tablets (Pilsco Ltd)	776575009	Lormetazepam
+	16187811000001100		Haldol 5mg tablets (Lexon (UK) Ltd)	776172004	Haloperidol
+	16187911000001105		Haldol 5mg tablets (Lexon (UK) Ltd)	776172004	Haloperidol
+	16188111000001108		Haldol 10mg tablets (Lexon (UK) Ltd)	776172004	Haloperidol
+	16188311000001105		Haldol 10mg tablets (Lexon (UK) Ltd)	776172004	Haloperidol
+	16546311000001109		Haloperidol 10mg tablets (Stephar (U.K.) Ltd)	776172004	Haloperidol
+	16546511000001103		Haloperidol 10mg tablets (Stephar (U.K.) Ltd)	776172004	Haloperidol
+	5425111000001109		Tofranil 25mg tablets (Waymade Healthcare Plc)	776314002	Imipramine
+	5425311000001106		Tofranil 25mg tablets (Waymade Healthcare Plc)	776314002	Imipramine
+	16276511000001109		Tofranil 25mg tablets (Lexon (UK) Ltd)	776314002	Imipramine
+	16276611000001108		Tofranil 25mg tablets (Lexon (UK) Ltd)	776314002	Imipramine
+	15418611000001100		Haldol 2mg/ml oral solution (Waymade Healthcare Plc)	776172004	Haloperidol
+	15418711000001109		Haldol 2mg/ml oral solution (Waymade Healthcare Plc)	776172004	Haloperidol
+	16136611000001109		Allegron 10mg tablets (Lexon (UK) Ltd)	776948005	Nortriptyline
+	16136711000001100		Allegron 10mg tablets (Lexon (UK) Ltd)	776948005	Nortriptyline
+	16259011000001109		Allegron 10mg tablets (Mawdsley-Brooks & Company Ltd)	776948005	Nortriptyline
+	16259111000001105		Allegron 10mg tablets (Mawdsley-Brooks & Company Ltd)	776948005	Nortriptyline
+	17532311000001107		Allegron 10mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	17532411000001100		Allegron 10mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	23931311000001100		Nortriptyline 10mg tablets (Waymade Healthcare Plc)	776948005	Nortriptyline
+	23931411000001107		Nortriptyline 10mg tablets (Waymade Healthcare Plc)	776948005	Nortriptyline
+	14053811000001100		Allegron 25mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	17532511000001101		Allegron 25mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	14053911000001105		Allegron 25mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	14377311000001101		Nortriptyline 25mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	19697011000001102		Nortriptyline 25mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	14377611000001106		Nortriptyline 25mg tablets (Sigma Pharmaceuticals Plc)	776948005	Nortriptyline
+	16136811000001108		Allegron 25mg tablets (Lexon (UK) Ltd)	776948005	Nortriptyline
+	16136911000001103		Allegron 25mg tablets (Lexon (UK) Ltd)	776948005	Nortriptyline
+	16214311000001104		Nortriptyline 25mg tablets (Lexon (UK) Ltd)	776948005	Nortriptyline
+	16214411000001106		Nortriptyline 25mg tablets (Lexon (UK) Ltd)	776948005	Nortriptyline
+	16259211000001104		Allegron 25mg tablets (Mawdsley-Brooks & Company Ltd)	776948005	Nortriptyline
+	16259311000001107		Allegron 25mg tablets (Mawdsley-Brooks & Company Ltd)	776948005	Nortriptyline
+	17579111000001104		Allegron 25mg tablets (Necessity Supplies Ltd)	776948005	Nortriptyline
+	17579611000001107		Allegron 25mg tablets (Necessity Supplies Ltd)	776948005	Nortriptyline
+	18544911000001108		Allegron 25mg tablets (DE Pharmaceuticals)	776948005	Nortriptyline
+	18545011000001108		Allegron 25mg tablets (DE Pharmaceuticals)	776948005	Nortriptyline
+	19618311000001102		Nortriptyline 25mg tablets (DE Pharmaceuticals)	776948005	Nortriptyline
+	19618411000001109		Nortriptyline 25mg tablets (DE Pharmaceuticals)	776948005	Nortriptyline
+	21204111000001100		Nortriptyline 25mg tablets (Waymade Healthcare Plc)	776948005	Nortriptyline
+	21204211000001106		Nortriptyline 25mg tablets (Waymade Healthcare Plc)	776948005	Nortriptyline
+	30272411000001101		Nortriptyline 25mg tablets (Waymade Healthcare Plc)	776948005	Nortriptyline
+	37686711000001108		Trifluoperazine 1mg/5ml oral solution sugar free (CST Pharma Ltd)	777848000	Trifluoperazine
+	37686811000001100		Trifluoperazine 1mg/5ml oral solution sugar free (CST Pharma Ltd)	777848000	Trifluoperazine
+	43155611000001105		Trifluoperazine 1mg/5ml oral solution sugar free (Necessity Supplies Ltd)	777848000	Trifluoperazine
+	43155711000001101		Trifluoperazine 1mg/5ml oral solution sugar free (Necessity Supplies Ltd)	777848000	Trifluoperazine
+	37708211000001108		Trimipramine 25mg tablets (CST Pharma Ltd)	777861000	Trimipramine
+	37708411000001107		Trimipramine 25mg tablets (CST Pharma Ltd)	777861000	Trimipramine
+	37712011000001103		Trimipramine 25mg tablets (CST Pharma Ltd)	777861000	Trimipramine
+	37736111000001108		Trimipramine 25mg tablets (Pilsco Ltd)	777861000	Trimipramine
+	37736211000001102		Trimipramine 25mg tablets (Pilsco Ltd)	777861000	Trimipramine
+	38171811000001108		Trimipramine 25mg tablets (DE Pharmaceuticals)	777861000	Trimipramine
+	38171911000001103		Trimipramine 25mg tablets (DE Pharmaceuticals)	777861000	Trimipramine
+	42887011000001103		Trimipramine 25mg tablets (Necessity Supplies Ltd)	777861000	Trimipramine
+	42887211000001108		Trimipramine 25mg tablets (Necessity Supplies Ltd)	777861000	Trimipramine
+	37735311000001100		Trimipramine 10mg tablets (Pilsco Ltd)	777861000	Trimipramine
+	37735511000001106		Trimipramine 10mg tablets (Pilsco Ltd)	777861000	Trimipramine
+	37735911000001104		Trimipramine 10mg tablets (Pilsco Ltd)	777861000	Trimipramine
+	37742111000001108		Trimipramine 10mg tablets (CST Pharma Ltd)	777861000	Trimipramine
+	37742211000001102		Trimipramine 10mg tablets (CST Pharma Ltd)	777861000	Trimipramine
+	42886611000001108		Trimipramine 10mg tablets (Necessity Supplies Ltd)	777861000	Trimipramine
+	42886811000001107		Trimipramine 10mg tablets (Necessity Supplies Ltd)	777861000	Trimipramine
+	16249411000001102		Stelazine 1mg tablets (Lexon (UK) Ltd)	777848000	Trifluoperazine
+	16249511000001103		Stelazine 1mg tablets (Lexon (UK) Ltd)	777848000	Trifluoperazine
+	14622311000001109		Surmontil 50mg capsules (Sigma Pharmaceuticals Plc)	777861000	Trimipramine
+	14622411000001102		Surmontil 50mg capsules (Sigma Pharmaceuticals Plc)	777861000	Trimipramine
+	37659511000001102		Trimipramine 50mg capsules (CST Pharma Ltd)	777861000	Trimipramine
+	37659611000001103		Trimipramine 50mg capsules (CST Pharma Ltd)	777861000	Trimipramine
+	37736311000001105		Trimipramine 50mg capsules (Pilsco Ltd)	777861000	Trimipramine
+	37736711000001109		Trimipramine 50mg capsules (Pilsco Ltd)	777861000	Trimipramine
+	38171611000001109		Trimipramine 50mg capsules (DE Pharmaceuticals)	777861000	Trimipramine
+	38171711000001100		Trimipramine 50mg capsules (DE Pharmaceuticals)	777861000	Trimipramine
+	39076511000001106		Trimipramine 50mg capsules (Pharmaram Ltd)	777861000	Trimipramine
+	39076611000001105		Trimipramine 50mg capsules (Pharmaram Ltd)	777861000	Trimipramine
+	42887311000001100		Trimipramine 50mg capsules (Necessity Supplies Ltd)	777861000	Trimipramine
+	42887411000001107		Trimipramine 50mg capsules (Necessity Supplies Ltd)	777861000	Trimipramine
+	16249611000001104		Stelazine 5mg tablets (Lexon (UK) Ltd)	777848000	Trifluoperazine
+	16249711000001108		Stelazine 5mg tablets (Lexon (UK) Ltd)	777848000	Trifluoperazine
+	28277611000001104		Tranylcypromine 10mg tablets (Waymade Healthcare Plc)	777822008	Tranylcypromine
+	28277711000001108		Tranylcypromine 10mg tablets (Waymade Healthcare Plc)	777822008	Tranylcypromine
+	37686011000001106		Tranylcypromine 10mg tablets (CST Pharma Ltd)	777822008	Tranylcypromine
+	37686211000001101		Tranylcypromine 10mg tablets (CST Pharma Ltd)	777822008	Tranylcypromine
+	37707211000001109		Tranylcypromine 10mg tablets (Pilsco Ltd)	777822008	Tranylcypromine
+	37707311000001101		Tranylcypromine 10mg tablets (Pilsco Ltd)	777822008	Tranylcypromine
+	43155411000001107		Tranylcypromine 10mg tablets (Necessity Supplies Ltd)	777822008	Tranylcypromine
+	43155511000001106		Tranylcypromine 10mg tablets (Necessity Supplies Ltd)	777822008	Tranylcypromine
+	45689811000001106		Tranylcypromine 10mg tablets (Pharmaram Ltd)	777822008	Tranylcypromine
+	45689911000001101		Tranylcypromine 10mg tablets (Pharmaram Ltd)	777822008	Tranylcypromine
+	18222011000001109		Clopixol 25mg tablets (Necessity Supplies Ltd)	777995002	Zuclopenthixol
+	18222111000001105		Clopixol 25mg tablets (Necessity Supplies Ltd)	777995002	Zuclopenthixol
+	41560311000001103		Clopixol 25mg tablets (Drugsrus Ltd)	777995002	Zuclopenthixol
+	41726111000001106		Clopixol 25mg tablets (Drugsrus Ltd)	777995002	Zuclopenthixol
+	11539311000001101		Clopixol 10mg tablets (Waymade Healthcare Plc)	777995002	Zuclopenthixol
+	11539411000001108		Clopixol 10mg tablets (Waymade Healthcare Plc)	777995002	Zuclopenthixol
+	14715911000001101		Clopixol 10mg tablets (Sigma Pharmaceuticals Plc)	777995002	Zuclopenthixol
+	14716011000001109		Clopixol 10mg tablets (Sigma Pharmaceuticals Plc)	777995002	Zuclopenthixol
+	39936411000001102		Clopixol 10mg tablets (Pilsco Ltd)	777995002	Zuclopenthixol
+	39936511000001103		Clopixol 10mg tablets (Pilsco Ltd)	777995002	Zuclopenthixol
+	41559911000001103		Clopixol 10mg tablets (Drugsrus Ltd)	777995002	Zuclopenthixol
+	41726011000001105		Clopixol 10mg tablets (Drugsrus Ltd)	777995002	Zuclopenthixol
+	5351411000001105		Clopixol 2mg tablets (Waymade Healthcare Plc)	777995002	Zuclopenthixol
+	5351511000001109		Clopixol 2mg tablets (Waymade Healthcare Plc)	777995002	Zuclopenthixol
+	14714911000001100		Clopixol 2mg tablets (Sigma Pharmaceuticals Plc)	777995002	Zuclopenthixol
+	14715011000001100		Clopixol 2mg tablets (Sigma Pharmaceuticals Plc)	777995002	Zuclopenthixol
+	16509311000001106		Clopixol 2mg tablets (Mawdsley-Brooks & Company Ltd)	777995002	Zuclopenthixol
+	16511111000001107		Clopixol 2mg tablets (Mawdsley-Brooks & Company Ltd)	777995002	Zuclopenthixol
+	19869011000001100		Clopixol 2mg tablets (Lexon (UK) Ltd)	777995002	Zuclopenthixol
+	19869111000001104		Clopixol 2mg tablets (Lexon (UK) Ltd)	777995002	Zuclopenthixol
+	13247111000001105		Promazine 50mg/5ml oral solution (Dowelhurst Ltd)	777330001	Promazine
+	13247211000001104		Promazine 50mg/5ml oral solution (Dowelhurst Ltd)	777330001	Promazine
+	38129111000001101		Dolmatil 400mg tablets (DE Pharmaceuticals)	777653008	Sulpiride
+	38129211000001107		Dolmatil 400mg tablets (DE Pharmaceuticals)	777653008	Sulpiride
+	10545811000001104		Loprazolam 1mg tablets (Waymade Healthcare Plc)	776570004	Loprazolam
+	11765611000001104		Loprazolam 1mg tablets (Waymade Healthcare Plc)	776570004	Loprazolam
+	10546211000001106		Loprazolam 1mg tablets (Waymade Healthcare Plc)	776570004	Loprazolam
+	13174911000001103		Loprazolam 1mg tablets (Dowelhurst Ltd)	776570004	Loprazolam
+	13175011000001103		Loprazolam 1mg tablets (Dowelhurst Ltd)	776570004	Loprazolam
+	13925611000001106		Loprazolam 1mg tablets (DE Pharmaceuticals)	776570004	Loprazolam
+	37759811000001108		Loprazolam 1mg tablets (DE Pharmaceuticals)	776570004	Loprazolam
+	13925711000001102		Loprazolam 1mg tablets (DE Pharmaceuticals)	776570004	Loprazolam
+	14331711000001109		Loprazolam 1mg tablets (Sigma Pharmaceuticals Plc)	776570004	Loprazolam
+	14331811000001101		Loprazolam 1mg tablets (Sigma Pharmaceuticals Plc)	776570004	Loprazolam
+	14331911000001106		Loprazolam 1mg tablets (Sigma Pharmaceuticals Plc)	776570004	Loprazolam
+	16201811000001108		Loprazolam 1mg tablets (Lexon (UK) Ltd)	776570004	Loprazolam
+	16201911000001103		Loprazolam 1mg tablets (Lexon (UK) Ltd)	776570004	Loprazolam
+	16202111000001106		Loprazolam 1mg tablets (Lexon (UK) Ltd)	776570004	Loprazolam
+	16510211000001107		Loprazolam 1mg tablets (Mawdsley-Brooks & Company Ltd)	776570004	Loprazolam
+	16510411000001106		Loprazolam 1mg tablets (Mawdsley-Brooks & Company Ltd)	776570004	Loprazolam
+	16553011000001100		Loprazolam 1mg tablets (Stephar (U.K.) Ltd)	776570004	Loprazolam
+	16553111000001104		Loprazolam 1mg tablets (Stephar (U.K.) Ltd)	776570004	Loprazolam
+	45258611000001105		Faverin 100mg tablets (Necessity Supplies Ltd)	776021006	Fluvoxamine
+	45258711000001101		Faverin 100mg tablets (Necessity Supplies Ltd)	776021006	Fluvoxamine
+	5386611000001108		Manerix 150mg tablets (Waymade Healthcare Plc)	776812009	Moclobemide
+	5386711000001104		Manerix 150mg tablets (Waymade Healthcare Plc)	776812009	Moclobemide
+	5495411000001108		Moclobemide 150mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5495611000001106		Moclobemide 150mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5495711000001102		Moclobemide 150mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5556211000001101		Manerix 150mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5556311000001109		Manerix 150mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5556711000001108		Manerix 150mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	10541811000001102		Moclobemide 150mg tablets (Waymade Healthcare Plc)	776812009	Moclobemide
+	10541911000001107		Moclobemide 150mg tablets (Waymade Healthcare Plc)	776812009	Moclobemide
+	14479911000001104		Manerix 150mg tablets (Sigma Pharmaceuticals Plc)	776812009	Moclobemide
+	14481111000001108		Manerix 150mg tablets (Sigma Pharmaceuticals Plc)	776812009	Moclobemide
+	17607311000001108		Manerix 150mg tablets (Necessity Supplies Ltd)	776812009	Moclobemide
+	17607411000001101		Manerix 150mg tablets (Necessity Supplies Ltd)	776812009	Moclobemide
+	37383611000001103		Manerix 150mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	37383711000001107		Manerix 150mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	37687911000001108		Moclobemide 150mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	37688111000001106		Moclobemide 150mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	5386911000001102		Manerix 300mg tablets (Waymade Healthcare Plc)	776812009	Moclobemide
+	5387011000001103		Manerix 300mg tablets (Waymade Healthcare Plc)	776812009	Moclobemide
+	5495911000001100		Moclobemide 300mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5496011000001108		Moclobemide 300mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5496111000001109		Moclobemide 300mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5558211000001100		Manerix 300mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5558411000001101		Manerix 300mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	5558811000001104		Manerix 300mg tablets (Dowelhurst Ltd)	776812009	Moclobemide
+	17607511000001102		Manerix 300mg tablets (Necessity Supplies Ltd)	776812009	Moclobemide
+	17607611000001103		Manerix 300mg tablets (Necessity Supplies Ltd)	776812009	Moclobemide
+	37395711000001107		Manerix 300mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	37395811000001104		Manerix 300mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	37707611000001106		Moclobemide 300mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	37707711000001102		Moclobemide 300mg tablets (CST Pharma Ltd)	776812009	Moclobemide
+	40463011000001105		Manerix 300mg tablets (DE Pharmaceuticals)	776812009	Moclobemide
+	40463111000001106		Manerix 300mg tablets (DE Pharmaceuticals)	776812009	Moclobemide
+	5389211000001102		Mirtazapine 30mg tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	5389411000001103		Mirtazapine 30mg tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	5430611000001106		Zispin 30mg tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	5430711000001102		Zispin 30mg tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	5496211000001103		Mirtazapine 30mg tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	5496311000001106		Mirtazapine 30mg tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	5562811000001106		Zispin 30mg tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	5563111000001105		Zispin 30mg tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	10462011000001104		Zyprexa 15mg Velotabs (Dowelhurst Ltd)	776977006	Olanzapine
+	10462211000001109		Zyprexa 15mg Velotabs (Dowelhurst Ltd)	776977006	Olanzapine
+	10481811000001104		Zyprexa 15mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	10481911000001109		Zyprexa 15mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	17486611000001103		Zyprexa 15mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17488611000001102		Zyprexa 15mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18219211000001104		Zyprexa 15mg Velotabs (Necessity Supplies Ltd)	776977006	Olanzapine
+	18219311000001107		Zyprexa 15mg Velotabs (Necessity Supplies Ltd)	776977006	Olanzapine
+	18621811000001105		Zyprexa 15mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	18622411000001103		Zyprexa 15mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	20034011000001106		Zyprexa 15mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	20034111000001107		Zyprexa 15mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	37549711000001102		Zyprexa 15mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	37549811000001105		Zyprexa 15mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	10460311000001100		Zyprexa 15mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	10460411000001107		Zyprexa 15mg tablets (Dowelhurst Ltd)	776977006	Olanzapine
+	14747311000001101		Zyprexa 15mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14747411000001108		Zyprexa 15mg tablets (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17486911000001109		Zyprexa 15mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17487011000001108		Zyprexa 15mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	18217511000001108		Zyprexa 15mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	18217711000001103		Zyprexa 15mg tablets (Necessity Supplies Ltd)	776977006	Olanzapine
+	37539111000001104		Zalasta 15mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37539211000001105		Zalasta 15mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37727011000001107		Olanzapine 15mg tablets (Pilsco Ltd)	776977006	Olanzapine
+	37727111000001108		Olanzapine 15mg tablets (Pilsco Ltd)	776977006	Olanzapine
+	37749811000001106		Olanzapine 15mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37749911000001101		Olanzapine 15mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	24669011000001109		Doxepin 25mg capsules (Waymade Healthcare Plc)	775696004	Doxepin
+	24669111000001105		Doxepin 25mg capsules (Waymade Healthcare Plc)	775696004	Doxepin
+	24668811000001105		Doxepin 50mg capsules (Waymade Healthcare Plc)	775696004	Doxepin
+	24668911000001100		Doxepin 50mg capsules (Waymade Healthcare Plc)	775696004	Doxepin
+	14495911000001107		Cipramil 40mg/ml drops (Sigma Pharmaceuticals Plc)	775266004	Citalopram
+	14496011000001104		Cipramil 40mg/ml drops (Sigma Pharmaceuticals Plc)	775266004	Citalopram
+	15883911000001109		Cipramil 40mg/ml drops (Waymade Healthcare Plc)	775266004	Citalopram
+	15884011000001107		Cipramil 40mg/ml drops (Waymade Healthcare Plc)	775266004	Citalopram
+	16149011000001109		Cipramil 40mg/ml drops (Lexon (UK) Ltd)	775266004	Citalopram
+	16149111000001105		Cipramil 40mg/ml drops (Lexon (UK) Ltd)	775266004	Citalopram
+	16502311000001103		Cipramil 40mg/ml drops (Mawdsley-Brooks & Company Ltd)	775266004	Citalopram
+	16502411000001105		Cipramil 40mg/ml drops (Mawdsley-Brooks & Company Ltd)	775266004	Citalopram
+	18221011000001101		Cipramil 40mg/ml drops (Necessity Supplies Ltd)	775266004	Citalopram
+	18221111000001100		Cipramil 40mg/ml drops (Necessity Supplies Ltd)	775266004	Citalopram
+	18629411000001109		Cipramil 40mg/ml drops (DE Pharmaceuticals)	775266004	Citalopram
+	18629511000001108		Cipramil 40mg/ml drops (DE Pharmaceuticals)	775266004	Citalopram
+	11922311000001102		Camcolit 250 tablets (Waymade Healthcare Plc)	776555000	Lithium carbonate
+	11922411000001109		Camcolit 250 tablets (Waymade Healthcare Plc)	776555000	Lithium carbonate
+	5577011000001106		Priadel 400mg modified-release tablets (Dowelhurst Ltd)	776555000	Lithium carbonate
+	5577111000001107		Priadel 400mg modified-release tablets (Dowelhurst Ltd)	776555000	Lithium carbonate
+	11922511000001108		Camcolit 400 modified-release tablets (Waymade Healthcare Plc)	776555000	Lithium carbonate
+	11922611000001107		Camcolit 400 modified-release tablets (Waymade Healthcare Plc)	776555000	Lithium carbonate
+	13947411000001104		Priadel 400mg modified-release tablets (DE Pharmaceuticals)	776555000	Lithium carbonate
+	13947511000001100		Priadel 400mg modified-release tablets (DE Pharmaceuticals)	776555000	Lithium carbonate
+	14305911000001102		Camcolit 400 modified-release tablets (Sigma Pharmaceuticals Plc)	776555000	Lithium carbonate
+	14306211000001100		Camcolit 400 modified-release tablets (Sigma Pharmaceuticals Plc)	776555000	Lithium carbonate
+	14728211000001105		Priadel 400mg modified-release tablets (Sigma Pharmaceuticals Plc)	776555000	Lithium carbonate
+	14728311000001102		Priadel 400mg modified-release tablets (Sigma Pharmaceuticals Plc)	776555000	Lithium carbonate
+	17421311000001107		Priadel 400mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776555000	Lithium carbonate
+	17421511000001101		Priadel 400mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776555000	Lithium carbonate
+	17624411000001101		Priadel 400mg modified-release tablets (Necessity Supplies Ltd)	776555000	Lithium carbonate
+	17624511000001102		Priadel 400mg modified-release tablets (Necessity Supplies Ltd)	776555000	Lithium carbonate
+	21717511000001107		Priadel 400mg modified-release tablets (Waymade Healthcare Plc)	776555000	Lithium carbonate
+	21717611000001106		Priadel 400mg modified-release tablets (Waymade Healthcare Plc)	776555000	Lithium carbonate
+	37503111000001105		Camcolit 400 modified-release tablets (Mawdsley-Brooks & Company Ltd)	776555000	Lithium carbonate
+	37503211000001104		Camcolit 400 modified-release tablets (Mawdsley-Brooks & Company Ltd)	776555000	Lithium carbonate
+	39858611000001107		Camcolit 400 modified-release tablets (CST Pharma Ltd)	776555000	Lithium carbonate
+	39858711000001103		Camcolit 400 modified-release tablets (CST Pharma Ltd)	776555000	Lithium carbonate
+	39936211000001101		Camcolit 400 modified-release tablets (Pilsco Ltd)	776555000	Lithium carbonate
+	39936311000001109		Camcolit 400 modified-release tablets (Pilsco Ltd)	776555000	Lithium carbonate
+	27727911000001107		Chloral hydrate 143.3mg/5ml oral solution BP (Waymade Healthcare Plc)	775158004	Chloral hydrate
+	27728011000001109		Chloral hydrate 143.3mg/5ml oral solution BP (Waymade Healthcare Plc)	775158004	Chloral hydrate
+	37742711000001109		Clopixol 200mg/1ml solution for injection ampoules (CST Pharma Ltd)	13297401000001109	Zuclopenthixol decanoate
+	37742811000001101		Clopixol 200mg/1ml solution for injection ampoules (CST Pharma Ltd)	13297401000001109	Zuclopenthixol decanoate
+	41560511000001109		Clopixol 200mg/1ml solution for injection ampoules (Drugsrus Ltd)	13297401000001109	Zuclopenthixol decanoate
+	41560611000001108		Clopixol 200mg/1ml solution for injection ampoules (Drugsrus Ltd)	13297401000001109	Zuclopenthixol decanoate
+	11032011000001109		Solian 100 tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	11032111000001105		Solian 100 tablets (Waymade Healthcare Plc)	774552000	Amisulpride
+	13107611000001108		Amisulpride 100mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	13108111000001104		Amisulpride 100mg tablets (Dowelhurst Ltd)	774552000	Amisulpride
+	14368311000001106		Solian 100 tablets (Sigma Pharmaceuticals Plc)	774552000	Amisulpride
+	14368411000001104		Solian 100 tablets (Sigma Pharmaceuticals Plc)	774552000	Amisulpride
+	26708311000001100		Cloral betaine 707mg tablets (Waymade Healthcare Plc)	775315006	Cloral betaine
+	26708411000001107		Cloral betaine 707mg tablets (Waymade Healthcare Plc)	775315006	Cloral betaine
+	5414411000001108		Stilnoct 10mg tablets (Waymade Healthcare Plc)	777990007	Zolpidem
+	12561911000001108		Stilnoct 10mg tablets (Waymade Healthcare Plc)	777990007	Zolpidem
+	5414511000001107		Stilnoct 10mg tablets (Waymade Healthcare Plc)	777990007	Zolpidem
+	5583411000001103		Stilnoct 10mg tablets (Dowelhurst Ltd)	777990007	Zolpidem
+	5583511000001104		Stilnoct 10mg tablets (Dowelhurst Ltd)	777990007	Zolpidem
+	5618811000001100		Zolpidem 10mg tablets (Dowelhurst Ltd)	777990007	Zolpidem
+	5618911000001105		Zolpidem 10mg tablets (Dowelhurst Ltd)	777990007	Zolpidem
+	16251311000001108		Stilnoct 10mg tablets (Lexon (UK) Ltd)	777990007	Zolpidem
+	16251411000001101		Stilnoct 10mg tablets (Lexon (UK) Ltd)	777990007	Zolpidem
+	12561711000001106		Stilnoct 5mg tablets (Waymade Healthcare Plc)	777990007	Zolpidem
+	12561811000001103		Stilnoct 5mg tablets (Waymade Healthcare Plc)	777990007	Zolpidem
+	16188411000001103		Haldol 5mg/1ml solution for injection ampoules (Lexon (UK) Ltd)	776172004	Haloperidol
+	16188511000001104		Haldol 5mg/1ml solution for injection ampoules (Lexon (UK) Ltd)	776172004	Haloperidol
+	17509311000001107		Haldol 5mg/1ml solution for injection ampoules (Mawdsley-Brooks & Company Ltd)	776172004	Haloperidol
+	17509411000001100		Haldol 5mg/1ml solution for injection ampoules (Mawdsley-Brooks & Company Ltd)	776172004	Haloperidol
+	37711511000001103		Haloperidol 5mg/1ml solution for injection ampoules (CST Pharma Ltd)	776172004	Haloperidol
+	37711611000001104		Haloperidol 5mg/1ml solution for injection ampoules (CST Pharma Ltd)	776172004	Haloperidol
+	10505911000001102		Cipralex 10mg tablets (Waymade Healthcare Plc)	775831009	Escitalopram
+	10506211000001100		Cipralex 10mg tablets (Waymade Healthcare Plc)	775831009	Escitalopram
+	13106711000001102		Cipralex 10mg tablets (Dowelhurst Ltd)	775831009	Escitalopram
+	13106811000001105		Cipralex 10mg tablets (Dowelhurst Ltd)	775831009	Escitalopram
+	13849211000001102		Cipralex 10mg tablets (DE Pharmaceuticals)	775831009	Escitalopram
+	13849311000001105		Cipralex 10mg tablets (DE Pharmaceuticals)	775831009	Escitalopram
+	14223811000001105		Escitalopram 10mg tablets (Sigma Pharmaceuticals Plc)	775831009	Escitalopram
+	14223911000001100		Escitalopram 10mg tablets (Sigma Pharmaceuticals Plc)	775831009	Escitalopram
+	16148211000001109		Cipralex 10mg tablets (Lexon (UK) Ltd)	775831009	Escitalopram
+	16148411000001108		Cipralex 10mg tablets (Lexon (UK) Ltd)	775831009	Escitalopram
+	16501911000001108		Cipralex 10mg tablets (Mawdsley-Brooks & Company Ltd)	775831009	Escitalopram
+	16502011000001101		Cipralex 10mg tablets (Mawdsley-Brooks & Company Ltd)	775831009	Escitalopram
+	17534811000001109		Cipralex 10mg tablets (Sigma Pharmaceuticals Plc)	775831009	Escitalopram
+	17534911000001104		Cipralex 10mg tablets (Sigma Pharmaceuticals Plc)	775831009	Escitalopram
+	18220311000001108		Cipralex 10mg tablets (Necessity Supplies Ltd)	775831009	Escitalopram
+	18220411000001101		Cipralex 10mg tablets (Necessity Supplies Ltd)	775831009	Escitalopram
+	37376411000001102		Cipralex 10mg tablets (CST Pharma Ltd)	775831009	Escitalopram
+	37376511000001103		Cipralex 10mg tablets (CST Pharma Ltd)	775831009	Escitalopram
+	5396611000001107		Orap 4mg tablets (Waymade Healthcare Plc)	777199009	Pimozide
+	21694411000001109		Orap 4mg tablets (Waymade Healthcare Plc)	777199009	Pimozide
+	5397111000001101		Orap 4mg tablets (Waymade Healthcare Plc)	777199009	Pimozide
+	14670511000001100		Orap 4mg tablets (Sigma Pharmaceuticals Plc)	777199009	Pimozide
+	14670711000001105		Orap 4mg tablets (Sigma Pharmaceuticals Plc)	777199009	Pimozide
+	16585511000001102		Orap 4mg tablets (Stephar (U.K.) Ltd)	777199009	Pimozide
+	16585611000001103		Orap 4mg tablets (Stephar (U.K.) Ltd)	777199009	Pimozide
+	17615511000001109		Orap 4mg tablets (Necessity Supplies Ltd)	777199009	Pimozide
+	17615611000001108		Orap 4mg tablets (Necessity Supplies Ltd)	777199009	Pimozide
+	41560911000001102		Haldol Decanoate 100mg/1ml solution for injection ampoules (Drugsrus Ltd)	13296101000001101	Haloperidol decanoate
+	41561011000001105		Haldol Decanoate 100mg/1ml solution for injection ampoules (Drugsrus Ltd)	13296101000001101	Haloperidol decanoate
+	10494211000001102		Depakote 250mg gastro-resistant tablets (Dowelhurst Ltd)	777911005	Valproic acid
+	10494411000001103		Depakote 250mg gastro-resistant tablets (Dowelhurst Ltd)	777911005	Valproic acid
+	22643011000001108		Depakote 250mg gastro-resistant tablets (Waymade Healthcare Plc)	777911005	Valproic acid
+	22643111000001109		Depakote 250mg gastro-resistant tablets (Waymade Healthcare Plc)	777911005	Valproic acid
+	37370711000001105		Depakote 250mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)	777911005	Valproic acid
+	37370811000001102		Depakote 250mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)	777911005	Valproic acid
+	37402611000001101		Depakote 250mg gastro-resistant tablets (CST Pharma Ltd)	777911005	Valproic acid
+	37402711000001105		Depakote 250mg gastro-resistant tablets (CST Pharma Ltd)	777911005	Valproic acid
+	38077311000001104		Depakote 250mg gastro-resistant tablets (CST Pharma Ltd)	777911005	Valproic acid
+	37629911000001108		Depakote 250mg gastro-resistant tablets (Pilsco Ltd)	777911005	Valproic acid
+	37630011000001103		Depakote 250mg gastro-resistant tablets (Pilsco Ltd)	777911005	Valproic acid
+	38127611000001104		Depakote 250mg gastro-resistant tablets (DE Pharmaceuticals)	777911005	Valproic acid
+	38127711000001108		Depakote 250mg gastro-resistant tablets (DE Pharmaceuticals)	777911005	Valproic acid
+	42843211000001108		Depakote 250mg gastro-resistant tablets (Necessity Supplies Ltd)	777911005	Valproic acid
+	42843411000001107		Depakote 250mg gastro-resistant tablets (Necessity Supplies Ltd)	777911005	Valproic acid
+	10495111000001107		Depakote 500mg gastro-resistant tablets (Dowelhurst Ltd)	777911005	Valproic acid
+	10495311000001109		Depakote 500mg gastro-resistant tablets (Dowelhurst Ltd)	777911005	Valproic acid
+	10521511000001102		Depakote 500mg gastro-resistant tablets (Waymade Healthcare Plc)	777911005	Valproic acid
+	10521711000001107		Depakote 500mg gastro-resistant tablets (Waymade Healthcare Plc)	777911005	Valproic acid
+	37370911000001107		Depakote 500mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)	777911005	Valproic acid
+	37371011000001104		Depakote 500mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)	777911005	Valproic acid
+	37630111000001102		Depakote 500mg gastro-resistant tablets (Pilsco Ltd)	777911005	Valproic acid
+	37630211000001108		Depakote 500mg gastro-resistant tablets (Pilsco Ltd)	777911005	Valproic acid
+	37888711000001103		Depakote 500mg gastro-resistant tablets (CST Pharma Ltd)	777911005	Valproic acid
+	37888811000001106		Depakote 500mg gastro-resistant tablets (CST Pharma Ltd)	777911005	Valproic acid
+	38127811000001100		Depakote 500mg gastro-resistant tablets (DE Pharmaceuticals)	777911005	Valproic acid
+	38128011000001107		Depakote 500mg gastro-resistant tablets (DE Pharmaceuticals)	777911005	Valproic acid
+	38127911000001105		Depakote 500mg gastro-resistant tablets (DE Pharmaceuticals)	777911005	Valproic acid
+	42843711000001101		Depakote 500mg gastro-resistant tablets (Necessity Supplies Ltd)	777911005	Valproic acid
+	42843911000001104		Depakote 500mg gastro-resistant tablets (Necessity Supplies Ltd)	777911005	Valproic acid
+	10510111000001106		Solian 100mg/ml oral solution (Waymade Healthcare Plc)	774552000	Amisulpride
+	10510211000001100		Solian 100mg/ml oral solution (Waymade Healthcare Plc)	774552000	Amisulpride
+	42275311000001109		Nefazodone 50mg tablets	776881007	Nefazodone
+	3936211000001102		Nefazodone 50mg tablets	776881007	Nefazodone
+	3936411000001103		Dutonin 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	776881007	Nefazodone
+	3936511000001104		Dutonin 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	776881007	Nefazodone
+	10982711000001103		Risperdal Quicklet 1mg orodispersible tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	10982811000001106		Risperdal Quicklet 1mg orodispersible tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	19859911000001106		Risperdal Quicklet 1mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	19860011000001108		Risperdal Quicklet 1mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	11766411000001106		Risperdal Quicklet 2mg orodispersible tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	11766511000001105		Risperdal Quicklet 2mg orodispersible tablets (Waymade Healthcare Plc)	777450003	Risperidone
+	14661011000001106		Risperdal Quicklet 2mg orodispersible tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	14661111000001107		Risperdal Quicklet 2mg orodispersible tablets (Sigma Pharmaceuticals Plc)	777450003	Risperidone
+	18177511000001101		Risperdal Quicklet 2mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	18177611000001102		Risperdal Quicklet 2mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	777450003	Risperidone
+	19860111000001109		Risperdal Quicklet 2mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	19860211000001103		Risperdal Quicklet 2mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	10982311000001102		Risperdal Consta 37.5mg powder and solvent for prolonged-release suspension for injection vials (Waymade Healthcare Plc)	777450003	Risperidone
+	10982411000001109		Risperdal Consta 37.5mg powder and solvent for prolonged-release suspension for injection vials (Waymade Healthcare Plc)	777450003	Risperidone
+	36873711000001102		Risperdal Consta 37.5mg powder and solvent for prolonged-release suspension for injection vials (Originalis B.V.)	777450003	Risperidone
+	36873811000001105		Risperdal Consta 37.5mg powder and solvent for prolonged-release suspension for injection vials (Originalis B.V.)	777450003	Risperidone
+	10982511000001108		Risperdal Consta 50mg powder and solvent for prolonged-release suspension for injection vials (Waymade Healthcare Plc)	777450003	Risperidone
+	10982611000001107		Risperdal Consta 50mg powder and solvent for prolonged-release suspension for injection vials (Waymade Healthcare Plc)	777450003	Risperidone
+	36873911000001100		Risperdal Consta 50mg powder and solvent for prolonged-release suspension for injection vials (Originalis B.V.)	777450003	Risperidone
+	36874011000001102		Risperdal Consta 50mg powder and solvent for prolonged-release suspension for injection vials (Originalis B.V.)	777450003	Risperidone
+	16214511000001105		Nozinan 25mg/1ml solution for injection ampoules (Lexon (UK) Ltd)	776520002	Levomepromazine
+	16214611000001109		Nozinan 25mg/1ml solution for injection ampoules (Lexon (UK) Ltd)	776520002	Levomepromazine
+	17341811000001108		Nozinan 25mg/1ml solution for injection ampoules (Mawdsley-Brooks & Company Ltd)	776520002	Levomepromazine
+	17341911000001103		Nozinan 25mg/1ml solution for injection ampoules (Mawdsley-Brooks & Company Ltd)	776520002	Levomepromazine
+	23931711000001101		Nozinan 25mg/1ml solution for injection ampoules (Waymade Healthcare Plc)	776520002	Levomepromazine
+	23931811000001109		Nozinan 25mg/1ml solution for injection ampoules (Waymade Healthcare Plc)	776520002	Levomepromazine
+	37399611000001100		Nozinan 25mg/1ml solution for injection ampoules (CST Pharma Ltd)	776520002	Levomepromazine
+	37399711000001109		Nozinan 25mg/1ml solution for injection ampoules (CST Pharma Ltd)	776520002	Levomepromazine
+	37696011000001107		Nozinan 25mg/1ml solution for injection ampoules (Pilsco Ltd)	776520002	Levomepromazine
+	37696211000001102		Nozinan 25mg/1ml solution for injection ampoules (Pilsco Ltd)	776520002	Levomepromazine
+	38156611000001100		Nozinan 25mg/1ml solution for injection ampoules (DE Pharmaceuticals)	776520002	Levomepromazine
+	38156711000001109		Nozinan 25mg/1ml solution for injection ampoules (DE Pharmaceuticals)	776520002	Levomepromazine
+	40466511000001105		Levomepromazine 25mg/1ml solution for injection ampoules (CST Pharma Ltd)	776520002	Levomepromazine
+	40466611000001109		Levomepromazine 25mg/1ml solution for injection ampoules (CST Pharma Ltd)	776520002	Levomepromazine
+	21204711000001104		Risperdal Consta 25mg powder and solvent for prolonged-release suspension for injection vials (Waymade Healthcare Plc)	777450003	Risperidone
+	21204811000001107		Risperdal Consta 25mg powder and solvent for prolonged-release suspension for injection vials (Waymade Healthcare Plc)	777450003	Risperidone
+	28920711000001105		Dalmane 15mg capsules (Waymade Healthcare Plc)	776012005	Flurazepam
+	28920811000001102		Dalmane 15mg capsules (Waymade Healthcare Plc)	776012005	Flurazepam
+	10983511000001101		Zispin SolTab 30mg orodispersible tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	10983611000001102		Zispin SolTab 30mg orodispersible tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	13219211000001100		Zispin SolTab 30mg orodispersible tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	13219311000001108		Zispin SolTab 30mg orodispersible tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	13990511000001105		Zispin SolTab 30mg orodispersible tablets (DE Pharmaceuticals)	776803007	Mirtazapine
+	13990711000001100		Zispin SolTab 30mg orodispersible tablets (DE Pharmaceuticals)	776803007	Mirtazapine
+	16450811000001106		Zispin SolTab 30mg orodispersible tablets (Lexon (UK) Ltd)	776803007	Mirtazapine
+	16450911000001101		Zispin SolTab 30mg orodispersible tablets (Lexon (UK) Ltd)	776803007	Mirtazapine
+	17480611000001100		Zispin SolTab 30mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	776803007	Mirtazapine
+	17480711000001109		Zispin SolTab 30mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	776803007	Mirtazapine
+	18209811000001101		Zispin SolTab 30mg orodispersible tablets (Necessity Supplies Ltd)	776803007	Mirtazapine
+	18209911000001106		Zispin SolTab 30mg orodispersible tablets (Necessity Supplies Ltd)	776803007	Mirtazapine
+	11383111000001105		Cipralex 20mg tablets (Waymade Healthcare Plc)	775831009	Escitalopram
+	11383211000001104		Cipralex 20mg tablets (Waymade Healthcare Plc)	775831009	Escitalopram
+	13106911000001100		Cipralex 20mg tablets (Dowelhurst Ltd)	775831009	Escitalopram
+	13107011000001101		Cipralex 20mg tablets (Dowelhurst Ltd)	775831009	Escitalopram
+	16502111000001100		Cipralex 20mg tablets (Mawdsley-Brooks & Company Ltd)	775831009	Escitalopram
+	16502211000001106		Cipralex 20mg tablets (Mawdsley-Brooks & Company Ltd)	775831009	Escitalopram
+	17535011000001104		Cipralex 20mg tablets (Sigma Pharmaceuticals Plc)	775831009	Escitalopram
+	17535111000001103		Cipralex 20mg tablets (Sigma Pharmaceuticals Plc)	775831009	Escitalopram
+	18220611000001103		Cipralex 20mg tablets (Necessity Supplies Ltd)	775831009	Escitalopram
+	18220711000001107		Cipralex 20mg tablets (Necessity Supplies Ltd)	775831009	Escitalopram
+	18629011000001100		Cipralex 20mg tablets (DE Pharmaceuticals)	775831009	Escitalopram
+	18629111000001104		Cipralex 20mg tablets (DE Pharmaceuticals)	775831009	Escitalopram
+	30267511000001107		Cipralex 20mg tablets (Lexon (UK) Ltd)	775831009	Escitalopram
+	30267611000001106		Cipralex 20mg tablets (Lexon (UK) Ltd)	775831009	Escitalopram
+	10472611000001101		Seroquel 300mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	10472711000001105		Seroquel 300mg tablets (Dowelhurst Ltd)	777377006	Quetiapine
+	10511011000001101		Seroquel 300mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	10511111000001100		Seroquel 300mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	14000611000001104		Seroquel 300mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	14000811000001100		Seroquel 300mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	14708211000001100		Seroquel 300mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	14708311000001108		Seroquel 300mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	16242711000001102		Seroquel 300mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16242811000001105		Seroquel 300mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	17448911000001102		Seroquel 300mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	17449011000001106		Seroquel 300mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	18187411000001108		Seroquel 300mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	18187511000001107		Seroquel 300mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	37357511000001104		Seroquel 300mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	37357711000001109		Seroquel 300mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	10983711000001106		Zispin SolTab 45mg orodispersible tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	10983811000001103		Zispin SolTab 45mg orodispersible tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	13219911000001109		Zispin SolTab 45mg orodispersible tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	13220311000001109		Zispin SolTab 45mg orodispersible tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	13990911000001103		Zispin SolTab 45mg orodispersible tablets (DE Pharmaceuticals)	776803007	Mirtazapine
+	13991011000001106		Zispin SolTab 45mg orodispersible tablets (DE Pharmaceuticals)	776803007	Mirtazapine
+	16451011000001109		Zispin SolTab 45mg orodispersible tablets (Lexon (UK) Ltd)	776803007	Mirtazapine
+	16451111000001105		Zispin SolTab 45mg orodispersible tablets (Lexon (UK) Ltd)	776803007	Mirtazapine
+	17480811000001101		Zispin SolTab 45mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	776803007	Mirtazapine
+	17480911000001106		Zispin SolTab 45mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	776803007	Mirtazapine
+	18210011000001101		Zispin SolTab 45mg orodispersible tablets (Necessity Supplies Ltd)	776803007	Mirtazapine
+	18210211000001106		Zispin SolTab 45mg orodispersible tablets (Necessity Supplies Ltd)	776803007	Mirtazapine
+	10482711000001100		Zispin SolTab 15mg orodispersible tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	10482911000001103		Zispin SolTab 15mg orodispersible tablets (Waymade Healthcare Plc)	776803007	Mirtazapine
+	13218011000001100		Zispin SolTab 15mg orodispersible tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	13218211000001105		Zispin SolTab 15mg orodispersible tablets (Dowelhurst Ltd)	776803007	Mirtazapine
+	13990111000001101		Zispin SolTab 15mg orodispersible tablets (DE Pharmaceuticals)	776803007	Mirtazapine
+	13990211000001107		Zispin SolTab 15mg orodispersible tablets (DE Pharmaceuticals)	776803007	Mirtazapine
+	14768511000001101		Zispin SolTab 15mg orodispersible tablets (Sigma Pharmaceuticals Plc)	776803007	Mirtazapine
+	14768611000001102		Zispin SolTab 15mg orodispersible tablets (Sigma Pharmaceuticals Plc)	776803007	Mirtazapine
+	16450611000001107		Zispin SolTab 15mg orodispersible tablets (Lexon (UK) Ltd)	776803007	Mirtazapine
+	16450711000001103		Zispin SolTab 15mg orodispersible tablets (Lexon (UK) Ltd)	776803007	Mirtazapine
+	17480411000001103		Zispin SolTab 15mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	776803007	Mirtazapine
+	17480511000001104		Zispin SolTab 15mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	776803007	Mirtazapine
+	18209511000001104		Zispin SolTab 15mg orodispersible tablets (Necessity Supplies Ltd)	776803007	Mirtazapine
+	18209711000001109		Zispin SolTab 15mg orodispersible tablets (Necessity Supplies Ltd)	776803007	Mirtazapine
+	13364711000001104		Cipralex 5mg tablets (Waymade Healthcare Plc)	775831009	Escitalopram
+	13364811000001107		Cipralex 5mg tablets (Waymade Healthcare Plc)	775831009	Escitalopram
+	16501611000001102		Cipralex 5mg tablets (Mawdsley-Brooks & Company Ltd)	775831009	Escitalopram
+	16501711000001106		Cipralex 5mg tablets (Mawdsley-Brooks & Company Ltd)	775831009	Escitalopram
+	19540411000001109		Cipralex 5mg tablets (DE Pharmaceuticals)	775831009	Escitalopram
+	19540511000001108		Cipralex 5mg tablets (DE Pharmaceuticals)	775831009	Escitalopram
+	10471711000001103		Abilify 10mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	10471911000001101		Abilify 10mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	13096111000001109		Abilify 10mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13096211000001103		Abilify 10mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13818111000001108		Abilify 10mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13818211000001102		Abilify 10mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13818711000001109		Abilify 10mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	13818811000001101		Abilify 10mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	16253311000001109		Abilify 10mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	16253411000001102		Abilify 10mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	16539111000001100		Abilify 10mg tablets (Stephar (U.K.) Ltd)	774636008	Aripiprazole
+	16539211000001106		Abilify 10mg tablets (Stephar (U.K.) Ltd)	774636008	Aripiprazole
+	17561311000001109		Abilify 10mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	17561411000001102		Abilify 10mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	29952911000001108		Abilify 10mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	29953011000001100		Abilify 10mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	10472011000001108		Abilify 15mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	10472211000001103		Abilify 15mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	13096511000001100		Abilify 15mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13096811000001102		Abilify 15mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13818311000001105		Abilify 15mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13818411000001103		Abilify 15mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13818911000001106		Abilify 15mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	13819011000001102		Abilify 15mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	16253511000001103		Abilify 15mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	16253611000001104		Abilify 15mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	16539311000001103		Abilify 15mg tablets (Stephar (U.K.) Ltd)	774636008	Aripiprazole
+	16539411000001105		Abilify 15mg tablets (Stephar (U.K.) Ltd)	774636008	Aripiprazole
+	17561511000001103		Abilify 15mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	17561611000001104		Abilify 15mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	29953111000001104		Abilify 15mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	29953211000001105		Abilify 15mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	37427811000001108		Abilify 15mg tablets (CST Pharma Ltd)	774636008	Aripiprazole
+	37427911000001103		Abilify 15mg tablets (CST Pharma Ltd)	774636008	Aripiprazole
+	10475911000001104		Abilify 30mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	10476111000001108		Abilify 30mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	13096911000001107		Abilify 30mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13097011000001106		Abilify 30mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13818511000001104		Abilify 30mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13818611000001100		Abilify 30mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13819111000001101		Abilify 30mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	13819211000001107		Abilify 30mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	16114711000001103		Abilify 30mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	16114811000001106		Abilify 30mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	16253911000001105		Abilify 30mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	16254011000001108		Abilify 30mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	17561711000001108		Abilify 30mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	17561811000001100		Abilify 30mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	10786911000001109		Duloxetine 20mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	10787011000001108		Duloxetine 20mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	17478011000001102		Yentreve 20mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	17478111000001101		Yentreve 20mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	10787111000001109		Duloxetine 40mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	10787211000001103		Duloxetine 40mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	17478311000001104		Yentreve 40mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	17478611000001109		Yentreve 40mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	16149611000001102		Circadin 2mg modified-release tablets (Lexon (UK) Ltd)	776664000	Melatonin
+	16149711000001106		Circadin 2mg modified-release tablets (Lexon (UK) Ltd)	776664000	Melatonin
+	16200811000001100		Circadin 2mg modified-release tablets (Waymade Healthcare Plc)	776664000	Melatonin
+	16200911000001105		Circadin 2mg modified-release tablets (Waymade Healthcare Plc)	776664000	Melatonin
+	22704711000001108		Circadin 2mg modified-release tablets (Waymade Healthcare Plc)	776664000	Melatonin
+	16502911000001102		Circadin 2mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776664000	Melatonin
+	16503011000001105		Circadin 2mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776664000	Melatonin
+	37359211000001108		Circadin 2mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776664000	Melatonin
+	17535211000001109		Circadin 2mg modified-release tablets (Sigma Pharmaceuticals Plc)	776664000	Melatonin
+	17535311000001101		Circadin 2mg modified-release tablets (Sigma Pharmaceuticals Plc)	776664000	Melatonin
+	18489611000001100		Circadin 2mg modified-release tablets (Necessity Supplies Ltd)	776664000	Melatonin
+	18489711000001109		Circadin 2mg modified-release tablets (Necessity Supplies Ltd)	776664000	Melatonin
+	18569111000001100		Circadin 2mg modified-release tablets (DE Pharmaceuticals)	776664000	Melatonin
+	18569211000001106		Circadin 2mg modified-release tablets (DE Pharmaceuticals)	776664000	Melatonin
+	38125411000001108		Circadin 2mg modified-release tablets (DE Pharmaceuticals)	776664000	Melatonin
+	37624511000001100		Circadin 2mg modified-release tablets (Ethigen Ltd)	776664000	Melatonin
+	37624611000001101		Circadin 2mg modified-release tablets (Ethigen Ltd)	776664000	Melatonin
+	10476311000001105		Abilify 5mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	10476411000001103		Abilify 5mg tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	13095611000001106		Abilify 5mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13095711000001102		Abilify 5mg tablets (Dowelhurst Ltd)	774636008	Aripiprazole
+	13817911000001105		Abilify 5mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13819411000001106		Abilify 5mg tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	13819311000001104		Abilify 5mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	13821311000001108		Abilify 5mg tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	16252911000001103		Abilify 5mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	16253111000001107		Abilify 5mg tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	17560911000001103		Abilify 5mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	17561011000001106		Abilify 5mg tablets (Necessity Supplies Ltd)	774636008	Aripiprazole
+	29952711000001106		Abilify 5mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	29952811000001103		Abilify 5mg tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	10520011000001101		Cymbalta 30mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	10520111000001100		Cymbalta 30mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	12198411000001103		Duloxetine 30mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	12198511000001104		Duloxetine 30mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	13858911000001101		Cymbalta 30mg gastro-resistant capsules (DE Pharmaceuticals)	775713001	Duloxetine
+	13859011000001105		Cymbalta 30mg gastro-resistant capsules (DE Pharmaceuticals)	775713001	Duloxetine
+	14213111000001106		Cymbalta 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	14213211000001100		Cymbalta 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	14213511000001102		Duloxetine 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	14213711000001107		Duloxetine 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	16564111000001109		Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	16564311000001106		Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	17339811000001105		Cymbalta 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	17339911000001100		Cymbalta 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	18230411000001104		Cymbalta 30mg gastro-resistant capsules (Necessity Supplies Ltd)	775713001	Duloxetine
+	18230511000001100		Cymbalta 30mg gastro-resistant capsules (Necessity Supplies Ltd)	775713001	Duloxetine
+	18575111000001105		Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals)	775713001	Duloxetine
+	18575211000001104		Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals)	775713001	Duloxetine
+	37433811000001104		Cymbalta 30mg gastro-resistant capsules (CST Pharma Ltd)	775713001	Duloxetine
+	37433911000001109		Cymbalta 30mg gastro-resistant capsules (CST Pharma Ltd)	775713001	Duloxetine
+	37627411000001109		Cymbalta 30mg gastro-resistant capsules (Pilsco Ltd)	775713001	Duloxetine
+	37627511000001108		Cymbalta 30mg gastro-resistant capsules (Pilsco Ltd)	775713001	Duloxetine
+	10786711000001107		Cymbalta 60mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	10786811000001104		Cymbalta 60mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	12198611000001100		Duloxetine 60mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	12198711000001109		Duloxetine 60mg gastro-resistant capsules (Waymade Healthcare Plc)	775713001	Duloxetine
+	13859111000001106		Cymbalta 60mg gastro-resistant capsules (DE Pharmaceuticals)	775713001	Duloxetine
+	13859211000001100		Cymbalta 60mg gastro-resistant capsules (DE Pharmaceuticals)	775713001	Duloxetine
+	14213311000001108		Cymbalta 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	14213411000001101		Cymbalta 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	17340011000001106		Cymbalta 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	17340111000001107		Cymbalta 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd)	775713001	Duloxetine
+	17884211000001101		Duloxetine 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	17884311000001109		Duloxetine 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc)	775713001	Duloxetine
+	18246811000001104		Cymbalta 60mg gastro-resistant capsules (Necessity Supplies Ltd)	775713001	Duloxetine
+	18246911000001109		Cymbalta 60mg gastro-resistant capsules (Necessity Supplies Ltd)	775713001	Duloxetine
+	37434011000001107		Cymbalta 60mg gastro-resistant capsules (CST Pharma Ltd)	775713001	Duloxetine
+	37434111000001108		Cymbalta 60mg gastro-resistant capsules (CST Pharma Ltd)	775713001	Duloxetine
+	37627611000001107		Cymbalta 60mg gastro-resistant capsules (Pilsco Ltd)	775713001	Duloxetine
+	37627711000001103		Cymbalta 60mg gastro-resistant capsules (Pilsco Ltd)	775713001	Duloxetine
+	10770211000001109		Zyprexa 20mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	10770311000001101		Zyprexa 20mg Velotabs (Waymade Healthcare Plc)	776977006	Olanzapine
+	14748711000001101		Zyprexa 20mg Velotabs (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	14748911000001104		Zyprexa 20mg Velotabs (Sigma Pharmaceuticals Plc)	776977006	Olanzapine
+	17487511000001100		Zyprexa 20mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17487611000001101		Zyprexa 20mg Velotabs (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	20034211000001101		Zyprexa 20mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	20034311000001109		Zyprexa 20mg Velotabs (Lexon (UK) Ltd)	776977006	Olanzapine
+	36919811000001106		Zyprexa 20mg Velotabs (Abacus Medicine Ltd)	776977006	Olanzapine
+	36919911000001101		Zyprexa 20mg Velotabs (Abacus Medicine Ltd)	776977006	Olanzapine
+	37549911000001100		Zyprexa 20mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	37550011000001109		Zyprexa 20mg Velotabs (CST Pharma Ltd)	776977006	Olanzapine
+	38186411000001109		Zyprexa 20mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	38186511000001108		Zyprexa 20mg Velotabs (DE Pharmaceuticals)	776977006	Olanzapine
+	13184411000001104		Abilify 10mg orodispersible tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	13184611000001101		Abilify 10mg orodispersible tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	13819511000001105		Abilify 10mg orodispersible tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	13819611000001109		Abilify 10mg orodispersible tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	18049311000001105		Abilify 10mg orodispersible tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	18049411000001103		Abilify 10mg orodispersible tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	19726011000001103		Abilify 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	19726211000001108		Abilify 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	38112711000001100		Abilify 10mg orodispersible tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	38112811000001108		Abilify 10mg orodispersible tablets (DE Pharmaceuticals)	774636008	Aripiprazole
+	12886811000001105		Abilify 15mg orodispersible tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	12886911000001100		Abilify 15mg orodispersible tablets (Waymade Healthcare Plc)	774636008	Aripiprazole
+	13819711000001100		Abilify 15mg orodispersible tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	13819811000001108		Abilify 15mg orodispersible tablets (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	18049511000001104		Abilify 15mg orodispersible tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	18049611000001100		Abilify 15mg orodispersible tablets (Lexon (UK) Ltd)	774636008	Aripiprazole
+	16114911000001101		Abilify 1mg/ml oral solution (Lexon (UK) Ltd)	774636008	Aripiprazole
+	16115011000001101		Abilify 1mg/ml oral solution (Lexon (UK) Ltd)	774636008	Aripiprazole
+	17488711000001106		Abilify 1mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	17488811000001103		Abilify 1mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	774636008	Aripiprazole
+	17532011000001109		Abilify 1mg/ml oral solution (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	17532111000001105		Abilify 1mg/ml oral solution (Sigma Pharmaceuticals Plc)	774636008	Aripiprazole
+	17560711000001100		Abilify 1mg/ml oral solution (Necessity Supplies Ltd)	774636008	Aripiprazole
+	17560811000001108		Abilify 1mg/ml oral solution (Necessity Supplies Ltd)	774636008	Aripiprazole
+	20560311000001108		Abilify 1mg/ml oral solution (Waymade Healthcare Plc)	774636008	Aripiprazole
+	20560411000001101		Abilify 1mg/ml oral solution (Waymade Healthcare Plc)	774636008	Aripiprazole
+	37427611000001109		Abilify 1mg/ml oral solution (CST Pharma Ltd)	774636008	Aripiprazole
+	37427711000001100		Abilify 1mg/ml oral solution (CST Pharma Ltd)	774636008	Aripiprazole
+	38112911000001103		Abilify 1mg/ml oral solution (DE Pharmaceuticals)	774636008	Aripiprazole
+	38113011000001106		Abilify 1mg/ml oral solution (DE Pharmaceuticals)	774636008	Aripiprazole
+	17487111000001109		Zyprexa 20mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	17487211000001103		Zyprexa 20mg tablets (Mawdsley-Brooks & Company Ltd)	776977006	Olanzapine
+	36919211000001105		Zyprexa 20mg tablets (Abacus Medicine Ltd)	776977006	Olanzapine
+	36919311000001102		Zyprexa 20mg tablets (Abacus Medicine Ltd)	776977006	Olanzapine
+	37547711000001105		Zyprexa 20mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37547811000001102		Zyprexa 20mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37727211000001102		Olanzapine 20mg tablets (Pilsco Ltd)	776977006	Olanzapine
+	37727311000001105		Olanzapine 20mg tablets (Pilsco Ltd)	776977006	Olanzapine
+	37750011000001105		Olanzapine 20mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	37750111000001106		Olanzapine 20mg tablets (CST Pharma Ltd)	776977006	Olanzapine
+	19860511000001100		Risperdal Quicklet 4mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	19860611000001101		Risperdal Quicklet 4mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	19860311000001106		Risperdal Quicklet 3mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	19860411000001104		Risperdal Quicklet 3mg orodispersible tablets (Lexon (UK) Ltd)	777450003	Risperidone
+	11140111000001103		Chlorazin 100mg suppositories (Imported (Switzerland))	775216005	Chlorpromazine
+	11140211000001109		Chlorazin 100mg suppositories (Imported (Switzerland))	775216005	Chlorpromazine
+	27991411000001109		Seroxat 10mg tablets (Waymade Healthcare Plc)	777085007	Paroxetine
+	27991511000001108		Seroxat 10mg tablets (Waymade Healthcare Plc)	777085007	Paroxetine
+	11387511000001106		Zuclopenthixol 20mg/ml oral drops	777995002	Zuclopenthixol
+	11387611000001105		Zuclopenthixol 20mg/ml oral drops	777995002	Zuclopenthixol
+	11387711000001101		Ciatyl-Z 20mg/ml oral drops (Imported (Germany))	777995002	Zuclopenthixol
+	11387811000001109		Ciatyl-Z 20mg/ml oral drops (Imported (Germany))	777995002	Zuclopenthixol
+	13878011000001103		Chloral hydrate 25mg suppositories	775158004	Chloral hydrate
+	13878211000001108		Chloral hydrate 25mg suppositories	775158004	Chloral hydrate
+	20188311000001101		Chloral hydrate 25mg suppositories	775158004	Chloral hydrate
+	13878611000001105		Chloral hydrate 25mg suppositories (Special Order)	775158004	Chloral hydrate
+	13878811000001109		Chloral hydrate 25mg suppositories (Special Order)	775158004	Chloral hydrate
+	20188411000001108		Chloral hydrate 25mg suppositories (Special Order)	775158004	Chloral hydrate
+	13879311000001106		Chloral hydrate 50mg suppositories	775158004	Chloral hydrate
+	13879411000001104		Chloral hydrate 50mg suppositories	775158004	Chloral hydrate
+	20161311000001105		Chloral hydrate 50mg suppositories	775158004	Chloral hydrate
+	13879611000001101		Chloral hydrate 50mg suppositories (Special Order)	775158004	Chloral hydrate
+	13879811000001102		Chloral hydrate 50mg suppositories (Special Order)	775158004	Chloral hydrate
+	20161611000001100		Chloral hydrate 50mg suppositories (Special Order)	775158004	Chloral hydrate
+	16203011000001101		Seroquel XL 200mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	16203111000001100		Seroquel XL 200mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	17593411000001100		Seroquel XL 200mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	17593511000001101		Seroquel XL 200mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	18611811000001102		Seroquel XL 200mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	18611911000001107		Seroquel XL 200mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	45267311000001108		Sondate XL 200mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	45267411000001101		Sondate XL 200mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	16203411000001105		Seroquel XL 400mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	16203511000001109		Seroquel XL 400mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	16243111000001109		Seroquel XL 400mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16243211000001103		Seroquel XL 400mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	17594211000001101		Seroquel XL 400mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	17594511000001103		Seroquel XL 400mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	18612211000001105		Seroquel XL 400mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	18612311000001102		Seroquel XL 400mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	36895511000001103		Seroquel XL 400mg tablets (Abacus Medicine Ltd)	777377006	Quetiapine
+	36895611000001104		Seroquel XL 400mg tablets (Abacus Medicine Ltd)	777377006	Quetiapine
+	45268511000001103		Sondate XL 400mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	45268611000001104		Sondate XL 400mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	16203211000001106		Seroquel XL 300mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	16203311000001103		Seroquel XL 300mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	17593611000001102		Seroquel XL 300mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	17593911000001108		Seroquel XL 300mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	18612011000001100		Seroquel XL 300mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	18612111000001104		Seroquel XL 300mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	45267511000001102		Sondate XL 300mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	45267711000001107		Sondate XL 300mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	16202711000001107		Seroquel XL 50mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	16202911000001109		Seroquel XL 50mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	16242911000001100		Seroquel XL 50mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	16243011000001108		Seroquel XL 50mg tablets (Lexon (UK) Ltd)	777377006	Quetiapine
+	17449111000001107		Seroquel XL 50mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	17449211000001101		Seroquel XL 50mg tablets (Mawdsley-Brooks & Company Ltd)	777377006	Quetiapine
+	17594611000001104		Seroquel XL 50mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	17594911000001105		Seroquel XL 50mg tablets (Sigma Pharmaceuticals Plc)	777377006	Quetiapine
+	18612411000001109		Seroquel XL 50mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	18612511000001108		Seroquel XL 50mg tablets (DE Pharmaceuticals)	777377006	Quetiapine
+	37345411000001107		Seroquel XL 50mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	37345611000001105		Seroquel XL 50mg tablets (CST Pharma Ltd)	777377006	Quetiapine
+	45266911000001106		Sondate XL 50mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	45267111000001106		Sondate XL 50mg tablets (Necessity Supplies Ltd)	777377006	Quetiapine
+	29738411000001109		Venlalic XL 75mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	29738511000001108		Venlalic XL 75mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	43547511000001107		Venlafaxine 75mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	43547711000001102		Venlafaxine 75mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	28925611000001109		Venlalic XL 150mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	28925711000001100		Venlalic XL 150mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	43545811000001100		Venlafaxine 150mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	43545911000001105		Venlafaxine 150mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	28925811000001108		Venlalic XL 225mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	28925911000001103		Venlalic XL 225mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	38016411000001102		Venlalic XL 225mg tablets (Pilsco Ltd)	777926007	Venlafaxine
+	38016511000001103		Venlalic XL 225mg tablets (Pilsco Ltd)	777926007	Venlafaxine
+	43546011000001102		Venlafaxine 225mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	43546711000001100		Venlafaxine 225mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	15432411000001108		Droperidol 2.5mg/1ml solution for injection ampoules	775704003	Droperidol
+	15432511000001107		Droperidol 2.5mg/1ml solution for injection ampoules	775704003	Droperidol
+	15432611000001106		Xomolix 2.5mg/1ml solution for injection ampoules (Kyowa Kirin Ltd)	775704003	Droperidol
+	15432711000001102		Xomolix 2.5mg/1ml solution for injection ampoules (Kyowa Kirin Ltd)	775704003	Droperidol
+	34153711000001101		Droperidol 2.5mg/1ml solution for injection ampoules (Panpharma UK Ltd)	775704003	Droperidol
+	34153811000001109		Droperidol 2.5mg/1ml solution for injection ampoules (Panpharma UK Ltd)	775704003	Droperidol
+	17470511000001107		Valdoxan 25mg tablets (Mawdsley-Brooks & Company Ltd)	774446004	Agomelatine
+	17470611000001106		Valdoxan 25mg tablets (Mawdsley-Brooks & Company Ltd)	774446004	Agomelatine
+	20030111000001103		Valdoxan 25mg tablets (Lexon (UK) Ltd)	774446004	Agomelatine
+	20030211000001109		Valdoxan 25mg tablets (Lexon (UK) Ltd)	774446004	Agomelatine
+	37536711000001108		Valdoxan 25mg tablets (CST Pharma Ltd)	774446004	Agomelatine
+	37536811000001100		Valdoxan 25mg tablets (CST Pharma Ltd)	774446004	Agomelatine
+	38172411000001101		Valdoxan 25mg tablets (DE Pharmaceuticals)	774446004	Agomelatine
+	38172511000001102		Valdoxan 25mg tablets (DE Pharmaceuticals)	774446004	Agomelatine
+	30273811000001107		Seroquel XL 150mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	30273911000001102		Seroquel XL 150mg tablets (Waymade Healthcare Plc)	777377006	Quetiapine
+	28926011000001106		Venlalic XL 37.5mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	28926111000001107		Venlalic XL 37.5mg tablets (Waymade Healthcare Plc)	777926007	Venlafaxine
+	43973211000001108		Venlafaxine 37.5mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	43973411000001107		Venlafaxine 37.5mg modified-release tablets (Necessity Supplies Ltd)	777926007	Venlafaxine
+	20187711000001103		Chloral hydrate 750mg suppositories	775158004	Chloral hydrate
+	20187811000001106		Chloral hydrate 750mg suppositories	775158004	Chloral hydrate
+	20187911000001101		Chloral hydrate 750mg suppositories	775158004	Chloral hydrate
+	20188011000001104		Chloral hydrate 750mg suppositories (Special Order)	775158004	Chloral hydrate
+	20188211000001109		Chloral hydrate 750mg suppositories (Special Order)	775158004	Chloral hydrate
+	20188111000001103		Chloral hydrate 750mg suppositories (Special Order)	775158004	Chloral hydrate
+	21889111000001109		Pimozide 3mg/5ml oral suspension	777199009	Pimozide
+	21889211000001103		Pimozide 3mg/5ml oral suspension	777199009	Pimozide
+	21889311000001106		Pimozide 3mg/5ml oral suspension	777199009	Pimozide
+	21889411000001104		Pimozide 3mg/5ml oral suspension (Special Order)	777199009	Pimozide
+	21889511000001100		Pimozide 3mg/5ml oral suspension (Special Order)	777199009	Pimozide
+	21889611000001101		Pimozide 3mg/5ml oral suspension (Special Order)	777199009	Pimozide
+	22052211000001100		Oxitriptan 10mg capsules	19532711000001103	Oxitriptan
+	22052311000001108		Oxitriptan 10mg capsules	19532711000001103	Oxitriptan
+	22052411000001101		Oxitriptan 10mg capsules (Special Order)	19532711000001103	Oxitriptan
+	22052511000001102		Oxitriptan 10mg capsules (Special Order)	19532711000001103	Oxitriptan
+	22052611000001103		Oxitriptan 20mg capsules	19532711000001103	Oxitriptan
+	22052711000001107		Oxitriptan 20mg capsules	19532711000001103	Oxitriptan
+	22052811000001104		Oxitriptan 20mg capsules (Special Order)	19532711000001103	Oxitriptan
+	22052911000001109		Oxitriptan 20mg capsules (Special Order)	19532711000001103	Oxitriptan
+	22383611000001102		Chloral hydrate 200mg/1ml rectal solution	775158004	Chloral hydrate
+	22383711000001106		Chloral hydrate 200mg/1ml rectal solution	775158004	Chloral hydrate
+	22383811000001103		Chloral hydrate 200mg/1ml rectal solution	775158004	Chloral hydrate
+	22383911000001108		Chloral hydrate 200mg/1ml rectal solution (Special Order)	775158004	Chloral hydrate
+	22384011000001106		Chloral hydrate 200mg/1ml rectal solution (Special Order)	775158004	Chloral hydrate
+	22384111000001107		Chloral hydrate 200mg/1ml rectal solution (Special Order)	775158004	Chloral hydrate
+	23317711000001109		Chlordiazepoxide 7.5mg/5ml oral suspension	775162005	Chlordiazepoxide
+	23317811000001101		Chlordiazepoxide 7.5mg/5ml oral suspension	775162005	Chlordiazepoxide
+	23317911000001106		Chlordiazepoxide 7.5mg/5ml oral suspension	775162005	Chlordiazepoxide
+	23318011000001108		Chlordiazepoxide 7.5mg/5ml oral suspension (Special Order)	775162005	Chlordiazepoxide
+	23318111000001109		Chlordiazepoxide 7.5mg/5ml oral suspension (Special Order)	775162005	Chlordiazepoxide
+	23318211000001103		Chlordiazepoxide 7.5mg/5ml oral suspension (Special Order)	775162005	Chlordiazepoxide
+	42277311000001101		Pimozide 1mg tablets	777199009	Pimozide
+	25372111000001105		Pimozide 1mg tablets	777199009	Pimozide
+	25372011000001109		Orap 1mg tablets (Imported (United States))	777199009	Pimozide
+	25372211000001104		Orap 1mg tablets (Imported (United States))	777199009	Pimozide
+	37515811000001101		Latuda 18.5mg tablets (CST Pharma Ltd)	776588007	Lurasidone
+	37515911000001106		Latuda 18.5mg tablets (CST Pharma Ltd)	776588007	Lurasidone
+	38145511000001109		Latuda 18.5mg tablets (DE Pharmaceuticals)	776588007	Lurasidone
+	38145611000001108		Latuda 18.5mg tablets (DE Pharmaceuticals)	776588007	Lurasidone
+	36813011000001109		Latuda 37mg tablets (Abacus Medicine Ltd)	776588007	Lurasidone
+	36813211000001104		Latuda 37mg tablets (Abacus Medicine Ltd)	776588007	Lurasidone
+	37516011000001103		Latuda 37mg tablets (CST Pharma Ltd)	776588007	Lurasidone
+	37516111000001102		Latuda 37mg tablets (CST Pharma Ltd)	776588007	Lurasidone
+	38145711000001104		Latuda 37mg tablets (DE Pharmaceuticals)	776588007	Lurasidone
+	38145811000001107		Latuda 37mg tablets (DE Pharmaceuticals)	776588007	Lurasidone
+	37516211000001108		Latuda 74mg tablets (CST Pharma Ltd)	776588007	Lurasidone
+	37516311000001100		Latuda 74mg tablets (CST Pharma Ltd)	776588007	Lurasidone
+	37672811000001107		Latuda 74mg tablets (Ethigen Ltd)	776588007	Lurasidone
+	37672911000001102		Latuda 74mg tablets (Ethigen Ltd)	776588007	Lurasidone
+	38145911000001102		Latuda 74mg tablets (DE Pharmaceuticals)	776588007	Lurasidone
+	38146011000001105		Latuda 74mg tablets (DE Pharmaceuticals)	776588007	Lurasidone
+	27946311000001103		Levomepromazine 100mg tablets	776520002	Levomepromazine
+	27946511000001109		Levomepromazine 100mg tablets	776520002	Levomepromazine
+	38936411000001104		Levomepromazine 100mg tablets	776520002	Levomepromazine
+	38936811000001102		Levomepromazine 100mg tablets	776520002	Levomepromazine
+	27946411000001105		Nozinan 100mg tablets (Imported (New Zealand))	776520002	Levomepromazine
+	27946611000001108		Nozinan 100mg tablets (Imported (New Zealand))	776520002	Levomepromazine
+	38936311000001106		Levomepromazine 100mg tablets (Morningside Healthcare Ltd)	776520002	Levomepromazine
+	38936711000001105		Levomepromazine 100mg tablets (Morningside Healthcare Ltd)	776520002	Levomepromazine
+	38937011000001106		Levomepromazine 100mg tablets (Morningside Healthcare Ltd)	776520002	Levomepromazine
+	27985211000001107		Loxapine 100mg tablets	776582008	Loxapine
+	27985411000001106		Loxapine 100mg tablets	776582008	Loxapine
+	27985311000001104		Loxapac 100mg tablets (Imported (France))	776582008	Loxapine
+	27985511000001105		Loxapac 100mg tablets (Imported (France))	776582008	Loxapine
+	27985711000001100		Melperone hydrochloride 25mg tablets	776667007	Melperone
+	27985911000001103		Melperone hydrochloride 25mg tablets	776667007	Melperone
+	39104111000001105		Melperone hydrochloride 25mg tablets	776667007	Melperone
+	39104211000001104		Melperone hydrochloride 25mg tablets	776667007	Melperone
+	39104311000001107		Melperone hydrochloride 25mg tablets	776667007	Melperone
+	27985811000001108		Melperon-ratiopharm 25mg tablets (Imported (Germany))	776667007	Melperone
+	27986011000001106		Melperon-ratiopharm 25mg tablets (Imported (Germany))	776667007	Melperone
+	39104011000001109		Melperone hydrochloride 25mg tablets (Imported (Germany))	776667007	Melperone
+	39104411000001100		Melperone hydrochloride 25mg tablets (Imported (Germany))	776667007	Melperone
+	39104511000001101		Melperone hydrochloride 25mg tablets (Imported (Germany))	776667007	Melperone
+	39104611000001102		Melperone hydrochloride 25mg tablets (Imported (Germany))	776667007	Melperone
+	27986111000001107		Melperone hydrochloride 50mg tablets	776667007	Melperone
+	27986311000001109		Melperone hydrochloride 50mg tablets	776667007	Melperone
+	39104711000001106		Melperone hydrochloride 50mg tablets	776667007	Melperone
+	39104811000001103		Melperone hydrochloride 50mg tablets	776667007	Melperone
+	39104911000001108		Melperone hydrochloride 50mg tablets	776667007	Melperone
+	27986211000001101		Melperon-ratiopharm 50mg tablets (Imported (Germany))	776667007	Melperone
+	27986411000001102		Melperon-ratiopharm 50mg tablets (Imported (Germany))	776667007	Melperone
+	39105011000001108		Melperone hydrochloride 50mg tablets (Imported (Germany))	776667007	Melperone
+	39105111000001109		Melperone hydrochloride 50mg tablets (Imported (Germany))	776667007	Melperone
+	39105211000001103		Melperone hydrochloride 50mg tablets (Imported (Germany))	776667007	Melperone
+	39105311000001106		Melperone hydrochloride 50mg tablets (Imported (Germany))	776667007	Melperone
+	37351811000001108		Brintellix 5mg tablets (Mawdsley-Brooks & Company Ltd)	777946002	Vortioxetine
+	37351911000001103		Brintellix 5mg tablets (Mawdsley-Brooks & Company Ltd)	777946002	Vortioxetine
+	37431211000001104		Brintellix 5mg tablets (CST Pharma Ltd)	777946002	Vortioxetine
+	37431311000001107		Brintellix 5mg tablets (CST Pharma Ltd)	777946002	Vortioxetine
+	37622311000001104		Brintellix 5mg tablets (Ethigen Ltd)	777946002	Vortioxetine
+	37622411000001106		Brintellix 5mg tablets (Ethigen Ltd)	777946002	Vortioxetine
+	38121811000001107		Brintellix 5mg tablets (DE Pharmaceuticals)	777946002	Vortioxetine
+	38121911000001102		Brintellix 5mg tablets (DE Pharmaceuticals)	777946002	Vortioxetine
+	37352011000001105		Brintellix 10mg tablets (Mawdsley-Brooks & Company Ltd)	777946002	Vortioxetine
+	37352211000001100		Brintellix 10mg tablets (Mawdsley-Brooks & Company Ltd)	777946002	Vortioxetine
+	37431011000001109		Brintellix 10mg tablets (CST Pharma Ltd)	777946002	Vortioxetine
+	37431111000001105		Brintellix 10mg tablets (CST Pharma Ltd)	777946002	Vortioxetine
+	37622111000001101		Brintellix 10mg tablets (Ethigen Ltd)	777946002	Vortioxetine
+	37622211000001107		Brintellix 10mg tablets (Ethigen Ltd)	777946002	Vortioxetine
+	38122011000001109		Brintellix 10mg tablets (DE Pharmaceuticals)	777946002	Vortioxetine
+	38122111000001105		Brintellix 10mg tablets (DE Pharmaceuticals)	777946002	Vortioxetine
+	32687711000001109		Loxapine 9.1mg/dose inhalation powder	776582008	Loxapine
+	32687911000001106		Loxapine 9.1mg/dose inhalation powder	776582008	Loxapine
+	32687811000001101		Adasuve 9.1mg/dose inhalation powder (Galen Ltd)	776582008	Loxapine
+	32688011000001108		Adasuve 9.1mg/dose inhalation powder (Galen Ltd)	776582008	Loxapine
+	41871811000001108		Amobarbital sodium 500mg powder for solution for injection vials	774579001	Amobarbital
+	34200811000001107		Amobarbital sodium 500mg powder for solution for injection vials	774579001	Amobarbital
+	34200911000001102		Amytal sodium 500mg powder for solution for injection vials (Imported (United States))	774579001	Amobarbital
+	34201011000001105		Amytal sodium 500mg powder for solution for injection vials (Imported (United States))	774579001	Amobarbital
+	41959611000001103		Slenyto 1mg modified-release tablets (Pharmaram Ltd)	776664000	Melatonin
+	41959711000001107		Slenyto 1mg modified-release tablets (Pharmaram Ltd)	776664000	Melatonin
+	41959811000001104		Slenyto 5mg modified-release tablets (Pharmaram Ltd)	776664000	Melatonin
+	41959911000001109		Slenyto 5mg modified-release tablets (Pharmaram Ltd)	776664000	Melatonin
+	42702611000001105		Slenyto 5mg modified-release tablets (Pilsco Ltd)	776664000	Melatonin
+	42702711000001101		Slenyto 5mg modified-release tablets (Pilsco Ltd)	776664000	Melatonin
+	37564211000001102		Clozapine 125mg/5ml solution for injection ampoules	775325001	Clozapine
+	37559411000001105		Clozapine 125mg/5ml solution for injection ampoules	775325001	Clozapine
+	37559511000001109		Clozapine 125mg/5ml solution for injection ampoules (Imported (Netherlands))	775325001	Clozapine
+	37559611000001108		Clozapine 125mg/5ml solution for injection ampoules (Imported (Netherlands))	775325001	Clozapine
+	38067811000001104		Pipotiazine 100mg/4ml solution for injection ampoules	777217000	Pipotiazine
+	38066511000001104		Pipotiazine 100mg/4ml solution for injection ampoules	777217000	Pipotiazine
+	38066611000001100		Piportil L4 100mg/4ml solution for injection ampoules (Imported (France))	777217000	Pipotiazine
+	38066711000001109		Piportil L4 100mg/4ml solution for injection ampoules (Imported (France))	777217000	Pipotiazine
+	38931911000001102		Lorazepam 2mg/1ml solution for injection cartridges	776574008	Lorazepam
+	38926511000001102		Lorazepam 2mg/1ml solution for injection cartridges	776574008	Lorazepam
+	38926811000001104		Lorazepam 2mg/1ml solution for injection Carpuject cartridges (Imported (United States))	776574008	Lorazepam
+	38926911000001109		Lorazepam 2mg/1ml solution for injection Carpuject cartridges (Imported (United States))	776574008	Lorazepam
+	39116611000001108		Melperone hydrochloride 10mg tablets	776667007	Melperone
+	39103211000001102		Melperone hydrochloride 10mg tablets	776667007	Melperone
+	39103311000001105		Melperone hydrochloride 10mg tablets	776667007	Melperone
+	39103411000001103		Melperone hydrochloride 10mg tablets	776667007	Melperone
+	39103511000001104		Melperone hydrochloride 10mg tablets (Imported (Germany))	776667007	Melperone
+	39103611000001100		Melperone hydrochloride 10mg tablets (Imported (Germany))	776667007	Melperone
+	39103711000001109		Melperone hydrochloride 10mg tablets (Imported (Germany))	776667007	Melperone
+	39103811000001101		Melperone hydrochloride 10mg tablets (Imported (Germany))	776667007	Melperone
+	39332011000001101		Lorazepam 4mg/1ml solution for injection vials	776574008	Lorazepam
+	39320511000001106		Lorazepam 4mg/1ml solution for injection vials	776574008	Lorazepam
+	39320611000001105		Ativan 4mg/1ml solution for injection vials (Imported (Canada))	776574008	Lorazepam
+	39320711000001101		Ativan 4mg/1ml solution for injection vials (Imported (Canada))	776574008	Lorazepam
+	39389311000001104		Chlorprothixene 15mg tablets	775218006	Chlorprothixene
+	39385511000001107		Chlorprothixene 15mg tablets	775218006	Chlorprothixene
+	39385611000001106		Truxal 15mg tablets (Imported (Denmark))	775218006	Chlorprothixene
+	39385711000001102		Truxal 15mg tablets (Imported (Denmark))	775218006	Chlorprothixene
+	39819311000001104		Levomepromazine 3mg tablets	776520002	Levomepromazine
+	39814511000001106		Levomepromazine 3mg tablets	776520002	Levomepromazine
+	39814611000001105		Levomepromazine 3mg tablets (Special Order)	776520002	Levomepromazine
+	39814811000001109		Levomepromazine 3mg tablets (Special Order)	776520002	Levomepromazine
+	41481711000001100		Droperidol 2.5mg/1ml solution for injection vials	775704003	Droperidol
+	41466611000001100		Droperidol 2.5mg/1ml solution for injection vials	775704003	Droperidol
+	41467211000001100		Droperidol 2.5mg/1ml solution for injection vials (Hikma Pharmaceuticals International Ltd)	775704003	Droperidol
+	41467311000001108		Droperidol 2.5mg/1ml solution for injection vials (Hikma Pharmaceuticals International Ltd)	775704003	Droperidol
+	41780511000001108		Pipotiazine 25mg/1ml solution for injection ampoules	777217000	Pipotiazine
+	41756111000001105		Pipotiazine 25mg/1ml solution for injection ampoules	777217000	Pipotiazine
+	41756211000001104		Piportil L4 25mg/1ml solution for injection ampoules (Imported (France))	777217000	Pipotiazine
+	41756311000001107		Piportil L4 25mg/1ml solution for injection ampoules (Imported (France))	777217000	Pipotiazine
+	44750111000001104		Chloral hydrate 125mg suppositories	775158004	Chloral hydrate
+	44734211000001103		Chloral hydrate 125mg suppositories	775158004	Chloral hydrate
+	44734311000001106		Chloral hydrate 125mg suppositories (Special Order)	775158004	Chloral hydrate
+	44734411000001104		Chloral hydrate 125mg suppositories (Special Order)	775158004	Chloral hydrate

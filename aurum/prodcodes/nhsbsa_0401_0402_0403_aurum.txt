@@ -230,6 +230,7 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 1366741000033110	24311000001100	Solian 50 tablets (Sanofi)	Solian 50 tablets	Tablet/ Oral Tablet	Oral	Amisulpride	50.000mg		3854	both
 13716441000033110	38830111000001104	Syncrodin 3mg tablets (Pharma Nord (UK) Ltd)	Syncrodin 3mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	3.000mg		9682	both
 13719041000033113	38931811000001107	Levomepromazine 50mg tablets	Levomepromazine 50mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	50.000mg	04020100	2041	both
+13719141000033112	27946311000001103	Levomepromazine 100mg tablets	Levomepromazine 100mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	100.000mg		34	both
 13719241000033117	38976911000001105	Phenelzine 15mg capsules	Phenelzine 15mg capsules	Capsule/ Oral capsule	Oral	Phenelzine sulfate	15.000mg	04030200	442	both
 13734841000033110	39027411000001105	Quetiapine 600mg modified-release tablets	Quetiapine 600mg modified-release tablets	Modified-release tablet	Oral	Quetiapine fumarate	600.000mg	04020100	14855	both
 13734941000033119	39005011000001102	Biquelle XL 600mg tablets (Aspire Pharma Ltd)	Biquelle XL 600mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	600.000mg		2249	both
@@ -718,6 +719,7 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 5052941000033116	15375411000001109	Venlalic XL 150mg tablets (Ethypharm UK Ltd)	Venlalic XL 150mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	150.000mg		521013	both
 5053041000033114	15375711000001103	Venlalic XL 75mg tablets (Ethypharm UK Ltd)	Venlalic XL 75mg tablets	Modified-release tablet	Oral	Venlafaxine hydrochloride	75.000mg		436737	both
 5054641000033118	8527911000001100	Haloperidol 1mg/5ml oral solution	Haloperidol 1mg/5ml oral solution	Oral solution	Oral	Haloperidol	200.000microgram/1.000ml	04020100	2047	both
+5055241000033117	15432411000001108	Droperidol 2.5mg/1ml solution for injection ampoules	Droperidol 2.5mg/1ml solution for injection ampoules	Solution for injection	Intravenous	Droperidol	2.500mg/1.000ml	04020100	<5	both
 5077041000033116	15499111000001100	Agomelatine 25mg tablets	Agomelatine 25mg tablets	Tablet/ Oral Tablet	Oral	Agomelatine	25.000mg	04030400	130419	both
 5077141000033117	15457711000001104	Valdoxan 25mg tablets (Servier Laboratories Ltd)	Valdoxan 25mg tablets	Tablet/ Oral Tablet	Oral	Agomelatine	25.000mg		5901	both
 5077641000033110	15506311000001101	Clozapine 50mg/ml oral suspension sugar free	Clozapine 50mg/ml oral suspension sugar free	Oral suspension	Oral	Clozapine	50.000mg/1.000ml	04020100	755	both
