@@ -1,0 +1,57 @@
+BNF Code	dmdid	DM+D: Product Description	VTM	VTM Name
+0410010A0AAAAAA	42267511000001104	Acamprosate 333mg gastro-resistant tablets	774403002	Acamprosate
+0410010A0AAAAAA	994511000001109	Acamprosate 333mg gastro-resistant tablets	774403002	Acamprosate
+0410010A0AAAAAA	5342911000001106	Acamprosate 333mg gastro-resistant tablets	774403002	Acamprosate
+0410010A0AAAAAA	5454011000001105	Acamprosate 333mg gastro-resistant tablets	774403002	Acamprosate
+0410010A0AAAAAA	13102511000001106	Acamprosate 333mg gastro-resistant tablets	774403002	Acamprosate
+0410010A0BBAAAA	762911000001103	Campral EC 333mg tablets (Merck Serono Ltd)	774403002	Acamprosate
+0410010A0BBAAAA	1915911000001104	Campral EC 333mg tablets (Merck Serono Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	14035311000001106	Acamprosate 333mg gastro-resistant tablets (Sigma Pharmaceuticals Plc)	774403002	Acamprosate
+0410010A0AAAAAA	32868611000001107	Acamprosate 333mg gastro-resistant tablets (Sigma Pharmaceuticals Plc)	774403002	Acamprosate
+0410010A0AAAAAA	14035611000001101	Acamprosate 333mg gastro-resistant tablets (Sigma Pharmaceuticals Plc)	774403002	Acamprosate
+0410010A0AAAAAA	32418111000001108	Acamprosate 333mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	32418211000001102	Acamprosate 333mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	32501411000001102	Acamprosate 333mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	32501511000001103	Acamprosate 333mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	33549911000001108	Acamprosate 333mg gastro-resistant tablets (Viatris UK Healthcare Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	33550011000001104	Acamprosate 333mg gastro-resistant tablets (Viatris UK Healthcare Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	37026911000001105	Acamprosate 333mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	37027011000001109	Acamprosate 333mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	37102611000001100	Acamprosate 333mg gastro-resistant tablets (DE Pharmaceuticals)	774403002	Acamprosate
+0410010A0AAAAAA	37102711000001109	Acamprosate 333mg gastro-resistant tablets (DE Pharmaceuticals)	774403002	Acamprosate
+0410010A0AAAAAA	38243011000001100	Acamprosate 333mg gastro-resistant tablets (NorthStar Healthcare Unlimited Company)	774403002	Acamprosate
+0410010A0AAAAAA	38243111000001104	Acamprosate 333mg gastro-resistant tablets (NorthStar Healthcare Unlimited Company)	774403002	Acamprosate
+0410010A0AAAAAA	38760011000001106	Acamprosate 333mg gastro-resistant tablets (Medihealth (Northern) Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	38760111000001107	Acamprosate 333mg gastro-resistant tablets (Medihealth (Northern) Ltd)	774403002	Acamprosate
+0410010A0AAAAAA	42483911000001103	Acamprosate 333mg gastro-resistant tablets (AAH Hillcross)	774403002	Acamprosate
+0410010A0AAAAAA	42484011000001100	Acamprosate 333mg gastro-resistant tablets (AAH Hillcross)	774403002	Acamprosate
+0410010A0AAAAAA	45619311000001104	Acamprosate 333mg gastro-resistant tablets (Somex Pharma)	774403002	Acamprosate
+0410010A0AAAAAA	45619511000001105	Acamprosate 333mg gastro-resistant tablets (Somex Pharma)	774403002	Acamprosate
+0410010B0AAAAAA	42270311000001102	Disulfiram 200mg tablets	775664007	Disulfiram
+0410010B0AAAAAA	968311000001105	Disulfiram 200mg tablets	775664007	Disulfiram
+0410010B0BBAAAA	466211000001101	Antabuse 200mg tablets (Actavis UK Ltd)	775664007	Disulfiram
+0410010B0BBAAAA	2575811000001107	Antabuse 200mg tablets (Actavis UK Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	30333611000001102	Disulfiram 200mg tablets (A A H Pharmaceuticals Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	30333711000001106	Disulfiram 200mg tablets (A A H Pharmaceuticals Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	30377111000001104	Disulfiram 200mg tablets (Teva UK Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	30377211000001105	Disulfiram 200mg tablets (Teva UK Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	30800711000001108	Disulfiram 200mg tablets (Alliance Healthcare (Distribution) Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	30800811000001100	Disulfiram 200mg tablets (Alliance Healthcare (Distribution) Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	37299811000001105	Disulfiram 200mg tablets (DE Pharmaceuticals)	775664007	Disulfiram
+0410010B0AAAAAA	37299911000001100	Disulfiram 200mg tablets (DE Pharmaceuticals)	775664007	Disulfiram
+0410010B0AAAAAA	38618311000001102	Disulfiram 200mg tablets (Brown & Burk UK Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	38618411000001109	Disulfiram 200mg tablets (Brown & Burk UK Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	38874511000001101	Disulfiram 200mg tablets (Medihealth (Northern) Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	38874611000001102	Disulfiram 200mg tablets (Medihealth (Northern) Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	44232911000001107	Disulfiram 200mg tablets (Accord-UK Ltd)	775664007	Disulfiram
+0410010B0AAAAAA	44233211000001109	Disulfiram 200mg tablets (Accord-UK Ltd)	775664007	Disulfiram
+0410010D0AAAAAA	22403411000001107	Nalmefene 18mg tablets	776860007	Nalmefene
+0410010D0AAAAAA	22367611000001107	Nalmefene 18mg tablets	776860007	Nalmefene
+0410010D0AAAAAA	22367711000001103	Nalmefene 18mg tablets	776860007	Nalmefene
+0410010D0BBAAAA	22368011000001104	Selincro 18mg tablets (Lundbeck Ltd)	776860007	Nalmefene
+0410010D0BBAAAA	22368411000001108	Selincro 18mg tablets (Lundbeck Ltd)	776860007	Nalmefene
+0410010D0BBAAAA	22368511000001107	Selincro 18mg tablets (Lundbeck Ltd)	776860007	Nalmefene
+0410010B0AAAEAE	42270511000001108	Disulfiram 500mg tablets	775664007	Disulfiram
+0410010B0AAAEAE	34029911000001105	Disulfiram 500mg tablets	775664007	Disulfiram
+0410010B0BCABAE	34030011000001100	Esperal 500mg tablets (Imported (France))	775664007	Disulfiram
+0410010B0BCABAE	34030111000001104	Esperal 500mg tablets (Imported (France))	775664007	Disulfiram
