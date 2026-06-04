@@ -1,0 +1,5 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+12105941000033111	42270511000001108	Disulfiram 500mg tablets	Disulfiram 500mg tablets	Tablet/ Oral Tablet	Oral	Disulfiram	500.000mg	04100100	11
+4341000033115	42267511000001104	Acamprosate 333mg gastro-resistant tablets	Acamprosate 333mg gastro-resistant tablets	Gastro-resistant tablet	Oral	Acamprosate calcium	333.000mg	04100100	996344
+465541000033117	42270311000001102	Disulfiram 200mg tablets	Disulfiram 200mg tablets	Tablet/ Oral Tablet	Oral	Disulfiram	200.000mg	04100100	305434
+8322841000033117	22403411000001107	Nalmefene 18mg tablets	Nalmefene 18mg tablets	Tablet/ Oral Tablet	Oral	Nalmefene hydrochloride	18.000mg	04100100	6028
