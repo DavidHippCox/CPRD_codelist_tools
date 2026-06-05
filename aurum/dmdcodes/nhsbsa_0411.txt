@@ -925,3 +925,316 @@ BNF Code	dmdid	DM+D: Product Description	VTM	VTM Name
 0411000G0AAAJAJ	35199511000001106	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	776669005	Memantine
 0411000G0BFACAJ	35199611000001105	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd)	776669005	Memantine
 0411000G0BFACAJ	35199711000001101	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd)	776669005	Memantine
+	5334611000001109	Aricept 5mg tablets (Waymade Healthcare Plc)	775685007	Donepezil
+	5334911000001103	Aricept 5mg tablets (Waymade Healthcare Plc)	775685007	Donepezil
+	5451911000001106	Donepezil 5mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	5452111000001103	Donepezil 5mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	5522411000001104	Aricept 5mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	5522611000001101	Aricept 5mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	13830111000001102	Aricept 5mg tablets (DE Pharmaceuticals)	775685007	Donepezil
+	13830211000001108	Aricept 5mg tablets (DE Pharmaceuticals)	775685007	Donepezil
+	14196611000001107	Aricept 5mg tablets (Sigma Pharmaceuticals Plc)	775685007	Donepezil
+	14196711000001103	Aricept 5mg tablets (Sigma Pharmaceuticals Plc)	775685007	Donepezil
+	16138911000001104	Aricept 5mg tablets (Lexon (UK) Ltd)	775685007	Donepezil
+	16139011000001108	Aricept 5mg tablets (Lexon (UK) Ltd)	775685007	Donepezil
+	16266411000001104	Aricept 5mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	16266711000001105	Aricept 5mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	17589711000001105	Aricept 5mg tablets (Necessity Supplies Ltd)	775685007	Donepezil
+	17590011000001104	Aricept 5mg tablets (Necessity Supplies Ltd)	775685007	Donepezil
+	19739411000001102	Donepezil 5mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	19739511000001103	Donepezil 5mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	5335111000001102	Aricept 10mg tablets (Waymade Healthcare Plc)	775685007	Donepezil
+	5335211000001108	Aricept 10mg tablets (Waymade Healthcare Plc)	775685007	Donepezil
+	5450811000001109	Donepezil 10mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	5450911000001104	Donepezil 10mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	5521511000001108	Aricept 10mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	5521811000001106	Aricept 10mg tablets (Dowelhurst Ltd)	775685007	Donepezil
+	13830311000001100	Aricept 10mg tablets (DE Pharmaceuticals)	775685007	Donepezil
+	13830411000001107	Aricept 10mg tablets (DE Pharmaceuticals)	775685007	Donepezil
+	14196311000001102	Aricept 10mg tablets (Sigma Pharmaceuticals Plc)	775685007	Donepezil
+	14196511000001108	Aricept 10mg tablets (Sigma Pharmaceuticals Plc)	775685007	Donepezil
+	16139111000001109	Aricept 10mg tablets (Lexon (UK) Ltd)	775685007	Donepezil
+	16139211000001103	Aricept 10mg tablets (Lexon (UK) Ltd)	775685007	Donepezil
+	16266911000001107	Aricept 10mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	16267011000001106	Aricept 10mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	18871411000001104	Aricept 10mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	16541011000001104	Aricept 10mg tablets (Stephar (U.K.) Ltd)	775685007	Donepezil
+	16541311000001101	Aricept 10mg tablets (Stephar (U.K.) Ltd)	775685007	Donepezil
+	17589311000001106	Aricept 10mg tablets (Necessity Supplies Ltd)	775685007	Donepezil
+	17589511000001100	Aricept 10mg tablets (Necessity Supplies Ltd)	775685007	Donepezil
+	19739611000001104	Donepezil 10mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	19739711000001108	Donepezil 10mg tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	10509011000001104	Ebixa 10mg tablets (Dowelhurst Ltd)	776669005	Memantine
+	10509111000001103	Ebixa 10mg tablets (Dowelhurst Ltd)	776669005	Memantine
+	10535611000001102	Ebixa 10mg tablets (Waymade Healthcare Plc)	776669005	Memantine
+	10981811000001102	Ebixa 10mg tablets (Waymade Healthcare Plc)	776669005	Memantine
+	10535711000001106	Ebixa 10mg tablets (Waymade Healthcare Plc)	776669005	Memantine
+	13868911000001107	Ebixa 10mg tablets (DE Pharmaceuticals)	776669005	Memantine
+	13869011000001103	Ebixa 10mg tablets (DE Pharmaceuticals)	776669005	Memantine
+	14215211000001101	Ebixa 10mg tablets (Sigma Pharmaceuticals Plc)	776669005	Memantine
+	14215411000001102	Ebixa 10mg tablets (Sigma Pharmaceuticals Plc)	776669005	Memantine
+	16566811000001109	Ebixa 10mg tablets (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	16566911000001104	Ebixa 10mg tablets (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	17590711000001102	Reminyl 4mg/ml oral solution (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	17590911000001100	Reminyl 4mg/ml oral solution (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	18609611000001103	Reminyl 4mg/ml oral solution (DE Pharmaceuticals)	776072002	Galantamine
+	18609711000001107	Reminyl 4mg/ml oral solution (DE Pharmaceuticals)	776072002	Galantamine
+	18632111000001106	Reminyl 4mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	18632211000001100	Reminyl 4mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	23932111000001107	Reminyl 4mg/ml oral solution (Waymade Healthcare Plc)	776072002	Galantamine
+	23932211000001101	Reminyl 4mg/ml oral solution (Waymade Healthcare Plc)	776072002	Galantamine
+	36823411000001107	Reminyl 4mg/ml oral solution (Originalis B.V.)	776072002	Galantamine
+	36823511000001106	Reminyl 4mg/ml oral solution (Originalis B.V.)	776072002	Galantamine
+	37395911000001109	Reminyl 4mg/ml oral solution (CST Pharma Ltd)	776072002	Galantamine
+	37396111000001100	Reminyl 4mg/ml oral solution (CST Pharma Ltd)	776072002	Galantamine
+	37508411000001106	Galantamine 20mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	37508511000001105	Galantamine 20mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	37709311000001106	Galantamine 20mg/5ml oral solution sugar free (CST Pharma Ltd)	776072002	Galantamine
+	37709411000001104	Galantamine 20mg/5ml oral solution sugar free (CST Pharma Ltd)	776072002	Galantamine
+	5363611000001104	Exelon 1.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	5363711000001108	Exelon 1.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	19832711000001104	Exelon 1.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10512811000001103	Exelon 1.5mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10513011000001100	Exelon 1.5mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10849911000001107	Rivastigmine 1.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10850011000001103	Rivastigmine 1.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	13874311000001105	Exelon 1.5mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	13874411000001103	Exelon 1.5mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	14229911000001102	Exelon 1.5mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	14230011000001107	Exelon 1.5mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	16574311000001102	Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	17504111000001109	Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	16574411000001109	Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	18057211000001106	Exelon 1.5mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18057311000001103	Exelon 1.5mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18258911000001105	Exelon 1.5mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18259011000001101	Exelon 1.5mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18293311000001105	Exelon 1.5mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	18293411000001103	Exelon 1.5mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	5363911000001105	Exelon 3mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	5364011000001108	Exelon 3mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	19832811000001107	Exelon 3mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10513211000001105	Exelon 3mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10513411000001109	Exelon 3mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10849711000001105	Rivastigmine 3mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10849811000001102	Rivastigmine 3mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	13874511000001104	Exelon 3mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	13874611000001100	Exelon 3mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	14230111000001108	Exelon 3mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	14230211000001102	Exelon 3mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	16574511000001108	Exelon 3mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	16574611000001107	Exelon 3mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	18057411000001105	Exelon 3mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18057511000001109	Exelon 3mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18259311000001103	Exelon 3mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18259411000001105	Exelon 3mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18293511000001104	Exelon 3mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	18293611000001100	Exelon 3mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	5406911000001105	Reminyl 4mg tablets (Waymade Healthcare Plc)	776072002	Galantamine
+	5407011000001109	Reminyl 4mg tablets (Waymade Healthcare Plc)	776072002	Galantamine
+	5578711000001109	Reminyl 4mg tablets (Dowelhurst Ltd)	776072002	Galantamine
+	5579011000001102	Reminyl 4mg tablets (Dowelhurst Ltd)	776072002	Galantamine
+	5579111000001101	Reminyl 8mg tablets (Dowelhurst Ltd)	776072002	Galantamine
+	5579311000001104	Reminyl 8mg tablets (Dowelhurst Ltd)	776072002	Galantamine
+	10527211000001105	Reminyl 8mg tablets (Waymade Healthcare Plc)	776072002	Galantamine
+	10527311000001102	Reminyl 8mg tablets (Waymade Healthcare Plc)	776072002	Galantamine
+	13956011000001107	Reminyl 8mg tablets (DE Pharmaceuticals)	776072002	Galantamine
+	13956211000001102	Reminyl 8mg tablets (DE Pharmaceuticals)	776072002	Galantamine
+	14621311000001100	Reminyl 8mg tablets (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	14621411000001107	Reminyl 8mg tablets (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	18180411000001109	Reminyl 8mg tablets (Necessity Supplies Ltd)	776072002	Galantamine
+	18180611000001107	Reminyl 8mg tablets (Necessity Supplies Ltd)	776072002	Galantamine
+	5407111000001105	Reminyl 12mg tablets (Waymade Healthcare Plc)	776072002	Galantamine
+	5407311000001107	Reminyl 12mg tablets (Waymade Healthcare Plc)	776072002	Galantamine
+	5578311000001105	Reminyl 12mg tablets (Dowelhurst Ltd)	776072002	Galantamine
+	5578411000001103	Reminyl 12mg tablets (Dowelhurst Ltd)	776072002	Galantamine
+	13956311000001105	Reminyl 12mg tablets (DE Pharmaceuticals)	776072002	Galantamine
+	13956411000001103	Reminyl 12mg tablets (DE Pharmaceuticals)	776072002	Galantamine
+	14620811000001101	Reminyl 12mg tablets (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	14621011000001103	Reminyl 12mg tablets (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	17435111000001109	Reminyl 12mg tablets (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	17435211000001103	Reminyl 12mg tablets (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	18180111000001104	Reminyl 12mg tablets (Necessity Supplies Ltd)	776072002	Galantamine
+	18180211000001105	Reminyl 12mg tablets (Necessity Supplies Ltd)	776072002	Galantamine
+	5364311000001106	Exelon 4.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	5364611000001101	Exelon 4.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10513611000001107	Exelon 4.5mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10513811000001106	Exelon 4.5mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10849511000001100	Rivastigmine 4.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10849611000001101	Rivastigmine 4.5mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	13874711000001109	Exelon 4.5mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	13874811000001101	Exelon 4.5mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	14230311000001105	Exelon 4.5mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	14230411000001103	Exelon 4.5mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	17504211000001103	Exelon 4.5mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	17504311000001106	Exelon 4.5mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	18057611000001108	Exelon 4.5mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18057711000001104	Exelon 4.5mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18259111000001100	Exelon 4.5mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18259211000001106	Exelon 4.5mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18293811000001101	Exelon 4.5mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	18293911000001106	Exelon 4.5mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	5364711000001105	Exelon 6mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	5364811000001102	Exelon 6mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10514011000001103	Exelon 6mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10514111000001102	Exelon 6mg capsules (Dowelhurst Ltd)	777456009	Rivastigmine
+	10849111000001109	Rivastigmine 6mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	10849311000001106	Rivastigmine 6mg capsules (Waymade Healthcare Plc)	777456009	Rivastigmine
+	13874911000001106	Exelon 6mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	13875011000001106	Exelon 6mg capsules (DE Pharmaceuticals)	777456009	Rivastigmine
+	14230511000001104	Exelon 6mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	14230611000001100	Exelon 6mg capsules (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	16574711000001103	Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	18157211000001102	Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	16574811000001106	Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	18057811000001107	Exelon 6mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18057911000001102	Exelon 6mg capsules (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18259511000001109	Exelon 6mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18259611000001108	Exelon 6mg capsules (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18294011000001109	Exelon 6mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	18294111000001105	Exelon 6mg capsules (Stephar (U.K.) Ltd)	777456009	Rivastigmine
+	5260611000001101	Exelon 2mg/ml oral solution (Waymade Healthcare Plc)	777456009	Rivastigmine
+	5260811000001102	Exelon 2mg/ml oral solution (Waymade Healthcare Plc)	777456009	Rivastigmine
+	13874111000001108	Exelon 2mg/ml oral solution (DE Pharmaceuticals)	777456009	Rivastigmine
+	13874211000001102	Exelon 2mg/ml oral solution (DE Pharmaceuticals)	777456009	Rivastigmine
+	16173211000001102	Exelon 2mg/ml oral solution (Lexon (UK) Ltd)	777456009	Rivastigmine
+	16173311000001105	Exelon 2mg/ml oral solution (Lexon (UK) Ltd)	777456009	Rivastigmine
+	16574911000001101	Exelon 2mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	16575011000001101	Exelon 2mg/ml oral solution (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	17899711000001108	Exelon 2mg/ml oral solution (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	17899811000001100	Exelon 2mg/ml oral solution (Sigma Pharmaceuticals Plc)	777456009	Rivastigmine
+	10509511000001107	Ebixa 5mg/0.5ml pump actuation oral solution (Dowelhurst Ltd)	776669005	Memantine
+	10509611000001106	Ebixa 5mg/0.5ml pump actuation oral solution (Dowelhurst Ltd)	776669005	Memantine
+	18240311000001105	Ebixa 5mg/0.5ml pump actuation oral solution (Dowelhurst Ltd)	776669005	Memantine
+	16169811000001106	Ebixa 5mg/0.5ml pump actuation oral solution (Lexon (UK) Ltd)	776669005	Memantine
+	16169911000001101	Ebixa 5mg/0.5ml pump actuation oral solution (Lexon (UK) Ltd)	776669005	Memantine
+	18240411000001103	Ebixa 5mg/0.5ml pump actuation oral solution (Lexon (UK) Ltd)	776669005	Memantine
+	16566611000001105	Ebixa 5mg/0.5ml pump actuation oral solution (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	16566711000001101	Ebixa 5mg/0.5ml pump actuation oral solution (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	18240511000001104	Ebixa 5mg/0.5ml pump actuation oral solution (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	12199711000001100	Reminyl XL 16mg capsules (Waymade Healthcare Plc)	776072002	Galantamine
+	12199811000001108	Reminyl XL 16mg capsules (Waymade Healthcare Plc)	776072002	Galantamine
+	13957011000001105	Reminyl XL 16mg capsules (DE Pharmaceuticals)	776072002	Galantamine
+	13957211000001100	Reminyl XL 16mg capsules (DE Pharmaceuticals)	776072002	Galantamine
+	14621511000001106	Reminyl XL 16mg capsules (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	14621611000001105	Reminyl XL 16mg capsules (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	16236311000001101	Reminyl XL 16mg capsules (Lexon (UK) Ltd)	776072002	Galantamine
+	16236411000001108	Reminyl XL 16mg capsules (Lexon (UK) Ltd)	776072002	Galantamine
+	18178011000001105	Reminyl XL 16mg capsules (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	18178111000001106	Reminyl XL 16mg capsules (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	18180711000001103	Reminyl XL 16mg capsules (Necessity Supplies Ltd)	776072002	Galantamine
+	18180811000001106	Reminyl XL 16mg capsules (Necessity Supplies Ltd)	776072002	Galantamine
+	42776311000001105	Reminyl XL 16mg capsules (Abacus Medicine Ltd)	776072002	Galantamine
+	42776411000001103	Reminyl XL 16mg capsules (Abacus Medicine Ltd)	776072002	Galantamine
+	12199511000001105	Reminyl XL 8mg capsules (Waymade Healthcare Plc)	776072002	Galantamine
+	12199611000001109	Reminyl XL 8mg capsules (Waymade Healthcare Plc)	776072002	Galantamine
+	13956711000001109	Reminyl XL 8mg capsules (DE Pharmaceuticals)	776072002	Galantamine
+	13956811000001101	Reminyl XL 8mg capsules (DE Pharmaceuticals)	776072002	Galantamine
+	14622111000001107	Reminyl XL 8mg capsules (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	14622211000001101	Reminyl XL 8mg capsules (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	16236511000001107	Reminyl XL 8mg capsules (Lexon (UK) Ltd)	776072002	Galantamine
+	16236611000001106	Reminyl XL 8mg capsules (Lexon (UK) Ltd)	776072002	Galantamine
+	17434911000001108	Reminyl XL 8mg capsules (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	17435011000001108	Reminyl XL 8mg capsules (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	18181411000001100	Reminyl XL 8mg capsules (Necessity Supplies Ltd)	776072002	Galantamine
+	18181511000001101	Reminyl XL 8mg capsules (Necessity Supplies Ltd)	776072002	Galantamine
+	12199911000001103	Reminyl XL 24mg capsules (Waymade Healthcare Plc)	776072002	Galantamine
+	12200011000001105	Reminyl XL 24mg capsules (Waymade Healthcare Plc)	776072002	Galantamine
+	13957311000001108	Reminyl XL 24mg capsules (DE Pharmaceuticals)	776072002	Galantamine
+	13957411000001101	Reminyl XL 24mg capsules (DE Pharmaceuticals)	776072002	Galantamine
+	14621911000001104	Reminyl XL 24mg capsules (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	14622011000001106	Reminyl XL 24mg capsules (Sigma Pharmaceuticals Plc)	776072002	Galantamine
+	16236711000001102	Reminyl XL 24mg capsules (Lexon (UK) Ltd)	776072002	Galantamine
+	16236811000001105	Reminyl XL 24mg capsules (Lexon (UK) Ltd)	776072002	Galantamine
+	18178411000001101	Reminyl XL 24mg capsules (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	18178511000001102	Reminyl XL 24mg capsules (Mawdsley-Brooks & Company Ltd)	776072002	Galantamine
+	18181011000001109	Reminyl XL 24mg capsules (Necessity Supplies Ltd)	776072002	Galantamine
+	18181211000001104	Reminyl XL 24mg capsules (Necessity Supplies Ltd)	776072002	Galantamine
+	36823611000001105	Reminyl XL 24mg capsules (Abacus Medicine Ltd)	776072002	Galantamine
+	36823711000001101	Reminyl XL 24mg capsules (Abacus Medicine Ltd)	776072002	Galantamine
+	17492711000001109	Aricept Evess 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	17492811000001101	Aricept Evess 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd)	775685007	Donepezil
+	17532911000001108	Aricept Evess 10mg orodispersible tablets (Sigma Pharmaceuticals Plc)	775685007	Donepezil
+	17533011000001100	Aricept Evess 10mg orodispersible tablets (Sigma Pharmaceuticals Plc)	775685007	Donepezil
+	19539111000001108	Aricept Evess 10mg orodispersible tablets (DE Pharmaceuticals)	775685007	Donepezil
+	19539211000001102	Aricept Evess 10mg orodispersible tablets (DE Pharmaceuticals)	775685007	Donepezil
+	19865711000001100	Aricept Evess 10mg orodispersible tablets (Lexon (UK) Ltd)	775685007	Donepezil
+	19865911000001103	Aricept Evess 10mg orodispersible tablets (Lexon (UK) Ltd)	775685007	Donepezil
+	30268611000001105	Aricept Evess 10mg orodispersible tablets (Waymade Healthcare Plc)	775685007	Donepezil
+	30268711000001101	Aricept Evess 10mg orodispersible tablets (Waymade Healthcare Plc)	775685007	Donepezil
+	17504411000001104	Exelon 4.6mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	17504511000001100	Exelon 4.6mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	17637311000001101	Exelon 4.6mg/24hours transdermal patches (Waymade Healthcare Plc)	777456009	Rivastigmine
+	17637411000001108	Exelon 4.6mg/24hours transdermal patches (Waymade Healthcare Plc)	777456009	Rivastigmine
+	18259711000001104	Exelon 4.6mg/24hours transdermal patches (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18259811000001107	Exelon 4.6mg/24hours transdermal patches (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18578111000001100	Exelon 4.6mg/24hours transdermal patches (DE Pharmaceuticals)	777456009	Rivastigmine
+	18578211000001106	Exelon 4.6mg/24hours transdermal patches (DE Pharmaceuticals)	777456009	Rivastigmine
+	36799711000001107	Exelon 4.6mg/24hours transdermal patches (Originalis B.V.)	777456009	Rivastigmine
+	36799811000001104	Exelon 4.6mg/24hours transdermal patches (Originalis B.V.)	777456009	Rivastigmine
+	37436511000001105	Exelon 4.6mg/24hours transdermal patches (CST Pharma Ltd)	777456009	Rivastigmine
+	37436611000001109	Exelon 4.6mg/24hours transdermal patches (CST Pharma Ltd)	777456009	Rivastigmine
+	17504611000001101	Exelon 9.5mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	17504711000001105	Exelon 9.5mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd)	777456009	Rivastigmine
+	17637511000001107	Exelon 9.5mg/24hours transdermal patches (Waymade Healthcare Plc)	777456009	Rivastigmine
+	17637611000001106	Exelon 9.5mg/24hours transdermal patches (Waymade Healthcare Plc)	777456009	Rivastigmine
+	18058011000001100	Exelon 9.5mg/24hours transdermal patches (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18058111000001104	Exelon 9.5mg/24hours transdermal patches (Lexon (UK) Ltd)	777456009	Rivastigmine
+	18259911000001102	Exelon 9.5mg/24hours transdermal patches (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18260011000001100	Exelon 9.5mg/24hours transdermal patches (Necessity Supplies Ltd)	777456009	Rivastigmine
+	18578311000001103	Exelon 9.5mg/24hours transdermal patches (DE Pharmaceuticals)	777456009	Rivastigmine
+	18578411000001105	Exelon 9.5mg/24hours transdermal patches (DE Pharmaceuticals)	777456009	Rivastigmine
+	36799511000001102	Exelon 9.5mg/24hours transdermal patches (Abacus Medicine Ltd)	777456009	Rivastigmine
+	36799611000001103	Exelon 9.5mg/24hours transdermal patches (Abacus Medicine Ltd)	777456009	Rivastigmine
+	37436711000001100	Exelon 9.5mg/24hours transdermal patches (CST Pharma Ltd)	777456009	Rivastigmine
+	37436811000001108	Exelon 9.5mg/24hours transdermal patches (CST Pharma Ltd)	777456009	Rivastigmine
+	16554211000001108	Memantine 20mg tablets (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	16554311000001100	Memantine 20mg tablets (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	19740011000001104	Ebixa 20mg tablets (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	19740111000001103	Ebixa 20mg tablets (Mawdsley-Brooks & Company Ltd)	776669005	Memantine
+	42037511000001101	Memantine 5mg tablets	776669005	Memantine
+	14064211000001108	Memantine 5mg tablets	776669005	Memantine
+	14064311000001100	Ebixa 5mg tablets (Lundbeck Ltd)	776669005	Memantine
+	14064411000001107	Ebixa 5mg tablets (Lundbeck Ltd)	776669005	Memantine
+	32651711000001106	Nemdatine 5mg tablets (Actavis UK Ltd)	776669005	Memantine
+	32651811000001103	Nemdatine 5mg tablets (Actavis UK Ltd)	776669005	Memantine
+	34168711000001100	Memantine 5mg tablets (Lupin Healthcare (UK) Ltd)	776669005	Memantine
+	34168811000001108	Memantine 5mg tablets (Lupin Healthcare (UK) Ltd)	776669005	Memantine
+	36239711000001105	Memantine 5mg tablets (A A H Pharmaceuticals Ltd)	776669005	Memantine
+	36239811000001102	Memantine 5mg tablets (A A H Pharmaceuticals Ltd)	776669005	Memantine
+	36900611000001103	Memantine 5mg tablets (Torrent Pharma (UK) Ltd)	776669005	Memantine
+	36900711000001107	Memantine 5mg tablets (Torrent Pharma (UK) Ltd)	776669005	Memantine
+	39038911000001103	Memantine 5mg tablets (Medihealth (Northern) Ltd)	776669005	Memantine
+	39039111000001108	Memantine 5mg tablets (Medihealth (Northern) Ltd)	776669005	Memantine
+	40374911000001106	Memantine 5mg tablets (DE Pharmaceuticals)	776669005	Memantine
+	40375011000001106	Memantine 5mg tablets (DE Pharmaceuticals)	776669005	Memantine
+	14159711000001100	Memantine 15mg tablets	776669005	Memantine
+	14064711000001101	Memantine 15mg tablets	776669005	Memantine
+	14064811000001109	Ebixa 15mg tablets (Lundbeck Ltd)	776669005	Memantine
+	14064911000001104	Ebixa 15mg tablets (Lundbeck Ltd)	776669005	Memantine
+	32652011000001101	Nemdatine 15mg tablets (Actavis UK Ltd)	776669005	Memantine
+	32652111000001100	Nemdatine 15mg tablets (Actavis UK Ltd)	776669005	Memantine
+	34169411000001103	Memantine 15mg tablets (Lupin Healthcare (UK) Ltd)	776669005	Memantine
+	34169511000001104	Memantine 15mg tablets (Lupin Healthcare (UK) Ltd)	776669005	Memantine
+	36239911000001107	Memantine 15mg tablets (A A H Pharmaceuticals Ltd)	776669005	Memantine
+	36240011000001101	Memantine 15mg tablets (A A H Pharmaceuticals Ltd)	776669005	Memantine
+	36900911000001109	Memantine 15mg tablets (Torrent Pharma (UK) Ltd)	776669005	Memantine
+	36901011000001101	Memantine 15mg tablets (Torrent Pharma (UK) Ltd)	776669005	Memantine
+	39039011000001107	Memantine 15mg tablets (Medihealth (Northern) Ltd)	776669005	Memantine
+	39039211000001102	Memantine 15mg tablets (Medihealth (Northern) Ltd)	776669005	Memantine
+	40375211000001101	Memantine 15mg tablets (DE Pharmaceuticals)	776669005	Memantine
+	40375311000001109	Memantine 15mg tablets (DE Pharmaceuticals)	776669005	Memantine
+	39025911000001107	Exelon 13.3mg/24hours transdermal patches (CST Pharma Ltd)	777456009	Rivastigmine
+	39026111000001103	Exelon 13.3mg/24hours transdermal patches (CST Pharma Ltd)	777456009	Rivastigmine
+	10695211000001103	Memantine 5mg soluble tablets sugar free	776669005	Memantine
+	34534011000001105	Memantine 5mg soluble tablets sugar free	776669005	Memantine
+	34534111000001106	Alzhok 5mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	776669005	Memantine
+	34534211000001100	Alzhok 5mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	776669005	Memantine
+	10695011000001108	Memantine 15mg soluble tablets sugar free	776669005	Memantine
+	34534311000001108	Memantine 15mg soluble tablets sugar free	776669005	Memantine
+	34534411000001101	Alzhok 15mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	776669005	Memantine
+	34534511000001102	Alzhok 15mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	776669005	Memantine
+	35205011000001100	Memantine 15mg orodispersible tablets sugar free	776669005	Memantine
+	35199011000001103	Memantine 15mg orodispersible tablets sugar free	776669005	Memantine
+	35199111000001102	Valios 15mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	776669005	Memantine
+	35199311000001100	Valios 15mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	776669005	Memantine

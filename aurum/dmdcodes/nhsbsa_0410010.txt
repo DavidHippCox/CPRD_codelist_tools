@@ -55,3 +55,28 @@ BNF Code	dmdid	DM+D: Product Description	VTM	VTM Name
 0410010B0AAAEAE	34029911000001105	Disulfiram 500mg tablets	775664007	Disulfiram
 0410010B0BCABAE	34030011000001100	Esperal 500mg tablets (Imported (France))	775664007	Disulfiram
 0410010B0BCABAE	34030111000001104	Esperal 500mg tablets (Imported (France))	775664007	Disulfiram
+	5342711000001109	Campral EC 333mg tablets (Waymade Healthcare Plc)	774403002	Acamprosate
+	30043811000001103	Campral EC 333mg tablets (Waymade Healthcare Plc)	774403002	Acamprosate
+	5343111000001102	Campral EC 333mg tablets (Waymade Healthcare Plc)	774403002	Acamprosate
+	5454211000001100	Acamprosate 333mg gastro-resistant tablets (Dowelhurst Ltd)	774403002	Acamprosate
+	5454411000001101	Acamprosate 333mg gastro-resistant tablets (Dowelhurst Ltd)	774403002	Acamprosate
+	5529811000001107	Campral EC 333mg tablets (Dowelhurst Ltd)	774403002	Acamprosate
+	5530011000001107	Campral EC 333mg tablets (Dowelhurst Ltd)	774403002	Acamprosate
+	13102611000001105	Campral EC 333mg tablets (Dowelhurst Ltd)	774403002	Acamprosate
+	12197511000001103	Acamprosate 333mg gastro-resistant tablets (Waymade Healthcare Plc)	774403002	Acamprosate
+	12197611000001104	Acamprosate 333mg gastro-resistant tablets (Waymade Healthcare Plc)	774403002	Acamprosate
+	13840011000001104	Campral EC 333mg tablets (DE Pharmaceuticals)	774403002	Acamprosate
+	40386711000001108	Campral EC 333mg tablets (DE Pharmaceuticals)	774403002	Acamprosate
+	13840111000001103	Campral EC 333mg tablets (DE Pharmaceuticals)	774403002	Acamprosate
+	14308111000001105	Campral EC 333mg tablets (Sigma Pharmaceuticals Plc)	774403002	Acamprosate
+	14308411000001100	Campral EC 333mg tablets (Sigma Pharmaceuticals Plc)	774403002	Acamprosate
+	16352811000001100	Campral EC 333mg tablets (Mawdsley-Brooks & Company Ltd)	774403002	Acamprosate
+	16352911000001105	Campral EC 333mg tablets (Mawdsley-Brooks & Company Ltd)	774403002	Acamprosate
+	42833311000001101	Acamprosate 333mg gastro-resistant tablets (Necessity Supplies Ltd)	774403002	Acamprosate
+	42833411000001108	Acamprosate 333mg gastro-resistant tablets (Necessity Supplies Ltd)	774403002	Acamprosate
+	43173911000001102	Campral EC 333mg tablets (Necessity Supplies Ltd)	774403002	Acamprosate
+	43174011000001104	Campral EC 333mg tablets (Necessity Supplies Ltd)	774403002	Acamprosate
+	42270411000001109	Disulfiram 250mg tablets	775664007	Disulfiram
+	25370411000001101	Disulfiram 250mg tablets	775664007	Disulfiram
+	25370311000001108	Antabuse 250mg tablets (Imported (United States))	775664007	Disulfiram
+	25370511000001102	Antabuse 250mg tablets (Imported (United States))	775664007	Disulfiram

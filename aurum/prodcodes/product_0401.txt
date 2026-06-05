@@ -1,122 +1,195 @@
-ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues	drugtypes
-1025741000033113	42132611000001109	Oxazepam 10mg tablets	Oxazepam 10mg tablets	Tablet/ Oral Tablet	Oral	Oxazepam	10.000mg	04010200	1153315	anxiety_and_hypnotics
-1025841000033115	42132711000001100	Oxazepam 15mg tablets	Oxazepam 15mg tablets	Tablet/ Oral Tablet	Oral	Oxazepam	15.000mg	04010200	539965	anxiety_and_hypnotics
-10674441000033115	8357711000001101	Chloral hydrate 500mg/5ml oral solution	Chloral hydrate 500mg/5ml oral solution	Oral solution	Oral	Chloral hydrate	100.000mg/1.000ml	04010100	22004	anxiety_and_hypnotics
-11275941000033119	12141711000001106	Oxazepam 10mg/5ml oral suspension	Oxazepam 10mg/5ml oral suspension	Oral suspension	Oral	Oxazepam	2.000mg/1.000ml	04010200	34	anxiety_and_hypnotics
-12503341000033119	34697811000001107	Lorazepam 1mg/ml oral solution sugar free	Lorazepam 1mg/ml oral solution sugar free	Oral solution	Oral	Lorazepam	1.000mg/1.000ml	04010200	18341	anxiety_and_hypnotics
-12608441000033113	30104111000001109	Melatonin 3mg modified-release tablets	Melatonin 3mg modified-release tablets	Modified-release tablet	Oral	Melatonin	3.000mg	04010100	252	anxiety_and_hypnotics
-12679241000033111	8304411000001106	Buspirone 5mg/5ml oral solution	Buspirone 5mg/5ml oral solution	Oral solution	Oral	Buspirone hydrochloride	1.000mg/1.000ml	04010200	349	anxiety_and_hypnotics
-12687741000033118	28772811000001108	Melatonin 2mg modified-release capsules	Melatonin 2mg modified-release capsules	Modified-release capsule	Oral	Melatonin	2.000mg	04010100	1231	anxiety_and_hypnotics
-13000041000033115	36811611000001101	Melatonin 1mg modified-release tablets	Melatonin 1mg modified-release tablets	Modified-release tablet	Oral	Melatonin	1.000mg	04010100	35198	anxiety_and_hypnotics
-13000141000033116	36811911000001107	Melatonin 5mg modified-release tablets	Melatonin 5mg modified-release tablets	Modified-release tablet	Oral	Melatonin	5.000mg	04010100	16723	anxiety_and_hypnotics
-13058141000033113	42131711000001107	Lorazepam 500microgram tablets	Lorazepam 500microgram tablets	Tablet/ Oral Tablet	Oral	Lorazepam	500.000microgram	04010200	396791	anxiety_and_hypnotics
-13058341000033111	37236111000001102	Buspirone 7.5mg tablets	Buspirone 7.5mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	7.500mg	04010200	785	anxiety_and_hypnotics
-13122341000033117	37406111000001108	Melatonin 1mg/ml oral solution sugar free	Melatonin 1mg/ml oral solution sugar free	Oral solution	Oral/ Gastroenteral	Melatonin	1.000mg/1.000ml	04010100	211999	anxiety_and_hypnotics
-13159441000033115	37600511000001104	Lorazepam 1mg orodispersible tablets	Lorazepam 1mg orodispersible tablets	Orodispersible tablet	Oral	Lorazepam	1.000mg	04010200	1292	anxiety_and_hypnotics
-13159541000033119	37600611000001100	Lorazepam 2.5mg orodispersible tablets	Lorazepam 2.5mg orodispersible tablets	Orodispersible tablet	Oral	Lorazepam	2.500mg	04010200	34	anxiety_and_hypnotics
-13285041000033117	12700611000001107	Melatonin 4mg/5ml oral suspension	Melatonin 4mg/5ml oral suspension	Oral suspension	Oral	Melatonin	800.000microgram/1.000ml	04010100	273	anxiety_and_hypnotics
-13766141000033115	8660311000001101	Lormetazepam 1mg/5ml oral suspension	Lormetazepam 1mg/5ml oral suspension	Oral suspension	Oral	Lormetazepam	200.000microgram/1.000ml	04010100	<5	anxiety_and_hypnotics
-14004441000033115	15914311000001102	Melatonin 2mg tablets	Melatonin 2mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	2.000mg	04010100	101960	anxiety_and_hypnotics
-14004541000033119	34447811000001100	Melatonin 4mg tablets	Melatonin 4mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	4.000mg	04010100	28366	anxiety_and_hypnotics
-14015841000033116	40548711000001102	Buspirone 15mg tablets	Buspirone 15mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	15.000mg	04010200	1809	anxiety_and_hypnotics
-14015941000033112	40548611000001106	Buspirone 30mg tablets	Buspirone 30mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	30.000mg	04010200	52	anxiety_and_hypnotics
-14190641000033117	41556811000001102	Lorazepam 250microgram tablets	Lorazepam 250microgram tablets	Tablet/ Oral Tablet	Oral	Lorazepam	250.000microgram	04010200	11074	anxiety_and_hypnotics
-14244641000033118	42235111000001105	Daridorexant 25mg tablets	Daridorexant 25mg tablets	Tablet/ Oral Tablet	Oral	Daridorexant hydrochloride	25.000mg	04010400	17922	anxiety_and_hypnotics
-14244741000033110	42235211000001104	Daridorexant 50mg tablets	Daridorexant 50mg tablets	Tablet/ Oral Tablet	Oral	Daridorexant hydrochloride	50.000mg	04010400	32002	anxiety_and_hypnotics
-1428441000033117	42137211000001105	Temazepam 10mg tablets	Temazepam 10mg tablets	Tablet/ Oral Tablet	Oral	Temazepam	10.000mg	04010100	18424783	anxiety_and_hypnotics
-1428541000033116	42137311000001102	Temazepam 20mg tablets	Temazepam 20mg tablets	Tablet/ Oral Tablet	Oral	Temazepam	20.000mg	04010100	5930061	anxiety_and_hypnotics
-1457441000033119	42137811000001106	Triclofos 500mg/5ml oral solution	Triclofos 500mg/5ml oral solution	Oral solution	Oral	Triclofos sodium	100.000mg/1.000ml	04010100	31117	anxiety_and_hypnotics
-1562141000033113	42138911000001100	Zolpidem 5mg tablets	Zolpidem 5mg tablets	Tablet/ Oral Tablet	Oral	Zolpidem tartrate	5.000mg	04010100	2341190	anxiety_and_hypnotics
-1562341000033111	42139311000001107	Zopiclone 3.75mg tablets	Zopiclone 3.75mg tablets	Tablet/ Oral Tablet	Oral	Zopiclone	3.750mg	04010100	16326004	anxiety_and_hypnotics
-1562441000033117	42138811000001105	Zolpidem 10mg tablets	Zolpidem 10mg tablets	Tablet/ Oral Tablet	Oral	Zolpidem tartrate	10.000mg	04010100	3175476	anxiety_and_hypnotics
-1563241000033113	42139411000001100	Zopiclone 7.5mg tablets	Zopiclone 7.5mg tablets	Tablet/ Oral Tablet	Oral	Zopiclone	7.500mg	04010100	25262047	anxiety_and_hypnotics
-1699841000033119	35915311000001101	Temazepam 10mg/5ml oral solution sugar free	Temazepam 10mg/5ml oral solution sugar free	Oral solution	Oral	Temazepam	2.000mg/1.000ml	04010100	144865	anxiety_and_hypnotics
-172041000033110	39734411000001104	Buspirone 5mg tablets	Buspirone 5mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	5.000mg	04010200	1104315	anxiety_and_hypnotics
-172141000033114	39734311000001106	Buspirone 10mg tablets	Buspirone 10mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	10.000mg	04010200	457753	anxiety_and_hypnotics
-1728141000033116	42128411000001106	Diazepam 5mg/5ml oral solution	Diazepam 5mg/5ml oral solution	Oral solution	Oral	Diazepam	1.000mg/1.000ml	04010200	5042	anxiety_and_hypnotics
-1850541000033113	7821311000001100	Melatonin 3mg capsules	Melatonin 3mg capsules	Capsule/ Oral capsule	Oral	Melatonin	3.000mg	04010100	192722	anxiety_and_hypnotics
-2003741000033117	42138711000001102	Zaleplon 5mg capsules	Zaleplon 5mg capsules	Capsule/ Oral capsule	Oral	Zaleplon	5.000mg	04010100	50389	anxiety_and_hypnotics
-2003841000033110	42138611000001106	Zaleplon 10mg capsules	Zaleplon 10mg capsules	Capsule/ Oral capsule	Oral	Zaleplon	10.000mg	04010100	70872	anxiety_and_hypnotics
-2190241000033114	7877711000001106	Melatonin 3mg tablets	Melatonin 3mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	3.000mg	04010100	130491	anxiety_and_hypnotics
-2190341000033116	7821111000001102	Melatonin 2.5mg capsules	Melatonin 2.5mg capsules	Capsule/ Oral capsule	Oral	Melatonin	2.500mg	04010100	18197	anxiety_and_hypnotics
-238141000033111	42126811000001107	Chlordiazepoxide 5mg capsules	Chlordiazepoxide 5mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	5.000mg	04010200	786917	anxiety_and_hypnotics
-238241000033116	42126511000001109	Chlordiazepoxide 10mg capsules	Chlordiazepoxide 10mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	10.000mg	04010200	769370	anxiety_and_hypnotics
-240241000033119	36135311000001107	Chloral hydrate 143.3mg/5ml oral solution BP	Chloral hydrate 143.3mg/5ml oral solution BP	Oral solution	Oral	Chloral hydrate	28.660mg/1.000ml	04010100	33351	anxiety_and_hypnotics
-250641000033119	42126611000001108	Chlordiazepoxide 10mg tablets	Chlordiazepoxide 10mg tablets	Tablet/ Oral Tablet	Oral	Chlordiazepoxide hydrochloride	10.000mg	04010200	219718	anxiety_and_hypnotics
-250841000033118	42126911000001102	Chlordiazepoxide 5mg tablets	Chlordiazepoxide 5mg tablets	Tablet/ Oral Tablet	Oral	Chlordiazepoxide hydrochloride	5.000mg	04010200	238602	anxiety_and_hypnotics
-2758241000033111	7720811000001103	Melatonin 1mg capsules	Melatonin 1mg capsules	Capsule/ Oral capsule	Oral	Melatonin	1.000mg	04010100	15685	anxiety_and_hypnotics
-2762341000033113	42128211000001107	Diazepam 2mg/5ml oral solution	Diazepam 2mg/5ml oral solution	Oral solution	Oral	Diazepam	400.000microgram/1.000ml	04010200	167201	anxiety_and_hypnotics
-2762441000033119	13893211000001109	Diazepam 10mg/5ml oral suspension	Diazepam 10mg/5ml oral suspension	Oral suspension	Oral	Diazepam	2.000mg/1.000ml	04010200	15691	anxiety_and_hypnotics
-3033041000033117	36097511000001106	Diazepam 10mg/2ml emulsion for injection ampoules	Diazepam 10mg/2ml emulsion for injection ampoules	Emulsion for injection	Intravenous	Diazepam	5.000mg/1.000ml	04010200	810	anxiety_and_hypnotics
-3033141000033118	36097611000001105	Diazepam 10mg/2ml solution for injection ampoules	Diazepam 10mg/2ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Diazepam	5.000mg/1.000ml	04010200	3009	anxiety_and_hypnotics
-3063041000033111	42125311000001108	Amobarbital 50mg tablets	Amobarbital 50mg tablets	Tablet/ Oral Tablet	Oral	Amobarbital	50.000mg	04010300	6928	anxiety_and_hypnotics
-3080241000033113	42125411000001101	Amobarbital sodium 60mg capsules	Amobarbital sodium 60mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium	60.000mg	04010300	6942	anxiety_and_hypnotics
-3080341000033115	3682911000001100	Amobarbital sodium 200mg capsules	Amobarbital sodium 200mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium	200.000mg	04010300	9441	anxiety_and_hypnotics
-3083941000033114	42125611000001103	Butobarbital 100mg tablets	Butobarbital 100mg tablets	Tablet/ Oral Tablet	Oral	Butobarbital	100.000mg	04010300	22498	anxiety_and_hypnotics
-3085241000033116	42127511000001106	Cloral betaine 707mg tablets	Cloral betaine 707mg tablets	Tablet/ Oral Tablet	Oral	Cloral betaine	707.000mg	04010100	224620	anxiety_and_hypnotics
-3085341000033114	42127111000001102	Clomethiazole 192mg capsules	Clomethiazole 192mg capsules	Capsule/ Oral capsule	Oral	Clomethiazole	192.000mg	04010100	559174	anxiety_and_hypnotics
-3085441000033115	36088911000001104	Clomethiazole 157.5mg/5ml oral solution sugar free	Clomethiazole 157.5mg/5ml oral solution sugar free	Oral solution	Oral	Clomethiazole edisilate	31.500mg/1.000ml	04010100	45319	anxiety_and_hypnotics
-3104241000033113	42136811000001109	Secobarbital sodium 100mg capsules	Secobarbital sodium 100mg capsules	Capsule/ Oral capsule	Oral	Secobarbital sodium	100.000mg	04010300	6996	anxiety_and_hypnotics
-3104441000033114	42136911000001104	Secobarbital sodium 50mg capsules	Secobarbital sodium 50mg capsules	Capsule/ Oral capsule	Oral	Secobarbital sodium	50.000mg	04010300	2170	anxiety_and_hypnotics
-3180641000033116	15374911000001100	Amobarbital 50mg / Secobarbital sodium 50mg capsules	Amobarbital 50mg / Secobarbital sodium 50mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium/ Secobarbital sodium	50.000mg + 50.000mg	04010300	2523	anxiety_and_hypnotics
-3197841000033118	7821411000001107	Melatonin 3mg modified-release capsules	Melatonin 3mg modified-release capsules	Modified-release capsule	Oral	Melatonin	3.000mg	04010100	22461	anxiety_and_hypnotics
-3308041000033119	8659811000001106	Lorazepam 500micrograms/5ml oral suspension	Lorazepam 500micrograms/5ml oral suspension	Oral suspension	Oral	Lorazepam	100.000microgram/1.000ml	04010200	9201	anxiety_and_hypnotics
-3345241000033111	13893311000001101	Diazepam 2.5mg/5ml oral suspension	Diazepam 2.5mg/5ml oral suspension	Oral suspension	Oral	Diazepam	500.000microgram/1.000ml	04010200	11928	anxiety_and_hypnotics
-3905341000033116	41769311000001108	Sodium oxybate 500mg/ml oral solution sugar free	Sodium oxybate 500mg/ml oral solution sugar free	Oral solution	Oral	Sodium oxybate	500.000mg/1.000ml	04010100	4213	anxiety_and_hypnotics
-3923841000033119	8624511000001105	Lorazepam 1mg/5ml oral suspension	Lorazepam 1mg/5ml oral suspension	Oral suspension	Oral	Lorazepam	200.000microgram/1.000ml	04010200	6507	anxiety_and_hypnotics
-3978841000033111	8792011000001106	Chloral hydrate 500mg suppositories	Chloral hydrate 500mg suppositories	Suppository	Rectal	Chloral hydrate	500.000mg	04010100	374	anxiety_and_hypnotics
-3979041000033112	42128011000001102	Diazepam 25mg/5ml oral solution	Diazepam 25mg/5ml oral solution	Oral solution	Oral	Diazepam	5.000mg/1.000ml	04010200	338	anxiety_and_hypnotics
-3980141000033111	8357311000001100	Chloral hydrate 1g/5ml oral solution BP	Chloral hydrate 1g/5ml oral solution BP	Oral solution	Oral	Chloral hydrate	200.000mg/1.000ml	04010100	5244	anxiety_and_hypnotics
-3993641000033114	19677811000001102	Diazepam 2mg/5ml oral suspension	Diazepam 2mg/5ml oral suspension	Oral suspension	Oral	Diazepam	400.000microgram/1.000ml	04010200	20907	anxiety_and_hypnotics
-4042941000033114	7875811000001108	Melatonin 1mg tablets	Melatonin 1mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	1.000mg	04010100	20983	anxiety_and_hypnotics
-41141000033110	42122111000001104	Alprazolam 250microgram tablets	Alprazolam 250microgram tablets	Tablet/ Oral Tablet	Oral	Alprazolam	250.000microgram	04010200	33814	anxiety_and_hypnotics
-41241000033115	42125211000001100	Alprazolam 500microgram tablets	Alprazolam 500microgram tablets	Tablet/ Oral Tablet	Oral	Alprazolam	500.000microgram	04010200	41900	anxiety_and_hypnotics
-4434141000033114	8358211000001107	Chlordiazepoxide 5mg/5ml oral suspension	Chlordiazepoxide 5mg/5ml oral suspension	Oral suspension	Oral	Chlordiazepoxide hydrochloride	1.000mg/1.000ml	04010200	220	anxiety_and_hypnotics
-4518341000033115	8025411000001104	Melatonin 2mg modified-release tablets	Melatonin 2mg modified-release tablets	Modified-release tablet	Oral	Melatonin	2.000mg	04010100	3125799	anxiety_and_hypnotics
-458341000033112	42127911000001104	Diazepam 2.5mg/1.25ml rectal solution tube	Diazepam 2.5mg/1.25ml rectal solution tube	Enema	Rectal	Diazepam	2.000mg/1.000ml	04010200	10361	anxiety_and_hypnotics
-458541000033117	42127811000001109	Diazepam 10mg/2.5ml rectal solution tube	Diazepam 10mg/2.5ml rectal solution tube	Enema	Rectal	Diazepam	4.000mg/1.000ml	04010200	134685	anxiety_and_hypnotics
-458641000033116	39709411000001106	Diazepam 5mg/2.5ml rectal solution tube	Diazepam 5mg/2.5ml rectal solution tube	Enema	Rectal	Diazepam	2.000mg/1.000ml	04010200	96044	anxiety_and_hypnotics
-460041000033115	42127611000001105	Diazepam 10mg suppositories	Diazepam 10mg suppositories	Suppository	Rectal	Diazepam	10.000mg	04010200	6562	anxiety_and_hypnotics
-4663341000033118	8659211000001105	Lorazepam 250micrograms/5ml oral suspension	Lorazepam 250micrograms/5ml oral suspension	Oral suspension	Oral	Lorazepam	50.000microgram/1.000ml	04010200	684	anxiety_and_hypnotics
-466741000033115	42127711000001101	Diazepam 10mg tablets	Diazepam 10mg tablets	Tablet/ Oral Tablet	Oral	Diazepam	10.000mg	04010200	3237769	anxiety_and_hypnotics
-466841000033113	42128111000001101	Diazepam 2mg tablets	Diazepam 2mg tablets	Tablet/ Oral Tablet	Oral	Diazepam	2.000mg	04010200	23507647	anxiety_and_hypnotics
-466941000033117	42128311000001104	Diazepam 5mg tablets	Diazepam 5mg tablets	Tablet/ Oral Tablet	Oral	Diazepam	5.000mg	04010200	19011855	anxiety_and_hypnotics
-4957241000033112	8799011000001104	Zopiclone 3.75mg/5ml oral suspension	Zopiclone 3.75mg/5ml oral suspension	Oral suspension	Oral	Zopiclone	750.000microgram/1.000ml	04010100	9096	anxiety_and_hypnotics
-5414941000033113	42132511000001105	Nitrazepam 5mg/5ml oral suspension	Nitrazepam 5mg/5ml oral suspension	Oral suspension	Oral	Nitrazepam	1.000mg/1.000ml	04010100	3723	anxiety_and_hypnotics
-5641241000033110	7720711000001106	Melatonin 10mg capsules	Melatonin 10mg capsules	Capsule/ Oral capsule	Oral	Melatonin	10.000mg	04010100	27505	anxiety_and_hypnotics
-5748641000033110	38894311000001101	Diazepam 2mg/5ml oral solution sugar free	Diazepam 2mg/5ml oral solution sugar free	Oral solution	Oral	Diazepam	400.000microgram/1.000ml	04010200	129681	anxiety_and_hypnotics
-578341000033118	42129311000001105	Flurazepam 15mg capsules	Flurazepam 15mg capsules	Capsule/ Oral capsule	Oral	Flurazepam hydrochloride	15.000mg	04010100	19263	anxiety_and_hypnotics
-578441000033112	42129411000001103	Flurazepam 30mg capsules	Flurazepam 30mg capsules	Capsule/ Oral capsule	Oral	Flurazepam hydrochloride	30.000mg	04010100	13904	anxiety_and_hypnotics
-5892341000033111	8659611000001107	Lorazepam 500micrograms/5ml oral solution	Lorazepam 500micrograms/5ml oral solution	Oral solution	Oral	Lorazepam	100.000microgram/1.000ml	04010200	3978	anxiety_and_hypnotics
-5892441000033117	8624311000001104	Lorazepam 1mg/5ml oral solution	Lorazepam 1mg/5ml oral solution	Oral solution	Oral	Lorazepam	200.000microgram/1.000ml	04010200	9362	anxiety_and_hypnotics
-5897241000033116	8357411000001107	Chloral hydrate 200mg/5ml oral solution BP	Chloral hydrate 200mg/5ml oral solution BP	Oral solution	Oral	Chloral hydrate	40.000mg/1.000ml	04010100	11763	anxiety_and_hypnotics
-595341000033118	42129211000001102	Flunitrazepam 1mg tablets	Flunitrazepam 1mg tablets	Tablet/ Oral Tablet	Oral	Flunitrazepam	1.000mg	04010100	3263	anxiety_and_hypnotics
-5972141000033111	15242911000001102	Melatonin 10mg/5ml oral solution	Melatonin 10mg/5ml oral solution	Oral solution	Oral	Melatonin	2.000mg/1.000ml	04010100	12372	anxiety_and_hypnotics
-5972241000033116	15243011000001105	Melatonin 10mg/5ml oral suspension	Melatonin 10mg/5ml oral suspension	Oral suspension	Oral	Melatonin	2.000mg/1.000ml	04010100	7913	anxiety_and_hypnotics
-5972341000033114	8662911000001101	Melatonin 2.5mg/5ml oral suspension	Melatonin 2.5mg/5ml oral suspension	Oral suspension	Oral	Melatonin	500.000microgram/1.000ml	04010100	3858	anxiety_and_hypnotics
-5972441000033115	12700111000001104	Melatonin 2mg/5ml oral solution	Melatonin 2mg/5ml oral solution	Oral solution	Oral	Melatonin	400.000microgram/1.000ml	04010100	44456	anxiety_and_hypnotics
-5972541000033119	12700211000001105	Melatonin 2mg/5ml oral suspension	Melatonin 2mg/5ml oral suspension	Oral suspension	Oral	Melatonin	400.000microgram/1.000ml	04010100	9013	anxiety_and_hypnotics
-5972641000033118	12700311000001102	Melatonin 3mg/5ml oral solution	Melatonin 3mg/5ml oral solution	Oral solution	Oral	Melatonin	600.000microgram/1.000ml	04010100	7415	anxiety_and_hypnotics
-5972741000033110	12700411000001109	Melatonin 3mg/5ml oral suspension	Melatonin 3mg/5ml oral suspension	Oral suspension	Oral	Melatonin	600.000microgram/1.000ml	04010100	1407	anxiety_and_hypnotics
-5977641000033116	14056711000001101	Melatonin 5mg/5ml oral solution	Melatonin 5mg/5ml oral solution	Oral solution	Oral	Melatonin	1.000mg/1.000ml	04010100	118655	anxiety_and_hypnotics
-5978741000033112	8798911000001108	Zopiclone 7.5mg/5ml oral suspension	Zopiclone 7.5mg/5ml oral suspension	Oral suspension	Oral	Zopiclone	1.500mg/1.000ml	04010100	1386	anxiety_and_hypnotics
-5991641000033117	8792711000001108	Diazepam 10mg/5ml oral solution	Diazepam 10mg/5ml oral solution	Oral solution	Oral	Diazepam	2.000mg/1.000ml	04010200	755	anxiety_and_hypnotics
-5991741000033114	8792911000001105	Diazepam 2.5mg/5ml oral solution	Diazepam 2.5mg/5ml oral solution	Oral solution	Oral	Diazepam	500.000microgram/1.000ml	04010200	1554	anxiety_and_hypnotics
-5998741000033118	15914411000001109	Melatonin 5mg tablets	Melatonin 5mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	5.000mg	04010100	10667	anxiety_and_hypnotics
-6001741000033117	14056911000001104	Melatonin 5mg/5ml oral suspension	Melatonin 5mg/5ml oral suspension	Oral suspension	Oral	Melatonin	1.000mg/1.000ml	04010100	13470	anxiety_and_hypnotics
-6456641000033117	19609611000001101	Zopiclone 3.75mg/5ml oral solution	Zopiclone 3.75mg/5ml oral solution	Oral solution	Oral	Zopiclone	750.000microgram/1.000ml	04010100	6586	anxiety_and_hypnotics
-7740541000033111	20187111000001104	Chloral hydrate 250mg suppositories	Chloral hydrate 250mg suppositories	Suppository	Rectal	Chloral hydrate	250.000mg	04010100	214	anxiety_and_hypnotics
-844141000033111	36040511000001101	Lorazepam 4mg/1ml solution for injection ampoules	Lorazepam 4mg/1ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Lorazepam	4.000mg/1.000ml	04010200	3572	anxiety_and_hypnotics
-850741000033117	39699311000001107	Loprazolam 1mg tablets	Loprazolam 1mg tablets	Tablet/ Oral Tablet	Oral	Loprazolam mesilate	1.000mg	04010100	987695	anxiety_and_hypnotics
-851141000033111	42131511000001102	Lorazepam 1mg tablets	Lorazepam 1mg tablets	Tablet/ Oral Tablet	Oral	Lorazepam	1.000mg	04010200	8672333	anxiety_and_hypnotics
-851241000033116	42131611000001103	Lorazepam 2.5mg tablets	Lorazepam 2.5mg tablets	Tablet/ Oral Tablet	Oral	Lorazepam	2.500mg	04010200	463779	anxiety_and_hypnotics
-851341000033114	42131811000001104	Lormetazepam 1mg tablets	Lormetazepam 1mg tablets	Tablet/ Oral Tablet	Oral	Lormetazepam	1.000mg	04010100	610326	anxiety_and_hypnotics
-851441000033115	42131911000001109	Lormetazepam 500microgram tablets	Lormetazepam 500microgram tablets	Tablet/ Oral Tablet	Oral	Lormetazepam	500.000microgram	04010100	351234	anxiety_and_hypnotics
-873341000033110	11490311000001108	Melatonin 2mg capsules	Melatonin 2mg capsules	Capsule/ Oral capsule	Oral	Melatonin	2.000mg	04010100	216485	anxiety_and_hypnotics
-873441000033116	7875911000001103	Melatonin 5mg capsules	Melatonin 5mg capsules	Capsule/ Oral capsule	Oral	Melatonin	5.000mg	04010100	101659	anxiety_and_hypnotics
-901941000033111	42132011000001102	Meprobamate 400mg tablets	Meprobamate 400mg tablets	Tablet/ Oral Tablet	Oral	Meprobamate	400.000mg	04010200	58209	anxiety_and_hypnotics
-9173541000033117	24509211000001105	Chloral hydrate 200mg/5ml oral suspension	Chloral hydrate 200mg/5ml oral suspension	Oral suspension	Oral	Chloral hydrate	40.000mg/1.000ml	04010100	369	anxiety_and_hypnotics
-9177941000033119	24510911000001105	Zopiclone 7.5mg/5ml oral solution	Zopiclone 7.5mg/5ml oral solution	Oral solution	Oral	Zopiclone	1.500mg/1.000ml	04010100	2342	anxiety_and_hypnotics
-974341000033116	42132311000001104	Nitrazepam 2.5mg/5ml oral suspension	Nitrazepam 2.5mg/5ml oral suspension	Oral suspension	Oral	Nitrazepam	500.000microgram/1.000ml	04010100	101650	anxiety_and_hypnotics
-975341000033115	42132411000001106	Nitrazepam 5mg tablets	Nitrazepam 5mg tablets	Tablet/ Oral Tablet	Oral	Nitrazepam	5.000mg	04010100	11516995	anxiety_and_hypnotics
-9776141000033110	28012811000001102	Melatonin 2.5mg/5ml oral solution	Melatonin 2.5mg/5ml oral solution	Oral solution	Oral	Melatonin	500.000microgram/1.000ml	04010100	3971	anxiety_and_hypnotics
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues	bnf_chapter_norm	drug_substance_name_norm	has_bnf_prefix	has_matching_substance
+1025741000033113	42132611000001109	Oxazepam 10mg tablets	Oxazepam 10mg tablets	Tablet/ Oral Tablet	Oral	Oxazepam	10.000mg	04010200	1153315	04010200	Oxazepam	TRUE	
+1025841000033115	42132711000001100	Oxazepam 15mg tablets	Oxazepam 15mg tablets	Tablet/ Oral Tablet	Oral	Oxazepam	15.000mg	04010200	539965	04010200	Oxazepam	TRUE	
+10674441000033115	8357711000001101	Chloral hydrate 500mg/5ml oral solution	Chloral hydrate 500mg/5ml oral solution	Oral solution	Oral	Chloral hydrate	100.000mg/1.000ml	04010100	22004	04010100	Chloral hydrate	TRUE	
+11275941000033119	12141711000001106	Oxazepam 10mg/5ml oral suspension	Oxazepam 10mg/5ml oral suspension	Oral suspension	Oral	Oxazepam	2.000mg/1.000ml	04010200	34	04010200	Oxazepam	TRUE	
+11718041000033112	28413211000001101	Icenia Melatonin 3mg capsules (Imported (Bulgaria))	Icenia Melatonin 3mg capsules	Capsule/ Oral capsule		Melatonin	3.000mg		84		Melatonin	FALSE	TRUE
+1184141000033114	4660211000001108	Rohypnol 1mg tablets (Roche Products Ltd)	Rohypnol 1mg tablets	Tablet/ Oral Tablet	Oral	Flunitrazepam	1.000mg		10081		Flunitrazepam	FALSE	TRUE
+12503341000033119	34697811000001107	Lorazepam 1mg/ml oral solution sugar free	Lorazepam 1mg/ml oral solution sugar free	Oral solution	Oral	Lorazepam	1.000mg/1.000ml	04010200	18341	04010200	Lorazepam	TRUE	
+12608441000033113	30104111000001109	Melatonin 3mg modified-release tablets	Melatonin 3mg modified-release tablets	Modified-release tablet	Oral	Melatonin	3.000mg	04010100	252	04010100	Melatonin	TRUE	
+12679241000033111	8304411000001106	Buspirone 5mg/5ml oral solution	Buspirone 5mg/5ml oral solution	Oral solution	Oral	Buspirone hydrochloride	1.000mg/1.000ml	04010200	349	04010200	Buspirone hydrochloride	TRUE	
+1267941000033116	3840711000001103	Seconal Sodium 100mg capsules (Special Order)	Seconal Sodium 100mg capsules	Capsule/ Oral capsule	Oral	Secobarbital sodium	100.000mg		13745		Secobarbital sodium	FALSE	TRUE
+1268041000033118	4085511000001105	Seconal Sodium 50mg capsules (Special Order)	Seconal Sodium 50mg capsules	Capsule/ Oral capsule	Oral	Secobarbital sodium	50.000mg		3076		Secobarbital sodium	FALSE	TRUE
+12687741000033118	28772811000001108	Melatonin 2mg modified-release capsules	Melatonin 2mg modified-release capsules	Modified-release capsule	Oral	Melatonin	2.000mg	04010100	1231	04010100	Melatonin	TRUE	
+13000041000033115	36811611000001101	Melatonin 1mg modified-release tablets	Melatonin 1mg modified-release tablets	Modified-release tablet	Oral	Melatonin	1.000mg	04010100	35198	04010100	Melatonin	TRUE	
+13000141000033116	36811911000001107	Melatonin 5mg modified-release tablets	Melatonin 5mg modified-release tablets	Modified-release tablet	Oral	Melatonin	5.000mg	04010100	16723	04010100	Melatonin	TRUE	
+13000241000033111	36800811000001108	Slenyto 1mg modified-release tablets (Flynn Pharma Ltd)	Slenyto 1mg modified-release tablets	Modified-release tablet	Oral	Melatonin	1.000mg		65477		Melatonin	FALSE	TRUE
+13000341000033118	36801111000001107	Slenyto 5mg modified-release tablets (Flynn Pharma Ltd)	Slenyto 5mg modified-release tablets	Modified-release tablet	Oral	Melatonin	5.000mg		45591		Melatonin	FALSE	TRUE
+13007941000033115	34847811000001105	Icenia Melatonin 2mg capsules (Imported (Bulgaria))	Icenia Melatonin 2mg capsules	Capsule/ Oral capsule		Melatonin	2.000mg		17		Melatonin	FALSE	TRUE
+13008041000033117	34848011000001103	Icenia Melatonin 5mg capsules (Imported (Bulgaria))	Icenia Melatonin 5mg capsules	Capsule/ Oral capsule		Melatonin	5.000mg		<5		Melatonin	FALSE	TRUE
+13058141000033113	42131711000001107	Lorazepam 500microgram tablets	Lorazepam 500microgram tablets	Tablet/ Oral Tablet	Oral	Lorazepam	500.000microgram	04010200	396791	04010200	Lorazepam	TRUE	
+13058341000033111	37236111000001102	Buspirone 7.5mg tablets	Buspirone 7.5mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	7.500mg	04010200	785	04010200	Buspirone hydrochloride	TRUE	
+13122341000033117	37406111000001108	Melatonin 1mg/ml oral solution sugar free	Melatonin 1mg/ml oral solution sugar free	Oral solution	Oral/ Gastroenteral	Melatonin	1.000mg/1.000ml	04010100	211999	04010100	Melatonin	TRUE	
+13159441000033115	37600511000001104	Lorazepam 1mg orodispersible tablets	Lorazepam 1mg orodispersible tablets	Orodispersible tablet	Oral	Lorazepam	1.000mg	04010200	1292	04010200	Lorazepam	TRUE	
+13159541000033119	37600611000001100	Lorazepam 2.5mg orodispersible tablets	Lorazepam 2.5mg orodispersible tablets	Orodispersible tablet	Oral	Lorazepam	2.500mg	04010200	34	04010200	Lorazepam	TRUE	
+13285041000033117	12700611000001107	Melatonin 4mg/5ml oral suspension	Melatonin 4mg/5ml oral suspension	Oral suspension	Oral	Melatonin	800.000microgram/1.000ml	04010100	273	04010100	Melatonin	TRUE	
+13292441000033115	37802811000001105	Melatonin 5mg/5ml oral solution alcohol free (Drug Tariff Special Order)	Melatonin 5mg/5ml oral solution alcohol free	Oral solution		Melatonin	1.000mg/1.000ml		427		Melatonin	FALSE	TRUE
+13292541000033119	37803111000001109	Melatonin 5mg/5ml oral suspension alcohol free (Drug Tariff Special Order)	Melatonin 5mg/5ml oral suspension alcohol free	Oral suspension		Melatonin	1.000mg/1.000ml		169		Melatonin	FALSE	TRUE
+1350141000033119	3681911000001106	Sodium Amytal 200mg capsules (Special Order)	Sodium Amytal 200mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium	200.000mg		29009		Amobarbital sodium	FALSE	TRUE
+1350241000033114	3797411000001100	Sodium Amytal 60mg capsules (Special Order)	Sodium Amytal 60mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium	60.000mg		18253		Amobarbital sodium	FALSE	TRUE
+1363541000033112	3166211000001106	Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd)	Somnite 2.5mg/5ml oral suspension	Oral suspension	Oral	Nitrazepam	500.000microgram/1.000ml		30		Nitrazepam	FALSE	TRUE
+1365541000033113	3681311000001105	Soneryl 100mg tablets (Special Order)	Soneryl 100mg tablets	Tablet/ Oral Tablet	Oral	Butobarbital	100.000mg		34833		Butobarbital	FALSE	TRUE
+13716441000033110	38830111000001104	Syncrodin 3mg tablets (Pharma Nord (UK) Ltd)	Syncrodin 3mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	3.000mg		9682		Melatonin	FALSE	TRUE
+13766141000033115	8660311000001101	Lormetazepam 1mg/5ml oral suspension	Lormetazepam 1mg/5ml oral suspension	Oral suspension	Oral	Lormetazepam	200.000microgram/1.000ml	04010100	<5	04010100	Lormetazepam	TRUE	
+13811741000033112	39517711000001107	Chloral hydrate 143.3mg/5ml oral solution BP (Special Order)	Chloral hydrate 143.3mg/5ml oral solution BP	Oral solution		Chloral hydrate	28.660mg/1.000ml		<5		Chloral hydrate	FALSE	TRUE
+1383241000033113	142611000001108	Stesolid 10mg rectal tube (Accord-UK Ltd)	Stesolid 10mg rectal tube	Enema	Rectal	Diazepam	4.000mg/1.000ml		34369		Diazepam	FALSE	TRUE
+1383341000033115	82011000001104	Stesolid 5mg rectal tube (Accord-UK Ltd)	Stesolid 5mg rectal tube	Enema	Rectal	Diazepam	2.000mg/1.000ml		24996		Diazepam	FALSE	TRUE
+1386141000033114	3206111000001102	Stilnoct 5mg tablets (Sanofi)	Stilnoct 5mg tablets	Tablet/ Oral Tablet	Oral	Zolpidem tartrate	5.000mg		160865		Zolpidem tartrate	FALSE	TRUE
+1387141000033111	3199611000001102	Stilnoct 10mg tablets (Sanofi)	Stilnoct 10mg tablets	Tablet/ Oral Tablet	Oral	Zolpidem tartrate	10.000mg		129111		Zolpidem tartrate	FALSE	TRUE
+13914141000033116	40031411000001102	Ceyesto 3mg tablets (Alturix Ltd)	Ceyesto 3mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	3.000mg		5413		Melatonin	FALSE	TRUE
+14004441000033115	15914311000001102	Melatonin 2mg tablets	Melatonin 2mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	2.000mg	04010100	101960	04010100	Melatonin	TRUE	
+14004541000033119	34447811000001100	Melatonin 4mg tablets	Melatonin 4mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	4.000mg	04010100	28366	04010100	Melatonin	TRUE	
+14004641000033118	40484711000001107	Adaflex 1mg tablets (AGB-Pharma)	Adaflex 1mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	1.000mg		3702		Melatonin	FALSE	TRUE
+14004741000033110	40485111000001105	Adaflex 2mg tablets (AGB-Pharma)	Adaflex 2mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	2.000mg		18054		Melatonin	FALSE	TRUE
+14004841000033117	40485311000001107	Adaflex 3mg tablets (AGB-Pharma)	Adaflex 3mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	3.000mg		6882		Melatonin	FALSE	TRUE
+14004941000033113	40485611000001102	Adaflex 4mg tablets (AGB-Pharma)	Adaflex 4mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	4.000mg		5434		Melatonin	FALSE	TRUE
+14005041000033113	40485911000001108	Adaflex 5mg tablets (AGB-Pharma)	Adaflex 5mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	5.000mg		3346		Melatonin	FALSE	TRUE
+14006641000033110	40528811000001107	Melatonin 1mg/ml oral solution alcohol free sugar free (Special Order)	Melatonin 1mg/ml oral solution alcohol free sugar free	Oral solution		Melatonin	1.000mg/1.000ml		1511		Melatonin	FALSE	TRUE
+14015841000033116	40548711000001102	Buspirone 15mg tablets	Buspirone 15mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	15.000mg	04010200	1809	04010200	Buspirone hydrochloride	TRUE	
+14015941000033112	40548611000001106	Buspirone 30mg tablets	Buspirone 30mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	30.000mg	04010200	52	04010200	Buspirone hydrochloride	TRUE	
+14109141000033116	41082311000001100	Temazepam 10mg tablets (Imported)	Temazepam 10mg tablets	Tablet/ Oral Tablet		Temazepam	10.000mg		<5		Temazepam	FALSE	TRUE
+14128741000033117	40635311000001101	Melatonin 1mg/ml oral solution sugar free (Consilient Health Ltd)	Melatonin 1mg/ml oral solution sugar free	Oral solution	Oral	Melatonin	1.000mg/1.000ml		2555		Melatonin	FALSE	TRUE
+14190641000033117	41556811000001102	Lorazepam 250microgram tablets	Lorazepam 250microgram tablets	Tablet/ Oral Tablet	Oral	Lorazepam	250.000microgram	04010200	11074	04010200	Lorazepam	TRUE	
+14240441000033110	42250111000001101	Ceyesto 1mg/ml oral solution (Alturix Ltd)	Ceyesto 1mg/ml oral solution	Oral solution	Oral/ Gastroenteral	Melatonin	1.000mg/1.000ml		12001		Melatonin	FALSE	TRUE
+14244641000033118	42235111000001105	Daridorexant 25mg tablets	Daridorexant 25mg tablets	Tablet/ Oral Tablet	Oral	Daridorexant hydrochloride	25.000mg	04010400	17922	04010400	Daridorexant hydrochloride	TRUE	
+14244741000033110	42235211000001104	Daridorexant 50mg tablets	Daridorexant 50mg tablets	Tablet/ Oral Tablet	Oral	Daridorexant hydrochloride	50.000mg	04010400	32002	04010400	Daridorexant hydrochloride	TRUE	
+14244841000033117	42097611000001108	Quviviq 25mg tablets (Idorsia Pharmaceuticals UK Ltd)	Quviviq 25mg tablets	Tablet/ Oral Tablet	Oral	Daridorexant hydrochloride	25.000mg		293		Daridorexant hydrochloride	FALSE	TRUE
+14244941000033113	42097311000001103	Quviviq 50mg tablets (Idorsia Pharmaceuticals UK Ltd)	Quviviq 50mg tablets	Tablet/ Oral Tablet	Oral	Daridorexant hydrochloride	50.000mg		866		Daridorexant hydrochloride	FALSE	TRUE
+14265741000033119	42495311000001104	Diazepam 2mg/5ml oral suspension sugar free (Special Order)	Diazepam 2mg/5ml oral suspension sugar free	Oral suspension		Diazepam	400.000microgram/1.000ml		52		Diazepam	FALSE	TRUE
+1428241000033118	9107211000001109	Tensium 2mg tablets (DDSA Pharmaceuticals Ltd)	Tensium 2mg tablets	Tablet/ Oral Tablet	Oral	Diazepam	2.000mg		12		Diazepam	FALSE	TRUE
+1428441000033117	42137211000001105	Temazepam 10mg tablets	Temazepam 10mg tablets	Tablet/ Oral Tablet	Oral	Temazepam	10.000mg	04010100	18424783	04010100	Temazepam	TRUE	
+1428541000033116	42137311000001102	Temazepam 20mg tablets	Temazepam 20mg tablets	Tablet/ Oral Tablet	Oral	Temazepam	20.000mg	04010100	5930061	04010100	Temazepam	TRUE	
+14513141000033114	43292611000001108	Melatonin 2mg/ml oral solution sugar free	Melatonin 2mg/ml oral solution sugar free	Oral solution	Oral	Melatonin	2.000mg/1.000ml		696		Melatonin	FALSE	TRUE
+1455941000033116	307711000001103	Tropium 5mg capsules (Dr Reddy's Laboratories (UK) Ltd)	Tropium 5mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	5.000mg		31		Chlordiazepoxide hydrochloride	FALSE	TRUE
+1457441000033119	42137811000001106	Triclofos 500mg/5ml oral solution	Triclofos 500mg/5ml oral solution	Oral solution	Oral	Triclofos sodium	100.000mg/1.000ml	04010100	31117	04010100	Triclofos sodium	TRUE	
+1475241000033111	3717611000001103	Tuinal 100mg Pulvules (Special Order)	Tuinal 100mg Pulvules	Capsule/ Oral capsule	Oral	Amobarbital sodium/ Secobarbital sodium	50.000mg + 50.000mg		39890		Amobarbital sodium/Secobarbital sodium	FALSE	TRUE
+14924441000033117	19674911000001101	Diazepam 2mg/5ml oral suspension (Special Order)	Diazepam 2mg/5ml oral suspension	Oral suspension		Diazepam	400.000microgram/1.000ml		<5		Diazepam	FALSE	TRUE
+1502941000033114	3824311000001107	Valclair 10mg suppositories (Durbin Plc)	Valclair 10mg suppositories	Suppository	Rectal	Diazepam	10.000mg		65		Diazepam	FALSE	TRUE
+15107541000033112	45165811000001107	Zolpidem 5mg orodispersible tablets sugar free	Zolpidem 5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Zolpidem tartrate	5.000mg		42		Zolpidem tartrate	FALSE	TRUE
+15107641000033113	45165711000001104	Zolpidem 10mg orodispersible tablets sugar free	Zolpidem 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Zolpidem tartrate	10.000mg		7		Zolpidem tartrate	FALSE	TRUE
+1537441000033113	179511000001101	Welldorm 143.3mg/5ml elixir (Marlborough Pharmaceuticals Ltd)	Welldorm 143.3mg/5ml elixir	Oral solution	Oral	Chloral hydrate	28.660mg/1.000ml		18612		Chloral hydrate	FALSE	TRUE
+1542141000033119	2909511000001107	Welldorm 707mg tablets (Marlborough Pharmaceuticals Ltd)	Welldorm 707mg tablets	Tablet/ Oral Tablet	Oral	Cloral betaine	707.000mg		250294		Cloral betaine	FALSE	TRUE
+1543541000033117	4658511000001101	Xanax 250microgram tablets (Viatris UK Healthcare Ltd)	Xanax 250microgram tablets	Tablet/ Oral Tablet	Oral	Alprazolam	250.000microgram		19091		Alprazolam	FALSE	TRUE
+1543641000033116	4659411000001108	Xanax 500microgram tablets (Viatris UK Healthcare Ltd)	Xanax 500microgram tablets	Tablet/ Oral Tablet	Oral	Alprazolam	500.000microgram		14292		Alprazolam	FALSE	TRUE
+1557941000033116	178011000001104	Zimovane LS 3.75mg tablets (Sanofi)	Zimovane LS 3.75mg tablets	Tablet/ Oral Tablet	Oral	Zopiclone	3.750mg		160777		Zopiclone	FALSE	TRUE
+1558441000033110	810511000001108	Zimovane 7.5mg tablets (Sanofi)	Zimovane 7.5mg tablets	Tablet/ Oral Tablet	Oral	Zopiclone	7.500mg		922095		Zopiclone	FALSE	TRUE
+1562141000033113	42138911000001100	Zolpidem 5mg tablets	Zolpidem 5mg tablets	Tablet/ Oral Tablet	Oral	Zolpidem tartrate	5.000mg	04010100	2341190	04010100	Zolpidem tartrate	TRUE	
+1562341000033111	42139311000001107	Zopiclone 3.75mg tablets	Zopiclone 3.75mg tablets	Tablet/ Oral Tablet	Oral	Zopiclone	3.750mg	04010100	16326004	04010100	Zopiclone	TRUE	
+1562441000033117	42138811000001105	Zolpidem 10mg tablets	Zolpidem 10mg tablets	Tablet/ Oral Tablet	Oral	Zolpidem tartrate	10.000mg	04010100	3175476	04010100	Zolpidem tartrate	TRUE	
+1563241000033113	42139411000001100	Zopiclone 7.5mg tablets	Zopiclone 7.5mg tablets	Tablet/ Oral Tablet	Oral	Zopiclone	7.500mg	04010100	25262047	04010100	Zopiclone	TRUE	
+1699841000033119	35915311000001101	Temazepam 10mg/5ml oral solution sugar free	Temazepam 10mg/5ml oral solution sugar free	Oral solution	Oral	Temazepam	2.000mg/1.000ml	04010100	144865	04010100	Temazepam	TRUE	
+1713541000033112	224011000001106	Zileze 3.75 tablets (Opus Pharmaceuticals Ltd)	Zileze 3.75 tablets	Tablet/ Oral Tablet	Oral	Zopiclone	3.750mg		1809		Zopiclone	FALSE	TRUE
+1713641000033113	562111000001100	Zileze 7.5 tablets (Opus Pharmaceuticals Ltd)	Zileze 7.5 tablets	Tablet/ Oral Tablet	Oral	Zopiclone	7.500mg		3229		Zopiclone	FALSE	TRUE
+172041000033110	39734411000001104	Buspirone 5mg tablets	Buspirone 5mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	5.000mg	04010200	1104315	04010200	Buspirone hydrochloride	TRUE	
+172141000033114	39734311000001106	Buspirone 10mg tablets	Buspirone 10mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	10.000mg	04010200	457753	04010200	Buspirone hydrochloride	TRUE	
+172241000033119	737211000001100	Buspar 10mg tablets (IXL Pharma Ltd)	Buspar 10mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	10.000mg		9035		Buspirone hydrochloride	FALSE	TRUE
+1728141000033116	42128411000001106	Diazepam 5mg/5ml oral solution	Diazepam 5mg/5ml oral solution	Oral solution	Oral	Diazepam	1.000mg/1.000ml	04010200	5042	04010200	Diazepam	TRUE	
+174141000033116	365311000001106	Buspar 5mg tablets (IXL Pharma Ltd)	Buspar 5mg tablets	Tablet/ Oral Tablet	Oral	Buspirone hydrochloride	5.000mg		59967		Buspirone hydrochloride	FALSE	TRUE
+1850541000033113	7821311000001100	Melatonin 3mg capsules	Melatonin 3mg capsules	Capsule/ Oral capsule	Oral	Melatonin	3.000mg	04010100	192722	04010100	Melatonin	TRUE	
+2003741000033117	42138711000001102	Zaleplon 5mg capsules	Zaleplon 5mg capsules	Capsule/ Oral capsule	Oral	Zaleplon	5.000mg	04010100	50389	04010100	Zaleplon	TRUE	
+2003841000033110	42138611000001106	Zaleplon 10mg capsules	Zaleplon 10mg capsules	Capsule/ Oral capsule	Oral	Zaleplon	10.000mg	04010100	70872	04010100	Zaleplon	TRUE	
+2003941000033119	846011000001109	Sonata 5mg capsules (Meda Pharmaceuticals Ltd)	Sonata 5mg capsules	Capsule/ Oral capsule	Oral	Zaleplon	5.000mg		8910		Zaleplon	FALSE	TRUE
+2004041000033117	435711000001108	Sonata 10mg capsules (Meda Pharmaceuticals Ltd)	Sonata 10mg capsules	Capsule/ Oral capsule	Oral	Zaleplon	10.000mg		10753		Zaleplon	FALSE	TRUE
+2086041000033112	4316811000001103	Chloral hydrate crystals	Chloral hydrate crystals	Not applicable	Route of administration not applicable	Chloral hydrate	1.000mg/1.000mg	19040000	142	19040000	Chloral hydrate	FALSE	TRUE
+2190241000033114	7877711000001106	Melatonin 3mg tablets	Melatonin 3mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	3.000mg	04010100	130491	04010100	Melatonin	TRUE	
+2190341000033116	7821111000001102	Melatonin 2.5mg capsules	Melatonin 2.5mg capsules	Capsule/ Oral capsule	Oral	Melatonin	2.500mg	04010100	18197	04010100	Melatonin	TRUE	
+238141000033111	42126811000001107	Chlordiazepoxide 5mg capsules	Chlordiazepoxide 5mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	5.000mg	04010200	786917	04010200	Chlordiazepoxide hydrochloride	TRUE	
+238241000033116	42126511000001109	Chlordiazepoxide 10mg capsules	Chlordiazepoxide 10mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	10.000mg	04010200	769370	04010200	Chlordiazepoxide hydrochloride	TRUE	
+240241000033119	36135311000001107	Chloral hydrate 143.3mg/5ml oral solution BP	Chloral hydrate 143.3mg/5ml oral solution BP	Oral solution	Oral	Chloral hydrate	28.660mg/1.000ml	04010100	33351	04010100	Chloral hydrate	TRUE	
+250641000033119	42126611000001108	Chlordiazepoxide 10mg tablets	Chlordiazepoxide 10mg tablets	Tablet/ Oral Tablet	Oral	Chlordiazepoxide hydrochloride	10.000mg	04010200	219718	04010200	Chlordiazepoxide hydrochloride	TRUE	
+250841000033118	42126911000001102	Chlordiazepoxide 5mg tablets	Chlordiazepoxide 5mg tablets	Tablet/ Oral Tablet	Oral	Chlordiazepoxide hydrochloride	5.000mg	04010200	238602	04010200	Chlordiazepoxide hydrochloride	TRUE	
+2621141000033119	511311000001108	Tropium 10mg capsules (Dr Reddy's Laboratories (UK) Ltd)	Tropium 10mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	10.000mg		<5		Chlordiazepoxide hydrochloride	FALSE	TRUE
+2621241000033114	204011000001103	Tropium 5mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Tropium 5mg tablets	Tablet/ Oral Tablet	Oral	Chlordiazepoxide hydrochloride	5.000mg		25		Chlordiazepoxide hydrochloride	FALSE	TRUE
+2621341000033116	153811000001102	Tropium 10mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Tropium 10mg tablets	Tablet/ Oral Tablet	Oral	Chlordiazepoxide hydrochloride	10.000mg		<5		Chlordiazepoxide hydrochloride	FALSE	TRUE
+2758241000033111	7720811000001103	Melatonin 1mg capsules	Melatonin 1mg capsules	Capsule/ Oral capsule	Oral	Melatonin	1.000mg	04010100	15685	04010100	Melatonin	TRUE	
+2762341000033113	42128211000001107	Diazepam 2mg/5ml oral solution	Diazepam 2mg/5ml oral solution	Oral solution	Oral	Diazepam	400.000microgram/1.000ml	04010200	167201	04010200	Diazepam	TRUE	
+2762441000033119	13893211000001109	Diazepam 10mg/5ml oral suspension	Diazepam 10mg/5ml oral suspension	Oral suspension	Oral	Diazepam	2.000mg/1.000ml	04010200	15691	04010200	Diazepam	TRUE	
+3033041000033117	36097511000001106	Diazepam 10mg/2ml emulsion for injection ampoules	Diazepam 10mg/2ml emulsion for injection ampoules	Emulsion for injection	Intravenous	Diazepam	5.000mg/1.000ml	04010200	810	04010200	Diazepam	TRUE	
+3033141000033118	36097611000001105	Diazepam 10mg/2ml solution for injection ampoules	Diazepam 10mg/2ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Diazepam	5.000mg/1.000ml	04010200	3009	04010200	Diazepam	TRUE	
+3063041000033111	42125311000001108	Amobarbital 50mg tablets	Amobarbital 50mg tablets	Tablet/ Oral Tablet	Oral	Amobarbital	50.000mg	04010300	6928	04010300	Amobarbital	TRUE	
+3080241000033113	42125411000001101	Amobarbital sodium 60mg capsules	Amobarbital sodium 60mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium	60.000mg	04010300	6942	04010300	Amobarbital sodium	TRUE	
+3080341000033115	3682911000001100	Amobarbital sodium 200mg capsules	Amobarbital sodium 200mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium	200.000mg	04010300	9441	04010300	Amobarbital sodium	TRUE	
+3083941000033114	42125611000001103	Butobarbital 100mg tablets	Butobarbital 100mg tablets	Tablet/ Oral Tablet	Oral	Butobarbital	100.000mg	04010300	22498	04010300	Butobarbital	TRUE	
+3085241000033116	42127511000001106	Cloral betaine 707mg tablets	Cloral betaine 707mg tablets	Tablet/ Oral Tablet	Oral	Cloral betaine	707.000mg	04010100	224620	04010100	Cloral betaine	TRUE	
+3085341000033114	42127111000001102	Clomethiazole 192mg capsules	Clomethiazole 192mg capsules	Capsule/ Oral capsule	Oral	Clomethiazole	192.000mg	04010100	559174	04010100	Clomethiazole	TRUE	
+3085441000033115	36088911000001104	Clomethiazole 157.5mg/5ml oral solution sugar free	Clomethiazole 157.5mg/5ml oral solution sugar free	Oral solution	Oral	Clomethiazole edisilate	31.500mg/1.000ml	04010100	45319	04010100	Clomethiazole edisilate	TRUE	
+3104241000033113	42136811000001109	Secobarbital sodium 100mg capsules	Secobarbital sodium 100mg capsules	Capsule/ Oral capsule	Oral	Secobarbital sodium	100.000mg	04010300	6996	04010300	Secobarbital sodium	TRUE	
+3104441000033114	42136911000001104	Secobarbital sodium 50mg capsules	Secobarbital sodium 50mg capsules	Capsule/ Oral capsule	Oral	Secobarbital sodium	50.000mg	04010300	2170	04010300	Secobarbital sodium	TRUE	
+3180641000033116	15374911000001100	Amobarbital 50mg / Secobarbital sodium 50mg capsules	Amobarbital 50mg / Secobarbital sodium 50mg capsules	Capsule/ Oral capsule	Oral	Amobarbital sodium/ Secobarbital sodium	50.000mg + 50.000mg	04010300	2523	04010300	Amobarbital sodium/Secobarbital sodium	TRUE	
+3197841000033118	7821411000001107	Melatonin 3mg modified-release capsules	Melatonin 3mg modified-release capsules	Modified-release capsule	Oral	Melatonin	3.000mg	04010100	22461	04010100	Melatonin	TRUE	
+3308041000033119	8659811000001106	Lorazepam 500micrograms/5ml oral suspension	Lorazepam 500micrograms/5ml oral suspension	Oral suspension	Oral	Lorazepam	100.000microgram/1.000ml	04010200	9201	04010200	Lorazepam	TRUE	
+3345241000033111	13893311000001101	Diazepam 2.5mg/5ml oral suspension	Diazepam 2.5mg/5ml oral suspension	Oral suspension	Oral	Diazepam	500.000microgram/1.000ml	04010200	11928	04010200	Diazepam	TRUE	
+3905341000033116	41769311000001108	Sodium oxybate 500mg/ml oral solution sugar free	Sodium oxybate 500mg/ml oral solution sugar free	Oral solution	Oral	Sodium oxybate	500.000mg/1.000ml	04010100	4213	04010100	Sodium oxybate	TRUE	
+3905441000033110	10070811000001108	Xyrem 500mg/ml oral solution (UCB Pharma Ltd)	Xyrem 500mg/ml oral solution	Oral solution	Oral	Sodium oxybate	500.000mg/1.000ml		259		Sodium oxybate	FALSE	TRUE
+3923841000033119	8624511000001105	Lorazepam 1mg/5ml oral suspension	Lorazepam 1mg/5ml oral suspension	Oral suspension	Oral	Lorazepam	200.000microgram/1.000ml	04010200	6507	04010200	Lorazepam	TRUE	
+396341000033111	4657511000001100	Dalmane 15mg capsules (Viatris UK Healthcare Ltd)	Dalmane 15mg capsules	Capsule/ Oral capsule	Oral	Flurazepam hydrochloride	15.000mg		106327		Flurazepam hydrochloride	FALSE	TRUE
+396441000033117	4657811000001102	Dalmane 30mg capsules (Viatris UK Healthcare Ltd)	Dalmane 30mg capsules	Capsule/ Oral capsule	Oral	Flurazepam hydrochloride	30.000mg		85229		Flurazepam hydrochloride	FALSE	TRUE
+3978841000033111	8792011000001106	Chloral hydrate 500mg suppositories	Chloral hydrate 500mg suppositories	Suppository	Rectal	Chloral hydrate	500.000mg	04010100	374	04010100	Chloral hydrate	TRUE	
+3979041000033112	42128011000001102	Diazepam 25mg/5ml oral solution	Diazepam 25mg/5ml oral solution	Oral solution	Oral	Diazepam	5.000mg/1.000ml	04010200	338	04010200	Diazepam	TRUE	
+3980141000033111	8357311000001100	Chloral hydrate 1g/5ml oral solution BP	Chloral hydrate 1g/5ml oral solution BP	Oral solution	Oral	Chloral hydrate	200.000mg/1.000ml	04010100	5244	04010100	Chloral hydrate	TRUE	
+3993641000033114	19677811000001102	Diazepam 2mg/5ml oral suspension	Diazepam 2mg/5ml oral suspension	Oral suspension	Oral	Diazepam	400.000microgram/1.000ml	04010200	20907	04010200	Diazepam	TRUE	
+4042941000033114	7875811000001108	Melatonin 1mg tablets	Melatonin 1mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	1.000mg	04010100	20983	04010100	Melatonin	TRUE	
+41141000033110	42122111000001104	Alprazolam 250microgram tablets	Alprazolam 250microgram tablets	Tablet/ Oral Tablet	Oral	Alprazolam	250.000microgram	04010200	33814	04010200	Alprazolam	TRUE	
+41241000033115	42125211000001100	Alprazolam 500microgram tablets	Alprazolam 500microgram tablets	Tablet/ Oral Tablet	Oral	Alprazolam	500.000microgram	04010200	41900	04010200	Alprazolam	TRUE	
+4434141000033114	8358211000001107	Chlordiazepoxide 5mg/5ml oral suspension	Chlordiazepoxide 5mg/5ml oral suspension	Oral suspension	Oral	Chlordiazepoxide hydrochloride	1.000mg/1.000ml	04010200	220	04010200	Chlordiazepoxide hydrochloride	TRUE	
+446441000033119	3971111000001102	Diazemuls 10mg/2ml emulsion for injection ampoules (Accord-UK Ltd)	Diazemuls 10mg/2ml emulsion for injection ampoules	Emulsion for injection	Intravenous	Diazepam	5.000mg/1.000ml		1582		Diazepam	FALSE	TRUE
+4518341000033115	8025411000001104	Melatonin 2mg modified-release tablets	Melatonin 2mg modified-release tablets	Modified-release tablet	Oral	Melatonin	2.000mg	04010100	3125799	04010100	Melatonin	TRUE	
+4518441000033114	13506111000001105	Circadin 2mg modified-release tablets (Flynn Pharma Ltd)	Circadin 2mg modified-release tablets	Modified-release tablet	Oral	Melatonin	2.000mg		1465946		Melatonin	FALSE	TRUE
+457941000033112	26811000001102	Diazepam 10mg RecTubes (Wockhardt UK Ltd)	Diazepam 10mg RecTubes	Enema	Rectal	Diazepam	4.000mg/1.000ml		25013		Diazepam	FALSE	TRUE
+458041000033110	283311000001103	Diazepam 2.5mg RecTubes (Wockhardt UK Ltd)	Diazepam 2.5mg RecTubes	Enema	Rectal	Diazepam	2.000mg/1.000ml		2912		Diazepam	FALSE	TRUE
+458241000033119	603811000001108	Diazepam 5mg RecTubes (Wockhardt UK Ltd)	Diazepam 5mg RecTubes	Enema	Rectal	Diazepam	2.000mg/1.000ml		15076		Diazepam	FALSE	TRUE
+458341000033112	42127911000001104	Diazepam 2.5mg/1.25ml rectal solution tube	Diazepam 2.5mg/1.25ml rectal solution tube	Enema	Rectal	Diazepam	2.000mg/1.000ml	04010200	10361	04010200	Diazepam	TRUE	
+458541000033117	42127811000001109	Diazepam 10mg/2.5ml rectal solution tube	Diazepam 10mg/2.5ml rectal solution tube	Enema	Rectal	Diazepam	4.000mg/1.000ml	04010200	134685	04010200	Diazepam	TRUE	
+458641000033116	39709411000001106	Diazepam 5mg/2.5ml rectal solution tube	Diazepam 5mg/2.5ml rectal solution tube	Enema	Rectal	Diazepam	2.000mg/1.000ml	04010200	96044	04010200	Diazepam	TRUE	
+460041000033115	42127611000001105	Diazepam 10mg suppositories	Diazepam 10mg suppositories	Suppository	Rectal	Diazepam	10.000mg	04010200	6562	04010200	Diazepam	TRUE	
+4663341000033118	8659211000001105	Lorazepam 250micrograms/5ml oral suspension	Lorazepam 250micrograms/5ml oral suspension	Oral suspension	Oral	Lorazepam	50.000microgram/1.000ml	04010200	684	04010200	Lorazepam	TRUE	
+466741000033115	42127711000001101	Diazepam 10mg tablets	Diazepam 10mg tablets	Tablet/ Oral Tablet	Oral	Diazepam	10.000mg	04010200	3237769	04010200	Diazepam	TRUE	
+466841000033113	42128111000001101	Diazepam 2mg tablets	Diazepam 2mg tablets	Tablet/ Oral Tablet	Oral	Diazepam	2.000mg	04010200	23507647	04010200	Diazepam	TRUE	
+466941000033117	42128311000001104	Diazepam 5mg tablets	Diazepam 5mg tablets	Tablet/ Oral Tablet	Oral	Diazepam	5.000mg	04010200	19011855	04010200	Diazepam	TRUE	
+4957241000033112	8799011000001104	Zopiclone 3.75mg/5ml oral suspension	Zopiclone 3.75mg/5ml oral suspension	Oral suspension	Oral	Zopiclone	750.000microgram/1.000ml	04010100	9096	04010100	Zopiclone	TRUE	
+5414941000033113	42132511000001105	Nitrazepam 5mg/5ml oral suspension	Nitrazepam 5mg/5ml oral suspension	Oral suspension	Oral	Nitrazepam	1.000mg/1.000ml	04010100	3723	04010100	Nitrazepam	TRUE	
+5641241000033110	7720711000001106	Melatonin 10mg capsules	Melatonin 10mg capsules	Capsule/ Oral capsule	Oral	Melatonin	10.000mg	04010100	27505	04010100	Melatonin	TRUE	
+5748641000033110	38894311000001101	Diazepam 2mg/5ml oral solution sugar free	Diazepam 2mg/5ml oral solution sugar free	Oral solution	Oral	Diazepam	400.000microgram/1.000ml	04010200	129681	04010200	Diazepam	TRUE	
+578341000033118	42129311000001105	Flurazepam 15mg capsules	Flurazepam 15mg capsules	Capsule/ Oral capsule	Oral	Flurazepam hydrochloride	15.000mg	04010100	19263	04010100	Flurazepam hydrochloride	TRUE	
+578441000033112	42129411000001103	Flurazepam 30mg capsules	Flurazepam 30mg capsules	Capsule/ Oral capsule	Oral	Flurazepam hydrochloride	30.000mg	04010100	13904	04010100	Flurazepam hydrochloride	TRUE	
+58741000033115	3709611000001105	Amytal 50mg tablets (Flynn Pharma Ltd)	Amytal 50mg tablets	Tablet/ Oral Tablet	Oral	Amobarbital	50.000mg		12461		Amobarbital	FALSE	TRUE
+5884041000033115	7311311000001108	Bio-Melatonin 3mg tablets (Imported (Denmark))	Bio-Melatonin 3mg tablets	Tablet/ Oral Tablet		Melatonin	3.000mg		29037		Melatonin	FALSE	TRUE
+5892341000033111	8659611000001107	Lorazepam 500micrograms/5ml oral solution	Lorazepam 500micrograms/5ml oral solution	Oral solution	Oral	Lorazepam	100.000microgram/1.000ml	04010200	3978	04010200	Lorazepam	TRUE	
+5892441000033117	8624311000001104	Lorazepam 1mg/5ml oral solution	Lorazepam 1mg/5ml oral solution	Oral solution	Oral	Lorazepam	200.000microgram/1.000ml	04010200	9362	04010200	Lorazepam	TRUE	
+5897241000033116	8357411000001107	Chloral hydrate 200mg/5ml oral solution BP	Chloral hydrate 200mg/5ml oral solution BP	Oral solution	Oral	Chloral hydrate	40.000mg/1.000ml	04010100	11763	04010100	Chloral hydrate	TRUE	
+595341000033118	42129211000001102	Flunitrazepam 1mg tablets	Flunitrazepam 1mg tablets	Tablet/ Oral Tablet	Oral	Flunitrazepam	1.000mg	04010100	3263	04010100	Flunitrazepam	TRUE	
+5972141000033111	15242911000001102	Melatonin 10mg/5ml oral solution	Melatonin 10mg/5ml oral solution	Oral solution	Oral	Melatonin	2.000mg/1.000ml	04010100	12372	04010100	Melatonin	TRUE	
+5972241000033116	15243011000001105	Melatonin 10mg/5ml oral suspension	Melatonin 10mg/5ml oral suspension	Oral suspension	Oral	Melatonin	2.000mg/1.000ml	04010100	7913	04010100	Melatonin	TRUE	
+5972341000033114	8662911000001101	Melatonin 2.5mg/5ml oral suspension	Melatonin 2.5mg/5ml oral suspension	Oral suspension	Oral	Melatonin	500.000microgram/1.000ml	04010100	3858	04010100	Melatonin	TRUE	
+5972441000033115	12700111000001104	Melatonin 2mg/5ml oral solution	Melatonin 2mg/5ml oral solution	Oral solution	Oral	Melatonin	400.000microgram/1.000ml	04010100	44456	04010100	Melatonin	TRUE	
+5972541000033119	12700211000001105	Melatonin 2mg/5ml oral suspension	Melatonin 2mg/5ml oral suspension	Oral suspension	Oral	Melatonin	400.000microgram/1.000ml	04010100	9013	04010100	Melatonin	TRUE	
+5972641000033118	12700311000001102	Melatonin 3mg/5ml oral solution	Melatonin 3mg/5ml oral solution	Oral solution	Oral	Melatonin	600.000microgram/1.000ml	04010100	7415	04010100	Melatonin	TRUE	
+5972741000033110	12700411000001109	Melatonin 3mg/5ml oral suspension	Melatonin 3mg/5ml oral suspension	Oral suspension	Oral	Melatonin	600.000microgram/1.000ml	04010100	1407	04010100	Melatonin	TRUE	
+5977641000033116	14056711000001101	Melatonin 5mg/5ml oral solution	Melatonin 5mg/5ml oral solution	Oral solution	Oral	Melatonin	1.000mg/1.000ml	04010100	118655	04010100	Melatonin	TRUE	
+5978741000033112	8798911000001108	Zopiclone 7.5mg/5ml oral suspension	Zopiclone 7.5mg/5ml oral suspension	Oral suspension	Oral	Zopiclone	1.500mg/1.000ml	04010100	1386	04010100	Zopiclone	TRUE	
+5991641000033117	8792711000001108	Diazepam 10mg/5ml oral solution	Diazepam 10mg/5ml oral solution	Oral solution	Oral	Diazepam	2.000mg/1.000ml	04010200	755	04010200	Diazepam	TRUE	
+5991741000033114	8792911000001105	Diazepam 2.5mg/5ml oral solution	Diazepam 2.5mg/5ml oral solution	Oral solution	Oral	Diazepam	500.000microgram/1.000ml	04010200	1554	04010200	Diazepam	TRUE	
+5998741000033118	15914411000001109	Melatonin 5mg tablets	Melatonin 5mg tablets	Tablet/ Oral Tablet	Oral	Melatonin	5.000mg	04010100	10667	04010100	Melatonin	TRUE	
+6001741000033117	14056911000001104	Melatonin 5mg/5ml oral suspension	Melatonin 5mg/5ml oral suspension	Oral suspension	Oral	Melatonin	1.000mg/1.000ml	04010100	13470	04010100	Melatonin	TRUE	
+6456641000033117	19609611000001101	Zopiclone 3.75mg/5ml oral solution	Zopiclone 3.75mg/5ml oral solution	Oral solution	Oral	Zopiclone	750.000microgram/1.000ml	04010100	6586	04010100	Zopiclone	TRUE	
+664141000033111	297311000001106	Heminevrin 192mg capsules (AstraZeneca UK Ltd)	Heminevrin 192mg capsules	Capsule/ Oral capsule	Oral	Clomethiazole	192.000mg		211362		Clomethiazole	FALSE	TRUE
+667841000033114	600511000001104	Heminevrin 250mg/5ml syrup (AstraZeneca UK Ltd)	Heminevrin 250mg/5ml syrup	Oral solution	Oral	Clomethiazole edisilate	31.500mg/1.000ml		22197		Clomethiazole edisilate	FALSE	TRUE
+7740541000033111	20187111000001104	Chloral hydrate 250mg suppositories	Chloral hydrate 250mg suppositories	Suppository	Rectal	Chloral hydrate	250.000mg	04010100	214	04010100	Chloral hydrate	TRUE	
+827841000033112	218811000001104	Librium 10mg capsules (Viatris UK Healthcare Ltd)	Librium 10mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	10.000mg		5580		Chlordiazepoxide hydrochloride	FALSE	TRUE
+827941000033116	849211000001108	Librium 5mg capsules (Viatris UK Healthcare Ltd)	Librium 5mg capsules	Capsule/ Oral capsule	Oral	Chlordiazepoxide hydrochloride	5.000mg		3726		Chlordiazepoxide hydrochloride	FALSE	TRUE
+844141000033111	36040511000001101	Lorazepam 4mg/1ml solution for injection ampoules	Lorazepam 4mg/1ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Lorazepam	4.000mg/1.000ml	04010200	3572	04010200	Lorazepam	TRUE	
+850741000033117	39699311000001107	Loprazolam 1mg tablets	Loprazolam 1mg tablets	Tablet/ Oral Tablet	Oral	Loprazolam mesilate	1.000mg	04010100	987695	04010100	Loprazolam mesilate	TRUE	
+851141000033111	42131511000001102	Lorazepam 1mg tablets	Lorazepam 1mg tablets	Tablet/ Oral Tablet	Oral	Lorazepam	1.000mg	04010200	8672333	04010200	Lorazepam	TRUE	
+851241000033116	42131611000001103	Lorazepam 2.5mg tablets	Lorazepam 2.5mg tablets	Tablet/ Oral Tablet	Oral	Lorazepam	2.500mg	04010200	463779	04010200	Lorazepam	TRUE	
+851341000033114	42131811000001104	Lormetazepam 1mg tablets	Lormetazepam 1mg tablets	Tablet/ Oral Tablet	Oral	Lormetazepam	1.000mg	04010100	610326	04010100	Lormetazepam	TRUE	
+851441000033115	42131911000001109	Lormetazepam 500microgram tablets	Lormetazepam 500microgram tablets	Tablet/ Oral Tablet	Oral	Lormetazepam	500.000microgram	04010100	351234	04010100	Lormetazepam	TRUE	
+873341000033110	11490311000001108	Melatonin 2mg capsules	Melatonin 2mg capsules	Capsule/ Oral capsule	Oral	Melatonin	2.000mg	04010100	216485	04010100	Melatonin	TRUE	
+873441000033116	7875911000001103	Melatonin 5mg capsules	Melatonin 5mg capsules	Capsule/ Oral capsule	Oral	Melatonin	5.000mg	04010100	101659	04010100	Melatonin	TRUE	
+88941000033110	3925811000001106	Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd)	Ativan 4mg/1ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Lorazepam	4.000mg/1.000ml		97		Lorazepam	FALSE	TRUE
+901941000033111	42132011000001102	Meprobamate 400mg tablets	Meprobamate 400mg tablets	Tablet/ Oral Tablet	Oral	Meprobamate	400.000mg	04010200	58209	04010200	Meprobamate	TRUE	
+9173541000033117	24509211000001105	Chloral hydrate 200mg/5ml oral suspension	Chloral hydrate 200mg/5ml oral suspension	Oral suspension	Oral	Chloral hydrate	40.000mg/1.000ml	04010100	369	04010100	Chloral hydrate	TRUE	
+9177941000033119	24510911000001105	Zopiclone 7.5mg/5ml oral solution	Zopiclone 7.5mg/5ml oral solution	Oral solution	Oral	Zopiclone	1.500mg/1.000ml	04010100	2342	04010100	Zopiclone	TRUE	
+939441000033114	514911000001107	Mogadon 5mg tablets (Viatris UK Healthcare Ltd)	Mogadon 5mg tablets	Tablet/ Oral Tablet	Oral	Nitrazepam	5.000mg		24546		Nitrazepam	FALSE	TRUE
+974341000033116	42132311000001104	Nitrazepam 2.5mg/5ml oral suspension	Nitrazepam 2.5mg/5ml oral suspension	Oral suspension	Oral	Nitrazepam	500.000microgram/1.000ml	04010100	101650	04010100	Nitrazepam	TRUE	
+975341000033115	42132411000001106	Nitrazepam 5mg tablets	Nitrazepam 5mg tablets	Tablet/ Oral Tablet	Oral	Nitrazepam	5.000mg	04010100	11516995	04010100	Nitrazepam	TRUE	
+9776141000033110	28012811000001102	Melatonin 2.5mg/5ml oral solution	Melatonin 2.5mg/5ml oral solution	Oral solution	Oral	Melatonin	500.000microgram/1.000ml	04010100	3971	04010100	Melatonin	TRUE	
