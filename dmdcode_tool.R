@@ -196,7 +196,10 @@ gold_txt <- file.path(oxcprd_001b_gold_dmd, "product/product_202601.txt")
 aurum_txt <- file.path(oxcprd_001b_aurum_dmd, "product/CPRDAurumProduct_202601.txt")
 
 # group_A <- file.path(oxcprd_001b_gold_dmd, "v1.2_dementia_drugs_GOLD.txt")
-group_A <- file.path(oxcprd_001b_aurum_dmd, "nhsbsa_0411.txt")
+
+bnf_prefix <- '0411'
+
+group_A <- file.path(oxcprd_001b_aurum_dmd, paste0("nhsbsa_", bnf_prefix, ".txt"))
 
 group_B <- file.path(aurum_txt)
 

@@ -18,8 +18,15 @@ path <- file.path(
 # Read everything as text first
 dt <- as.data.table(read_excel(path, col_types = "text"))
 
-# Rows with BNF code starting 0410010
-dt_bf <- dt[grepl("^(0401|0402|0403)", `BNF Code`)]
+bnf_prefix <- "0401_0402_0403"
+
+bnf_grep <- if (grepl("_", bnf_prefix)) {
+  paste0("^(", gsub("_", "|", bnf_prefix), ")")
+} else {
+  paste0("^", bnf_prefix)
+}
+
+dt_bf <- dt[grepl(bnf_grep, `BNF Code`)]
 
 message(nrow(dt_bf))
 
@@ -60,4 +67,4 @@ dt_final <- dt_final[, .(
 
 setnames(dt_final, "SNOMED Code", "dmdid")
 
-fwrite(dt_final, file.path(root, "nhsbsa_0401_0402_0403.txt"), sep = "\t")
+fwrite(dt_final, file.path(root, paste0("nhsbsa_", bnf_prefix, ".txt")), sep = "\t")

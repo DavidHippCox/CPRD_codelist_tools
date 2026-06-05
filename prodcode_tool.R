@@ -227,9 +227,11 @@ aurum_txt <- file.path(oxcprd_001b_aurum_prodcodes, "product/CPRDAurumProduct_20
 
 # group_A <- file.path(oxcprd_001b_aurum_prodcodes, "products_0411.txt")
 
-group_A <- file.path(oxcprd_001b_aurum_prodcodes, "nhsbsa_0411_aurum.txt")
+bnf_prefix <- '0401_0402_0403'
 
-group_B <- file.path(oxcprd_001b_aurum_prodcodes, "v0_dementia_drug_AURUM.txt")
+group_A <- file.path(oxcprd_001b_aurum_prodcodes, paste0("nhsbsa_", bnf_prefix, "_aurum.txt"))
+
+group_B <- file.path(oxcprd_001b_aurum_prodcodes, "v0_medication_codes_AURUM.txt")
 
 save_aurum <- file.path(oxcprd_001b_aurum_prodcodes, "compare")
 # ---- Choose lookup depending on type ----
