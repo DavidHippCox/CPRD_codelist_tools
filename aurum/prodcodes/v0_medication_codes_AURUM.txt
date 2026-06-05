@@ -106,6 +106,7 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 11707441000033119	32960811000001102	Fluoxetine 30mg capsules	Fluoxetine 30mg capsules	Capsule/ Oral capsule	Oral	Fluoxetine hydrochloride	30.000mg	04030300	203725	antidepressants	
 11707541000033118	42271911000001108	Fluoxetine 40mg capsules	Fluoxetine 40mg capsules	Capsule/ Oral capsule	Oral	Fluoxetine hydrochloride	40.000mg	04030300	464441	antidepressants	
 11718041000033112	28413211000001101	Icenia Melatonin 3mg capsules (Imported (Bulgaria))	Icenia Melatonin 3mg capsules	Capsule/ Oral capsule		Melatonin	3.000mg	04010100	84	anxiety_and_hypnotics	
+11724841000033116	16102411000001104	Valproic acid 500mg/5ml oral suspension	Valproic acid 500mg/5ml oral suspension	Oral suspension	Oral	Valproate semisodium	100.000mg/1.000ml	04080100	227	antipsychotics - review	
 11730041000033115	22635511000001100	Quetiapine 200mg/5ml oral suspension	Quetiapine 200mg/5ml oral suspension	Oral suspension	Oral	Quetiapine fumarate	40.000mg/1.000ml	04020100	203	antipsychotics	
 1173841000033113	343311000001101	Risperdal 1mg/ml oral solution (Janssen-Cilag Ltd)	Risperdal 1mg/ml oral solution	Oral solution	Oral	Risperidone	1.000mg/1.000ml	04020100	25429	antipsychotics	
 1173941000033117	42278811000001109	Risperidone 1mg/ml oral solution sugar free	Risperidone 1mg/ml oral solution sugar free	Oral solution	Oral	Risperidone	1.000mg/1.000ml	04020100	486843	antipsychotics	
@@ -195,6 +196,7 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 1294841000033118	276511000001108	Sinequan 75mg capsules (Pfizer Ltd)	Sinequan 75mg capsules	Capsule/ Oral capsule	Oral	Doxepin hydrochloride	75.000mg	04030100	6664	antidepressants	
 12988741000033118	36905011000001104	Olanzapine 2.5mg orodispersible tablets sugar free	Olanzapine 2.5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	2.500mg	04020100	848	antipsychotics	
 12988841000033111	36905111000001103	Olanzapine 7.5mg orodispersible tablets sugar free	Olanzapine 7.5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	7.500mg	04020100	259	antipsychotics	
+12989241000033116	36871311000001102	Dutor 20mg gastro-resistant capsules (Torrent Pharma (UK) Ltd)	Dutor 20mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Duloxetine hydrochloride	20.000mg		<5	antidepressants-review	
 12990341000033118	36868411000001105	Arpoya 5mg tablets (Torrent Pharma (UK) Ltd)	Arpoya 5mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	5.000mg	04020100	37	antipsychotics	
 12990441000033112	36868711000001104	Arpoya 10mg tablets (Torrent Pharma (UK) Ltd)	Arpoya 10mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	10.000mg	04020100	6	antipsychotics	
 13000041000033115	36811611000001101	Melatonin 1mg modified-release tablets	Melatonin 1mg modified-release tablets	Modified-release tablet	Oral	Melatonin	1.000mg	04010100	35198	anxiety_and_hypnotics	
@@ -450,6 +452,7 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 2077941000033117	91711000001108	Zyprexa 5mg Velotabs (Neon Healthcare Ltd)	Zyprexa 5mg Velotabs	Oral lyophilisate	Oral	Olanzapine	5.000mg	04020100	11361	antipsychotics	
 2078041000033119	897111000001104	Zyprexa 10mg Velotabs (Neon Healthcare Ltd)	Zyprexa 10mg Velotabs	Oral lyophilisate	Oral	Olanzapine	10.000mg	04020100	13689	antipsychotics	
 2078841000033114	4071311000001107	Lomont 70mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd)	Lomont 70mg/5ml oral suspension	Oral suspension	Oral	Lofepramine hydrochloride	14.000mg/1.000ml	04030100	185	antidepressants	
+2086041000033112	4316811000001103	Chloral hydrate crystals	Chloral hydrate crystals	Not applicable	Route of administration not applicable	Chloral hydrate	1.000mg/1.000mg	19040000	142	anxiety_and_hypnotics - review	
 213841000033116	879511000001105	Camcolit 250 tablets (Essential Pharma Ltd)	Camcolit 250 tablets	Tablet/ Oral Tablet	Oral	Lithium carbonate	250.000mg	04020300	85660	antipsychotics	
 215541000033117	250211000001105	Camcolit 400 modified-release tablets (Essential Pharma Ltd)	Camcolit 400 modified-release tablets	Modified-release tablet	Oral	Lithium carbonate	400.000mg	04020300	149739	antipsychotics	
 2188141000033115	526611000001101	Risperdal 500microgram tablets (Janssen-Cilag Ltd)	Risperdal 500microgram tablets	Tablet/ Oral Tablet	Oral	Risperidone	500.000microgram	04020100	81906	antipsychotics	
