@@ -1,4 +1,4 @@
-medcode	readcode	description	type	clinicalevents	immunisationevents	referralevents	testevents
+medcode	readcode	readterm	type	clinicalevents	immunisationevents	referralevents	testevents
 102493	8Ht..00	Admission to nursing home	R	1018	0	0	0
 107443	9NFW000	Care home visit for initial patient assessment	R	9554	0	13	0
 42191	ZLG3.00	Discharge to residential home	R	534	0	<5	0

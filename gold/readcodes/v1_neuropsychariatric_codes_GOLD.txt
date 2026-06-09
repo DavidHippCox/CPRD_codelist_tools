@@ -1,4 +1,4 @@
-medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease	nsp_subtype
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease	nsp_subtype
 50868	E123.11	36	0	<5	0	Folie a deux	February 2009	psychosis
 31455	E12yz00	202	0	<5	0	Other paranoid states NOS	February 2009	psychosis
 1915	1BH..00	14854	0	1639	<5	Delusions	February 2009	psychosis

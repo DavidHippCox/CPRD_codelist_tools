@@ -1,4 +1,4 @@
-medcode	readcode	description	N	subtype	early onset	strict_phenotype	Comments
+medcode	readcode	readterm	N	subtype	early onset	strict_phenotype	Comments
 41920	E011z00	Alcohol amnestic syndrome NOS		Alcohol		Korsakov's syndrome	
 18636	E011200	Wernicke-Korsakov syndrome		Alcohol		Korsakov's syndrome	
 4500	E011000	Korsakov's alcoholic psychosis		Alcohol		Korsakov's syndrome	

@@ -1,4 +1,4 @@
-medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease
 16225	E010.00	2300	0	90	0	Alcohol withdrawal delirium	February 2009
 22277	E010.11	1305	0	34	0	DTs - delirium tremens	February 2009
 1476	E010.12	2545	0	246	0	Delirium tremens	February 2009

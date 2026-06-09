@@ -1,4 +1,4 @@
-medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease
 45997	E021.00	296	0	<5	0	Drug-induced paranoia or hallucinatory states	February 2009
 12628	E021000	1056	0	41	0	Drug-induced paranoid state	February 2009
 20026	E021100	471	0	35	0	Drug-induced hallucinosis	February 2009

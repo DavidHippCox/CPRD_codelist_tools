@@ -1,4 +1,4 @@
-medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	description	databaserelease
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease
 32159	E112400	548	0	5	0	Single major depressive episode, severe, with psychosis	February 2009
 24171	E113400	830	0	9	0	Recurrent major depressive episodes, severe, with psychosis	February 2009
 8478	E130.00	2314	0	54	0	Reactive depressive psychosis	February 2009
