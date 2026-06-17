@@ -1,4 +1,4 @@
-prodcode	therapyevents	dmdcode	bnfcode	drugtypes	description	alcohol_detoxification	Remove?
+prodcode	therapyevents	dmdcode	bnfcode	drugtypes	productname	alcohol_detoxification	Remove?
 37606	137	10664611000001100	04020102	antipsychotics	Abilify 10mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd)		
 24358	7919	7637111000001104	04020102	antipsychotics	Abilify 10mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd)		
 38010	150	10664911000001106	04020102	antipsychotics	Abilify 15mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd)		

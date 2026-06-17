@@ -1,0 +1,91 @@
+medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease	subtype	early onset	strict_phenotype	comments
+41920	E011z00	9	0	<5	0	Alcohol amnestic syndrome NOS	February 2009	Alcohol		Korsakov's syndrome	
+18636	E011200	769	0	22	0	Wernicke-Korsakov syndrome	February 2009	Alcohol		Korsakov's syndrome	
+4500	E011000	2528	0	67	0	Korsakov's alcoholic psychosis	February 2009	Alcohol		Korsakov's syndrome	
+11670	Eu10611	596	0	9	0	[X]Korsakov's psychosis, alcohol induced	February 2009	Alcohol		Korsakov's syndrome	
+39799	Eu10600	189	0	<5	0	[X]Mental and behav dis due to use alcohol: amnesic syndrome	February 2009	Alcohol		Korsakov's syndrome	
+20762	E011.00	122	0	<5	0	Alcohol amnestic syndrome	February 2009	Alcohol		Korsakov's syndrome	
+11106	E011100	130	0	<5	0	Korsakov's alcoholic psychosis with peripheral neuritis	February 2009	Alcohol		Korsakov's syndrome	
+27342	E012.11	1205	0	34	0	Alcoholic dementia NOS	February 2009	Alcohol		Alcoholic dementia	
+37946	E012000	157	0	0	0	Chronic alcoholic brain syndrome	February 2009	Alcohol		Alcoholic dementia	
+54505	E012.00	273	0	<5	0	Other alcoholic dementia	February 2009	Alcohol		Alcoholic dementia	
+26323	Eu10711	1040	0	24	0	[X]Alcoholic dementia NOS	February 2009	Alcohol		Alcoholic dementia	
+37691	Eu10712	509	0	<5	0	[X]Chronic alcoholic brain syndrome	February 2009	Alcohol		Alcoholic dementia	
+47555	F11x000	158	0	<5	0	Cerebral degeneration due to alcoholism	February 2009	Alcohol		Alcoholic dementia	
+1917	F110.00	94621	0	2331	<5	Alzheimer's disease	February 2009	Alzheimer's disease		0	
+16797	F110000	1254	0	41	0	Alzheimer's disease with early onset	February 2009	Alzheimer's disease	E	0	
+32057	F110100	1504	0	12	0	Alzheimer's disease with late onset	February 2009	Alzheimer's disease		0	
+19477	E004.00	3797	0	132	0	Arteriosclerotic dementia	February 2009	Vascular dementia		0	
+42279	E004z00	412	0	10	0	Arteriosclerotic dementia NOS	February 2009	Vascular dementia		0	
+56912	E004100	46	0	<5	0	Arteriosclerotic dementia with delirium	February 2009	Vascular dementia		0	
+43292	E004300	122	0	<5	0	Arteriosclerotic dementia with depression	February 2009	Vascular dementia		0	
+55467	E004200	57	0	6	0	Arteriosclerotic dementia with paranoia	February 2009	Vascular dementia		0	
+109790	8CMe000	1581	0	5	0	Dementia advance care plan	June 2015	Unspecified		0	
+108228	8CSA.00	4759	0	<5	0	Dementia advance care plan agreed	June 2014	Unspecified		0	
+108391	8IAe000	174	0	0	0	Dementia advance care plan declined	July 2014	Unspecified		0	
+110075	8IAe200	58	0	0	0	Dementia advance care plan review declined	September 2015	Unspecified		0	
+109731	8CMZ000	5838	0	5	0	Dementia care plan agreed	June 2015	Unspecified		0	
+109786	8CMZ200	210	0	0	0	Dementia care plan declined	June 2015	Unspecified		0	
+110123	8CMZ300	149	0	0	0	Dementia care plan review declined	September 2015	Unspecified		0	
+109708	8CMZ100	30147	0	113	0	Dementia care plan reviewed	June 2015	Unspecified		0	
+25386	E041.00	2831	0	40	0	Dementia in conditions EC	February 2009	Unspecified		0	
+109737	8BM0200	1914	0	9	0	Dementia medication review	June 2015	Unspecified		0	
+44341	9hD..00	286	0	0	0	Exception reporting: dementia quality indicators	February 2009	Unspecified		0	
+114713	F118100	413	0	<5	0	Frontotemporal dementia	March 2020	Frontotemporal dementia		0	
+7572	F116.00	2430	0	50	0	Lewy body disease	February 2009	Lewy body dementia		0	
+107282	28E0.00	13399	0	41	0	Mild cognitive impairment	November 2013	Mild cognitive impairment	E	0	
+8634	E004.11	5924	0	181	0	Multi infarct dementia	February 2009	Vascular dementia		0	
+11136	F111.00	375	0	13	0	Pick's disease	February 2009	Frontotemporal dementia		0	
+15165	E001.00	2483	0	180	0	Presenile dementia	February 2009	Unspecified	E	0	
+38438	E001z00	323	0	<5	0	Presenile dementia NOS	February 2009	Unspecified	E	0	
+49513	E001100	211	0	8	0	Presenile dementia with delirium	February 2009	Unspecified	E	0	
+27677	E001300	145	0	5	0	Presenile dementia with depression	February 2009	Unspecified	E	0	
+30032	E001200	172	0	31	0	Presenile dementia with paranoia	February 2009	Unspecified	E	0	
+110522	8T05200	16	0	11	0	Referral for dementia assessment	January 2016	Unspecified		0	
+108268	8CMG200	11313	0	48	0	Review of dementia advance care plan	July 2014	Unspecified		0	
+29512	F112.00	756	0	29	0	Senile degeneration of brain	February 2009	Unspecified		0	
+1916	E00..11	38240	0	1641	<5	Senile dementia	February 2009	Unspecified		0	
+37015	E003.00	1170	0	11	0	Senile dementia with delirium	February 2009	Unspecified		0	
+21887	E002100	916	0	48	0	Senile dementia with depression	February 2009	Unspecified		0	
+44674	E002.00	341	0	12	0	Senile dementia with depressive or paranoid features	February 2009	Unspecified		0	
+41089	E002z00	57	0	<5	0	Senile dementia with depressive or paranoid features NOS	February 2009	Unspecified		0	
+18386	E002000	687	0	59	0	Senile dementia with paranoia	February 2009	Unspecified		0	
+1350	E00..12	79964	0	8699	12	Senile/presenile dementia	February 2009	Unspecified		0	
+43089	E004000	131	0	<5	0	Uncomplicated arteriosclerotic dementia	February 2009	Vascular dementia		0	
+42602	E001000	56	0	<5	0	Uncomplicated presenile dementia	February 2009	Unspecified	E	0	
+7323	E000.00	21708	0	1246	0	Uncomplicated senile dementia	February 2009	Unspecified		0	
+48501	Eu02z11	110	0	<5	0	[X] Presenile dementia NOS	February 2009	Unspecified	E	0	
+34944	Eu02z13	118	0	15	0	[X] Primary degenerative dementia NOS	February 2009	Unspecified		0	
+4357	Eu02z14	16249	0	788	0	[X] Senile dementia NOS	February 2009	Unspecified		0	
+27759	Eu02z16	214	0	15	0	[X] Senile dementia, depressed or paranoid type	February 2009	Unspecified		0	
+4693	Eu02z00	68484	0	1289	0	[X] Unspecified dementia	February 2009	Unspecified		0	
+8195	Eu00z11	15356	0	165	0	[X]Alzheimer's dementia unspec	February 2009	Alzheimer's disease		0	
+46762	Eu00111	95	0	0	0	[X]Alzheimer's disease type 1	February 2009	Alzheimer's disease		0	
+61528	Eu00013	18	0	0	0	[X]Alzheimer's disease type 2	February 2009	Alzheimer's disease		0	
+9565	Eu01.11	1288	0	37	0	[X]Arteriosclerotic dementia	February 2009	Vascular dementia		0	
+30706	Eu00200	9239	0	19	0	[X]Dementia in Alzheimer's dis, atypical or mixed type	February 2009	Unspecified		0	
+7664	Eu00.00	48151	0	621	0	[X]Dementia in Alzheimer's disease	February 2009	Alzheimer's disease	apply to <65 for EO	0	apply to <65 for EO
+49263	Eu00000	797	0	<5	0	[X]Dementia in Alzheimer's disease with early onset	February 2009	Alzheimer's disease	E	0	Wilkinson et al 
+38678	Eu00100	1790	0	<5	0	[X]Dementia in Alzheimer's disease with late onset	February 2009	Alzheimer's disease	IF they have a code in either place, we go with it. 	0	 
+29386	Eu00z00	2028	0	30	0	[X]Dementia in Alzheimer's disease, unspecified	February 2009	Alzheimer's disease		0	
+54106	Eu02100	52	0	<5	0	[X]Dementia in Creutzfeldt-Jakob disease	February 2009	Dementia in CJD		0	
+37014	Eu02200	294	0	15	0	[X]Dementia in Huntington's disease	February 2009	Dementia in HD		0	
+9509	Eu02300	3594	0	188	0	[X]Dementia in Parkinson's disease	February 2009	Parkinson's disease		0	
+28402	Eu02000	268	0	11	0	[X]Dementia in Pick's disease	February 2009	Frontotemporal dementia		0	
+41185	Eu02400	38	0	0	0	[X]Dementia in human immunodef virus [HIV] disease	February 2009	Dementia in HIV		0	
+12621	Eu02.00	1545	0	16	0	[X]Dementia in other diseases classified elsewhere	February 2009	Unspecified		0	
+64267	Eu02y00	134	0	<5	0	[X]Dementia in other specified diseases classif elsewhere	February 2009	Unspecified		0	
+26270	Eu02500	6082	0	131	0	[X]Lewy body dementia	February 2009	Lewy body dementia		0	
+31016	Eu01300	3703	0	19	0	[X]Mixed cortical and subcortical vascular dementia	February 2009	Vascular dementia		0	
+11175	Eu01100	1736	0	68	0	[X]Multi-infarct dementia	February 2009	Vascular dementia		0	
+59122	Fyu3000	29	0	0	0	[X]Other Alzheimer's disease	February 2009	Alzheimer's disease		0	
+55313	Eu01y00	657	0	<5	0	[X]Other vascular dementia	February 2009	Vascular dementia		0	
+55838	Eu01111	53	0	<5	0	[X]Predominantly cortical dementia	February 2009	Unspecified		0	
+25704	Eu00011	72	0	0	0	[X]Presenile dementia,Alzheimer's type	February 2009	Alzheimer's disease	E	0	
+43346	Eu00113	101	0	0	0	[X]Primary degen dementia of Alzheimer's type, senile onset	February 2009	Alzheimer's disease		0	
+60059	Eu00012	36	0	<5	0	[X]Primary degen dementia, Alzheimer's type, presenile onset	February 2009	Alzheimer's disease	E	0	
+11379	Eu00112	1786	0	20	0	[X]Senile dementia,Alzheimer's type	February 2009	Alzheimer's disease		0	
+8934	Eu01200	544	0	<5	0	[X]Subcortical vascular dementia	February 2009	Vascular dementia		0	
+6578	Eu01.00	88101	0	1207	0	[X]Vascular dementia	February 2009	Vascular dementia		0	
+46488	Eu01000	80	0	0	0	[X]Vascular dementia of acute onset	February 2009	Vascular dementia		0	
+19393	Eu01z00	1664	0	17	0	[X]Vascular dementia, unspecified	February 2009	Vascular dementia		0	

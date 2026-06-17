@@ -1,4 +1,4 @@
-MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	alc_category	strict_phenotype	history_of	DHC_comments	AT/NF comments
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	alc_category	strict_phenotype	history_of	DHC_comments	AT_NF_comments
 106878015	7312	8BA8	8BA8.00	Alcohol detoxification	64297001	106878015		32	aud				
 11930971000006115	5	^ESCT1193097		CIWA-Ar - Clinical Institute Withdrawal Assessment for Alcohol scale, revised	895761000000107	2304881000000113		32	aud			aud - do not derive score	
 117761000006116	16243	1369	1369.00	Denies alcohol abuse	413968004	2534341013		17	check_upd				

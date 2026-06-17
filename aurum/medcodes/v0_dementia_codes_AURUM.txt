@@ -1,4 +1,4 @@
-MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	subtype	early onset	strict_phenotype	comments
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	subtype	early_onset	strict_phenotype	comments
 11914891000006110	<5	^ESCT1191489		[X]Dementia in Alzheimer's dis, atypical or mixed type	419261000000107	971721000000116		31	Alzheimer's disease			
 12106351000006118	128	^ESCT1210635		Behavioural and psychological symptoms of dementia	10171000132106	3672961016		31	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
 12106371000006111	157	^ESCT1210637		BPSD - behavioral and psychological symptoms of dementia	10171000132106	3672960015		31	Unspecified			not for subtyping (including unspecified) just evidence of to get index date
