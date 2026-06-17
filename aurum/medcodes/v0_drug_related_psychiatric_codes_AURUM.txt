@@ -1,12 +1,12 @@
 MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
 11777101000006116	810	^ESCT1177710		Psychoactive substance-induced withdrawal syndrome	74934004	3533677015		32
-13716031000006110	9	^ESCT1371603		Bipolar disorder caused by drug	16238741000119105	3774679017		
+13716031000006110	9	^ESCT1371603		Bipolar disorder caused by drug	16238741000119105	3774679017		32
 14500861000006111	95	^ESCT1450086		Hallucinosis caused by drug	191486006	4552520015		32
 14612951000006111	384	^ESCT1461295		Organic mental disorder caused by cocaine	46975003	4670024012		32
 14627031000006112	18	^ESCT1462703		Delirium caused by drug	191492000	4672793010		32
-14793071000006118	<5	^ESCT1479307		Psychostimulant dependence continuous	1231336007	5072333014		
+14793071000006118	<5	^ESCT1479307		Psychostimulant dependence continuous	1231336007	5072333014		32
 15072361000006116	2593	^ESCT1507236		Psychoactive substance withdrawal	74934004	5143562012		32
-16076841000006111	317	^ESCT1607684		Harmful pattern of use of psychoactive substance	91388009	5362333013		
+16076841000006111	317	^ESCT1607684		Harmful pattern of use of psychoactive substance	91388009	5362333013		32
 294679011	2102	E021	E021.00	Drug-induced paranoia or hallucinatory states	191484009	294679011		32
 294680014	4309	E0210	E021000	Drug-induced paranoid state	191485005	294680014		32
 294681013	981	E0211	E021100	Drug-induced hallucinosis	191486006	294681013		32
@@ -62,7 +62,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 398001000006114	<5	Eu186	Eu18600	[X]Mental and behav dis due to use vol solvents: amnesic syn	91388009	151411015		32
 398011000006112	59	Eu182	Eu18200	[X]Mental and behav dis due to vol solvents: dependence synd	91388009	151411015		32
 398021000006116	10	Eu166	Eu16600	[X]Mental and behav dis due use hallucinogens: amnesic syndr	91388009	151411015		32
-398031000006118	58	Eu183	Eu18300	[X]Mental and behav dis due vol solvents: withdrawal state	74934004	3533677015		
+398031000006118	58	Eu183	Eu18300	[X]Mental and behav dis due vol solvents: withdrawal state	74934004	3533677015		32
 398041000006111	112	Eu181	Eu18100	[X]Mental and behav dis due volatile solvents: harmful use	91388009	151411015		32
 398061000006110	1094	Eu192	Eu19200	[X]Mental and behav dis mlti/oth psych sbs: dependence syndr	91388009	151411015		32
 398071000006115	68	Eu193	Eu19300	[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state	91388009	151411015		32
