@@ -1,7 +1,7 @@
 icd10	description	alc_category	strict_phenotype
 G31.2	Degeneration of nervous system due to alcohol	aud	 Alcoholic dementia
 F10	Alcohol-related conditions	aud	
-F10.0	Acute intoxication	aud	
+F10.0	Acute intoxication		
 F10.1	Harmful use	aud	
 F10.2	Dependence syndrome	aud	
 F10.3	Withdrawal state	aud	
