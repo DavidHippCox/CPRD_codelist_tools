@@ -1,0 +1,1192 @@
+BNF Code	dmdid	DM+D: Product Description	VTM	VTM Name
+0906027G0AAABAB	34820511000001105	Vitamin B compound strong tablets		
+0906027G0AAABAB	2918311000001105	Vitamin B compound strong tablets		
+0906027G0AAABAB	2918411000001103	Vitamin B compound strong tablets		
+0906027G0AAABAB	12499711000001101	Vitamin B compound strong tablets		
+0906027G0AAABAB	2918911000001106	Vitamin B compound strong tablets (A A H Pharmaceuticals Ltd)		
+0906027G0AAABAB	2919211000001107	Vitamin B compound strong tablets (A A H Pharmaceuticals Ltd)		
+0906027G0AAABAB	3303311000001102	Vitamin B compound strong tablets (Accord-UK Ltd)		
+0906027G0AAABAB	2919511000001105	Vitamin B compound strong tablets (Accord-UK Ltd)		
+0906027G0AAABAB	3305411000001108	Vitamin B compound strong tablets (The Boots Company Plc)		
+0906027G0AAABAB	2919611000001109	Vitamin B compound strong tablets (The Boots Company Plc)		
+0906027G0AAABAB	3306611000001101	Vitamin B compound strong tablets (Kent Pharma (UK) Ltd)		
+0906027G0AAABAB	2919911000001103	Vitamin B compound strong tablets (Kent Pharma (UK) Ltd)		
+0906027G0AAABAB	2920211000001106	Vitamin B compound strong tablets (Kent Pharma (UK) Ltd)		
+0906027G0AAABAB	12499811000001109	Vitamin B compound strong tablets (Kent Pharma (UK) Ltd)		
+0906027G0AAABAB	3307111000001107	Vitamin B compound strong tablets (Alliance Healthcare (Distribution) Ltd)		
+0906027G0AAABAB	2920511000001109	Vitamin B compound strong tablets (Alliance Healthcare (Distribution) Ltd)		
+0906027G0AAABAB	2920611000001108	Vitamin B compound strong tablets (Alliance Healthcare (Distribution) Ltd)		
+0906027G0BGAAAB	3038711000001101	Topfit Vitamin B Complex Forte tablets (Topfit Health Products Ltd)		
+0906027G0BGAAAB	3039211000001103	Topfit Vitamin B Complex Forte tablets (Topfit Health Products Ltd)		
+0906027G0AAABAB	9798711000001109	Vitamin B compound strong tablets (Almus Pharmaceuticals Ltd)		
+0906027G0AAABAB	9799211000001107	Vitamin B compound strong tablets (Almus Pharmaceuticals Ltd)		
+0906027G0AAABAB	14165911000001106	Vitamin B compound strong tablets (Healthcare Pharma Ltd)		
+0906027G0AAABAB	43728311000001101	Vitamin B compound strong tablets (Healthcare Pharma Ltd)		
+0906027G0AAABAB	14166011000001103	Vitamin B compound strong tablets (Healthcare Pharma Ltd)		
+0906027G0AAABAB	15978911000001101	Vitamin B compound strong tablets (Zanza Specials International Ltd)		
+0906027G0AAABAB	15979011000001105	Vitamin B compound strong tablets (Zanza Specials International Ltd)		
+0906027G0AAABAB	15979111000001106	Vitamin B compound strong tablets (Zanza Specials International Ltd)		
+0906027G0AAABAB	22755211000001108	Vitamin B compound strong tablets (Teva UK Ltd)		
+0906027G0AAABAB	22755311000001100	Vitamin B compound strong tablets (Teva UK Ltd)		
+0906027G0AAABAB	32811711000001109	Vitamin B compound strong tablets (Genesis Pharmaceuticals Ltd)		
+0906027G0AAABAB	32812211000001109	Vitamin B compound strong tablets (Genesis Pharmaceuticals Ltd)		
+0906027G0AAABAB	35570311000001105	Vitamin B compound strong tablets (NorthStar Healthcare Unlimited Company)		
+0906027G0AAABAB	35570411000001103	Vitamin B compound strong tablets (NorthStar Healthcare Unlimited Company)		
+0906027G0AAABAB	37272611000001106	Vitamin B compound strong tablets (Mawdsley-Brooks & Company Ltd)		
+0906027G0AAABAB	37272711000001102	Vitamin B compound strong tablets (Mawdsley-Brooks & Company Ltd)		
+0906027G0AAABAB	37831611000001105	Vitamin B compound strong tablets (DE Pharmaceuticals)		
+0906027G0AAABAB	37831711000001101	Vitamin B compound strong tablets (DE Pharmaceuticals)		
+0906027G0AAABAB	37831811000001109	Vitamin B compound strong tablets (DE Pharmaceuticals)		
+0906027G0BMABAB	38083711000001104	B-CoVita Strong tablets (Essential-Healthcare Ltd)		
+0906027G0BMABAB	38083811000001107	B-CoVita Strong tablets (Essential-Healthcare Ltd)		
+0906027G0BLABAB	39562711000001106	CobiVit Strong tablets (TriOn Pharma Ltd)		
+0906027G0BLABAB	39562811000001103	CobiVit Strong tablets (TriOn Pharma Ltd)		
+0906027G0AAABAB	39906111000001100	Vitamin B compound strong tablets (Medihealth (Northern) Ltd)		
+0906027G0AAABAB	39906211000001106	Vitamin B compound strong tablets (Medihealth (Northern) Ltd)		
+0906027G0BNAAAB	42584611000001100	Purosure Vitamin B compound strong tablets (Biovantic Pharma Ltd)		
+0906027G0BNAAAB	42584811000001101	Purosure Vitamin B compound strong tablets (Biovantic Pharma Ltd)		
+0906027G0AAABAB	42906811000001100	Vitamin B compound strong tablets (AAH Hillcross)		
+0906027G0AAABAB	42907011000001109	Vitamin B compound strong tablets (AAH Hillcross)		
+0906027G0AAABAB	44000911000001107	Vitamin B compound strong tablets (Crescent Pharma Ltd)		
+0906027G0AAABAB	44001011000001104	Vitamin B compound strong tablets (Crescent Pharma Ltd)		
+0906027G0AAAAAA	34820411000001106	Vitamin B compound tablets	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	2920711000001104	Vitamin B compound tablets	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	2920811000001107	Vitamin B compound tablets	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	2920911000001102	Vitamin B compound tablets	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	12499511000001106	Vitamin B compound tablets	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	12686411000001102	Vitamin B compound tablets	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	12686511000001103	Vitamin B compound tablets	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	2921011000001105	Vitamin B compound tablets (Kent Pharma (UK) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	12499411000001107	Vitamin B compound tablets (Kent Pharma (UK) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	2921111000001106	Vitamin B compound tablets (Kent Pharma (UK) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	12499611000001105	Vitamin B compound tablets (Kent Pharma (UK) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	3303111000001104	Vitamin B compound tablets (Sandoz Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	2921311000001108	Vitamin B compound tablets (Sandoz Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	3304911000001104	Vitamin B compound tablets (Alliance Healthcare (Distribution) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	2921511000001102	Vitamin B compound tablets (Alliance Healthcare (Distribution) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	21234511000001103	Vitamin B compound tablets (Alliance Healthcare (Distribution) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BGABAA	3036811000001108	Topfit Vitamin B Complex tablets (Topfit Health Products Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BGABAA	3036911000001103	Topfit Vitamin B Complex tablets (Topfit Health Products Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BGABAA	12686711000001108	Topfit Vitamin B Complex tablets (Topfit Health Products Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BGABAA	12686911000001105	Topfit Vitamin B Complex tablets (Topfit Health Products Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	5897211000001109	Vitamin B compound tablets (A A H Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	5897311000001101	Vitamin B compound tablets (A A H Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	16446211000001109	Vitamin B compound tablets (A A H Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	14165711000001109	Vitamin B compound tablets (Healthcare Pharma Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	14165811000001101	Vitamin B compound tablets (Healthcare Pharma Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15202211000001102	Vitamin B compound tablets (Sigma Pharmaceuticals Plc)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15202411000001103	Vitamin B compound tablets (Sigma Pharmaceuticals Plc)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15610211000001103	Vitamin B compound tablets (Strides Pharma UK Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15610311000001106	Vitamin B compound tablets (Strides Pharma UK Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15777211000001101	Vitamin B compound tablets (BR Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15777411000001102	Vitamin B compound tablets (BR Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15777511000001103	Vitamin B compound tablets (BR Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	15777311000001109	Vitamin B compound tablets (BR Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	17876311000001108	Vitamin B compound tablets (Phoenix Healthcare Distribution Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	17876411000001101	Vitamin B compound tablets (Phoenix Healthcare Distribution Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	18954311000001103	Vitamin B compound tablets (Ennogen Healthcare International Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	18954611000001108	Vitamin B compound tablets (Ennogen Healthcare International Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	20557411000001109	Vitamin B compound tablets (Dalkeith Laboratories Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	20557511000001108	Vitamin B compound tablets (Dalkeith Laboratories Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	21838211000001102	Vitamin B compound tablets (Cubic Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	21838311000001105	Vitamin B compound tablets (Cubic Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	22388011000001102	Vitamin B compound tablets (Waymade Healthcare Plc)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	22388111000001101	Vitamin B compound tablets (Waymade Healthcare Plc)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	22468511000001101	Vitamin B compound tablets (DE Pharmaceuticals)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	24410511000001108	Vitamin B compound tablets (DE Pharmaceuticals)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	22468611000001102	Vitamin B compound tablets (DE Pharmaceuticals)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	22625311000001109	Vitamin B compound tablets (Colorama Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	22625411000001102	Vitamin B compound tablets (Colorama Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	30764811000001107	Vitamin B compound tablets (Almus Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	30764911000001102	Vitamin B compound tablets (Almus Pharmaceuticals Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	36105311000001103	Vitamin B compound tablets (Crescent Pharma Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	36105411000001105	Vitamin B compound tablets (Crescent Pharma Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BLAAAA	37902011000001105	CobiVit Vitamin B compound tablets (TriOn Pharma Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BLAAAA	37902111000001106	CobiVit Vitamin B compound tablets (TriOn Pharma Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BMAAAA	38083911000001102	B-CoVita Compound tablets (Essential-Healthcare Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0BMAAAA	38084211000001109	B-CoVita Compound tablets (Essential-Healthcare Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	39906311000001103	Vitamin B compound tablets (Medihealth (Northern) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906027G0AAAAAA	39906411000001105	Vitamin B compound tablets (Medihealth (Northern) Ltd)	13292601000001109	Nicotinamide + Riboflavine + Thiamine
+0906026M0AAAFAF	41989611000001107	Thiamine 50mg tablets	777739002	Thiamine
+0906026M0AAAFAF	3050611000001106	Thiamine 50mg tablets	777739002	Thiamine
+0906026M0AAAFAF	32691811000001109	Thiamine 50mg tablets	777739002	Thiamine
+0906026M0BBAJAF	3050711000001102	Benerva 50mg tablets (Teofarma S.r.l.)	777739002	Thiamine
+0906026M0BBAJAF	3050811000001105	Benerva 50mg tablets (Teofarma S.r.l.)	777739002	Thiamine
+0906026M0AAAFAF	7850511000001103	Thiamine 50mg tablets (Alliance Healthcare (Distribution) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	7850611000001104	Thiamine 50mg tablets (Alliance Healthcare (Distribution) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	32782811000001109	Thiamine 50mg tablets (Alliance Healthcare (Distribution) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	8940511000001104	Thiamine 50mg tablets (Kent Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	8940611000001100	Thiamine 50mg tablets (Kent Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	32692511000001103	Thiamine 50mg tablets (Kent Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	9051711000001107	Thiamine 50mg tablets (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAFAF	9051811000001104	Thiamine 50mg tablets (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAFAF	32777111000001107	Thiamine 50mg tablets (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAFAF	14165311000001105	Thiamine 50mg tablets (Healthcare Pharma Ltd)	777739002	Thiamine
+0906026M0AAAFAF	14165411000001103	Thiamine 50mg tablets (Healthcare Pharma Ltd)	777739002	Thiamine
+0906026M0BGAAAF	14603611000001104	Tyvera 50mg tablets (Auden McKenzie (Pharma Division) Ltd)	777739002	Thiamine
+0906026M0BGAAAF	14603811000001100	Tyvera 50mg tablets (Auden McKenzie (Pharma Division) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	15978011000001100	Thiamine 50mg tablets (Zanza Specials International Ltd)	777739002	Thiamine
+0906026M0AAAFAF	15978111000001104	Thiamine 50mg tablets (Zanza Specials International Ltd)	777739002	Thiamine
+0906026M0BGACAF	18275011000001100	Tyvera 50mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0BGACAF	18275311000001102	Tyvera 50mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0BGAEAF	18401111000001105	Tyvera 50mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0BGAEAF	18401211000001104	Tyvera 50mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0AAAFAF	33525211000001104	Thiamine 50mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAFAF	33525311000001107	Thiamine 50mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAFAF	34035811000001100	Thiamine 50mg tablets (Accord-UK Ltd)	777739002	Thiamine
+0906026M0AAAFAF	34035911000001105	Thiamine 50mg tablets (Accord-UK Ltd)	777739002	Thiamine
+0906026M0AAAFAF	34564811000001105	Thiamine 50mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0AAAFAF	34565011000001100	Thiamine 50mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0AAAFAF	34564911000001100	Thiamine 50mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0BIABAF	36912311000001105	ThiamEss 50mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BIABAF	36912411000001103	ThiamEss 50mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0AAAFAF	36937211000001105	Thiamine 50mg tablets (NorthStar Healthcare Unlimited Company)	777739002	Thiamine
+0906026M0AAAFAF	36937311000001102	Thiamine 50mg tablets (NorthStar Healthcare Unlimited Company)	777739002	Thiamine
+0906026M0AAAFAF	37269111000001100	Thiamine 50mg tablets (Mawdsley-Brooks & Company Ltd)	777739002	Thiamine
+0906026M0AAAFAF	37269411000001105	Thiamine 50mg tablets (Mawdsley-Brooks & Company Ltd)	777739002	Thiamine
+0906026M0AAAFAF	37269311000001103	Thiamine 50mg tablets (Mawdsley-Brooks & Company Ltd)	777739002	Thiamine
+0906026M0AAAFAF	37825211000001108	Thiamine 50mg tablets (DE Pharmaceuticals)	777739002	Thiamine
+0906026M0AAAFAF	37825411000001107	Thiamine 50mg tablets (DE Pharmaceuticals)	777739002	Thiamine
+0906026M0AAAFAF	37825311000001100	Thiamine 50mg tablets (DE Pharmaceuticals)	777739002	Thiamine
+0906026M0BJABAF	38903411000001102	Athiam 50mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BJABAF	38903511000001103	Athiam 50mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BKABAF	38922011000001106	ThiaDose 50mg tablets (TriOn Pharma Ltd)	777739002	Thiamine
+0906026M0BKABAF	38922211000001101	ThiaDose 50mg tablets (TriOn Pharma Ltd)	777739002	Thiamine
+0906026M0AAAFAF	39414111000001106	Thiamine 50mg tablets (Flamingo Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	39414211000001100	Thiamine 50mg tablets (Flamingo Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	39414311000001108	Thiamine 50mg tablets (Flamingo Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	39906711000001104	Thiamine 50mg tablets (Medihealth (Northern) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	39906811000001107	Thiamine 50mg tablets (Medihealth (Northern) Ltd)	777739002	Thiamine
+0906026M0AAAFAF	39907011000001103	Thiamine 50mg tablets (Medihealth (Northern) Ltd)	777739002	Thiamine
+0906026M0BLAAAF	42587011000001104	Purosure Thiamine 50mg tablets (Biovantic Pharma Ltd)	777739002	Thiamine
+0906026M0BLAAAF	42587111000001103	Purosure Thiamine 50mg tablets (Biovantic Pharma Ltd)	777739002	Thiamine
+0906026M0AAAFAF	42752811000001100	Thiamine 50mg tablets (Genesis Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAFAF	42753711000001100	Thiamine 50mg tablets (Genesis Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAFAF	42764311000001108	Thiamine 50mg tablets (AAH Hillcross)	777739002	Thiamine
+0906026M0AAAFAF	42764411000001101	Thiamine 50mg tablets (AAH Hillcross)	777739002	Thiamine
+0906026M0AAAFAF	45682911000001106	Thiamine 50mg tablets (Alissa Healthcare Research Ltd)	777739002	Thiamine
+0906026M0AAAFAF	45683011000001103	Thiamine 50mg tablets (Alissa Healthcare Research Ltd)	777739002	Thiamine
+0906026M0AAAGAG	41989511000001108	Thiamine 100mg tablets	777739002	Thiamine
+0906026M0AAAGAG	3051111000001109	Thiamine 100mg tablets	777739002	Thiamine
+0906026M0AAAGAG	32692811000001100	Thiamine 100mg tablets	777739002	Thiamine
+0906026M0BBAKAG	3051511000001100	Benerva 100mg tablets (Teofarma S.r.l.)	777739002	Thiamine
+0906026M0BBAKAG	3051911000001107	Benerva 100mg tablets (Teofarma S.r.l.)	777739002	Thiamine
+0906026M0AAAGAG	5633611000001100	Thiamine 100mg tablets (Kent Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	5634011000001109	Thiamine 100mg tablets (Kent Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	32693011000001102	Thiamine 100mg tablets (Kent Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	7850711000001108	Thiamine 100mg tablets (Alliance Healthcare (Distribution) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	7850811000001100	Thiamine 100mg tablets (Alliance Healthcare (Distribution) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	32782911000001104	Thiamine 100mg tablets (Alliance Healthcare (Distribution) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	9051911000001109	Thiamine 100mg tablets (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAGAG	9052011000001102	Thiamine 100mg tablets (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAGAG	32777211000001101	Thiamine 100mg tablets (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAGAG	14165511000001104	Thiamine 100mg tablets (Healthcare Pharma Ltd)	777739002	Thiamine
+0906026M0AAAGAG	14165611000001100	Thiamine 100mg tablets (Healthcare Pharma Ltd)	777739002	Thiamine
+0906026M0BGABAG	14604611000001101	Tyvera 100mg tablets (Auden McKenzie (Pharma Division) Ltd)	777739002	Thiamine
+0906026M0BGABAG	14604711000001105	Tyvera 100mg tablets (Auden McKenzie (Pharma Division) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	15978211000001105	Thiamine 100mg tablets (Zanza Specials International Ltd)	777739002	Thiamine
+0906026M0AAAGAG	15978311000001102	Thiamine 100mg tablets (Zanza Specials International Ltd)	777739002	Thiamine
+0906026M0BGADAG	18276011000001109	Tyvera 100mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0BGADAG	18276111000001105	Tyvera 100mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0BGAFAG	18401311000001107	Tyvera 100mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0BGAFAG	18401411000001100	Tyvera 100mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0AAAGAG	32403911000001103	Thiamine 100mg tablets (Accord-UK Ltd)	777739002	Thiamine
+0906026M0AAAGAG	32404011000001100	Thiamine 100mg tablets (Accord-UK Ltd)	777739002	Thiamine
+0906026M0AAAGAG	33525411000001100	Thiamine 100mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAGAG	33525511000001101	Thiamine 100mg tablets (Almus Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AAAGAG	34565111000001104	Thiamine 100mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0AAAGAG	34565311000001102	Thiamine 100mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0AAAGAG	34565211000001105	Thiamine 100mg tablets (Teva UK Ltd)	777739002	Thiamine
+0906026M0BIAAAG	36912111000001108	ThiamEss 100mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BIAAAG	36912211000001102	ThiamEss 100mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0AAAGAG	36917311000001107	Thiamine 100mg tablets (NorthStar Healthcare Unlimited Company)	777739002	Thiamine
+0906026M0AAAGAG	36917411000001100	Thiamine 100mg tablets (NorthStar Healthcare Unlimited Company)	777739002	Thiamine
+0906026M0AAAGAG	37144911000001106	Thiamine 100mg tablets (Mawdsley-Brooks & Company Ltd)	777739002	Thiamine
+0906026M0AAAGAG	37145111000001107	Thiamine 100mg tablets (Mawdsley-Brooks & Company Ltd)	777739002	Thiamine
+0906026M0AAAGAG	37145011000001106	Thiamine 100mg tablets (Mawdsley-Brooks & Company Ltd)	777739002	Thiamine
+0906026M0AAAGAG	37824311000001104	Thiamine 100mg tablets (DE Pharmaceuticals)	777739002	Thiamine
+0906026M0AAAGAG	37824711000001100	Thiamine 100mg tablets (DE Pharmaceuticals)	777739002	Thiamine
+0906026M0AAAGAG	37824511000001105	Thiamine 100mg tablets (DE Pharmaceuticals)	777739002	Thiamine
+0906026M0BJAAAG	38903211000001101	Athiam 100mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BJAAAG	38903311000001109	Athiam 100mg tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BKAAAG	38921611000001105	ThiaDose 100mg tablets (TriOn Pharma Ltd)	777739002	Thiamine
+0906026M0BKAAAG	38921711000001101	ThiaDose 100mg tablets (TriOn Pharma Ltd)	777739002	Thiamine
+0906026M0AAAGAG	39413811000001102	Thiamine 100mg tablets (Flamingo Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	39413911000001107	Thiamine 100mg tablets (Flamingo Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	39414011000001105	Thiamine 100mg tablets (Flamingo Pharma (UK) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	39906511000001109	Thiamine 100mg tablets (Medihealth (Northern) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	39906611000001108	Thiamine 100mg tablets (Medihealth (Northern) Ltd)	777739002	Thiamine
+0906026M0AAAGAG	39906911000001102	Thiamine 100mg tablets (Medihealth (Northern) Ltd)	777739002	Thiamine
+0906026M0BLABAG	42590411000001108	Purosure Thiamine 100mg tablets (Biovantic Pharma Ltd)	777739002	Thiamine
+0906026M0BLABAG	42590511000001107	Purosure Thiamine 100mg tablets (Biovantic Pharma Ltd)	777739002	Thiamine
+0906026M0AAAGAG	42764711000001107	Thiamine 100mg tablets (AAH Hillcross)	777739002	Thiamine
+0906026M0AAAGAG	42764911000001109	Thiamine 100mg tablets (AAH Hillcross)	777739002	Thiamine
+0906026M0AAAGAG	45683111000001102	Thiamine 100mg tablets (Alissa Healthcare Research Ltd)	777739002	Thiamine
+0906026M0AAAGAG	45683211000001108	Thiamine 100mg tablets (Alissa Healthcare Research Ltd)	777739002	Thiamine
+0906024N0AAAIAI	41987911000001108	Pyridoxine 50mg tablets	777369007	Pyridoxine
+0906024N0AAAIAI	3052011000001100	Pyridoxine 50mg tablets	777369007	Pyridoxine
+0906024N0AAAIAI	3053911000001108	Pyridoxine 50mg tablets	777369007	Pyridoxine
+0906024N0AAAIAI	7531211000001107	Pyridoxine 50mg tablets	777369007	Pyridoxine
+0906024N0AAAIAI	10350511000001108	Pyridoxine 50mg tablets	777369007	Pyridoxine
+0906024N0AAAIAI	3054611000001104	Pyridoxine 50mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3054811000001100	Pyridoxine 50mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	10137911000001107	Pyridoxine 50mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3055211000001100	Pyridoxine 50mg tablets (Wockhardt UK Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3055511000001102	Pyridoxine 50mg tablets (Wockhardt UK Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3055811000001104	Pyridoxine 50mg tablets (Kent Pharma (UK) Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3055911000001109	Pyridoxine 50mg tablets (Kent Pharma (UK) Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3056011000001101	Pyridoxine 50mg tablets (Kent Pharma (UK) Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3056111000001100	Pyridoxine 50mg tablets (Alliance Healthcare (Distribution) Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	3056211000001106	Pyridoxine 50mg tablets (Alliance Healthcare (Distribution) Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	10350611000001107	Pyridoxine 50mg tablets (Alliance Healthcare (Distribution) Ltd)	777369007	Pyridoxine
+0906024N0BGAAAI	7531111000001101	HealthAid Vitamin B6 50mg tablets (HealthAid Ltd)	777369007	Pyridoxine
+0906024N0BGAAAI	7531311000001104	HealthAid Vitamin B6 50mg tablets (HealthAid Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	14164811000001102	Pyridoxine 50mg tablets (Healthcare Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	14164911000001107	Pyridoxine 50mg tablets (Healthcare Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	15974611000001102	Pyridoxine 50mg tablets (Zanza Specials International Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	15974711000001106	Pyridoxine 50mg tablets (Zanza Specials International Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	15974811000001103	Pyridoxine 50mg tablets (Zanza Specials International Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	30082011000001107	Pyridoxine 50mg tablets (DE Pharmaceuticals)	777369007	Pyridoxine
+0906024N0AAAIAI	30082111000001108	Pyridoxine 50mg tablets (DE Pharmaceuticals)	777369007	Pyridoxine
+0906024N0CMACAI	36447011000001104	PyridoxEss 50mg tablets (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0CMACAI	36447111000001103	PyridoxEss 50mg tablets (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0CLADAI	37962211000001104	PyriDose 50mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CLADAI	37962311000001107	PyriDose 50mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CNACAI	38792911000001107	Pyrid-B6 50mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CNACAI	38793011000001104	Pyrid-B6 50mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAAIAI	41509011000001108	Pyridoxine 50mg tablets (Somex Pharma)	777369007	Pyridoxine
+0906024N0AAAIAI	41509111000001109	Pyridoxine 50mg tablets (Somex Pharma)	777369007	Pyridoxine
+0906024N0CQAAAI	42573811000001109	Purosure Pyridoxine 50mg tablets (Biovantic Pharma Ltd)	777369007	Pyridoxine
+0906024N0CQAAAI	42574011000001101	Purosure Pyridoxine 50mg tablets (Biovantic Pharma Ltd)	777369007	Pyridoxine
+0906024N0CRACAI	45555711000001101	ActiPyrid 50mg tablets (Northumbria Pharma Ltd)	777369007	Pyridoxine
+0906024N0CRACAI	45555811000001109	ActiPyrid 50mg tablets (Northumbria Pharma Ltd)	777369007	Pyridoxine
+0906022K0AAAAAA	41987011000001109	Nicotinamide 50mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAAAA	4054511000001101	Nicotinamide 50mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAAAA	20348611000001106	Nicotinamide 50mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAAAA	21966911000001105	Nicotinamide 50mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAAAA	41724311000001102	Nicotinamide 50mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAAAA	4054611000001102	Nicotinamide 50mg tablets (The Boots Company Plc)	13297701000001102	Nicotinamide
+0906022K0AAAAAA	4054711000001106	Nicotinamide 50mg tablets (The Boots Company Plc)	13297701000001102	Nicotinamide
+0906022K0AAAAAA	4054811000001103	Nicotinamide 50mg tablets (Sandoz Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAAAA	4054911000001108	Nicotinamide 50mg tablets (Sandoz Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAAAA	4055011000001108	Nicotinamide 50mg tablets (Alliance Healthcare (Distribution) Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAAAA	4055111000001109	Nicotinamide 50mg tablets (Alliance Healthcare (Distribution) Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAAAA	20348711000001102	Nicotinamide 50mg tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAAAA	20348811000001105	Nicotinamide 50mg tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0BDACAA	21967011000001109	Niatin 50mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BDACAA	21967111000001105	Niatin 50mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BGADAA	38795811000001109	NicoVit-B3 50mg tablets (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BGADAA	38795911000001104	NicoVit-B3 50mg tablets (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BHAEAA	41724211000001105	AceNic 50mg tablets (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BHAEAA	41724411000001109	AceNic 50mg tablets (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+090602800AAAVAV	41744211000001107	Potassium aminobenzoate 500mg tablets	777265004	Potassium aminobenzoate
+090602800AAAVAV	4093011000001104	Potassium aminobenzoate 500mg tablets	777265004	Potassium aminobenzoate
+090602800AAAVAV	4100411000001105	Potassium aminobenzoate 500mg tablets	777265004	Potassium aminobenzoate
+090602800BBCNAV	4093111000001103	Potaba 500mg tablets (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800BBCNAV	4093311000001101	Potaba 500mg tablets (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800BBCNAV	4100511000001109	Potaba 500mg tablets (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800AACZCZ	4195011000001105	Generic Berocca effervescent tablets sugar free		
+090602800AACZCZ	4185811000001100	Generic Berocca effervescent tablets sugar free		
+090602800AACZCZ	13755611000001104	Generic Berocca effervescent tablets sugar free		
+090602800AACZCZ	13755711000001108	Generic Berocca effervescent tablets sugar free		
+090602800AACZCZ	15601411000001105	Generic Berocca effervescent tablets sugar free		
+090602800BBECCZ	4186111000001101	Berocca effervescent tablets orange (Bayer Plc)		
+090602800BBECCZ	4186311000001104	Berocca effervescent tablets orange (Bayer Plc)		
+090602800BBECCZ	13756011000001102	Berocca effervescent tablets orange (Bayer Plc)		
+090602800BBECCZ	13756211000001107	Berocca effervescent tablets orange (Bayer Plc)		
+090602800BBECCZ	15602111000001105	Berocca effervescent tablets orange (Bayer Plc)		
+090602800BBJJCZ	23163911000001106	Berocca effervescent tablets mixed berries (Bayer Plc)		
+090602800BBJJCZ	23164011000001109	Berocca effervescent tablets mixed berries (Bayer Plc)		
+090602800BBJJCZ	23164111000001105	Berocca effervescent tablets mixed berries (Bayer Plc)		
+090602800BBJJCZ	35998011000001106	Berocca effervescent tablets mixed berries (Bayer Plc)		
+090602800BBJKCZ	23164211000001104	Berocca effervescent tablets tropical (Bayer Plc)		
+090602800BBJKCZ	23164311000001107	Berocca effervescent tablets tropical (Bayer Plc)		
+090602800BBJLCZ	27914611000001105	Berocca effervescent tablets mango (Bayer Plc)		
+090602800BBJLCZ	27915711000001102	Berocca effervescent tablets mango (Bayer Plc)		
+090602800BBJLCZ	27916011000001108	Berocca effervescent tablets mango (Bayer Plc)		
+090602800BBJLCZ	35997911000001109	Berocca effervescent tablets mango (Bayer Plc)		
+090602800BBJNCZ	35106711000001109	Berocca effervescent tablets blackcurrant (Bayer Plc)		
+090602800BBJNCZ	35106811000001101	Berocca effervescent tablets blackcurrant (Bayer Plc)		
+090602800BBJNCZ	35997811000001104	Berocca effervescent tablets blackcurrant (Bayer Plc)		
+090602800AAANAN	41744111000001101	Potassium aminobenzoate 500mg capsules	777265004	Potassium aminobenzoate
+090602800AAANAN	4218411000001108	Potassium aminobenzoate 500mg capsules	777265004	Potassium aminobenzoate
+090602800BBCLAN	4218511000001107	Potaba 500mg capsules (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800BBCLAN	4218611000001106	Potaba 500mg capsules (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+0906024N0AAAGAG	41987711000001106	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	4232911000001106	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	4233011000001103	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	4233111000001102	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	4233211000001108	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	4574111000001106	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	7614711000001104	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	18509411000001106	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0AAAGAG	21679711000001108	Pyridoxine 10mg tablets	777369007	Pyridoxine
+0906024N0BQAAAG	4233611000001105	Valupak Vitamin B6 10mg tablets (BR Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0BQAAAG	4233811000001109	Valupak Vitamin B6 10mg tablets (BR Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0BGABAG	4234811000001107	HealthAid Vitamin B6 10mg tablets (HealthAid Ltd)	777369007	Pyridoxine
+0906024N0BGABAG	4235011000001102	HealthAid Vitamin B6 10mg tablets (HealthAid Ltd)	777369007	Pyridoxine
+0906024N0CDAAAG	4235411000001106	NatraVits Vitamin B6 10mg tablets (NatraHealth Ltd)	777369007	Pyridoxine
+0906024N0CDAAAG	4235611000001109	NatraVits Vitamin B6 10mg tablets (NatraHealth Ltd)	777369007	Pyridoxine
+0906024N0BPAAAG	4236011000001106	Premier Vitamin B6 10mg tablets (Premier Health Products Ltd)	777369007	Pyridoxine
+0906024N0BPAAAG	4236211000001101	Premier Vitamin B6 10mg tablets (Premier Health Products Ltd)	777369007	Pyridoxine
+0906024N0BSAAAG	4236311000001109	Topfit Vitamin B6 10mg tablets (Topfit Health Products Ltd)	777369007	Pyridoxine
+0906024N0BSAAAG	4236811000001100	Topfit Vitamin B6 10mg tablets (Topfit Health Products Ltd)	777369007	Pyridoxine
+0906024N0BSAAAG	4236611000001104	Topfit Vitamin B6 10mg tablets (Topfit Health Products Ltd)	777369007	Pyridoxine
+0906024N0BSAAAG	4237011000001109	Topfit Vitamin B6 10mg tablets (Topfit Health Products Ltd)	777369007	Pyridoxine
+0906024N0BSAAAG	18509511000001105	Topfit Vitamin B6 10mg tablets (Topfit Health Products Ltd)	777369007	Pyridoxine
+0906024N0CBAAAG	4237511000001101	Pure Health Vitamin B6 10mg tablets (Lexon (UK) Ltd)	777369007	Pyridoxine
+0906024N0CBAAAG	4237711000001106	Pure Health Vitamin B6 10mg tablets (Lexon (UK) Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	4574011000001105	Pyridoxine 10mg tablets (Alliance Healthcare (Distribution) Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	4574211000001100	Pyridoxine 10mg tablets (Alliance Healthcare (Distribution) Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	28095111000001101	Pyridoxine 10mg tablets (Alliance Healthcare (Distribution) Ltd)	777369007	Pyridoxine
+0906024N0BNAAAG	7615211000001107	Superdrug Vitamin B6 One A Day 10mg tablets (Superdrug)	777369007	Pyridoxine
+0906024N0BNAAAG	7615311000001104	Superdrug Vitamin B6 One A Day 10mg tablets (Superdrug)	777369007	Pyridoxine
+0906024N0BYAAAG	7900211000001104	Tesco Vitamin B6 10mg tablets (Tesco Plc)	777369007	Pyridoxine
+0906024N0BYAAAG	7900311000001107	Tesco Vitamin B6 10mg tablets (Tesco Plc)	777369007	Pyridoxine
+0906024N0AAAGAG	10137211000001103	Pyridoxine 10mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	10137611000001101	Pyridoxine 10mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	22235011000001106	Pyridoxine 10mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	15777611000001104	Pyridoxine 10mg tablets (BR Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	15777711000001108	Pyridoxine 10mg tablets (BR Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	18168811000001106	Pyridoxine 10mg tablets (Phoenix Healthcare Distribution Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	18168911000001101	Pyridoxine 10mg tablets (Phoenix Healthcare Distribution Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	18751111000001109	Pyridoxine 10mg tablets (Ennogen Healthcare Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	18751211000001103	Pyridoxine 10mg tablets (Ennogen Healthcare Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	19567411000001104	Pyridoxine 10mg tablets (Inventica Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	19567511000001100	Pyridoxine 10mg tablets (Inventica Pharma Ltd)	777369007	Pyridoxine
+0906024N0CHAAAG	21018711000001103	Pyrid-10 tablets (Ennogen Healthcare International Ltd)	777369007	Pyridoxine
+0906024N0CHAAAG	21018811000001106	Pyrid-10 tablets (Ennogen Healthcare International Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	21679811000001100	Pyridoxine 10mg tablets (Tor Generics Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	21679911000001105	Pyridoxine 10mg tablets (Tor Generics Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	22452111000001103	Pyridoxine 10mg tablets (DE Pharmaceuticals)	777369007	Pyridoxine
+0906024N0AAAGAG	22452211000001109	Pyridoxine 10mg tablets (DE Pharmaceuticals)	777369007	Pyridoxine
+0906024N0AAAGAG	22833511000001109	Pyridoxine 10mg tablets (Colorama Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	28264111000001107	Pyridoxine 10mg tablets (Colorama Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	22833611000001108	Pyridoxine 10mg tablets (Colorama Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	28263611000001102	Pyridoxine 10mg tablets (Colorama Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	24412911000001102	Pyridoxine 10mg tablets (CST Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	24413011000001105	Pyridoxine 10mg tablets (CST Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	24577311000001102	Pyridoxine 10mg tablets (Mawdsley-Brooks & Company Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	24577611000001107	Pyridoxine 10mg tablets (Mawdsley-Brooks & Company Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	24650611000001103	Pyridoxine 10mg tablets (Sigma Pharmaceuticals Plc)	777369007	Pyridoxine
+0906024N0AAAGAG	24650711000001107	Pyridoxine 10mg tablets (Sigma Pharmaceuticals Plc)	777369007	Pyridoxine
+0906024N0AAAGAG	27014711000001109	Pyridoxine 10mg tablets (Icarus Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	27014911000001106	Pyridoxine 10mg tablets (Icarus Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	28086511000001102	Pyridoxine 10mg tablets (J M McGill Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	28086611000001103	Pyridoxine 10mg tablets (J M McGill Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	28917311000001100	Pyridoxine 10mg tablets (Niche Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAAGAG	28917411000001107	Pyridoxine 10mg tablets (Niche Pharma Ltd)	777369007	Pyridoxine
+0906024N0CLAAAG	35314011000001106	PyriDose 10mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CLAAAG	35314111000001107	PyriDose 10mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CMAAAG	36446611000001109	PyridoxEss 10mg tablets (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0CMAAAG	36446711000001100	PyridoxEss 10mg tablets (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0CNAAAG	38791811000001106	Pyrid-B6 10mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CNAAAG	38792011000001108	Pyrid-B6 10mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CQABAG	42583611000001103	Purosure Pyridoxine 10mg tablets (Biovantic Pharma Ltd)	777369007	Pyridoxine
+0906024N0CQABAG	42583811000001104	Purosure Pyridoxine 10mg tablets (Biovantic Pharma Ltd)	777369007	Pyridoxine
+0906024N0CRAAAG	45555311000001100	ActiPyrid 10mg tablets (Northumbria Pharma Ltd)	777369007	Pyridoxine
+0906024N0CRAAAG	45555411000001107	ActiPyrid 10mg tablets (Northumbria Pharma Ltd)	777369007	Pyridoxine
+0906024N0AABJBJ	4245611000001108	Pyridoxine 10mg capsules	777369007	Pyridoxine
+0906024N0AABJBJ	4234011000001101	Pyridoxine 10mg capsules	777369007	Pyridoxine
+0906024N0AABJBJ	8770711000001101	Pyridoxine 10mg capsules	777369007	Pyridoxine
+0906024N0BUABBJ	4234311000001103	Seven Seas Vitamin B6 10mg capsules (Seven Seas Ltd)	777369007	Pyridoxine
+0906024N0BUABBJ	4234411000001105	Seven Seas Vitamin B6 10mg capsules (Seven Seas Ltd)	777369007	Pyridoxine
+0906024N0AABJBJ	8771911000001106	Pyridoxine 10mg capsules (Special Order)	777369007	Pyridoxine
+0906024N0AABJBJ	8772111000001103	Pyridoxine 10mg capsules (Special Order)	777369007	Pyridoxine
+0906025P0AABFBF	4289111000001107	Riboflavin 50mg capsules	777436008	Riboflavin
+0906025P0AABFBF	4284611000001103	Riboflavin 50mg capsules	777436008	Riboflavin
+0906025P0AABFBF	4284711000001107	Riboflavin 50mg capsules	777436008	Riboflavin
+0906025P0AABFBF	8772411000001108	Riboflavin 50mg capsules	777436008	Riboflavin
+0906025P0AABFBF	34183811000001101	Riboflavin 50mg capsules	777436008	Riboflavin
+0906025P0AABFBF	4284811000001104	Riboflavin 50mg capsules (Lamberts Healthcare Ltd)	777436008	Riboflavin
+0906025P0AABFBF	4284911000001109	Riboflavin 50mg capsules (Lamberts Healthcare Ltd)	777436008	Riboflavin
+0906025P0AABFBF	4285011000001109	Riboflavin 50mg capsules (BioCare Ltd)	777436008	Riboflavin
+0906025P0AABFBF	4285111000001105	Riboflavin 50mg capsules (BioCare Ltd)	777436008	Riboflavin
+0906025P0BKAABF	7885011000001106	B-2-50 capsules (Bio-Tech Pharmacal Inc)	777436008	Riboflavin
+0906025P0BKAABF	7885111000001107	B-2-50 capsules (Bio-Tech Pharmacal Inc)	777436008	Riboflavin
+0906025P0AABFBF	8772611000001106	Riboflavin 50mg capsules (Special Order)	777436008	Riboflavin
+0906025P0AABFBF	8773411000001104	Riboflavin 50mg capsules (Special Order)	777436008	Riboflavin
+0906025P0BFABBF	21035511000001106	E-B2 50mg capsules (Ennogen Healthcare Ltd)	777436008	Riboflavin
+0906025P0BFABBF	21035611000001105	E-B2 50mg capsules (Ennogen Healthcare Ltd)	777436008	Riboflavin
+0906025P0BIAABF	34183711000001109	G & G Vitamin B2 50mg capsules (G & G Food Supplies Ltd)	777436008	Riboflavin
+0906025P0BIAABF	34183911000001106	G & G Vitamin B2 50mg capsules (G & G Food Supplies Ltd)	777436008	Riboflavin
+0906025P0BNAABF	37073911000001100	RiboVit B2 50mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BNAABF	37074011000001102	RiboVit B2 50mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BPAABF	37769111000001105	RiboEss 50mg capsules (Essential-Healthcare Ltd)	777436008	Riboflavin
+0906025P0BPAABF	37769211000001104	RiboEss 50mg capsules (Essential-Healthcare Ltd)	777436008	Riboflavin
+0906025P0BQAABF	38794311000001104	B2 RiboDose 50mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BQAABF	38794411000001106	B2 RiboDose 50mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+0906022K0AAAPAP	4288711000001104	Nicotinamide 250mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAPAP	4285211000001104	Nicotinamide 250mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAPAP	22646211000001105	Nicotinamide 250mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAPAP	28708811000001104	Nicotinamide 250mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAPAP	41724011000001100	Nicotinamide 250mg tablets	13297701000001102	Nicotinamide
+0906022K0AAAPAP	4285311000001107	Nicotinamide 250mg tablets (Lamberts Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAPAP	4285411000001100	Nicotinamide 250mg tablets (Lamberts Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BDADAP	22646311000001102	Niatin 250mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BDADAP	22646411000001109	Niatin 250mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAPAP	28709011000001100	Nicotinamide 250mg tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAPAP	40537511000001107	Nicotinamide 250mg tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAPAP	28709111000001104	Nicotinamide 250mg tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0BGAAAP	37073311000001101	NicoVit-B3 250mg tablets (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BGAAAP	37073411000001108	NicoVit-B3 250mg tablets (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BGAAAP	44988611000001108	NicoVit-B3 250mg tablets (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BHADAP	41723911000001103	AceNic 250mg tablets (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BHADAP	41724111000001104	AceNic 250mg tablets (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+090602800AAASAS	41744011000001102	Potassium aminobenzoate 3g oral powder sachets	777265004	Potassium aminobenzoate
+090602800AAASAS	4383811000001105	Potassium aminobenzoate 3g oral powder sachets	777265004	Potassium aminobenzoate
+090602800BBCMAS	4383911000001100	Potaba 3g sachets (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800BBCMAS	4384011000001102	Potaba 3g sachets (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800AAASAS	42493911000001104	Potassium para-aminobenzoate 3g oral powder sachets (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800AAASAS	42494111000001100	Potassium para-aminobenzoate 3g oral powder sachets (Neon Healthcare Ltd)	777265004	Potassium aminobenzoate
+090602800AAASAS	42678811000001106	Potassium para-aminobenzoate 3g oral powder sachets (Alliance Healthcare (Distribution) Ltd)	777265004	Potassium aminobenzoate
+090602800AAASAS	42678911000001101	Potassium para-aminobenzoate 3g oral powder sachets (Alliance Healthcare (Distribution) Ltd)	777265004	Potassium aminobenzoate
+0906024N0AABEBE	7722411000001104	Pyridoxine 100mg capsules	777369007	Pyridoxine
+0906024N0AABEBE	7702911000001100	Pyridoxine 100mg capsules	777369007	Pyridoxine
+0906024N0AABEBE	34184011000001109	Pyridoxine 100mg capsules	777369007	Pyridoxine
+0906024N0CKAABE	7703811000001102	Solgar Vitamin B6 100mg capsules (Solgar Vitamin and Herb)	777369007	Pyridoxine
+0906024N0CKAABE	7704211000001100	Solgar Vitamin B6 100mg capsules (Solgar Vitamin and Herb)	777369007	Pyridoxine
+0906024N0CJAABE	34184111000001105	G & G Vitamin B6 100mg capsules (G & G Food Supplies Ltd)	777369007	Pyridoxine
+0906024N0CJAABE	34184411000001100	G & G Vitamin B6 100mg capsules (G & G Food Supplies Ltd)	777369007	Pyridoxine
+090602800BBGDA0	7720311000001107	Inositol nicotinate 500mg capsules	13294001000001108	Inositol nicotinate
+090602800BBGDA0	7715411000001102	Inositol nicotinate 500mg capsules	13294001000001108	Inositol nicotinate
+090602800BBGDA0	7715511000001103	Solgar No-Flush Niacin 500mg capsules (Solgar Vitamin and Herb)	13294001000001108	Inositol nicotinate
+090602800BBGDA0	7715611000001104	Solgar No-Flush Niacin 500mg capsules (Solgar Vitamin and Herb)	13294001000001108	Inositol nicotinate
+090602300BBALA0	7719611000001101	Calcium pantothenate 550mg capsules	13293601000001103	Calcium pantothenate
+090602300BBALA0	7715711000001108	Calcium pantothenate 550mg capsules	13293601000001103	Calcium pantothenate
+090602300BBALA0	10247711000001107	Calcium pantothenate 550mg capsules	13293601000001103	Calcium pantothenate
+090602300BBALA0	7715811000001100	Solgar Pantothenic Acid 550mg capsules (Solgar Vitamin and Herb)	13293601000001103	Calcium pantothenate
+090602300BBALA0	7715911000001105	Solgar Pantothenic Acid 550mg capsules (Solgar Vitamin and Herb)	13293601000001103	Calcium pantothenate
+090602300BBALA0	10247811000001104	Solgar Pantothenic Acid 550mg capsules (Solgar Vitamin and Herb)	13293601000001103	Calcium pantothenate
+090602800AACYCY	7822611000001104	Pyridoxal phosphate 50mg gastro-resistant tablets	13295901000001106	Pyridoxal phosphate
+090602800AACYCY	7723711000001102	Pyridoxal phosphate 50mg gastro-resistant tablets	13295901000001106	Pyridoxal phosphate
+090602800AACYCY	32848411000001102	Pyridoxal phosphate 50mg gastro-resistant tablets	13295901000001106	Pyridoxal phosphate
+090602800BBJPCY	7723811000001105	Solgar P-5-P 50mg gastro-resistant tablets (Solgar Vitamin and Herb)	13295901000001106	Pyridoxal phosphate
+090602800BBJPCY	7723911000001100	Solgar P-5-P 50mg gastro-resistant tablets (Solgar Vitamin and Herb)	13295901000001106	Pyridoxal phosphate
+090602800AACYCY	32848511000001103	Pyridoxal phosphate 50mg gastro-resistant tablets (Special Order)	13295901000001106	Pyridoxal phosphate
+090602800AACYCY	32848611000001104	Pyridoxal phosphate 50mg gastro-resistant tablets (Special Order)	13295901000001106	Pyridoxal phosphate
+0906026M0AABLBL	7875611000001109	Thiamine 100mg modified-release tablets	777739002	Thiamine
+0906026M0AABLBL	7871711000001102	Thiamine 100mg modified-release tablets	777739002	Thiamine
+0906026M0AABLBL	39120311000001106	Thiamine 100mg modified-release tablets	777739002	Thiamine
+0906026M0BDAABL	7871911000001100	HealthAid Vitamin B1 100mg modified-release tablets (HealthAid Ltd)	777739002	Thiamine
+0906026M0BDAABL	7872211000001102	HealthAid Vitamin B1 100mg modified-release tablets (HealthAid Ltd)	777739002	Thiamine
+0906026M0BJADBL	39120211000001103	Athiam 100mg sustained release tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BJADBL	39120411000001104	Athiam 100mg sustained release tablets (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BKACBL	39561911000001102	ThiaDose 100mg modified-release tablets (TriOn Pharma Ltd)	777739002	Thiamine
+0906026M0BKACBL	39562011000001109	ThiaDose 100mg modified-release tablets (TriOn Pharma Ltd)	777739002	Thiamine
+0906025P0AABMBM	7903811000001105	Riboflavin 100mg modified-release tablets	777436008	Riboflavin
+0906025P0AABMBM	7880511000001108	Riboflavin 100mg modified-release tablets	777436008	Riboflavin
+0906025P0AABMBM	27748711000001108	Riboflavin 100mg modified-release tablets	777436008	Riboflavin
+0906025P0AABMBM	38056311000001104	Riboflavin 100mg modified-release tablets	777436008	Riboflavin
+0906025P0BLAABM	7880811000001106	HealthAid Vitamin B2 100mg modified-release tablets (HealthAid Ltd)	777436008	Riboflavin
+0906025P0BLAABM	7881011000001109	HealthAid Vitamin B2 100mg modified-release tablets (HealthAid Ltd)	777436008	Riboflavin
+0906025P0AABMBM	27748811000001100	Riboflavin 100mg modified-release tablets (Special Order)	777436008	Riboflavin
+0906025P0AABMBM	40533311000001108	Riboflavin 100mg modified-release tablets (Special Order)	777436008	Riboflavin
+0906025P0AABMBM	27748911000001105	Riboflavin 100mg modified-release tablets (Special Order)	777436008	Riboflavin
+0906025P0BNACBM	38056211000001107	RiboVit B2 100mg modified-release tablets (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BNACBM	38056411000001106	RiboVit B2 100mg modified-release tablets (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BPACBM	39120011000001108	RiboEss 100mg sustained release tablets (Essential-Healthcare Ltd)	777436008	Riboflavin
+0906025P0BPACBM	39120111000001109	RiboEss 100mg sustained release tablets (Essential-Healthcare Ltd)	777436008	Riboflavin
+0906023N0AAALAL	7902311000001106	Calcium pantothenate 750mg modified-release tablets	13293601000001103	Calcium pantothenate
+0906023N0AAALAL	7881111000001105	Calcium pantothenate 750mg modified-release tablets	13293601000001103	Calcium pantothenate
+0906023N0BCAAAL	7881311000001107	HealthAid Calcium pantothenate 750mg modified-release tablets (HealthAid Ltd)	13293601000001103	Calcium pantothenate
+0906023N0BCAAAL	7881611000001102	HealthAid Calcium pantothenate 750mg modified-release tablets (HealthAid Ltd)	13293601000001103	Calcium pantothenate
+0906022K0AAAQAQ	7903011000001104	Nicotinamide 250mg modified-release tablets	13297701000001102	Nicotinamide
+0906022K0AAAQAQ	7881811000001103	Nicotinamide 250mg modified-release tablets	13297701000001102	Nicotinamide
+0906022K0AAAQAQ	17323011000001104	Nicotinamide 250mg modified-release tablets	13297701000001102	Nicotinamide
+0906022K0BEAAAQ	7881911000001108	HealthAid Niacinamide 250mg modified-release tablets (HealthAid Ltd)	13297701000001102	Nicotinamide
+0906022K0BEAAAQ	7882011000001101	HealthAid Niacinamide 250mg modified-release tablets (HealthAid Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAQAQ	17323111000001103	Nicotinamide 250mg modified-release tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAQAQ	17323211000001109	Nicotinamide 250mg modified-release tablets (Special Order)	13297701000001102	Nicotinamide
+090602300BBCLA0	7902211000001103	Calcium pantothenate 250mg capsules	13293601000001103	Calcium pantothenate
+090602300BBCLA0	7885511000001103	Calcium pantothenate 250mg capsules	13293601000001103	Calcium pantothenate
+090602300BBCLA0	7885611000001104	Panto-250 capsules (Bio-Tech Pharmacal Inc)	13293601000001103	Calcium pantothenate
+090602300BBCLA0	7885711000001108	Panto-250 capsules (Bio-Tech Pharmacal Inc)	13293601000001103	Calcium pantothenate
+090602800AAALAL	7902611000001101	Dried yeast tablets	10569311000001100	Yeast
+090602800AAALAL	7891811000001102	Dried yeast tablets	10569311000001100	Yeast
+090602800AAALAL	9833311000001109	Dried yeast tablets	10569311000001100	Yeast
+090602800AAALAL	13589911000001100	Dried yeast tablets	10569311000001100	Yeast
+090602800AAALAL	24616011000001104	Dried yeast tablets	10569311000001100	Yeast
+090602800BBIPAL	7892011000001100	Valupak Brewers Yeast 300mg tablets (BR Pharmaceuticals Ltd)	10569311000001100	Yeast
+090602800BBIPAL	7892311000001102	Valupak Brewers Yeast 300mg tablets (BR Pharmaceuticals Ltd)	10569311000001100	Yeast
+090602800BBIPAL	24616111000001103	Valupak Brewers Yeast 300mg tablets (BR Pharmaceuticals Ltd)	10569311000001100	Yeast
+090602800BBBSAL	9833411000001102	Phillips Brewers Yeast tablets (Seven Seas Ltd)	10569311000001100	Yeast
+090602800BBBSAL	9833511000001103	Phillips Brewers Yeast tablets (Seven Seas Ltd)	10569311000001100	Yeast
+090602800BBBSAL	13590011000001108	Phillips Brewers Yeast tablets (Seven Seas Ltd)	10569311000001100	Yeast
+0906026V0AAABAB	8307411000001101	Vitamins B and C high potency intramuscular solution for injection 5ml and 2ml ampoules		
+0906026V0AAABAB	8286811000001107	Vitamins B and C high potency intramuscular solution for injection 5ml and 2ml ampoules		
+0906026V0BBABAB	8288311000001104	Pabrinex Intramuscular High Potency solution for injection 5ml and 2ml ampoules (Kyowa Kirin International UK NewCo Ltd)		
+0906026V0BBABAB	8290311000001100	Pabrinex Intramuscular High Potency solution for injection 5ml and 2ml ampoules (Kyowa Kirin International UK NewCo Ltd)		
+090602800AACFCF	8306111000001108	Biotin 10mg/5ml oral solution	774863007	Biotin
+090602800AACFCF	8290711000001101	Biotin 10mg/5ml oral solution	774863007	Biotin
+090602800AACFCF	8290911000001104	Biotin 10mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AACFCF	8291311000001105	Biotin 10mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AACFCF	8306011000001107	Biotin 10mg/5ml oral suspension	774863007	Biotin
+090602800AACFCF	8291611000001100	Biotin 10mg/5ml oral suspension	774863007	Biotin
+090602800AACFCF	8291711000001109	Biotin 10mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AACFCF	8291811000001101	Biotin 10mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AACUCU	8305611000001105	Biotin 5mg/5ml oral suspension	774863007	Biotin
+090602800AACUCU	8292311000001101	Biotin 5mg/5ml oral suspension	774863007	Biotin
+090602800AACUCU	8292511000001107	Biotin 5mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AACUCU	8292711000001102	Biotin 5mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AAAAAA	8305911000001104	Biotin 25mg/5ml oral solution	774863007	Biotin
+090602800AAAAAA	8292811000001105	Biotin 25mg/5ml oral solution	774863007	Biotin
+090602800AAAAAA	8293011000001108	Biotin 25mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AAAAAA	8293211000001103	Biotin 25mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AACUCU	8305711000001101	Biotin 5mg/5ml oral solution	774863007	Biotin
+090602800AACUCU	8292911000001100	Biotin 5mg/5ml oral solution	774863007	Biotin
+090602800AACUCU	8293111000001109	Biotin 5mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AACUCU	8293311000001106	Biotin 5mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AAAAAA	8305811000001109	Biotin 25mg/5ml oral suspension	774863007	Biotin
+090602800AAAAAA	8293411000001104	Biotin 25mg/5ml oral suspension	774863007	Biotin
+090602800AAAAAA	8293911000001107	Biotin 25mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AAAAAA	8294311000001108	Biotin 25mg/5ml oral suspension (Special Order)	774863007	Biotin
+0906026V0AAAAAA	8307611000001103	Vitamins B and C high potency intravenous solution for infusion 5ml and 5ml ampoules		
+0906026V0AAAAAA	8297811000001108	Vitamins B and C high potency intravenous solution for infusion 5ml and 5ml ampoules		
+0906026V0AAAAAA	33683411000001101	Vitamins B and C high potency intravenous solution for infusion 5ml and 5ml ampoules		
+0906026V0BBACAA	8298511000001109	Pabrinex Intravenous High Potency concentrate for solution for infusion 5ml and 5ml ampoules (Grunenthal Ltd)		
+0906026V0BBACAA	8299211000001101	Pabrinex Intravenous High Potency concentrate for solution for infusion 5ml and 5ml ampoules (Grunenthal Ltd)		
+0906026V0BBACAA	33683511000001102	Pabrinex Intravenous High Potency concentrate for solution for infusion 5ml and 5ml ampoules (Grunenthal Ltd)		
+0906026V0AAAAAA	43884811000001109	Vitamins B+C Intravenous high potency concentrate for solution for infusion 5ml and 5ml ampoules (Kent Pharma (UK) Ltd)		
+0906026V0AAAAAA	43885211000001109	Vitamins B+C Intravenous high potency concentrate for solution for infusion 5ml and 5ml ampoules (Kent Pharma (UK) Ltd)		
+0906026V0AAAAAA	45404711000001100	Vitamins B+C Intravenous high potency concentrate for solution for infusion 5ml and 5ml ampoules (Aspire Pharma Ltd)		
+0906026V0AAAAAA	45404811000001108	Vitamins B+C Intravenous high potency concentrate for solution for infusion 5ml and 5ml ampoules (Aspire Pharma Ltd)		
+0906024N0AAANAN	41987811000001103	Pyridoxine 20mg tablets	777369007	Pyridoxine
+0906024N0AAANAN	8394311000001101	Pyridoxine 20mg tablets	777369007	Pyridoxine
+0906024N0AAANAN	18751411000001104	Pyridoxine 20mg tablets	777369007	Pyridoxine
+0906024N0AAANAN	35313711000001106	Pyridoxine 20mg tablets	777369007	Pyridoxine
+0906024N0AAANAN	8394411000001108	Pyridoxine 20mg tablets (BR Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	8394511000001107	Pyridoxine 20mg tablets (BR Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	10137711000001105	Pyridoxine 20mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	10137811000001102	Pyridoxine 20mg tablets (A A H Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	18169011000001105	Pyridoxine 20mg tablets (Phoenix Healthcare Distribution Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	18169111000001106	Pyridoxine 20mg tablets (Phoenix Healthcare Distribution Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	18751311000001106	Pyridoxine 20mg tablets (Ennogen Healthcare Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	18751511000001100	Pyridoxine 20mg tablets (Ennogen Healthcare Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	19567611000001101	Pyridoxine 20mg tablets (Inventica Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	19567711000001105	Pyridoxine 20mg tablets (Inventica Pharma Ltd)	777369007	Pyridoxine
+0906024N0CIAAAN	21018911000001101	Pyrid-20 tablets (Ennogen Healthcare International Ltd)	777369007	Pyridoxine
+0906024N0CIAAAN	21019011000001105	Pyrid-20 tablets (Ennogen Healthcare International Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	22452911000001100	Pyridoxine 20mg tablets (DE Pharmaceuticals)	777369007	Pyridoxine
+0906024N0AAANAN	22453311000001106	Pyridoxine 20mg tablets (DE Pharmaceuticals)	777369007	Pyridoxine
+0906024N0AAANAN	22833711000001104	Pyridoxine 20mg tablets (Colorama Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	22833811000001107	Pyridoxine 20mg tablets (Colorama Pharmaceuticals Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	24577811000001106	Pyridoxine 20mg tablets (Mawdsley-Brooks & Company Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	24577911000001101	Pyridoxine 20mg tablets (Mawdsley-Brooks & Company Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	28086911000001109	Pyridoxine 20mg tablets (J M McGill Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	28087111000001109	Pyridoxine 20mg tablets (J M McGill Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	28137411000001101	Pyridoxine 20mg tablets (Pharma-z Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	28137511000001102	Pyridoxine 20mg tablets (Pharma-z Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	28917511000001106	Pyridoxine 20mg tablets (Niche Pharma Ltd)	777369007	Pyridoxine
+0906024N0AAANAN	28917611000001105	Pyridoxine 20mg tablets (Niche Pharma Ltd)	777369007	Pyridoxine
+0906024N0CLABAN	35313811000001103	PyriDose 20mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CLABAN	35313911000001108	PyriDose 20mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CMABAN	36446811000001108	PyridoxEss 20mg tablets (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0CMABAN	36446911000001103	PyridoxEss 20mg tablets (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0CNABAN	38792411000001104	Pyrid-B6 20mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CNABAN	38792711000001105	Pyrid-B6 20mg tablets (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CRABAN	45555511000001106	ActiPyrid 20mg tablets (Northumbria Pharma Ltd)	777369007	Pyridoxine
+0906024N0CRABAN	45555611000001105	ActiPyrid 20mg tablets (Northumbria Pharma Ltd)	777369007	Pyridoxine
+0906024N0AACMCM	8717411000001100	Pyridoxine 100micrograms/5ml oral solution	777369007	Pyridoxine
+0906024N0AACMCM	8684411000001100	Pyridoxine 100micrograms/5ml oral solution	777369007	Pyridoxine
+0906024N0AACMCM	8684511000001101	Pyridoxine 100micrograms/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACMCM	8684611000001102	Pyridoxine 100micrograms/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACMCM	8717511000001101	Pyridoxine 100micrograms/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACMCM	8684811000001103	Pyridoxine 100micrograms/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACMCM	8684911000001108	Pyridoxine 100micrograms/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AACMCM	8685011000001108	Pyridoxine 100micrograms/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABSBS	8717611000001102	Pyridoxine 10mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABSBS	8685111000001109	Pyridoxine 10mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABSBS	8685511000001100	Pyridoxine 10mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABSBS	8685711000001105	Pyridoxine 10mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACECE	8718111000001106	Pyridoxine 150mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACECE	8685211000001103	Pyridoxine 150mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACECE	8685311000001106	Pyridoxine 150mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACECE	8685411000001104	Pyridoxine 150mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACECE	8718211000001100	Pyridoxine 150mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACECE	8685611000001101	Pyridoxine 150mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACECE	8685811000001102	Pyridoxine 150mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AACECE	8685911000001107	Pyridoxine 150mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABSBS	8717711000001106	Pyridoxine 10mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABSBS	8686011000001104	Pyridoxine 10mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABSBS	8686211000001109	Pyridoxine 10mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABSBS	8687011000001101	Pyridoxine 10mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AACBCB	8718311000001108	Pyridoxine 200mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACBCB	8686111000001103	Pyridoxine 200mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACBCB	8686311000001101	Pyridoxine 200mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACBCB	8686411000001108	Pyridoxine 200mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACBCB	8718411000001101	Pyridoxine 200mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACBCB	8686511000001107	Pyridoxine 200mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACBCB	8686611000001106	Pyridoxine 200mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AACBCB	8686711000001102	Pyridoxine 200mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABQBQ	8717811000001103	Pyridoxine 125mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABQBQ	8686811000001105	Pyridoxine 125mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABQBQ	8687211000001106	Pyridoxine 125mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABQBQ	8687511000001109	Pyridoxine 125mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABWBW	8718511000001102	Pyridoxine 250mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABWBW	8686911000001100	Pyridoxine 250mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABWBW	8687111000001100	Pyridoxine 250mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABWBW	8687311000001103	Pyridoxine 250mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABWBW	8718611000001103	Pyridoxine 250mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABWBW	8687411000001105	Pyridoxine 250mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABWBW	8687611000001108	Pyridoxine 250mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABWBW	8687711000001104	Pyridoxine 250mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABQBQ	8717911000001108	Pyridoxine 125mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABQBQ	8687811000001107	Pyridoxine 125mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABQBQ	8687911000001102	Pyridoxine 125mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABQBQ	8688111000001104	Pyridoxine 125mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABMBM	8718711000001107	Pyridoxine 25mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABMBM	8688011000001100	Pyridoxine 25mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABMBM	8688211000001105	Pyridoxine 25mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABMBM	8688511000001108	Pyridoxine 25mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACSCS	8718911000001109	Pyridoxine 300micrograms/5ml oral solution	777369007	Pyridoxine
+0906024N0AACSCS	8688311000001102	Pyridoxine 300micrograms/5ml oral solution	777369007	Pyridoxine
+0906024N0AACSCS	8688411000001109	Pyridoxine 300micrograms/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACSCS	8688611000001107	Pyridoxine 300micrograms/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACSCS	8719011000001100	Pyridoxine 300micrograms/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACSCS	8688811000001106	Pyridoxine 300micrograms/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACSCS	8688911000001101	Pyridoxine 300micrograms/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AACSCS	8689111000001106	Pyridoxine 300micrograms/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABMBM	8718811000001104	Pyridoxine 25mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABMBM	8689011000001105	Pyridoxine 25mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABMBM	8689311000001108	Pyridoxine 25mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABMBM	8689411000001101	Pyridoxine 25mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABPBP	8719511000001108	Pyridoxine 5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABPBP	8689611000001103	Pyridoxine 5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABPBP	8689711000001107	Pyridoxine 5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABPBP	8689911000001109	Pyridoxine 5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABPBP	8719611000001107	Pyridoxine 5mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABPBP	8690011000001101	Pyridoxine 5mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABPBP	35052411000001103	Pyridoxine 5mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABPBP	8690211000001106	Pyridoxine 5mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABPBP	8690311000001103	Pyridoxine 5mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABPBP	35052511000001104	Pyridoxine 5mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABUBU	8719111000001104	Pyridoxine 500mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABUBU	8690111000001100	Pyridoxine 500mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABUBU	8690411000001105	Pyridoxine 500mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABUBU	8690511000001109	Pyridoxine 500mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABUBU	8719211000001105	Pyridoxine 500mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABUBU	8690611000001108	Pyridoxine 500mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABUBU	8690711000001104	Pyridoxine 500mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABUBU	8690811000001107	Pyridoxine 500mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABNBN	8719311000001102	Pyridoxine 50mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABNBN	8690911000001102	Pyridoxine 50mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABNBN	8691011000001105	Pyridoxine 50mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABNBN	8691111000001106	Pyridoxine 50mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABNBN	8719411000001109	Pyridoxine 50mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABNBN	8691211000001100	Pyridoxine 50mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AABNBN	8691311000001108	Pyridoxine 50mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906024N0AABNBN	8691411000001101	Pyridoxine 50mg/5ml oral suspension (Special Order)	777369007	Pyridoxine
+0906025P0AABGBG	8721211000001103	Riboflavin 120mg/5ml oral solution	777436008	Riboflavin
+0906025P0AABGBG	8694411000001104	Riboflavin 120mg/5ml oral solution	777436008	Riboflavin
+0906025P0AABGBG	8694611000001101	Riboflavin 120mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AABGBG	8694811000001102	Riboflavin 120mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AABNBN	8721311000001106	Riboflavin 120mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AABNBN	8695011000001107	Riboflavin 120mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AABNBN	33859711000001105	Riboflavin 120mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AABNBN	8695211000001102	Riboflavin 120mg/5ml oral suspension (Drug Tariff Special Order)	777436008	Riboflavin
+0906025P0AABNBN	8695311000001105	Riboflavin 120mg/5ml oral suspension (Drug Tariff Special Order)	777436008	Riboflavin
+0906025P0AABNBN	33859811000001102	Riboflavin 120mg/5ml oral suspension (Drug Tariff Special Order)	777436008	Riboflavin
+0906025P0AAA9A9	8721011000001108	Riboflavin 100mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA9A9	8696911000001104	Riboflavin 100mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA9A9	8697011000001100	Riboflavin 100mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA9A9	8697111000001104	Riboflavin 100mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA9A9	8721111000001109	Riboflavin 100mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA9A9	8697311000001102	Riboflavin 100mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA9A9	8697611000001107	Riboflavin 100mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA9A9	8697811000001106	Riboflavin 100mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906026M0AABIBI	8724911000001105	Thiamine 100mg/5ml oral solution	777739002	Thiamine
+0906026M0AABIBI	8709811000001108	Thiamine 100mg/5ml oral solution	777739002	Thiamine
+0906026M0AABIBI	23397711000001108	Thiamine 100mg/5ml oral solution	777739002	Thiamine
+0906026M0AABIBI	8709911000001103	Thiamine 100mg/5ml oral solution (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AABIBI	8710311000001106	Thiamine 100mg/5ml oral solution (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AABIBI	23397811000001100	Thiamine 100mg/5ml oral solution (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AAAXAX	8724611000001104	Thiamine 50mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAXAX	8710411000001104	Thiamine 50mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAXAX	8710511000001100	Thiamine 50mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAXAX	8710611000001101	Thiamine 50mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AABJBJ	8724811000001100	Thiamine 100mg/5ml oral suspension	777739002	Thiamine
+0906026M0AABJBJ	8710711000001105	Thiamine 100mg/5ml oral suspension	777739002	Thiamine
+0906026M0AABJBJ	23397911000001105	Thiamine 100mg/5ml oral suspension	777739002	Thiamine
+0906026M0AABJBJ	8711011000001104	Thiamine 100mg/5ml oral suspension (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AABJBJ	8711111000001103	Thiamine 100mg/5ml oral suspension (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AABJBJ	23398011000001107	Thiamine 100mg/5ml oral suspension (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AABKBK	8724511000001103	Thiamine 50mg/5ml oral suspension	777739002	Thiamine
+0906026M0AABKBK	8710811000001102	Thiamine 50mg/5ml oral suspension	777739002	Thiamine
+0906026M0AABKBK	20160511000001106	Thiamine 50mg/5ml oral suspension	777739002	Thiamine
+0906026M0AABKBK	8710911000001107	Thiamine 50mg/5ml oral suspension (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AABKBK	8711211000001109	Thiamine 50mg/5ml oral suspension (Drug Tariff Special Order)	777739002	Thiamine
+0906026M0AABKBK	20160611000001105	Thiamine 50mg/5ml oral suspension (Drug Tariff Special Order)	777739002	Thiamine
+0906022K0AAAGAG	8801111000001102	Nicotinamide 500mg capsules	13297701000001102	Nicotinamide
+0906022K0AAAGAG	8766811000001101	Nicotinamide 500mg capsules	13297701000001102	Nicotinamide
+0906022K0AAAGAG	21035711000001101	Nicotinamide 500mg capsules	13297701000001102	Nicotinamide
+0906022K0AAAGAG	8767011000001105	Nicotinamide 500mg capsules (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAGAG	8767911000001109	Nicotinamide 500mg capsules (Special Order)	13297701000001102	Nicotinamide
+0906022K0BDAAAG	21035811000001109	Niatin 500mg capsules (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BDAAAG	21035911000001104	Niatin 500mg capsules (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BGACAG	37073711000001102	NicoVit-B3 500mg capsules (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BGACAG	37073811000001105	NicoVit-B3 500mg capsules (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BHABAG	38887011000001106	AceNic 500mg capsules (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BHABAG	38887111000001107	AceNic 500mg capsules (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906025P0AAAUAU	8800211000001102	Riboflavin 100mg capsules	777436008	Riboflavin
+0906025P0AAAUAU	8771211000001102	Riboflavin 100mg capsules	777436008	Riboflavin
+0906025P0AAAUAU	10321811000001102	Riboflavin 100mg capsules	777436008	Riboflavin
+0906025P0AAAUAU	10321911000001107	Riboflavin 100mg capsules	777436008	Riboflavin
+0906025P0AAAUAU	24649711000001103	Riboflavin 100mg capsules	777436008	Riboflavin
+0906025P0AAAUAU	8771411000001103	Riboflavin 100mg capsules (Special Order)	777436008	Riboflavin
+0906025P0AAAUAU	8771611000001100	Riboflavin 100mg capsules (Special Order)	777436008	Riboflavin
+0906025P0BMAAAU	10322011000001100	Vega Vitamin B2 100mg capsules (Vega Nutritionals Ltd)	777436008	Riboflavin
+0906025P0BMAAAU	10322111000001104	Vega Vitamin B2 100mg capsules (Vega Nutritionals Ltd)	777436008	Riboflavin
+0906025P0BMAAAU	10322211000001105	Vega Vitamin B2 100mg capsules (Vega Nutritionals Ltd)	777436008	Riboflavin
+0906025P0BFAAAU	21035111000001102	E-B2 100mg capsules (Ennogen Healthcare International Ltd)	777436008	Riboflavin
+0906025P0BFAAAU	21035311000001100	E-B2 100mg capsules (Ennogen Healthcare International Ltd)	777436008	Riboflavin
+0906025P0BHAAAU	24649911000001101	Solgar Vitamin B2 100mg capsules (Solgar Vitamin and Herb)	777436008	Riboflavin
+0906025P0BHAAAU	24650011000001105	Solgar Vitamin B2 100mg capsules (Solgar Vitamin and Herb)	777436008	Riboflavin
+0906025P0BNABAU	37074111000001101	RiboVit B2 100mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BNABAU	37074211000001107	RiboVit B2 100mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BPABAU	37769311000001107	RiboEss 100mg capsules (Essential-Healthcare Ltd)	777436008	Riboflavin
+0906025P0BPABAU	37769411000001100	RiboEss 100mg capsules (Essential-Healthcare Ltd)	777436008	Riboflavin
+0906025P0BQABAU	38794511000001105	B2 RiboDose 100mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BQABAU	38794611000001109	B2 RiboDose 100mg capsules (TriOn Pharma Ltd)	777436008	Riboflavin
+090602800BBBYA0	9531911000001108	Generic Vigranon-B syrup sugar free		
+090602800BBBYA0	9531411000001100	Generic Vigranon-B syrup sugar free		
+090602800BBBYA0	9531511000001101	Vigranon-B syrup (Wallace Manufacturing Chemists Ltd)		
+090602800BBBYA0	9531611000001102	Vigranon-B syrup (Wallace Manufacturing Chemists Ltd)		
+090602700BBDJA0	10328511000001105	Generic Vega Vitamin B Complex capsules		
+090602700BBDJA0	10318711000001107	Generic Vega Vitamin B Complex capsules		
+090602700BBDJA0	10319211000001105	Generic Vega Vitamin B Complex capsules		
+090602700BBDJA0	10319311000001102	Generic Vega Vitamin B Complex capsules		
+090602700BBDJA0	10319411000001109	Vega Vitamin B Complex capsules (Vega Nutritionals Ltd)		
+090602700BBDJA0	10319511000001108	Vega Vitamin B Complex capsules (Vega Nutritionals Ltd)		
+090602700BBDJA0	10319611000001107	Vega Vitamin B Complex capsules (Vega Nutritionals Ltd)		
+090602700BBDJA0	10319711000001103	Vega Vitamin B Complex capsules (Vega Nutritionals Ltd)		
+090602800AAAGAG	10447211000001101	Biotin 5mg tablets	774863007	Biotin
+090602800AAAGAG	10447311000001109	Biotin 5mg tablets	774863007	Biotin
+090602800AAAGAG	20291711000001109	Biotin 5mg tablets	774863007	Biotin
+090602800AAAGAG	45534311000001103	Biotin 5mg tablets	774863007	Biotin
+090602800BBJFAG	10447411000001102	Biotin-ratiopharm 5 tablets (Imported (Germany))	774863007	Biotin
+090602800BBJFAG	10447511000001103	Biotin-ratiopharm 5 tablets (Imported (Germany))	774863007	Biotin
+090602800AAAGAG	20291811000001101	Biotin 5mg tablets (Part VIIID Drug Tariff Special Order)	774863007	Biotin
+090602800AAAGAG	40526911000001101	Biotin 5mg tablets (Part VIIID Drug Tariff Special Order)	774863007	Biotin
+090602800AAAGAG	20291911000001106	Biotin 5mg tablets (Part VIIID Drug Tariff Special Order)	774863007	Biotin
+090602800BBJHAG	22791911000001105	OroB7 5mg tablets (Fontus Health Ltd)	774863007	Biotin
+090602800BBJHAG	22792011000001103	OroB7 5mg tablets (Fontus Health Ltd)	774863007	Biotin
+090602800BBJQAG	36911611000001106	BiotEss 5mg tablets (Essential-Healthcare Ltd)	774863007	Biotin
+090602800BBJQAG	36911711000001102	BiotEss 5mg tablets (Essential-Healthcare Ltd)	774863007	Biotin
+090602800BBJRAG	37223611000001102	BioVit7 5mg tablets (MaN Pharma Ltd)	774863007	Biotin
+090602800BBJRAG	37223711000001106	BioVit7 5mg tablets (MaN Pharma Ltd)	774863007	Biotin
+090602800BBJZAG	45534211000001106	AactiBio 5mg tablets (TriOn Pharma Ltd)	774863007	Biotin
+090602800BBJZAG	45534411000001105	AactiBio 5mg tablets (TriOn Pharma Ltd)	774863007	Biotin
+0906022K0AAABAB	10794911000001102	Nicotinamide 100mg tablets	13297701000001102	Nicotinamide
+0906022K0AAABAB	10795011000001102	Nicotinamide 100mg tablets	13297701000001102	Nicotinamide
+0906022K0AAABAB	22646511000001108	Nicotinamide 100mg tablets	13297701000001102	Nicotinamide
+0906022K0BCABAB	10795111000001101	Niacinamide 100mg tablets (Imported (United States))	13297701000001102	Nicotinamide
+0906022K0BCABAB	10795211000001107	Niacinamide 100mg tablets (Imported (United States))	13297701000001102	Nicotinamide
+0906022K0BDAEAB	22646611000001107	Niatin 100mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BDAEAB	22646711000001103	Niatin 100mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+090602500BBBIA0	11034611000001105	Riboflavin 40mg capsules	777436008	Riboflavin
+090602500BBBIA0	11033811000001106	Riboflavin 40mg capsules	777436008	Riboflavin
+090602500BBBIA0	11033911000001101	Riboflavin 40mg capsules	777436008	Riboflavin
+090602500BBBIA0	11034011000001103	Vega Vitamin B2 40mg capsules (Vega Nutritionals Ltd)	777436008	Riboflavin
+090602500BBBIA0	11034111000001102	Vega Vitamin B2 40mg capsules (Vega Nutritionals Ltd)	777436008	Riboflavin
+090602500BBBIA0	11034211000001108	Vega Vitamin B2 40mg capsules (Vega Nutritionals Ltd)	777436008	Riboflavin
+0906024N0AAAJAJ	11589411000001101	Pyridoxine 100mg tablets	777369007	Pyridoxine
+0906024N0AAAJAJ	11585511000001100	Pyridoxine 100mg tablets	777369007	Pyridoxine
+0906024N0BPABAJ	11585611000001101	Premier Vitamin B6 100mg tablets (Premier Health Products Ltd)	777369007	Pyridoxine
+0906024N0BPABAJ	11585711000001105	Premier Vitamin B6 100mg tablets (Premier Health Products Ltd)	777369007	Pyridoxine
+0906024N0BGACAJ	32824211000001105	HealthAid Vitamin B6 100mg tablets (HealthAid Ltd)	777369007	Pyridoxine
+0906024N0BGACAJ	32824311000001102	HealthAid Vitamin B6 100mg tablets (HealthAid Ltd)	777369007	Pyridoxine
+090602800AACJCJ	12286811000001103	Biotin 20mg/5ml oral suspension	774863007	Biotin
+090602800AACJCJ	12236411000001107	Biotin 20mg/5ml oral suspension	774863007	Biotin
+090602800AACJCJ	12236511000001106	Biotin 20mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AACJCJ	12236711000001101	Biotin 20mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AACJCJ	12286711000001106	Biotin 20mg/5ml oral solution	774863007	Biotin
+090602800AACJCJ	12237011000001100	Biotin 20mg/5ml oral solution	774863007	Biotin
+090602800AACJCJ	12237111000001104	Biotin 20mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AACJCJ	12237211000001105	Biotin 20mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AACMCM	12287011000001107	Biotin 50mg/5ml oral suspension	774863007	Biotin
+090602800AACMCM	12237611000001107	Biotin 50mg/5ml oral suspension	774863007	Biotin
+090602800AACMCM	12237811000001106	Biotin 50mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AACMCM	12237911000001101	Biotin 50mg/5ml oral suspension (Special Order)	774863007	Biotin
+090602800AACMCM	12286911000001108	Biotin 50mg/5ml oral solution	774863007	Biotin
+090602800AACMCM	12238211000001109	Biotin 50mg/5ml oral solution	774863007	Biotin
+090602800AACMCM	12238311000001101	Biotin 50mg/5ml oral solution (Special Order)	774863007	Biotin
+090602800AACMCM	12238411000001108	Biotin 50mg/5ml oral solution (Special Order)	774863007	Biotin
+0906022K0AAAKAK	12302811000001108	Nicotinamide 25mg/5ml oral solution	13297701000001102	Nicotinamide
+0906022K0AAAKAK	12279411000001102	Nicotinamide 25mg/5ml oral solution	13297701000001102	Nicotinamide
+0906022K0AAAKAK	12279611000001104	Nicotinamide 25mg/5ml oral solution (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAKAK	12279711000001108	Nicotinamide 25mg/5ml oral solution (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAJAJ	12302911000001103	Nicotinamide 500mg/5ml oral solution	13297701000001102	Nicotinamide
+0906022K0AAAJAJ	12279911000001105	Nicotinamide 500mg/5ml oral solution	13297701000001102	Nicotinamide
+0906022K0AAAJAJ	12280211000001101	Nicotinamide 500mg/5ml oral solution (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAAJAJ	12280311000001109	Nicotinamide 500mg/5ml oral solution (Special Order)	13297701000001102	Nicotinamide
+0906025P0AAA2A2	13085511000001106	Riboflavin 200mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA2A2	13069911000001100	Riboflavin 200mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA2A2	13070011000001101	Riboflavin 200mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA2A2	13070111000001100	Riboflavin 200mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA2A2	13085411000001107	Riboflavin 200mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA2A2	13070211000001106	Riboflavin 200mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA2A2	13070411000001105	Riboflavin 200mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA2A2	13070511000001109	Riboflavin 200mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AABCBC	13085711000001101	Riboflavin 250mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AABCBC	13070611000001108	Riboflavin 250mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AABCBC	13070911000001102	Riboflavin 250mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AABCBC	13071211000001100	Riboflavin 250mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AABCBC	13085611000001105	Riboflavin 250mg/5ml oral solution	777436008	Riboflavin
+0906025P0AABCBC	13071711000001107	Riboflavin 250mg/5ml oral solution	777436008	Riboflavin
+0906025P0AABCBC	13071811000001104	Riboflavin 250mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AABCBC	13071911000001109	Riboflavin 250mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA4A4	13085911000001104	Riboflavin 25mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA4A4	13072111000001101	Riboflavin 25mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA4A4	13072411000001106	Riboflavin 25mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA4A4	13072511000001105	Riboflavin 25mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA4A4	13085811000001109	Riboflavin 25mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA4A4	13072711000001100	Riboflavin 25mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA4A4	13073011000001106	Riboflavin 25mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA4A4	13073111000001107	Riboflavin 25mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA3A3	13086111000001108	Riboflavin 50mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA3A3	13073211000001101	Riboflavin 50mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA3A3	13073311000001109	Riboflavin 50mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA3A3	13073411000001102	Riboflavin 50mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA3A3	13086011000001107	Riboflavin 50mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA3A3	13076211000001108	Riboflavin 50mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA3A3	13076311000001100	Riboflavin 50mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA3A3	13076411000001107	Riboflavin 50mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA5A5	13086311000001105	Riboflavin 5mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA5A5	13076511000001106	Riboflavin 5mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA5A5	13076611000001105	Riboflavin 5mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA5A5	13076711000001101	Riboflavin 5mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA5A5	13086211000001102	Riboflavin 5mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA5A5	13076811000001109	Riboflavin 5mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA5A5	13076911000001104	Riboflavin 5mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA5A5	13077011000001100	Riboflavin 5mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA8A8	13086511000001104	Riboflavin 75mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA8A8	13077111000001104	Riboflavin 75mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AAA8A8	13077211000001105	Riboflavin 75mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA8A8	13077311000001102	Riboflavin 75mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AAA8A8	13086411000001103	Riboflavin 75mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA8A8	13077411000001109	Riboflavin 75mg/5ml oral solution	777436008	Riboflavin
+0906025P0AAA8A8	13077611000001107	Riboflavin 75mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AAA8A8	13078211000001109	Riboflavin 75mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906024N0AACXCX	13273611000001109	Pyridoxine 100mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACXCX	13259111000001101	Pyridoxine 100mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACXCX	27882011000001104	Pyridoxine 100mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACXCX	13259211000001107	Pyridoxine 100mg/5ml oral solution (Drug Tariff Special Order)	777369007	Pyridoxine
+0906024N0AACXCX	13259311000001104	Pyridoxine 100mg/5ml oral solution (Drug Tariff Special Order)	777369007	Pyridoxine
+0906024N0AACXCX	27882111000001103	Pyridoxine 100mg/5ml oral solution (Drug Tariff Special Order)	777369007	Pyridoxine
+0906024N0CLACCX	35674811000001102	PyriDose 100mg/5ml oral solution (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CLACCX	35674911000001107	PyriDose 100mg/5ml oral solution (TriOn Pharma Ltd)	777369007	Pyridoxine
+0906024N0CPAACX	38917211000001107	Apyrid 100mg/5ml oral solution (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0CPAACX	38917311000001104	Apyrid 100mg/5ml oral solution (Essential-Healthcare Ltd)	777369007	Pyridoxine
+0906024N0AACRCR	13273711000001100	Pyridoxine 120mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACRCR	13259611000001109	Pyridoxine 120mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACRCR	13259711000001100	Pyridoxine 120mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACRCR	13259911000001103	Pyridoxine 120mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACCCC	13273811000001108	Pyridoxine 15mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACCCC	13260211000001106	Pyridoxine 15mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACCCC	13260311000001103	Pyridoxine 15mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACCCC	13260411000001105	Pyridoxine 15mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACKCK	13273911000001103	Pyridoxine 2.5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACKCK	13260611000001108	Pyridoxine 2.5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACKCK	13260911000001102	Pyridoxine 2.5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACKCK	13261011000001105	Pyridoxine 2.5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABZBZ	13274011000001100	Pyridoxine 20mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABZBZ	13261311000001108	Pyridoxine 20mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABZBZ	21206811000001100	Pyridoxine 20mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABZBZ	13261511000001102	Pyridoxine 20mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABZBZ	13261611000001103	Pyridoxine 20mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABZBZ	21206911000001105	Pyridoxine 20mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACPCP	13274111000001104	Pyridoxine 212.5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACPCP	13261711000001107	Pyridoxine 212.5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACPCP	13261911000001109	Pyridoxine 212.5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACPCP	13262211000001107	Pyridoxine 212.5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACJCJ	13274211000001105	Pyridoxine 300mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACJCJ	13262711000001100	Pyridoxine 300mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACJCJ	13262811000001108	Pyridoxine 300mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACJCJ	13262911000001103	Pyridoxine 300mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACTCT	13274311000001102	Pyridoxine 30mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACTCT	13263211000001101	Pyridoxine 30mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACTCT	13263411000001102	Pyridoxine 30mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACTCT	13263511000001103	Pyridoxine 30mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACLCL	13274411000001109	Pyridoxine 400mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACLCL	13263811000001100	Pyridoxine 400mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACLCL	13263911000001105	Pyridoxine 400mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACLCL	13264011000001108	Pyridoxine 400mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABVBV	13274511000001108	Pyridoxine 40mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABVBV	13264411000001104	Pyridoxine 40mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABVBV	13264511000001100	Pyridoxine 40mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABVBV	13264611000001101	Pyridoxine 40mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACQCQ	13274611000001107	Pyridoxine 425mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACQCQ	13265011000001107	Pyridoxine 425mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACQCQ	13265111000001108	Pyridoxine 425mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACQCQ	13265211000001102	Pyridoxine 425mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABTBT	13274711000001103	Pyridoxine 7.5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABTBT	13265311000001105	Pyridoxine 7.5mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AABTBT	13265611000001100	Pyridoxine 7.5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AABTBT	13266211000001108	Pyridoxine 7.5mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACDCD	13297611000001109	Pyridoxine 75mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACDCD	13278311000001107	Pyridoxine 75mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACDCD	13278411000001100	Pyridoxine 75mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACDCD	13278511000001101	Pyridoxine 75mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACHCH	13297711000001100	Pyridoxine 80mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACHCH	13278711000001106	Pyridoxine 80mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACHCH	13278911000001108	Pyridoxine 80mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACHCH	13279011000001104	Pyridoxine 80mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACNCN	13297811000001108	Pyridoxine 90mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACNCN	13279211000001109	Pyridoxine 90mg/5ml oral solution	777369007	Pyridoxine
+0906024N0AACNCN	13279311000001101	Pyridoxine 90mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906024N0AACNCN	13279411000001108	Pyridoxine 90mg/5ml oral solution (Special Order)	777369007	Pyridoxine
+0906026M0AAAVAV	13303211000001109	Thiamine 10mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAVAV	13291611000001100	Thiamine 10mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAVAV	13291711000001109	Thiamine 10mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAVAV	13291811000001101	Thiamine 10mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAYAY	13303411000001108	Thiamine 200mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAYAY	13292011000001104	Thiamine 200mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAYAY	13292211000001109	Thiamine 200mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAYAY	13292311000001101	Thiamine 200mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAWAW	13303511000001107	Thiamine 20mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAWAW	13292511000001107	Thiamine 20mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAWAW	13292611000001106	Thiamine 20mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAWAW	13292911000001100	Thiamine 20mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAATAT	13303611000001106	Thiamine 25mg/5ml oral solution	777739002	Thiamine
+0906026M0AAATAT	13293111000001109	Thiamine 25mg/5ml oral solution	777739002	Thiamine
+0906026M0AAATAT	13293211000001103	Thiamine 25mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAATAT	13293311000001106	Thiamine 25mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AABCBC	13303711000001102	Thiamine 300mg/5ml oral solution	777739002	Thiamine
+0906026M0AABCBC	13293611000001101	Thiamine 300mg/5ml oral solution	777739002	Thiamine
+0906026M0AABCBC	13293711000001105	Thiamine 300mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AABCBC	13293911000001107	Thiamine 300mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAZAZ	13303811000001105	Thiamine 500mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAZAZ	13294011000001105	Thiamine 500mg/5ml oral solution	777739002	Thiamine
+0906026M0AAAZAZ	13294111000001106	Thiamine 500mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AAAZAZ	13294211000001100	Thiamine 500mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AABDBD	13303911000001100	Thiamine 5mg/5ml oral solution	777739002	Thiamine
+0906026M0AABDBD	13294411000001101	Thiamine 5mg/5ml oral solution	777739002	Thiamine
+0906026M0AABDBD	13294711000001107	Thiamine 5mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AABDBD	13294811000001104	Thiamine 5mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AABHBH	13304011000001102	Thiamine 75mg/5ml oral solution	777739002	Thiamine
+0906026M0AABHBH	13295011000001109	Thiamine 75mg/5ml oral solution	777739002	Thiamine
+0906026M0AABHBH	13295211000001104	Thiamine 75mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906026M0AABHBH	13295411000001100	Thiamine 75mg/5ml oral solution (Special Order)	777739002	Thiamine
+0906025P0AABLBL	15775011000001104	Riboflavin 20mg/5ml oral solution	777436008	Riboflavin
+0906025P0AABLBL	15657011000001104	Riboflavin 20mg/5ml oral solution	777436008	Riboflavin
+0906025P0AABLBL	15657111000001103	Riboflavin 20mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AABLBL	15657211000001109	Riboflavin 20mg/5ml oral solution (Special Order)	777436008	Riboflavin
+0906025P0AABLBL	15775111000001103	Riboflavin 20mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AABLBL	15657311000001101	Riboflavin 20mg/5ml oral suspension	777436008	Riboflavin
+0906025P0AABLBL	15657411000001108	Riboflavin 20mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906025P0AABLBL	15657511000001107	Riboflavin 20mg/5ml oral suspension (Special Order)	777436008	Riboflavin
+0906022K0AAACAC	16101611000001107	Nicotinamide 500mg tablets	13297701000001102	Nicotinamide
+0906022K0AAACAC	16093111000001107	Nicotinamide 500mg tablets	13297701000001102	Nicotinamide
+0906022K0AAACAC	21036011000001107	Nicotinamide 500mg tablets	13297701000001102	Nicotinamide
+0906022K0AAACAC	16093211000001101	Nicotinamide 500mg tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAACAC	16093311000001109	Nicotinamide 500mg tablets (Special Order)	13297701000001102	Nicotinamide
+0906022K0BDABAC	21036111000001108	Niatin 500mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BDABAC	21036311000001105	Niatin 500mg tablets (Ennogen Healthcare International Ltd)	13297701000001102	Nicotinamide
+0906022K0BGABAC	37073511000001107	NicoVit-B3 500mg tablets (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BGABAC	37073611000001106	NicoVit-B3 500mg tablets (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BHACAC	38887211000001101	AceNic 500mg tablets (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BHACAC	38887311000001109	AceNic 500mg tablets (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+090602800BBGRA0	17429711000001105	Nicotinic acid 500mg capsules	776905004	Nicotinic acid
+090602800BBGRA0	17383211000001102	Nicotinic acid 500mg capsules	776905004	Nicotinic acid
+090602800BBGRA0	17383411000001103	Solgar Niacin 500mg capsules (Solgar Vitamin and Herb)	776905004	Nicotinic acid
+090602800BBGRA0	17383711000001109	Solgar Niacin 500mg capsules (Solgar Vitamin and Herb)	776905004	Nicotinic acid
+0906025P0AAAAAA	18684511000001100	Riboflavin 50mg tablets	777436008	Riboflavin
+0906025P0AAAAAA	18676911000001106	Riboflavin 50mg tablets	777436008	Riboflavin
+0906025P0AAAAAA	18677011000001105	Riboflavin 50mg tablets (Special Order)	777436008	Riboflavin
+0906025P0AAAAAA	18677111000001106	Riboflavin 50mg tablets (Special Order)	777436008	Riboflavin
+090602800AACACA	19697911000001103	Choline dihydrogen citrate 10% mixture	19693911000001107	Choline dihydrogen citrate
+090602800AACACA	19679311000001101	Choline dihydrogen citrate 10% mixture	19693911000001107	Choline dihydrogen citrate
+090602800AACACA	19679411000001108	Choline dihydrogen citrate 10% mixture (Special Order)	19693911000001107	Choline dihydrogen citrate
+090602800AACACA	19679511000001107	Choline dihydrogen citrate 10% mixture (Special Order)	19693911000001107	Choline dihydrogen citrate
+0906024N0AACYCY	19976711000001108	Pyridoxine 100mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACYCY	19949011000001101	Pyridoxine 100mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACYCY	21206411000001102	Pyridoxine 100mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACYCY	21206511000001103	Pyridoxine 100mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACYCY	27882211000001109	Pyridoxine 100mg/5ml oral suspension	777369007	Pyridoxine
+0906024N0AACYCY	19949111000001100	Pyridoxine 100mg/5ml oral suspension (Drug Tariff Special Order)	777369007	Pyridoxine
+0906024N0AACYCY	19949211000001106	Pyridoxine 100mg/5ml oral suspension (Drug Tariff Special Order)	777369007	Pyridoxine
+0906024N0AACYCY	21206611000001104	Pyridoxine 100mg/5ml oral suspension (Drug Tariff Special Order)	777369007	Pyridoxine
+0906024N0AACYCY	21206711000001108	Pyridoxine 100mg/5ml oral suspension (Drug Tariff Special Order)	777369007	Pyridoxine
+0906024N0AACYCY	27882311000001101	Pyridoxine 100mg/5ml oral suspension (Drug Tariff Special Order)	777369007	Pyridoxine
+090602800BBJGA0	21114411000001106	Generic IP6 with Inositol oral powder		
+090602800BBJGA0	21057811000001100	Generic IP6 with Inositol oral powder		
+090602800BBJGA0	42502611000001109	Generic IP6 with Inositol oral powder		
+090602800BBJGA0	21058011000001107	IP6 with Inositol oral powder (Hadley Wood Healthcare Ltd)		
+090602800BBJGA0	21058111000001108	IP6 with Inositol oral powder (Hadley Wood Healthcare Ltd)		
+090602800BBJGA0	42502711000001100	IP6 with Inositol oral powder (Hadley Wood Healthcare Ltd)		
+090602800AACXCX	21580011000001101	Pyridoxal phosphate 50mg capsules	13295901000001106	Pyridoxal phosphate
+090602800AACXCX	21554611000001107	Pyridoxal phosphate 50mg capsules	13295901000001106	Pyridoxal phosphate
+090602800AACXCX	44953211000001109	Pyridoxal phosphate 50mg capsules	13295901000001106	Pyridoxal phosphate
+090602800AACXCX	21554711000001103	Pyridoxal phosphate 50mg capsules (Special Order)	13295901000001106	Pyridoxal phosphate
+090602800AACXCX	21554811000001106	Pyridoxal phosphate 50mg capsules (Special Order)	13295901000001106	Pyridoxal phosphate
+090602800BBJXCX	44953111000001103	Adoxal 50mg capsules (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+090602800BBJXCX	44953311000001101	Adoxal 50mg capsules (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+0906025P0AABPBP	22192411000001104	Riboflavin 100mg tablets	777436008	Riboflavin
+0906025P0AABPBP	22191211000001105	Riboflavin 100mg tablets	777436008	Riboflavin
+0906025P0AABPBP	34353811000001104	Riboflavin 100mg tablets	777436008	Riboflavin
+0906025P0BGAABP	22191311000001102	Freeda Pure Vitamin B2 100mg tablets (Imported (United States))	777436008	Riboflavin
+0906025P0BGAABP	22191411000001109	Freeda Pure Vitamin B2 100mg tablets (Imported (United States))	777436008	Riboflavin
+0906025P0AABPBP	34353911000001109	Riboflavin 100mg tablets (Special Order)	777436008	Riboflavin
+0906025P0AABPBP	34354011000001107	Riboflavin 100mg tablets (Special Order)	777436008	Riboflavin
+090602800BBJIA0	23270011000001106	Generic Berocca Boost effervescent tablets sugar free		
+090602800BBJIA0	23268211000001108	Generic Berocca Boost effervescent tablets sugar free		
+090602800BBJIA0	23268311000001100	Generic Berocca Boost effervescent tablets sugar free		
+090602800BBJIA0	23268411000001107	Berocca Boost effervescent tablets sugar free (Bayer Plc)		
+090602800BBJIA0	23268511000001106	Berocca Boost effervescent tablets sugar free (Bayer Plc)		
+090602800BBJIA0	23268611000001105	Berocca Boost effervescent tablets sugar free (Bayer Plc)		
+0906025P0AAAQAQ	23416911000001100	Riboflavin 10mg tablets	777436008	Riboflavin
+0906025P0AAAQAQ	23410111000001101	Riboflavin 10mg tablets	777436008	Riboflavin
+0906025P0BBAAAQ	23410211000001107	Beflavine 10mg tablets (Imported (France))	777436008	Riboflavin
+0906025P0BBAAAQ	23410311000001104	Beflavine 10mg tablets (Imported (France))	777436008	Riboflavin
+090602800AACPCP	26588011000001101	Biotin 10mg tablets	774863007	Biotin
+090602800AACPCP	26588211000001106	Biotin 10mg tablets	774863007	Biotin
+090602800AACPCP	29667811000001105	Biotin 10mg tablets	774863007	Biotin
+090602800AACPCP	45534511000001109	Biotin 10mg tablets	774863007	Biotin
+090602800BBJMCP	26588611000001108	Biotisan Biotin S 10mg FORTE tablets (Imported (Germany))	774863007	Biotin
+090602800BBJMCP	26588711000001104	Biotisan Biotin S 10mg FORTE tablets (Imported (Germany))	774863007	Biotin
+090602800AACPCP	29667911000001100	Biotin 10mg tablets (Special Order)	774863007	Biotin
+090602800AACPCP	29668011000001103	Biotin 10mg tablets (Special Order)	774863007	Biotin
+090602800BBKACP	45534611000001108	AactiBio 10mg tablets (TriOn Pharma Ltd)	774863007	Biotin
+090602800BBKACP	45534711000001104	AactiBio 10mg tablets (TriOn Pharma Ltd)	774863007	Biotin
+090602800AACWCW	27624511000001101	Pyridoxal phosphate 100mg/5ml oral suspension	13295901000001106	Pyridoxal phosphate
+090602800AACWCW	27528011000001108	Pyridoxal phosphate 100mg/5ml oral suspension	13295901000001106	Pyridoxal phosphate
+090602800AACWCW	27528111000001109	Pyridoxal phosphate 100mg/5ml oral suspension (Special Order)	13295901000001106	Pyridoxal phosphate
+090602800AACWCW	27528211000001103	Pyridoxal phosphate 100mg/5ml oral suspension (Special Order)	13295901000001106	Pyridoxal phosphate
+0906022K0AAARAR	29670311000001109	Nicotinamide 100mg capsules	13297701000001102	Nicotinamide
+0906022K0AAARAR	29666811000001108	Nicotinamide 100mg capsules	13297701000001102	Nicotinamide
+0906022K0AAARAR	29666911000001103	Nicotinamide 100mg capsules (Special Order)	13297701000001102	Nicotinamide
+0906022K0AAARAR	29667011000001104	Nicotinamide 100mg capsules (Special Order)	13297701000001102	Nicotinamide
+0906026M0AAAEAE	33734411000001102	Thiamine 25mg tablets	777739002	Thiamine
+0906026M0AAAEAE	33693611000001102	Thiamine 25mg tablets	777739002	Thiamine
+0906026M0BHAAAE	33693711000001106	Vitamin B1 25mg tablets (Nutrition Warehouse Ltd)	777739002	Thiamine
+0906026M0BHAAAE	33693811000001103	Vitamin B1 25mg tablets (Nutrition Warehouse Ltd)	777739002	Thiamine
+0906022K0AAASAS	38903811000001100	Nicotinamide 250mg capsules	13297701000001102	Nicotinamide
+0906022K0AAASAS	38886711000001105	Nicotinamide 250mg capsules	13297701000001102	Nicotinamide
+0906022K0BHAAAS	38886811000001102	AceNic 250mg capsules (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BHAAAS	38886911000001107	AceNic 250mg capsules (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BIAAAS	39662111000001104	250-B3 capsules (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+0906022K0BIAAAS	39662211000001105	250-B3 capsules (TriOn Pharma Ltd)	13297701000001102	Nicotinamide
+090602800AADADA	39343211000001101	Generic Neuro3 tablets		
+090602800AADADA	39335711000001108	Generic Neuro3 tablets		
+090602800BBJSDA	39335811000001100	Neuro3 tablets (TriOn Pharma Ltd)		
+090602800BBJSDA	39335911000001105	Neuro3 tablets (TriOn Pharma Ltd)		
+0906026M0AABMBM	39804511000001108	Thiamine 100mg/5ml oral solution sugar free	777739002	Thiamine
+0906026M0AABMBM	39780811000001100	Thiamine 100mg/5ml oral solution sugar free	777739002	Thiamine
+0906026M0BJAEBM	39781111000001101	Athiam 100mg/5ml oral solution (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BJAEBM	39781211000001107	Athiam 100mg/5ml oral solution (Essential-Healthcare Ltd)	777739002	Thiamine
+0906026M0BKAEBM	39796411000001101	ThiaDose 100mg/5ml oral solution (TriOn Pharma Ltd)	777739002	Thiamine
+0906026M0BKAEBM	39796611000001103	ThiaDose 100mg/5ml oral solution (TriOn Pharma Ltd)	777739002	Thiamine
+0906025P0AABQBQ	40686711000001100	Riboflavin 100mg/5ml oral solution sugar free	777436008	Riboflavin
+0906025P0AABQBQ	40679811000001106	Riboflavin 100mg/5ml oral solution sugar free	777436008	Riboflavin
+0906025P0BRAABQ	40679911000001101	AabRibof 100mg/5ml oral solution (TriOn Pharma Ltd)	777436008	Riboflavin
+0906025P0BRAABQ	40680011000001100	AabRibof 100mg/5ml oral solution (TriOn Pharma Ltd)	777436008	Riboflavin
+090602800AADBDB	41350711000001109	Biotin 900microgram capsules	774863007	Biotin
+090602800AADBDB	41347611000001104	Biotin 900microgram capsules	774863007	Biotin
+090602800AADBDB	41347711000001108	Biotin 900microgram capsules (Careforsons Ltd)	774863007	Biotin
+090602800AADBDB	41347811000001100	Biotin 900microgram capsules (Careforsons Ltd)	774863007	Biotin
+090602800AADCDC	41496011000001105	Generic BetterYou Boost Vitamin B12 Daily oral spray sugar free	775408004	Cyanocobalamin
+090602800AADCDC	41484811000001105	Generic BetterYou Boost Vitamin B12 Daily oral spray sugar free	775408004	Cyanocobalamin
+090602800BBJTDC	41484911000001100	BetterYou Boost Vitamin B12 Daily oral spray (BetterYou Ltd)	775408004	Cyanocobalamin
+090602800BBJTDC	41485011000001100	BetterYou Boost Vitamin B12 Daily oral spray (BetterYou Ltd)	775408004	Cyanocobalamin
+0906022K0AAATAT	42236911000001101	Nicotinamide 50mg capsules	13297701000001102	Nicotinamide
+0906022K0AAATAT	42198111000001105	Nicotinamide 50mg capsules	13297701000001102	Nicotinamide
+0906022K0BHAFAT	42198211000001104	AceNic 50mg capsules (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BHAFAT	42198311000001107	AceNic 50mg capsules (Essential-Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0AAAUAU	42501211000001100	Nicotinamide 750mg capsules	13297701000001102	Nicotinamide
+0906022K0AAAUAU	42477511000001106	Nicotinamide 750mg capsules	13297701000001102	Nicotinamide
+0906022K0BJAAAU	42477711000001101	Glaucomin High Strength capsules (Warneford Healthcare Ltd)	13297701000001102	Nicotinamide
+0906022K0BJAAAU	42477811000001109	Glaucomin High Strength capsules (Warneford Healthcare Ltd)	13297701000001102	Nicotinamide
+090602800AADDDD	43170611000001104	Pyridoxal phosphate 25mg tablets	13295901000001106	Pyridoxal phosphate
+090602800AADDDD	43161511000001101	Pyridoxal phosphate 25mg tablets	13295901000001106	Pyridoxal phosphate
+090602800AADDDD	44950111000001105	Pyridoxal phosphate 25mg tablets	13295901000001106	Pyridoxal phosphate
+090602800BBJUDD	43161611000001102	Vitamin B6 25mg tablets (Nutri Advanced Ltd)	13295901000001106	Pyridoxal phosphate
+090602800BBJUDD	43161711000001106	Vitamin B6 25mg tablets (Nutri Advanced Ltd)	13295901000001106	Pyridoxal phosphate
+090602800BBJVDD	44950011000001109	Adoxal 25mg tablets (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+090602800BBJVDD	44950211000001104	Adoxal 25mg tablets (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+0906026M0AABNBN	44100211000001107	Thiamine 250mg/5ml solution for injection ampoules	777739002	Thiamine
+0906026M0AABNBN	44009211000001105	Thiamine 250mg/5ml solution for injection ampoules	777739002	Thiamine
+0906026M0AABNBN	44009311000001102	Thiamine 250mg/5ml solution for injection ampoules (Galen Ltd)	777739002	Thiamine
+0906026M0AABNBN	44009411000001109	Thiamine 250mg/5ml solution for injection ampoules (Galen Ltd)	777739002	Thiamine
+0906026M0AABNBN	44886511000001103	Thiamine 250mg/5ml solution for injection ampoules (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+0906026M0AABNBN	44886611000001104	Thiamine 250mg/5ml solution for injection ampoules (A A H Pharmaceuticals Ltd)	777739002	Thiamine
+090602800AADEDE	44965411000001102	Pyridoxal phosphate 25mg capsules	13295901000001106	Pyridoxal phosphate
+090602800AADEDE	44952211000001103	Pyridoxal phosphate 25mg capsules	13295901000001106	Pyridoxal phosphate
+090602800BBJWDE	44952311000001106	Adoxal 25mg capsules (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+090602800BBJWDE	44952411000001104	Adoxal 25mg capsules (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+090602800AADFDF	44977611000001100	Pyridoxal phosphate 50mg tablets	13295901000001106	Pyridoxal phosphate
+090602800AADFDF	44968911000001104	Pyridoxal phosphate 50mg tablets	13295901000001106	Pyridoxal phosphate
+090602800BBJYDF	44969111000001109	Adoxal 50mg tablets (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+090602800BBJYDF	44969311000001106	Adoxal 50mg tablets (Essential-Healthcare Ltd)	13295901000001106	Pyridoxal phosphate
+0906026M0AABPBP	45490211000001101	Thiamine 250mg/2ml solution for injection ampoules	777739002	Thiamine
+0906026M0AABPBP	45486211000001103	Thiamine 250mg/2ml solution for injection ampoules	777739002	Thiamine
+0906026M0AABPBP	45486311000001106	Thiamine 250mg/2ml solution for injection ampoules (Brancaster Pharma Ltd)	777739002	Thiamine
+0906026M0AABPBP	45486411000001104	Thiamine 250mg/2ml solution for injection ampoules (Brancaster Pharma Ltd)	777739002	Thiamine
+	14303711000001100	Cytamen 1000micrograms/1ml solution for injection ampoules (Sigma Pharmaceuticals Plc)	775408004	Cyanocobalamin
+	14304011000001100	Cytamen 1000micrograms/1ml solution for injection ampoules (Sigma Pharmaceuticals Plc)	775408004	Cyanocobalamin
+	16563811000001100	Niaspan 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776905004	Nicotinic acid
+	16563911000001105	Niaspan 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776905004	Nicotinic acid
+	16564011000001108	Niaspan 750mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776905004	Nicotinic acid
+	16564211000001103	Niaspan 750mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	776905004	Nicotinic acid
+	16564411000001104	Niaspan 1g modified-release tablets (Mawdsley-Brooks & Company Ltd)	776905004	Nicotinic acid
+	16564511000001100	Niaspan 1g modified-release tablets (Mawdsley-Brooks & Company Ltd)	776905004	Nicotinic acid
+	17571411000001108	Niaspan 1g modified-release tablets (Sigma Pharmaceuticals Plc)	776905004	Nicotinic acid
+	17571511000001107	Niaspan 1g modified-release tablets (Sigma Pharmaceuticals Plc)	776905004	Nicotinic acid
+	5001711000001107	Nicotinic acid 375mg modified-release tablets	776905004	Nicotinic acid
+	4994411000001104	Nicotinic acid 375mg modified-release tablets	776905004	Nicotinic acid
+	4994511000001100	Niaspan 375mg modified-release tablets (Abbott Laboratories Ltd)	776905004	Nicotinic acid
+	4994611000001101	Niaspan 375mg modified-release tablets (Abbott Laboratories Ltd)	776905004	Nicotinic acid
+	10799611000001107	Thiamine 100mg/2ml solution for injection ampoules	777739002	Thiamine
+	10799811000001106	Thiamine 100mg/2ml solution for injection ampoules	777739002	Thiamine
+	44072711000001100	Thiamine 100mg/2ml solution for injection ampoules	777739002	Thiamine
+	44072811000001108	Thiamine 100mg/2ml solution for injection ampoules	777739002	Thiamine
+	10800211000001103	Bevitine 100mg/2ml solution for injection ampoules (Imported (France))	777739002	Thiamine
+	10800311000001106	Bevitine 100mg/2ml solution for injection ampoules (Imported (France))	777739002	Thiamine
+	10800911000001107	Betabion 100mg/2ml solution for injection ampoules (Imported (Germany))	777739002	Thiamine
+	10801011000001104	Betabion 100mg/2ml solution for injection ampoules (Imported (Germany))	777739002	Thiamine
+	42964211000001105	Thiamine 100mg/2ml solution for injection ampoules (Imported (France))	777739002	Thiamine
+	42964511000001108	Thiamine 100mg/2ml solution for injection ampoules (Imported (France))	777739002	Thiamine
+	44072911000001103	Vitamin B1 - Injektopas 100mg/2ml solution for injection ampoules (Imported (Germany))	777739002	Thiamine
+	44073011000001106	Vitamin B1 - Injektopas 100mg/2ml solution for injection ampoules (Imported (Germany))	777739002	Thiamine
+	44073111000001107	Vitamin B1 - Injektopas 100mg/2ml solution for injection ampoules (Imported (Germany))	777739002	Thiamine
+	10859311000001109	Pyridoxine 100mg/2ml solution for injection ampoules	777369007	Pyridoxine
+	10859411000001102	Pyridoxine 100mg/2ml solution for injection ampoules	777369007	Pyridoxine
+	22229411000001102	Pyridoxine 100mg/2ml solution for injection ampoules	777369007	Pyridoxine
+	22229811000001100	Pyridoxine 100mg/2ml solution for injection ampoules	777369007	Pyridoxine
+	10859511000001103	Vitamin B6 Streuli 100mg/2ml solution for injection ampoules (Imported (Switzerland))	777369007	Pyridoxine
+	10859611000001104	Vitamin B6 Streuli 100mg/2ml solution for injection ampoules (Imported (Switzerland))	777369007	Pyridoxine
+	22229511000001103	Pyridoxine 100mg/2ml solution for injection ampoules (Special Order)	777369007	Pyridoxine
+	22229911000001105	Pyridoxine 100mg/2ml solution for injection ampoules (Special Order)	777369007	Pyridoxine
+	22230011000001100	Pyridoxine 100mg/2ml solution for injection ampoules (Special Order)	777369007	Pyridoxine
+	11139611000001104	Biotin 5mg/1ml solution for injection vials	774863007	Biotin
+	11139711000001108	Biotin 5mg/1ml solution for injection vials	774863007	Biotin
+	11139811000001100	Biodermatin 5mg/1ml solution for injection vials (Imported (Italy))	774863007	Biotin
+	11139911000001105	Biodermatin 5mg/1ml solution for injection vials (Imported (Italy))	774863007	Biotin
+	11376111000001106	Thiamine 100mg/1ml solution for injection ampoules	777739002	Thiamine
+	11376211000001100	Thiamine 100mg/1ml solution for injection ampoules	777739002	Thiamine
+	11376511000001102	Vitamin B1 Streuli 100mg/1ml solution for injection ampoules (Imported (Switzerland))	777739002	Thiamine
+	11376911000001109	Vitamin B1 Streuli 100mg/1ml solution for injection ampoules (Imported (Switzerland))	777739002	Thiamine
+	13926811000001102	Pyridoxine 25mg/1ml solution for injection vials	777369007	Pyridoxine
+	13927111000001107	Pyridoxine 25mg/1ml solution for injection vials	777369007	Pyridoxine
+	13927611000001104	Pyridoxine 25mg/1ml solution for injection vials (Special Order)	777369007	Pyridoxine
+	13928111000001108	Pyridoxine 25mg/1ml solution for injection vials (Special Order)	777369007	Pyridoxine
+	22255411000001101	Pyridoxine 50mg/1ml solution for injection ampoules	777369007	Pyridoxine
+	22255511000001102	Pyridoxine 50mg/1ml solution for injection ampoules	777369007	Pyridoxine
+	22255611000001103	Pyridoxine 50mg/1ml solution for injection ampoules	777369007	Pyridoxine
+	22255811000001104	Pyridoxine 50mg/1ml solution for injection ampoules (Special Order)	777369007	Pyridoxine
+	22255911000001109	Pyridoxine 50mg/1ml solution for injection ampoules (Special Order)	777369007	Pyridoxine
+	22256011000001101	Pyridoxine 50mg/1ml solution for injection ampoules (Special Order)	777369007	Pyridoxine
+	23448611000001103	Pyridoxine 0.2% in Aqueous cream	777369007	Pyridoxine
+	23448711000001107	Pyridoxine 0.2% in Aqueous cream	777369007	Pyridoxine
+	23448811000001104	Pyridoxine 0.2% in Aqueous cream	777369007	Pyridoxine
+	23448911000001109	Pyridoxine 0.2% in Aqueous cream (Special Order)	777369007	Pyridoxine
+	23449011000001100	Pyridoxine 0.2% in Aqueous cream (Special Order)	777369007	Pyridoxine
+	23449111000001104	Pyridoxine 0.2% in Aqueous cream (Special Order)	777369007	Pyridoxine
+	34227311000001106	Pyridoxine 50mg/2ml solution for injection vials	777369007	Pyridoxine
+	34227411000001104	Pyridoxine 50mg/2ml solution for injection vials	777369007	Pyridoxine
+	34227511000001100	Sicovit B6 50mg/2ml solution for injection vials (Imported (Romania))	777369007	Pyridoxine
+	34227611000001101	Sicovit B6 50mg/2ml solution for injection vials (Imported (Romania))	777369007	Pyridoxine
+	44287911000001104	Thiamine 200mg/2ml solution for injection vials	777739002	Thiamine
+	44173211000001109	Thiamine 200mg/2ml solution for injection vials	777739002	Thiamine
+	44173411000001108	Thiamine 200mg/2ml solution for injection vials (Imported (United States))	777739002	Thiamine
+	44173511000001107	Thiamine 200mg/2ml solution for injection vials (Imported (United States))	777739002	Thiamine

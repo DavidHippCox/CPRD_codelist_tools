@@ -1,0 +1,79 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+1033441000033117	8288311000001104	Pabrinex Intramuscular High Potency solution for injection 5ml and 2ml ampoules (Kyowa Kirin International UK NewCo Ltd)	Pabrinex Intramuscular High Potency solution for injection 5ml and 2ml ampoules	Not applicable					3645
+1033541000033116	8298511000001109	Pabrinex Intravenous High Potency concentrate for solution for infusion 5ml and 5ml ampoules (Kyowa Kirin International UK NewCo Ltd)	Pabrinex Intravenous High Potency concentrate for solution for infusion 5ml and 5ml ampoules	Not applicable					354
+10492541000033116	7822611000001104	Pyridoxal phosphate 50mg gastro-resistant tablets	Pyridoxal phosphate 50mg gastro-resistant tablets	Gastro-resistant tablet	Oral	Pyridoxal phosphate	50.000mg	09060208	267
+10492641000033115	7723811000001105	Solgar P-5-P 50mg gastro-resistant tablets (Solgar Vitamin and Herb)	Solgar P-5-P 50mg gastro-resistant tablets	Gastro-resistant tablet		Pyridoxal phosphate	50.000mg		7
+1095941000033117	41744111000001101	Potassium aminobenzoate 500mg capsules	Potassium aminobenzoate 500mg capsules	Capsule/ Oral capsule	Oral	Potassium aminobenzoate	500.000mg	09060208	880
+1096041000033110	4218511000001107	Potaba 500mg capsules (Neon Healthcare Ltd)	Potaba 500mg capsules	Capsule/ Oral capsule	Oral	Potassium aminobenzoate	500.000mg		1013
+1101841000033117	4383911000001100	Potaba 3g sachets (Neon Healthcare Ltd)	Potaba 3g sachets	Powder for oral solution/ Powder	Oral	Potassium aminobenzoate	3.000gram		4233
+1101941000033113	41744011000001102	Potassium aminobenzoate 3g oral powder sachets	Potassium aminobenzoate 3g oral powder sachets	Powder for oral solution/ Powder	Oral	Potassium aminobenzoate	3.000gram	09060208	2633
+11032041000033116	8721211000001103	Riboflavin 120mg/5ml oral solution	Riboflavin 120mg/5ml oral solution	Oral solution	Oral	Riboflavin	24.000mg/1.000ml	09060205	154
+1109041000033113	41744211000001107	Potassium aminobenzoate 500mg tablets	Potassium aminobenzoate 500mg tablets	Tablet/ Oral Tablet	Oral	Potassium aminobenzoate	500.000mg	09060208	313
+1110741000033115	4093111000001103	Potaba 500mg tablets (Neon Healthcare Ltd)	Potaba 500mg tablets	Tablet/ Oral Tablet	Oral	Potassium aminobenzoate	500.000mg		533
+1146141000033114	41987711000001106	Pyridoxine 10mg tablets	Pyridoxine 10mg tablets	Tablet/ Oral Tablet	Oral	Pyridoxine hydrochloride	10.000mg	09060204	276169
+1146341000033112	41987811000001103	Pyridoxine 20mg tablets	Pyridoxine 20mg tablets	Tablet/ Oral Tablet	Oral	Pyridoxine hydrochloride	20.000mg	09060204	68238
+1146441000033118	41987911000001108	Pyridoxine 50mg tablets	Pyridoxine 50mg tablets	Tablet/ Oral Tablet	Oral	Pyridoxine hydrochloride	50.000mg	09060204	1147240
+11666941000033119	8305611000001105	Biotin 5mg/5ml oral suspension	Biotin 5mg/5ml oral suspension	Oral suspension	Oral	Biotin	1.000mg/1.000ml	09060208	232
+11718141000033111	26588011000001101	Biotin 10mg tablets	Biotin 10mg tablets	Tablet/ Oral Tablet	Oral	Biotin	10.000mg	09060208	193
+11755341000033113	13274211000001105	Pyridoxine 300mg/5ml oral solution	Pyridoxine 300mg/5ml oral solution	Oral solution	Oral	Pyridoxine hydrochloride	60.000mg/1.000ml	09060204	475
+12187341000033115	21580011000001101	Pyridoxal phosphate 50mg capsules	Pyridoxal phosphate 50mg capsules	Capsule/ Oral capsule	Oral	Pyridoxal phosphate	50.000mg	09060208	309
+13080541000033114	8721011000001108	Riboflavin 100mg/5ml oral solution	Riboflavin 100mg/5ml oral solution	Oral solution	Oral	Riboflavin	20.000mg/1.000ml	09060205	313
+13429341000033114	36911611000001106	BiotEss 5mg tablets (Essential-Healthcare Ltd)	BiotEss 5mg tablets	Tablet/ Oral Tablet		Biotin	5.000mg		324
+13447141000033118	37223611000001102	BioVit7 5mg tablets (MaN Pharma Ltd)	BioVit7 5mg tablets	Tablet/ Oral Tablet		Biotin	5.000mg		46
+13775741000033118	36912311000001105	ThiamEss 50mg tablets (Essential-Healthcare Ltd)	ThiamEss 50mg tablets	Tablet/ Oral Tablet		Thiamine hydrochloride	50.000mg		33
+13775841000033111	36912111000001108	ThiamEss 100mg tablets (Essential-Healthcare Ltd)	ThiamEss 100mg tablets	Tablet/ Oral Tablet		Thiamine hydrochloride	100.000mg		58
+13775941000033115	38922011000001106	ThiaDose 50mg tablets (TriOn Pharma Ltd)	ThiaDose 50mg tablets	Tablet/ Oral Tablet		Thiamine hydrochloride	50.000mg		23
+13776041000033113	38921611000001105	ThiaDose 100mg tablets (TriOn Pharma Ltd)	ThiaDose 100mg tablets	Tablet/ Oral Tablet		Thiamine hydrochloride	100.000mg		186
+13780441000033110	17383411000001103	Solgar Niacin 500mg capsules (Solgar Vitamin and Herb)	Solgar Niacin 500mg capsules	Capsule/ Oral capsule		Nicotinic acid	500.000mg		57
+14022041000033114	39804511000001108	Thiamine 100mg/5ml oral solution sugar free	Thiamine 100mg/5ml oral solution sugar free	Oral solution	Oral	Thiamine hydrochloride	20.000mg/1.000ml	09060206	5330
+14022141000033113	39796411000001101	ThiaDose 100mg/5ml oral solution (TriOn Pharma Ltd)	ThiaDose 100mg/5ml oral solution	Oral solution		Thiamine hydrochloride	20.000mg/1.000ml		<5
+14022241000033118	39781111000001101	Athiam 100mg/5ml oral solution (Essential-Healthcare Ltd)	Athiam 100mg/5ml oral solution	Oral solution		Thiamine hydrochloride	20.000mg/1.000ml		8
+14235341000033111	37962211000001104	PyriDose 50mg tablets (TriOn Pharma Ltd)	PyriDose 50mg tablets	Tablet/ Oral Tablet		Pyridoxine hydrochloride	50.000mg		457
+14235441000033117	36447011000001104	PyridoxEss 50mg tablets (Essential-Healthcare Ltd)	PyridoxEss 50mg tablets	Tablet/ Oral Tablet		Pyridoxine hydrochloride	50.000mg		1045
+14248841000033110	7875611000001109	Thiamine 100mg modified-release tablets	Thiamine 100mg modified-release tablets	Modified-release tablet	Oral	Thiamine hydrochloride	100.000mg	09060206	567
+14248941000033119	7871911000001100	HealthAid Vitamin B1 100mg modified-release tablets (HealthAid Ltd)	HealthAid Vitamin B1 100mg modified-release tablets	Modified-release tablet		Thiamine hydrochloride	100.000mg		6
+14249041000033111	38887011000001106	AceNic 500mg capsules (Essential-Healthcare Ltd)	AceNic 500mg capsules	Capsule/ Oral capsule		Nicotinamide	500.000mg		73
+1435641000033112	41989611000001107	Thiamine 50mg tablets	Thiamine 50mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	50.000mg	09060206	2702238
+1436441000033118	41989511000001108	Thiamine 100mg tablets	Thiamine 100mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	100.000mg	09060206	16933836
+14513641000033116	43170611000001104	Pyridoxal phosphate 25mg tablets	Pyridoxal phosphate 25mg tablets	Oral Tablet	Oral	Pyridoxal phosphate	25.000mg	09060208	10
+146441000033118	3050711000001102	Benerva 50mg tablets (Teofarma S.r.l.)	Benerva 50mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	50.000mg		118
+146741000033113	3051511000001100	Benerva 100mg tablets (Teofarma S.r.l.)	Benerva 100mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	100.000mg		442
+14776441000033119	8307411000001101	Vitamins B and C high potency intramuscular solution for injection 5ml and 2ml ampoules	Vitamins B and C high potency intramuscular solution for injection 5ml and 2ml ampoules	Not applicable	Route of administration not applicable			09060206	455
+14776541000033118	8307611000001103	Vitamins B and C high potency intravenous solution for infusion 5ml and 5ml ampoules	Vitamins B and C high potency intravenous solution for infusion 5ml and 5ml ampoules	Not applicable	Route of administration not applicable			09060206	<5
+14854641000033113	44100211000001107	Thiamine 250mg/5ml solution for injection ampoules	Thiamine 250mg/5ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Thiamine hydrochloride	50.000mg/1.000ml		14
+1522341000033119	9531511000001101	Vigranon-B syrup (Wallace Manufacturing Chemists Ltd)	Vigranon-B syrup	Oral solution	Oral	Dexpanthenol/ Nicotinamide/ Pyridoxine hydrochloride/ Riboflavin sodium phosphate/ Thiamine hydrochloride	600.000microgram/1.000ml + 4.000mg/1.000ml + 400.000microgram/1.000ml + 548.000microgram/1.000ml + 1.000mg/1.000ml		1223
+1522841000033111	34820511000001105	Vitamin B compound strong tablets	Vitamin B compound strong tablets	Tablet/ Oral Tablet	Oral	Nicotinamide/ Pyridoxine hydrochloride/ Riboflavin/ Thiamine hydrochloride	20.000mg + 2.000mg + 2.000mg + 5.000mg	09060207	13428339
+1524941000033112	34820411000001106	Vitamin B compound tablets	Vitamin B compound tablets	Tablet/ Oral Tablet	Oral	Nicotinamide/ Riboflavin/ Thiamine hydrochloride	15.000mg + 1.000mg + 1.000mg	09060207	1601666
+2602541000033112	10447211000001101	Biotin 5mg tablets	Biotin 5mg tablets	Tablet/ Oral Tablet	Oral	Biotin	5.000mg	09060208	6426
+2719741000033115	4288711000001104	Nicotinamide 250mg tablets	Nicotinamide 250mg tablets	Tablet/ Oral Tablet	Oral	Nicotinamide	250.000mg	09060202	16449
+2798541000033117	8721311000001106	Riboflavin 120mg/5ml oral suspension	Riboflavin 120mg/5ml oral suspension	Oral suspension	Oral	Riboflavin	24.000mg/1.000ml	09060205	1114
+2848741000033118	19976711000001108	Pyridoxine 100mg/5ml oral suspension	Pyridoxine 100mg/5ml oral suspension	Oral suspension	Oral	Pyridoxine hydrochloride	20.000mg/1.000ml	09060204	1736
+2906441000033114	21058011000001107	IP6 with Inositol oral powder (Hadley Wood Healthcare Ltd)	IP6 with Inositol oral powder	Oral powder/ Powder					13
+3014041000033113	8800211000001102	Riboflavin 100mg capsules	Riboflavin 100mg capsules	Capsule/ Oral capsule	Oral	Riboflavin	100.000mg	09060205	5848
+3032741000033112	10319411000001109	Vega Vitamin B Complex capsules (Vega Nutritionals Ltd)	Vega Vitamin B Complex capsules	Capsule/ Oral capsule					4118
+3908141000033110	4289111000001107	Riboflavin 50mg capsules	Riboflavin 50mg capsules	Capsule/ Oral capsule	Oral	Riboflavin	50.000mg	09060205	17306
+3984841000033113	8718511000001102	Pyridoxine 250mg/5ml oral solution	Pyridoxine 250mg/5ml oral solution	Oral solution	Oral	Pyridoxine hydrochloride	50.000mg/1.000ml	09060204	527
+4199741000033116	8801111000001102	Nicotinamide 500mg capsules	Nicotinamide 500mg capsules	Capsule/ Oral capsule	Oral	Nicotinamide	500.000mg	09060202	6879
+4803641000033115	14603611000001104	Tyvera 50mg tablets (Auden McKenzie (Pharma Division) Ltd)	Tyvera 50mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	50.000mg		45
+4803741000033112	14604611000001101	Tyvera 100mg tablets (Auden McKenzie (Pharma Division) Ltd)	Tyvera 100mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	100.000mg		371
+5130241000033115	8724611000001104	Thiamine 50mg/5ml oral solution	Thiamine 50mg/5ml oral solution	Oral solution	Oral	Thiamine hydrochloride	10.000mg/1.000ml	09060206	1235
+5426241000033116	7902211000001103	Calcium pantothenate 250mg capsules	Calcium pantothenate 250mg capsules	Capsule/ Oral capsule	Oral	Calcium pantothenate	250.000mg	09060203	10
+5974241000033113	8717411000001100	Pyridoxine 100micrograms/5ml oral solution	Pyridoxine 100micrograms/5ml oral solution	Oral solution	Oral	Pyridoxine hydrochloride	20.000microgram/1.000ml	09060204	155
+5974341000033115	8717511000001101	Pyridoxine 100micrograms/5ml oral suspension	Pyridoxine 100micrograms/5ml oral suspension	Oral suspension	Oral	Pyridoxine hydrochloride	20.000microgram/1.000ml	09060204	44
+5974441000033114	8719311000001102	Pyridoxine 50mg/5ml oral solution	Pyridoxine 50mg/5ml oral solution	Oral solution	Oral	Pyridoxine hydrochloride	10.000mg/1.000ml	09060204	366
+5974541000033110	8719411000001109	Pyridoxine 50mg/5ml oral suspension	Pyridoxine 50mg/5ml oral suspension	Oral suspension	Oral	Pyridoxine hydrochloride	10.000mg/1.000ml	09060204	70
+5974641000033111	8718711000001107	Pyridoxine 25mg/5ml oral solution	Pyridoxine 25mg/5ml oral solution	Oral solution	Oral	Pyridoxine hydrochloride	5.000mg/1.000ml	09060204	273
+5974741000033119	8718811000001104	Pyridoxine 25mg/5ml oral suspension	Pyridoxine 25mg/5ml oral suspension	Oral suspension	Oral	Pyridoxine hydrochloride	5.000mg/1.000ml	09060204	236
+5975941000033115	8724911000001105	Thiamine 100mg/5ml oral solution	Thiamine 100mg/5ml oral solution	Oral solution	Oral	Thiamine hydrochloride	20.000mg/1.000ml	09060206	1964
+5976041000033113	8724811000001100	Thiamine 100mg/5ml oral suspension	Thiamine 100mg/5ml oral suspension	Oral suspension	Oral	Thiamine hydrochloride	20.000mg/1.000ml	09060206	1664
+5977341000033112	7903811000001105	Riboflavin 100mg modified-release tablets	Riboflavin 100mg modified-release tablets	Modified-release tablet	Oral	Riboflavin	100.000mg	09060205	17682
+5977441000033118	7880811000001106	HealthAid Vitamin B2 100mg modified-release tablets (HealthAid Ltd)	HealthAid Vitamin B2 100mg modified-release tablets	Modified-release tablet		Riboflavin	100.000mg		1655
+6065841000033113	8717711000001106	Pyridoxine 10mg/5ml oral suspension	Pyridoxine 10mg/5ml oral suspension	Oral suspension	Oral	Pyridoxine hydrochloride	2.000mg/1.000ml	09060204	303
+6467941000033117	19697911000001103	Choline dihydrogen citrate 10% mixture	Choline dihydrogen citrate 10% mixture	Oral solution	Oral	Choline dihydrogen citrate	100.000mg/1.000gram	09060208	<5
+8275441000033117	22192411000001104	Riboflavin 100mg tablets	Riboflavin 100mg tablets	Tablet/ Oral Tablet	Oral	Riboflavin	100.000mg	09060205	622
+9119741000033119	22791911000001105	OroB7 5mg tablets (Fontus Health Ltd)	OroB7 5mg tablets	Tablet/ Oral Tablet		Biotin	5.000mg		643
+9293641000033112	4186111000001101	Berocca effervescent tablets orange (Bayer Plc)	Berocca effervescent tablets orange	Effervescent tablet		Ascorbic acid/ Biotin/ Calcium/ Cyanocobalamin/ Folic acid/ Magnesium/ Nicotinic acid/ Pantothenic acid/ Pyridoxine/ Riboflavin/ Thiamine/ Zinc	476.000mg + 130.000microgram + 95.000mg + 8.600microgram + 366.000microgram + 95.000mg + 45.300mg + 22.700mg + 7.100mg + 13.600mg + 10.400mg + 9.000mg		1675
+9304041000033113	4233611000001105	Valupak Vitamin B6 10mg tablets (BR Pharmaceuticals Ltd)	Valupak Vitamin B6 10mg tablets	Tablet/ Oral Tablet		Pyridoxine hydrochloride	10.000mg		2270
+977541000033118	41987011000001109	Nicotinamide 50mg tablets	Nicotinamide 50mg tablets	Tablet/ Oral Tablet	Oral	Nicotinamide	50.000mg	09060202	7520
+9776541000033118	13273611000001109	Pyridoxine 100mg/5ml oral solution	Pyridoxine 100mg/5ml oral solution	Oral solution	Oral	Pyridoxine hydrochloride	20.000mg/1.000ml	09060204	1414
+9776641000033117	8724511000001103	Thiamine 50mg/5ml oral suspension	Thiamine 50mg/5ml oral suspension	Oral suspension	Oral	Thiamine hydrochloride	10.000mg/1.000ml	09060206	189
