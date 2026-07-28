@@ -36,8 +36,13 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 14248841000033110	7875611000001109	Thiamine 100mg modified-release tablets	Thiamine 100mg modified-release tablets	Modified-release tablet	Oral	Thiamine hydrochloride	100.000mg	09060206	567
 14248941000033119	7871911000001100	HealthAid Vitamin B1 100mg modified-release tablets (HealthAid Ltd)	HealthAid Vitamin B1 100mg modified-release tablets	Modified-release tablet		Thiamine hydrochloride	100.000mg		6
 14249041000033111	38887011000001106	AceNic 500mg capsules (Essential-Healthcare Ltd)	AceNic 500mg capsules	Capsule/ Oral capsule		Nicotinamide	500.000mg		73
+1430441000033116		Thiamine Hydrochloride  Injection  100 mg/1 ml							76
 1435641000033112	41989611000001107	Thiamine 50mg tablets	Thiamine 50mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	50.000mg	09060206	2702238
+1435741000033115		Thiamine  Tablets  25 mg							11452
+1435841000033113		Thiamine  Tablets  10 mg							265
+1436241000033119		Thiamine Hydrochloride  Tablets  25 mg							9463
 1436441000033118	41989511000001108	Thiamine 100mg tablets	Thiamine 100mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	100.000mg	09060206	16933836
+1436541000033117		Thiamine Hydrochloride  Tablets  300 mg							9814
 1441000033111	3390011000001107	Abidec Multivitamin drops (Omega Pharma Ltd)	Abidec Multivitamin drops	Oral drops	Oral	Ascorbic acid/ Ergocalciferol/ Nicotinamide/ Pyridoxine hydrochloride/ Riboflavin/ Thiamine hydrochloride/ Vitamin A palmitate	66.700mg/1.000ml + 667.000unit/1.000ml + 667.000unit/1.000ml + 1333.000microgram/1.000ml + 1333.000microgram/1.000ml + 1333.000microgram/1.000ml + 1.670mg/1.000ml + 2222.000unit/1.000ml + 2222.000unit/1.000ml		1589209
 14513641000033116	43170611000001104	Pyridoxal phosphate 25mg tablets	Pyridoxal phosphate 25mg tablets	Oral Tablet	Oral	Pyridoxal phosphate	25.000mg	09060208	10
 146441000033118	3050711000001102	Benerva 50mg tablets (Teofarma S.r.l.)	Benerva 50mg tablets	Tablet/ Oral Tablet	Oral	Thiamine hydrochloride	50.000mg		118
