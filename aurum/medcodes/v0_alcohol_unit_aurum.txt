@@ -1,138 +1,140 @@
-medcodeid	term	term_has_unit	term_period	zero_allowed
-47085011	Social drinker	0		0
-250317010	Stopped drinking alcohol	0		0
-250331010	Spirit drinker	0		0
-250332015	Beer drinker	0		0
-250333013	Drinks beer and spirits	0		0
-250334019	Drinks wine	0		0
-250335018	Alcohol intake above recommended sensible limits	0		0
-250340014	Alcohol intake within recommended sensible limits	0		0
-254305017	O/E - breath - alcohol smell	0		0
-254306016	O/E - alcoholic breath	0		0
-283028013	Alcohol leaflet given	0		0
-294670010	Drunkenness - pathological	0		0
-295421012	Sleep drunkenness	0		0
-342366014	Binge drinker	0		0
-342421016	Feels should cut down drinking	0		0
-346930019	Inebriety NOS	0		0
-346931015	Drunkenness	0		0
-451082013	[V] Alcohol use	0		0
-459715013	Pain in lymph nodes after alcohol consumption	0		0
-1221271018	Alcohol consumption	0		1
-117761000006116	Denies alcohol abuse	0		0
-223671000000110	Hangover from alcohol	0		0
-240741000006114	Education about alcohol consumption	0		1
-362251000006117	Alcohol intoxication	0		0
-476411000006118	Alcohol consumption NOS	0		1
-476501000006115	Alcohol intake	0		1
-480271000000113	Disqualified from driving due to excess alcohol	0		0
-556651000000116	Alcohol units consumed per week	1	WEEK	1
-629811000006113	Occasional drinker	0		0
-629821000006117	Drinks rarely	0		0
-750721000000118	Number of alcohol units consumed on heaviest drinking day	1	DAY	0
-769451000006111	Intoxication - alcohol	0		0
-852391000006113	Not interested in reducing alcohol	0		0
-852401000006110	Ready to start reducing alcohol	0		0
-852411000006113	Thinking about reducing alcohol	0		0
-854651000006117	Alcohol overdose	0		0
-855071000006115	Grade A none drinker or rare	0		1
-855081000006117	Grade B 0-20 units/week	1	WEEK	1
-855101000006113	Grade C 21-49 units/week	1	WEEK	0
-936001000006111	Advice relating to alcohol consumption	0		0
-1724531000000116	Advised to abstain from alcohol consumption	0		0
-1738341000000110	Increasing risk drinking	0		0
-1738381000000119	Higher risk drinking	0		0
-1738421000000111	Lower risk drinking	0		0
-1806211000006115	Unsuccessful attempts to reduce alcohol consumption	0		0
-1947501000006118	Emergency department attendance related to personal alcohol consumption	0		0
-1957791000006115	Reduced alcohol intake	0		0
-2007461000006118	SRH care activity - alcohol brief intervention	0		0
-2454281000000112	Hospital attendance related to personal alcohol consumption	0		0
-2502061000006114	Current drinker	0		0
-2502071000006119	Alcohol user	0		0
-2502081000006116	Drinks alcohol	0		0
-2502091000006118	Current drinker of alcohol	0		0
-2911291000006114	Acute alcohol intoxication	0		0
-2911301000006110	Drunk	0		0
-3024491000006118	Hangover	0		0
-3024501000006114	Hangover effect	0		0
-3834151000006116	Diarrhoea due to alcohol intake	0		0
-3843491000006118	Ex-drinker	0		0
-4533141000006118	Alcohol intake	0		1
-4533151000006116	AI - Alcohol intake	0		1
-4533161000006119	Ethanol intake	0		1
-4533171000006114	ETOH - Alcohol intake	0		1
-4533191000006110	Alcoholic drink intake	0		1
-4559361000006118	On examination - breath - alcohol smell	0		0
-4977871000006118	Finding relating to alcohol drinking behaviour	0		1
-4977891000006117	Alcohol drinking behaviour	0		1
-4977901000006118	Alcohol drinking behavior	0		1
-4977971000006112	Drinks on special occasions	0		0
-4978011000006117	Secret drinker	0		0
-4978071000006114	Drinking habits	0		1
-4978081000006112	Drinking environment	0		0
-4978121000006114	Drinks at home	0		0
-4978131000006112	Home drinker	0		0
-4978141000006119	Drinks at other people's homes	0		0
-4978151000006117	Drinks in public places	0		0
-4978161000006115	Park drinker	0		0
-4978171000006110	Street drinker	0		0
-4978201000006114	Drinks in public houses	0		0
-4978241000006111	Company when drinking	0		0
-4978251000006113	Drinks alone	0		0
-4978281000006117	Drinks in company	0		0
-4978321000006111	Drinks with friends	0		0
-4978331000006114	Drinks with work colleagues	0		0
-4978371000006112	Pattern of drinking	0		1
-4978381000006110	Pattern of drinking through day	0	DAY	1
-4978401000006110	Pattern of alcohol consumption through week	0	WEEK	1
-4978411000006113	Drinks alcohol evenly through week	0	WEEK	0
-4978421000006117	Drinks alcohol unevenly through week	0	WEEK	0
-4978431000006119	Weekend drinker	0	WEEKEND	0
-4978461000006111	Episodic drinker	0		0
-4978491000006115	Daily drinker	0	DAY	0
-4978501000006111	Drinks alcohol daily	0	DAY	0
-4978511000006114	Habitual drinker	0		0
-4978571000006117	Drinking binge	0		0
-4978581000006119	Alcohol binge	0		0
-4978591000006116	Binge drinking	0		0
-4978971000006113	Persistent effect of alcohol	0		0
-4978991000006114	Feels effect of alcohol at work	0		0
-4987161000006113	alcohol units/week	1	WEEK	1
-5003431000006118	Beer intake	0		1
-5003441000006111	Wine intake	0		1
-5003461000006110	Spirits intake	0		1
-5755181000006117	Drinking practice	0		1
-6282101000006116	Alcohol intake - finding	0		1
-6282111000006118	Finding of alcohol intake	0		1
-6769891000006117	Alcohol abuse prevention assessment	0		0
-6769921000006111	Alcohol abuse prevention education	0		0
-6841801000006118	Counselling about alcohol consumption	0		0
-7067741000006112	Alcohol consumption during pregnancy	0		0
-7229341000006119	Self-monitoring of alcohol intake	0		1
-7334601000006116	Drinks alcoholic cider	0		0
-7587641000006118	Admits alcohol use	0		0
-7650111000006114	Exposure to alcohol	0		0
-7967731000006110	Decreased alcohol consumption	0		0
-8042631000006112	Insomnia caused by alcohol	0		0
-8106921000006119	Feels it is not necessary to reduce alcohol consumption	0		0
-8220581000006118	Alcohol related harm	0		0
-8229891000006112	Drinks real ale	0		0
-8242881000006116	Finding of alcohol drinking risk	0		0
-8364771000006117	Injury following alcohol use	0		0
-8458781000006110	Alcohol units consumed per day	1	DAY	1
-11928671000006111	Alcohol units per week	1	WEEK	1
-12619041000006111	History of alcohol use	0		0
-13667221000006114	Psychotic behaviour caused by ingestible alcohol	0		0
-13936661000006112	Adverse reaction to alcohol	0		0
-14145901000006110	Cider intake	0		1
-14146131000006111	Estimated volume of intake of alcoholic cider in 24 hours	0	DAY	1
-14146151000006116	Estimated volume of intake of wine in 24 hours	0	DAY	1
-14146171000006114	Estimated volume of intake of distilled spirits in 24 hours	0	DAY	1
-14146231000006117	Estimated volume of intake of beer in 24 hours	0	DAY	1
-14147511000006111	Alcoholic beverage intake	0		1
-14147521000006115	Alcoholic drink intake	0		1
-14151481000006110	Intake of distilled spirits	0		1
-14447031000006112	Acute alcohol intoxication	0		0
-15023151000006111	Adverse reaction to alcoholic beverage	0		0
-15044081000006116	Delayed headache caused by alcohol	0		0
+medcodeid	observations	term	term_has_unit	term_period	zero_allowed
+1221271018	 41214297     	Alcohol consumption	0		1
+14147511000006111	 40566725     	Alcoholic beverage intake	0		1
+240741000006114	 13157832     	Education about alcohol consumption	0		1
+556651000000116	 8279722      	Alcohol units consumed per week	1	WEEK	1
+4533141000006118	 3814965      	Alcohol intake	0		1
+629811000006113	 2306561      	Occasional drinker	0		0
+250340014	 2179287      	Alcohol intake within recommended sensible limits	0		0
+936001000006111	 1316498      	Advice relating to alcohol consumption	0		0
+629821000006117	 1165203      	Drinks rarely	0		0
+476411000006118	 1013882      	Alcohol consumption NOS	0		1
+47085011	 735046       	Social drinker	0		0
+2502061000006114	 722350       	Current drinker	0		0
+250317010	 686875       	Stopped drinking alcohol	0		0
+250335018	 420332       	Alcohol intake above recommended sensible limits	0		0
+342320016	223091	Light drinker	0		0
+73012011	97934	Moderate drinker	0		0
+250332015	 219480       	Beer drinker	0		0
+1738421000000111	 212793       	Lower risk drinking	0		0
+250334019	 210449       	Drinks wine	0		0
+769451000006111	 203321       	Intoxication - alcohol	0		0
+8458781000006110	 197242       	Alcohol units consumed per day	1	DAY	1
+6769921000006111	 155718       	Alcohol abuse prevention education	0		0
+283028013	 140635       	Alcohol leaflet given	0		0
+362251000006117	 129395       	Alcohol intoxication	0		0
+342366014	 74617        	Binge drinker	0		0
+250331010	 62400        	Spirit drinker	0		0
+4987161000006113	 34126        	alcohol units/week	1	WEEK	1
+852391000006113	 32576        	Not interested in reducing alcohol	0		0
+855071000006115	 31358        	Grade A none drinker or rare	0		1
+3843491000006118	 27483        	Ex-drinker	0		0
+451082013	 22607        	[V] Alcohol use	0		0
+250333013	 20267        	Drinks beer and spirits	0		0
+854651000006117	 20261        	Alcohol overdose	0		0
+4977871000006118	 17697        	Finding relating to alcohol drinking behaviour	0		1
+346931015	 17414        	Drunkenness	0		0
+855081000006117	 16574        	Grade B 0-20 units/week	1	WEEK	1
+117761000006116	 16243        	Denies alcohol abuse	0		0
+1738341000000110	 15285        	Increasing risk drinking	0		0
+1724531000000116	 12438        	Advised to abstain from alcohol consumption	0		0
+852411000006113	 11927        	Thinking about reducing alcohol	0		0
+254305017	 10797        	O/E - breath - alcohol smell	0		0
+750721000000118	 10183        	Number of alcohol units consumed on heaviest drinking day	1	DAY	0
+2502081000006116	 9509         	Drinks alcohol	0		0
+5003461000006110	 7512         	Spirits intake	0		1
+1738381000000119	 7008         	Higher risk drinking	0		0
+1957791000006115	 6311         	Reduced alcohol intake	0		0
+254306016	 4537         	O/E - alcoholic breath	0		0
+852401000006110	 4512         	Ready to start reducing alcohol	0		0
+342421016	 3468         	Feels should cut down drinking	0		0
+4978571000006117	 2761         	Drinking binge	0		0
+14447031000006112	 2335         	Acute alcohol intoxication	0		0
+855101000006113	 2282         	Grade C 21-49 units/week	1	WEEK	0
+1947501000006118	 1621         	Emergency department attendance related to personal alcohol consumption	0		0
+4977891000006117	 1516         	Alcohol drinking behaviour	0		1
+14147521000006115	 1371         	Alcoholic drink intake	0		1
+480271000000113	 1329         	Disqualified from driving due to excess alcohol	0		0
+7334601000006116	 1289         	Drinks alcoholic cider	0		0
+4978071000006114	 1255         	Drinking habits	0		1
+223671000000110	 1168         	Hangover from alcohol	0		0
+4978381000006110	 1057         	Pattern of drinking through day	0	DAY	1
+2454281000000112	 984          	Hospital attendance related to personal alcohol consumption	0		0
+4978581000006119	 842          	Alcohol binge	0		0
+4978491000006115	 827          	Daily drinker	0	DAY	0
+5003431000006118	 555          	Beer intake	0		1
+346930019	 549          	Inebriety NOS	0		0
+5003441000006111	 544          	Wine intake	0		1
+4533171000006114	 492          	ETOH - Alcohol intake	0		1
+294670010	 463          	Drunkenness - pathological	0		0
+4978431000006119	 388          	Weekend drinker	0	WEEKEND	0
+7229341000006119	 298          	Self-monitoring of alcohol intake	0		1
+3024491000006118	 279          	Hangover	0		0
+2007461000006118	 276          	SRH care activity - alcohol brief intervention	0		0
+8364771000006117	 208          	Injury following alcohol use	0		0
+4977971000006112	 167          	Drinks on special occasions	0		0
+4978371000006112	 159          	Pattern of drinking	0		1
+14145901000006110	 151          	Cider intake	0		1
+4978321000006111	 150          	Drinks with friends	0		0
+8229891000006112	 139          	Drinks real ale	0		0
+4978401000006110	 131          	Pattern of alcohol consumption through week	0	WEEK	1
+2502091000006118	 129          	Current drinker of alcohol	0		0
+4978511000006114	 129          	Habitual drinker	0		0
+1806211000006115	 119          	Unsuccessful attempts to reduce alcohol consumption	0		0
+295421012	 118          	Sleep drunkenness	0		0
+4978501000006111	 110          	Drinks alcohol daily	0	DAY	0
+2911301000006110	 95           	Drunk	0		0
+5755181000006117	 94           	Drinking practice	0		1
+459715013	 86           	Pain in lymph nodes after alcohol consumption	0		0
+4978591000006116	 86           	Binge drinking	0		0
+4978421000006117	 79           	Drinks alcohol unevenly through week	0	WEEK	0
+4978971000006113	 70           	Persistent effect of alcohol	0		0
+2502071000006119	 69           	Alcohol user	0		0
+7587641000006118	 65           	Admits alcohol use	0		0
+476501000006115	 63           	Alcohol intake	0		1
+14146131000006111	 59           	Estimated volume of intake of alcoholic cider in 24 hours	0	DAY	1
+2911291000006114	 54           	Acute alcohol intoxication	0		0
+4533151000006116	 45           	AI - Alcohol intake	0		1
+4978411000006113	 41           	Drinks alcohol evenly through week	0	WEEK	0
+6282101000006116	 35           	Alcohol intake - finding	0		1
+4533191000006110	 34           	Alcoholic drink intake	0		1
+12619041000006111	 32           	History of alcohol use	0		0
+4978121000006114	 23           	Drinks at home	0		0
+14146151000006116	 21           	Estimated volume of intake of wine in 24 hours	0	DAY	1
+4978241000006111	 20           	Company when drinking	0		0
+14146231000006117	 16           	Estimated volume of intake of beer in 24 hours	0	DAY	1
+4978251000006113	 15           	Drinks alone	0		0
+4978281000006117	 12           	Drinks in company	0		0
+4977901000006118	 10           	Alcohol drinking behavior	0		1
+11928671000006111	 10           	Alcohol units per week	1	WEEK	1
+4978151000006117	 8            	Drinks in public places	0		0
+14146171000006114	 7            	Estimated volume of intake of distilled spirits in 24 hours	0	DAY	1
+4978171000006110	 6            	Street drinker	0		0
+14151481000006110	 6            	Intake of distilled spirits	0		1
+8220581000006118	 5            	Alcohol related harm	0		0
+3024501000006114	<5	Hangover effect	0		0
+3834151000006116	<5	Diarrhoea due to alcohol intake	0		0
+4533161000006119	<5	Ethanol intake	0		1
+4559361000006118	<5	On examination - breath - alcohol smell	0		0
+4978011000006117	<5	Secret drinker	0		0
+4978081000006112	<5	Drinking environment	0		0
+4978131000006112	<5	Home drinker	0		0
+4978141000006119	<5	Drinks at other people's homes	0		0
+4978161000006115	<5	Park drinker	0		0
+4978201000006114	<5	Drinks in public houses	0		0
+4978331000006114	<5	Drinks with work colleagues	0		0
+4978461000006111	<5	Episodic drinker	0		0
+4978991000006114	<5	Feels effect of alcohol at work	0		0
+6282111000006118	<5	Finding of alcohol intake	0		1
+6769891000006117	<5	Alcohol abuse prevention assessment	0		0
+6841801000006118	<5	Counselling about alcohol consumption	0		0
+7067741000006112	<5	Alcohol consumption during pregnancy	0		0
+7650111000006114	<5	Exposure to alcohol	0		0
+7967731000006110	<5	Decreased alcohol consumption	0		0
+8042631000006112	<5	Insomnia caused by alcohol	0		0
+8106921000006119	<5	Feels it is not necessary to reduce alcohol consumption	0		0
+8242881000006116	<5	Finding of alcohol drinking risk	0		0
+13667221000006114	<5	Psychotic behaviour caused by ingestible alcohol	0		0
+13936661000006112	<5	Adverse reaction to alcohol	0		0
+15023151000006111	<5	Adverse reaction to alcoholic beverage	0		0
+15044081000006116	<5	Delayed headache caused by alcohol	0		0
