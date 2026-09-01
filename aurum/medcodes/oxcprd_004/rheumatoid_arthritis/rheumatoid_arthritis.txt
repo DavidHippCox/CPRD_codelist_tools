@@ -6,10 +6,10 @@ MedCodeId	Term
 312534011	[X]Seropositive rheumatoid arthritis, unspecified
 1932121000006116	3D study - problems with rheumatoid arthritis management
 5141321000006112	Adult onset Still disease
-14011041000000000	Bilateral deformity of hands due to rheumatoid arthritis
-13709571000000000	Bilateral rheumatoid arthritis of hands
-13709541000000000	Bilateral rheumatoid arthritis of knees
-14177941000000000	Bilateral seronegative rheumatoid arthritis of wrists
+14011041000006114	Bilateral deformity of hands due to rheumatoid arthritis
+13709571000006112	Bilateral rheumatoid arthritis of hands
+13709541000006116	Bilateral rheumatoid arthritis of knees
+14177941000006118	Bilateral seronegative rheumatoid arthritis of wrists
 6608781000006113	Caplan's syndrome
 1786505011	Caplan's syndrome
 3527061011	Deformity of left foot co-occurrent and due to rheumatoid arthritis
@@ -29,8 +29,8 @@ MedCodeId	Term
 755441000006119	Juvenile rheumatoid arthritis - Still's disease
 297641010	Myopathy due to rheumatoid arthritis
 297544012	Polyneuropathy in rheumatoid arthritis
-12626381000000000	QOF (Quality and Outcomes Framework) rheumatoid arthritis quality indicator-related care invitation
-12734381000000000	QOF (Quality and Outcomes Framework) rheumatoid arthritis quality indicator-related care invitation using preferred method of communication
+12626381000006115	QOF (Quality and Outcomes Framework) rheumatoid arthritis quality indicator-related care invitation
+12734381000006119	QOF (Quality and Outcomes Framework) rheumatoid arthritis quality indicator-related care invitation using preferred method of communication
 3636541000006112	RA - Rheumatoid arthritis
 3636541000006112	RA - Rheumatoid arthritis
 989331000006117	Rheum. arth. - ankle/foot
@@ -64,13 +64,13 @@ MedCodeId	Term
 2275711000000112	Rheumatoid arthritis monitoring invitation second letter
 1875601000006119	Rheumatoid arthritis monitoring invitation second letter
 2275751000000111	Rheumatoid arthritis monitoring invitation third letter
-1875611000006116	Rheumatoid arthritis monitoring invitation third letter
+2275751000000111	Rheumatoid arthritis monitoring invitation third letter
 8440041000006115	Rheumatoid arthritis monitoring SMS (short message service) text message first invitation
 8440051000006118	Rheumatoid arthritis monitoring SMS (short message service) text message second invitation
 8440071000006111	Rheumatoid arthritis monitoring SMS (short message service) text message third invitation
 1875571000006114	Rheumatoid arthritis monitoring telephone invitation
 2275831000000110	Rheumatoid arthritis monitoring telephone invitation
-1875581000006112	Rheumatoid arthritis monitoring verbal invitation
+2275791000000115	Rheumatoid arthritis monitoring verbal invitation
 2275791000000115	Rheumatoid arthritis monitoring verbal invitation
 889731000006111	Rheumatoid arthritis NOS
 168761000006118	Rheumatoid arthritis of 1st metatarsophalangeal joint
@@ -93,14 +93,14 @@ MedCodeId	Term
 309798015	Rheumatoid arthritis of hip
 162081000006111	Rheumatoid arthritis of interphalangeal joint of toe
 162081000006111	Rheumatoid arthritis of interphalangeal joint of toe
-13605001000000000	Rheumatoid arthritis of joint of spine
+13605001000006117	Rheumatoid arthritis of joint of spine
 309800010	Rheumatoid arthritis of knee
-13687681000000000	Rheumatoid arthritis of left foot
+13687681000006113	Rheumatoid arthritis of left foot
 3528264013	Rheumatoid arthritis of left hip
 8447181000006111	Rheumatoid arthritis of left knee
 8447181000006111	Rheumatoid arthritis of left knee
-12114051000000000	Rheumatoid arthritis of left shoulder
-13687691000000000	Rheumatoid arthritis of left wrist
+12114051000006110	Rheumatoid arthritis of left shoulder
+13687691000006111	Rheumatoid arthritis of left wrist
 162101000006115	Rheumatoid arthritis of lesser metatarsophalangeal joint
 162101000006115	Rheumatoid arthritis of lesser metatarsophalangeal joint
 162111000006117	Rheumatoid arthritis of metacarpophalangeal joint
@@ -108,13 +108,13 @@ MedCodeId	Term
 309805017	Rheumatoid arthritis of other tarsal joint
 162131000006111	Rheumatoid arthritis of proximal interphalangeal joint of finger
 162131000006111	Rheumatoid arthritis of proximal interphalangeal joint of finger
-13687701000000000	Rheumatoid arthritis of right foot
+13687701000006111	Rheumatoid arthritis of right foot
 3528262012	Rheumatoid arthritis of right hand
 3528266010	Rheumatoid arthritis of right hip
 8447281000006115	Rheumatoid arthritis of right knee
 8447281000006115	Rheumatoid arthritis of right knee
-12114061000000000	Rheumatoid arthritis of right shoulder
-13687711000000000	Rheumatoid arthritis of right wrist
+12114061000006112	Rheumatoid arthritis of right shoulder
+13687711000006114	Rheumatoid arthritis of right wrist
 162141000006118	Rheumatoid arthritis of sacroiliac joint
 162141000006118	Rheumatoid arthritis of sacroiliac joint
 309789018	Rheumatoid arthritis of shoulder
@@ -136,7 +136,7 @@ MedCodeId	Term
 16911000006114	Rheumatoid arthritis with organ / system involvement
 359292012	Seronegative rheumatoid arthritis
 359292012	Seronegative rheumatoid arthritis
-13677531000000000	Seronegative rheumatoid arthritis of multiple sites
+13677531000006119	Seronegative rheumatoid arthritis of multiple sites
 451461014	Seropositive erosive rheumatoid arthritis
 451461014	Seropositive erosive rheumatoid arthritis
 149911000006117	Seropositive rheumatoid arthritis
