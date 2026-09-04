@@ -218,7 +218,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1975371000006110	26	EMISICD10|F1054		Mental & behav dis due to use alcohol: psychotic disorder, predominantly depressive symptoms	1975371000006106	1975371000006110		32	aud			add to alcohol_related_psychiatric_codes	
 1975411000006111	<5	EMISICD10|F1055		Mental & behav dis due to use alcohol: psychotic disorder, predominantly manic symptoms	1975411000006107	1975411000006111		32	aud			add to alcohol_related_psychiatric_codes	
 1975461000006114	467	EMISICD10|F1056		Mental & behav dis due to use alcohol: psychotic disorder, mixed	1975461000006105	1975461000006114		32	aud			add to alcohol_related_psychiatric_codes	
-342320016	223091	136N	136N.00	Light drinker	228277002	342320016		17	light-drinker				
+342320016	223091	136N	136N.00	Light drinker	228277002	342320016		17	check_upd				
 1975511000006112	<5	EMISICD10|F1070		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, flashbacks	1975511000006108	1975511000006112		32	aud			add to alcohol_related_psychiatric_codes	
 1975541000006111	108	EMISICD10|F1071		Mental & behav dis due to use alcohol: resid & late-onset psychot dis, personality or behaviour disorder	1975541000006107	1975541000006111		32	aud			add to alcohol_related_psychiatric_codes	
 4533161000006119	<5	^ESCTET453316		Ethanol intake	160573003	1221269018		17	check_upd				
@@ -414,7 +414,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 460276013	4063	ZV113	ZV11300	[V]Personal history of alcoholism	371422002	1196720012		17	aud		1		
 852401000006110	4512	EMISQRE13		Ready to start reducing alcohol	852401000006106	852401000006110		17	check_upd				
 852411000006113	11927	EMISQTH4		Thinking about reducing alcohol	852411000006109	852411000006113		17	check_upd				
-855071000006115	31358	EGTONGR6		Grade A none drinker or rare	855071000006104	855071000006115		17	check_upd			code as light-drinker?	Yes
+855071000006115	31358	EGTONGR6		Grade A none drinker or rare	855071000006104	855071000006115		17	light-drinker			code as light-drinker?	Yes
 855081000006117	16574	EGTONGR7		Grade B 0-20 units/week	855081000006101	855081000006117		17	check_upd			code as light-drinker?	20 units/week not light?
 460926018	10021	ZV57A	ZV57A00	[V]Alcohol rehabilitation	471691000000107	1001331000000118		32	aud		1		
 461112017	30164	ZV6D6	ZV6D600	Alcoholism counselling	24165007	1206287010		32	aud 				
@@ -434,7 +434,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 4978811000006111	28	^ESCTUS497881		Use of stratagems to control drinking	228345003	342399011		31	aud				
 7275011000006117	197	^ESCTAU727501		AUDIT (alcohol use disorders identification test) score	443280005	2842172016		3	alc_test			another type of check in observation table? 	Agree
 500478011	1504026	E23	E23..00	Alcohol dependence syndrome	66590003	500478011		32	aud				
-73012011	97934	136O	136O.00	Moderate drinker	43783005	73012011		17	moderate-drinker				
+73012011	97934	136O	136O.00	Moderate drinker	43783005	73012011		17	check_upd				
 501294012	4807	E0112	E011200	Wernicke-Korsakov syndrome	69482004	501294012		32	aud	Korsakov's syndrome			
 502016018	118	E231-1	E231.11	Dipsomania	7200002	502016018		32	aud			Snomed CI is alcohol dependence so keep	Need alcohol record - could be water
 507053019	1896	E010-1	E010.11	DTs - delirium tremens	8635005	507053019		32	aud			add to alcohol_related_psychiatric_codes	

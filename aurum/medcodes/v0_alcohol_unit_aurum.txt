@@ -27,7 +27,6 @@ medcodeid	observations	term	term_has_unit	term_period	zero_allowed
 250331010	 62400        	Spirit drinker	0		0
 4987161000006113	 34126        	alcohol units/week	1	WEEK	1
 852391000006113	 32576        	Not interested in reducing alcohol	0		0
-855071000006115	 31358        	Grade A none drinker or rare	0		1
 3843491000006118	 27483        	Ex-drinker	0		0
 451082013	 22607        	[V] Alcohol use	0		0
 250333013	 20267        	Drinks beer and spirits	0		0
