@@ -254,7 +254,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 296991018	5	F1021	F102100	Cerebral degeneration in Niemann-Pick disease	192792002	296991018		32	Frontotemporal dementia			
 296992013	<5	F102z	F102z00	Cerebral degeneration in lipidosis NOS	192794001	296993015		32	Rare			
 296993015	19	F103	F103.00	Cerebral degeneration in diseases EC	192794001	296993015		32	Rare			
-296994014	38	F1030	F103000	Cerebral degeneration in Hunter's disease	192795000	296994014		32	Rare			
+296994014	38	F1030	F103000	Cerebral degeneration in Hunter's disease	192795000	296994014		32	Dementia in HD			
 296995010	9	F1031	F103100	Cerebral degeneration in mucopolysaccharidoses	192796004	296995010		32	Rare			
 296996011	127	F103z	F103z00	Cerebral degeneration in disease NOS	192794001	296993015		32	Rare			
 297000018	3793	F11	F11..00	Degenerative brain disorder	52522001	87406016		32	Unspecified			

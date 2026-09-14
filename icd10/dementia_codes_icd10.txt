@@ -12,10 +12,10 @@ F01.3	Mixed cortical/subcortical vascular dementia	Vascular dementia
 F01.9	Vascular dementia, unspecified	Vascular dementia		
 F02	Dementia as a result of other diseases	Unspecified		
 F02.0	Dementia in Pick disease	Frontotemporal dementia		
-F02.1	Dementia in CJD	Dementia in CJD		
+F02.1	Dementia in CJD	Rare		
 F02.2	Dementia in HD	Dementia in HD		
-F02.3	Dementia in PD	Parkinson's disease		
-F02.4	Dementia in HIV	Dementia in HIV		
+F02.3	Dementia in PD	PDD 		
+F02.4	Dementia in HIV	Rare		
 F02.8	Dementia in other disease	Unspecified		
 F03	Unspecified dementia	Unspecified		
 F05.1	Delirum superimposed on dementia	Unspecified		
@@ -29,6 +29,6 @@ G30.9	Alzheimer's, unspecified	Alzheimer's disease
 G31	Other degenerative disease of NS	Unspecified		
 G31.0	Senile degeneration of brain, not elsewhere classified	Unspecified		
 G31.2	Degeneration of nervous system due to alcohol	Alcohol	1	 Alcoholic dementia
-G31.8	Other specified degenerative disease of NS	Other specified degenerative disease of NS		
-G31.9	Degenerative disease, unspecified	Degenerative disease, unspecified		
-I67.3	Progressive Vascular Leukoencephalopathy	Progressive Vascular Leukoencephalopathy		
+G31.8	Other specified degenerative disease of NS	unspecified		
+G31.9	Degenerative disease, unspecified	unspecified		
+I67.3	Progressive Vascular Leukoencephalopathy	Rare		
