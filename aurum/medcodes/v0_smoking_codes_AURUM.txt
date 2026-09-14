@@ -76,14 +76,14 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 250366012	1537737	137A	137A.00	Ex-heavy cigarette smoker (20-39/day)	266924008	397739019		17	ex-smoker	
 250367015	256196	137B	137B.00	Ex-very heavy cigarette smoker (40+/day)	266925009	397740017		17	ex-smoker	
 250368013	111547	137C	137C.00	Keeps trying to stop smoking	160612007	250368013		17	current-smoker	
-250369017	3700	137D	137D.00	Admitted tobacco consumption possibly untrue	160613002	2791864017		17	current-smoker	
+250369017	3700	137D	137D.00	Admitted tobacco consumption possibly untrue	160613002	2791864017		17	current-smoker 	check_status
 250371017	1680624	137F	137F.00	Ex-smoker - amount unknown	8517006	15047015		17	ex-smoker	
 250372012	2899553	137G	137G.00	Trying to give up smoking	160616005	250372012		17	current or ex-smoker	
 250373019	5382041	137K	137K.00	Stopped smoking	160617001	250373019		17	ex-smoker	
 250374013	15554683	137L	137L.00	Current non-smoker	160618006	250374013		17	ex-smoker	
 250375014	1888012	137M	137M.00	Rolls own cigarettes	160619003	250375014		17	current-smoker	
 250385010	2577659	137T	137T.00	Date ceased smoking	160625004	250385010		17	ex-smoker	
-250387019	94201	137Z	137Z.00	Tobacco consumption NOS	266918002	397730015		17	current-smoker	
+250387019	94201	137Z	137Z.00	Tobacco consumption NOS	266918002	397730015		17	check_status 	current-smoker 
 25281000000119	51344	9OO-1	9OO..11	Stop smoking clinic administration	714021000000104	1565261000000119		37	current or ex-smoker	
 263570019	78	63C5	63C5.00	Maternal tobacco abuse	169940006	263570019		16	current-smoker	
 265092010	99090	67A3	67A3.00	Pregnancy smoking advice	171055003	265092010		17	current-smoker	
@@ -101,9 +101,9 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 303501000000115	3448	8CAg	8CAg.00	Smoking cessation advice provided by community pharmacist	200221000000105	303501000000115		32	current or ex-smoker	
 324597019	106	SMC	SMC..00	Toxic effect of tobacco and nicotine	212899006	324597019		32	current-smoker	
 338608011	56438384	8CAL	8CAL.00	Smoking cessation advice	225323000	338608011		17	current or ex-smoker	
-344793011	1368288	137X	137X.00	Cigarette consumption	230056004	344793011		17	current-smoker	
-344794017	74530	137Y	137Y.00	Cigar consumption	230057008	344794017		17	current-smoker	
-344795016	11288	137a	137a.00	Pipe tobacco consumption	230058003	344795016		17	current-smoker	
+344793011	1368288	137X	137X.00	Cigarette consumption	230056004	344793011		17	check_status 	current-smoker
+344794017	74530	137Y	137Y.00	Cigar consumption	230057008	344794017		17	check_status 	current-smoker 
+344795016	11288	137a	137a.00	Pipe tobacco consumption	230058003	344795016		17	check_status 	current-smoker 
 397671000006112	<5	Eu170	Eu17000	[X]Mental and behavioural disorders due to use of tobacco: acute intoxication	30310000	50736017		32	current-smoker	
 397681000006110	13	Eu175	Eu17500	[X]Mental and behavioural disorders due to use of tobacco: psychotic disorder	30310000	50736017		32	current-smoker	
 397732011	121398799	1371	1371.00	Never smoked tobacco	266919005	397732011		17	non-smoker	
@@ -144,7 +144,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 99639019	505787	137J	137J.00	Cigar smoker	59978006	99639019		17	current-smoker	
 998861000006112	671	8BP3	8BP3.00	Nicotine replacement therapy provided by community pharmacist	200211000000104	303471000000110		32	current or ex-smoker	
 1009271000006118	23461	ASDFGNO1		Non Smoker - Nos	1009271000006102	1009271000006118		17	non-smoker	
-102921000006112	2534829	137	137..00	Tobacco smoking consumption	266918002	397730015		17	current-smoker	check_status
+102921000006112	2534829	137	137..00	Tobacco smoking consumption	266918002	397730015		17	check_status	current-smoker
 103051000006114	9132	6893	6893.00	Tobacco usage screen	171209009	265302011		1	check_status	
 103061000006111	16774	68T	68T..00	Tobacco usage screening	171209009	265302011		1	check_status	
 11793611000006110	12	^ESCT1179361		Smoking cessation behaviour support	384742004	3513200015		31	current-smoker	
@@ -171,12 +171,11 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1704561000006112	1064	9kf1	9kf1.00	Referred for chronic obstructive pulmonary disease structured smoking assessment	375851000000108	739301000000115		40	current-smoker	
 1704571000006117	1180	9kf2	9kf2.00	Chronic obstructive pulmonary disease structured smoking assessment declined	375911000000102	739421000000116		37	current-smoker	
 1704581000006119	406	9kf2-1	9kf2.11	COPD structured smoking assessment declined	375911000000102	739421000000116		37	current-smoker	
-1739161000000118	57388	1782	1782.00	Asthma trigger - tobacco smoke	340921000000103	1739161000000118		27	exclude 	
 1741641000006117	1178	9kc0-1	9kc0.11	Smoking cessation ESA monitoring template completed	374391000000106	1152711000000117		37	current or ex-smoker	
 1771191000006119	3258	EMISNQAT12		Attends smoking cessation clinic not at practice	201941000000100	307621000000118		37	current or ex-smoker	
 1777011000006118	804	EMISNQRE259		Reason for referral: Smoking Cessation	1777011000006102	1777011000006118		40	current or ex-smoker	
 1778181000006110	577	EMISNQGR20		Group session: Stop smoking education programme	1778181000006106	1778181000006110		37	current or ex-smoker	
-1809121000006113	7	EMISNQWA11		Waterpipe tobacco consumption	1809121000006109	1809121000006113		17	current-smoker	
+1809121000006113	7	EMISNQWA11		Waterpipe tobacco consumption	1809121000006109	1809121000006113		17	check_status 	current-smoker
 1809131000006111	474	EMISNQTO12		Total time smoked	228487000	1809131000006111		17	current or ex-smoker	
 1819411000006114	182	EMISNQSM14		Smoking increased	1819411000006105	1819411000006114		17	current-smoker	
 1823811000006115	5	EMISNQSM15		Smoking cessation 12 week follow up	1823811000006104	1823811000006115		37	current or ex-smoker	
@@ -225,14 +224,12 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 1979481000006118	1480	EMISNQNI19		Nicotine replacement therapy using nicotine mouth spray	1979481000006102	1979481000006118		32	current or ex-smoker	
 1979491000006115	18340	EMISNQSM20		Smoking cessation follow-up	1979491000006104	1979491000006115		32	current or ex-smoker	
 21691000000116	135151	9OO-2	9OO..12	Anti-smoking monitoring administration	714001000000108	1565241000000115		37	current-smoker	
-2170961000000116	14361	137o	137o.00	Waterpipe tobacco consumption	836001000000109	2170961000000116		17	current-smoker	
+2170961000000116	14361	137o	137o.00	Waterpipe tobacco consumption	836001000000109	2170961000000116		17	check_status 	current-smoker
 2265711000000117	1021485	1PC	1PC..00	Electronic cigarette user	722499006	3332504019		17	current-smoker	electronic cigarette
 2336091000000117	71819	1PD	1PD..00	Ex user of electronic cigarette	908781000000104	2336091000000117		17	ex-smoker	electronic cigarette
 2462391000000119	70	8IEM0	8IEM000	Varenicline smoking cessation therapy declined	966971000000103	2462391000000119		32	current-smoker	
 250370016	144997	137E	137E.00	Tobacco consumption unknown	160614008	250370016		17	current-smoker	exclude
-2636041000006110	234	^ESCTCE263604		Cessation of smoking	8517006	15048013		17	exclude - drugs 	
-2670126018	26389	137e	137e.00	Smoking restarted	308438006	2670126018		17	exclude - drugs 	
-2735181000000113	491827	^ESCT1172035		Ex-smoker amount unknown	1092031000000108	2735181000000113		17	exclude - drugs 	
+2735181000000113	491827	^ESCT1172035		Ex-smoker amount unknown	1092031000000108	2735181000000113		17	ex-smoker 	exclude
 2735201000000112	585	^ESCT1172036		Ex-very heavy smoker (40+/day)	1092041000000104	2735201000000112		17	ex-smoker	
 2735281000000119	3238	^ESCT1172039		Ex-heavy smoker (20-39/day)	1092071000000105	2735281000000119		17	ex-smoker	
 2735331000000112	4317	^ESCT1172042		Ex-moderate smoker (10-19/day)	1092091000000109	2735331000000112		17	ex-smoker	
@@ -242,9 +239,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 3374141000006117	96	^ESCTTO337414		Tolerant ex-smoker	53896009	89595016		17	ex-smoker	
 3419101000006116	2785	^ESCTMO341910		Moderate smoker (20 or less per day)	56578002	94089011		17	current-smoker	
 3422221000006116	1722	^ESCTHE342222		Heavy smoker (over 20 per day)	56771006	94417014		17	current-smoker	
-342443012	26471	13cA	13cA.00	Smokes drugs	228377000	342443012		17	exclude - drugs 	exclude - drugs 
-342444018	3520	1V08	1V08.00	Smokes drugs in cigarette form	228378005	342444018		27	exclude - drugs 	exclude - drugs 
-342445017	1971	1V09	1V09.00	Smokes drugs through a pipe	228379002	342445017		27	exclude - drugs 	exclude - drugs 
 342574011	631725	137n	137n.00	Total time smoked	228487000	342574011		17	current or ex-smoker	
 3513101011	<5	^ESCT1165101		Date ceased using moist tobacco	735112005	3513101011		17	ex-smoker	
 3513199018	1744	^ESCT1165113		Ex-smoker for less than 1 year	735128000	3513199018		17	ex-smoker	
@@ -273,7 +267,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5495921000006119	20249	^ESCTNE549592		Never smoked	266919005	397731016		17	non-smoker	
 5495941000006114	173	^ESCTOC549594		Occasional smoker	266920004	397733018		17	current-smoker	
 5495951000006111	73	^ESCTOC549595		Occasional cigarette smoker (less than one cigarette/day)	266920004	397734012		17	current-smoker	
-5496021000006114	64459	^ESCTTO549602		Tobacco smoking consumption unknown	266927001	397743015		17	current-smoker	
+5496021000006114	64459	^ESCTTO549602		Tobacco smoking consumption unknown	266927001	397743015		17	current-smoker 	check_status
 5496031000006112	13722	^ESCTEX549603		Ex-cigarette smoker amount unknown	266928006	397744014		17	ex-smoker	
 5979541000006112	1747	^ESCTSM597954		Smoking monitoring call	308511002	451871018		31	current-smoker	
 5979551000006114	94501	^ESCTSM597955		Smoking monitoring status	308512009	451872013		1	current-smoker	
@@ -285,7 +279,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 6282331000006114	997098	^ESCTTO628233		Tobacco smoking behaviour - finding	365981007	1206652017		17	current-smoker	
 6282341000006116	<5	^ESCTTO628234		Tobacco smoking behavior - finding	365981007	489483015		17	current-smoker	
 6282351000006119	899	^ESCTSM628235		Smoking	365981007	1490791014		17	current-smoker	
-6282371000006112	<5	^ESCTTO628237		Tobacco smoking consumption - finding	365982000	489484014		17	current-smoker	
+6282371000006112	<5	^ESCTTO628237		Tobacco smoking consumption - finding	365982000	489484014		17	check_status	current-smoker
 6427931000006116	192	^ESCTSM642793		Smoking cessation assistance	384742004	1479064018		31	current-smoker	
 649821000006115	82382	137O	137O.00	Ex-cigar smoker	160621008	250377018		17	ex-smoker	
 649831000006117	73075	137N	137N.00	Ex-pipe smoker	160620009	250376010		17	ex-smoker	
@@ -326,7 +320,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 854981000006117	5470	EGTONGR12		Grade C moderate smoker (11-20/day)	854981000006101	854981000006117		3	current-smoker	
 855001000006114	2082	EGTONGR13		Grade D heavy smoker (>20 Day)	855001000006105	855001000006114		3	current-smoker	
 903041000006110	10076	137F-99	137F.99	EX-Smoker NOS	266928006	903041000006110		17	ex-smoker	
-903051000006112	7	137L-99	137L.99	Tobacco Consumption Nil	160618006	903051000006112		17	non-smoker	
+903051000006112	7	137L-99	137L.99	Tobacco Consumption Nil	160618006	903051000006112		17	check_status	non-smoker
 903981000006117	29	EMISQNO1		Not interested in stopping smoking	903981000006101	903981000006117		17	current-smoker	
 904001000006111	21	EMISQRE12		Ready to stop smoking	904001000006107	904001000006111		17	current-smoker	
 904021000006118	79232	EMISQPR6		Previous smoking quit attempts	904021000006102	904021000006118		17	current-smoker	review
