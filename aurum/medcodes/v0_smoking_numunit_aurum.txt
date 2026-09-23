@@ -1,154 +1,154 @@
-medcodeid	medcodeid_term	numunitid	numunitid_description	numunitid_count	smokstatus	acceptable	outcome	comments
-102921000006112	Tobacco smoking consumption	118	Cigarettes/day	784236	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-342574011	Total time smoked	308	year	518975	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	308	year	391631	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	308	year	383841	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	54	{cigarettes}/d	368168	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344793011	Cigarette consumption	38	/d	224200	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344793011	Cigarette consumption	478	cigarettes / day	190454	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-137771000006119	Smoking Age Started	309	years	163622	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	39	/day	116697	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-460127014	Pack years	309	years	110694	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	245	pack years	41199	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	118	Cigarettes/day	39378	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344793011	Cigarette consumption	120	Cigs/Day	36410	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344794017	Cigar consumption	703	cigars/day	34296	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-250372012	Trying to give up smoking	118	Cigarettes/day	31207	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-1780396011	Cigarette pack-years	309	years	26798	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	310	yrs@20cigs/day	20680	current or ex-smoker	1	assume current	need algorithm to be more specific
-137771000006119	Smoking Age Started	308	year	18694	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	616	{pack-years}	14216	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	120	Cigs/Day	11888	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-2170961000000116	Waterpipe tobacco consumption	273	times/week	10592	check_status 	1	 	
-102921000006112	Tobacco smoking consumption	1202	cig/day	9747	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-1780396011	Cigarette pack-years	245	pack years	9656	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	3071	pack-yr	9448	current or ex-smoker	1	assume current	need algorithm to be more specific
-338608011	Smoking cessation advice	118	Cigarettes/day	8876	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
-460127014	Pack years	900	yrs@20/day	8365	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	2682	Cig/Dy	7650	check_status	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-102921000006112	Tobacco smoking consumption	1551	Ounces of tobacco/day	7186	check_status	1	value not null and 0<value<5 current smoker. If 0 then non-smoker	
-460127014	Pack years	1935	PY	6955	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	703	cigars/day	6897	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-137771000006119	Smoking Age Started	1112	yrs old	6402	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	1792	pack yrs	6338	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	120	Cigs/Day	5651	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-342574011	Total time smoked	309	years	5601	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	247	per day	4968	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-460127014	Pack years	747	Yrs	4795	current or ex-smoker	1	assume current	need algorithm to be more specific
-344794017	Cigar consumption	55	{cigars}/d	4531	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-460127014	Pack years	4315	Yrs.	3870	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	3859	pack/years	3765	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	118	Cigarettes/day	3147	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344794017	Cigar consumption	1777	cigars / day	2933	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-460127014	Pack years	1637	packyears	2783	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	6947	/years	2242	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	7104	years @ 20cig/d	2174	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	747	Yrs	2165	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	1917	qty/day	2093	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-102921000006112	Tobacco smoking consumption	1917	qty/day	1911	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-102921000006112	Tobacco smoking consumption	747	Yrs	1772	check_status	1	assume current	need algorithm to be more specific
-344794017	Cigar consumption	39	/day	1748	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344794017	Cigar consumption	38	/d	1517	check_status 	1	 	
-460127014	Pack years	1840	Pack/yrs (20/day)	1432	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	1580	pack-years	1420	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	1580	pack-years	1367	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	7998	pack/year	1291	current or ex-smoker	1	assume current	need algorithm to be more specific
-344795016	Pipe tobacco consumption	1551	Ounces of tobacco/day	1232	check_status 	1	value not null and 0<value<5 current smoker. If 0 then non-smoker	
-344795016	Pipe tobacco consumption	141	g/week	1217	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-460127014	Pack years	2378	Pack/yrs	1163	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	1739	Cig Per Day	1091	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-102921000006112	Tobacco smoking consumption	39	/day	996	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-1780396011	Cigarette pack-years	3038	P/y	987	current or ex-smoker	1	assume current	need algorithm to be more specific
-137771000006119	Smoking Age Started	629	years old	893	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	1792	pack yrs	881	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	10998	pkyrs	797	current or ex-smoker	1	assume current	need algorithm to be more specific
-344795016	Pipe tobacco consumption	333	g/d	787	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-460127014	Pack years	1030	NUMBER	735	current or ex-smoker	1	assume current	need algorithm to be more specific
-344794017	Cigar consumption	118	Cigarettes/day	721	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-21681000000118	Anti-smoking monitoring admin.	1664	Quit Attempts	704	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	2757	/YRS	646	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	7720	years@20/d	622	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	1494	YR	595	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	1296	cigarettes	563	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-1780396011	Cigarette pack-years	1637	packyears	555	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	1551	Ounces of tobacco/day	538	check_status 	1	value not null and 0<value<5 current smoker. If 0 then non-smoker	
-102921000006112	Tobacco smoking consumption	309	years	514	check_status	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	1918	pack*years	497	current or ex-smoker	1	assume current	need algorithm to be more specific
-1809131000006111	Total time smoked	308	year	472	current or ex-smoker	1	assume current	need algorithm to be more specific
-342574011	Total time smoked	8976	units:yrs	426	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	1323	packs	385	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	1853	cigs:	332	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-250387019	Tobacco consumption NOS	309	years	324	check_status 	1	assume current	review
-460127014	Pack years	2550	packyrs	302	current or ex-smoker	1	assume current	need algorithm to be more specific
-342574011	Total time smoked	128	day	299	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	333	g/d	291	check_status	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-344793011	Cigarette consumption	4331	/days	286	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-1780396011	Cigarette pack-years	2550	packyrs	284	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	2298	pk/yrs	280	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	45	/week	244	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-909391000006117	[RFC] Reason for care : Smoking cessation	257	ppm	226	current or ex-smoker	1	not null and 0<value < x  current smoker. If 0 then ex-smoker	review
-344795016	Pipe tobacco consumption	1763	grams / day	205	check_status 	1	value not null <x current smoker. If 0 then non-smoker	
-460127014	Pack years	3038	P/y	183	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	845	Cigs per day	159	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-338608011	Smoking cessation advice	257	ppm	159	current or ex-smoker	1	not null and 0<value < x  current smoker. If 0 then ex-smoker	review
-250372012	Trying to give up smoking	1551	Ounces of tobacco/day	155	current or ex-smoker	1	value not null and 0<value<5 current smoker. If 0 then ex-smoker	
-250372012	Trying to give up smoking	703	cigars/day	147	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-342574011	Total time smoked	352	MONTHS	143	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	10449	Years smoked	128	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	11703	packs/year	127	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	2682	Cig/Dy	124	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-498831000006118	Attends stop smoking monitoring	118	Cigarettes/day	119	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
-338608011	Smoking cessation advice	703	cigars/day	116	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-344793011	Cigarette consumption	298	week	113	check_status 	1	assume current	review
-460127014	Pack years	8968	yrs @ 20 cig/d	104	current or ex-smoker	1	assume current	need algorithm to be more specific
-338608011	Smoking cessation advice	1551	Ounces of tobacco/day	96	current or ex-smoker	1	value not null and 0<value<5 current smoker. If 0 then ex-smoker	
-460127014	Pack years	3823	packs/yr	91	current or ex-smoker	1	assume current	need algorithm to be more specific
-344795016	Pipe tobacco consumption	118	Cigarettes/day	90	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-2170961000000116	Waterpipe tobacco consumption	272	times/day	90	check_status 	1	assume current	
-460127014	Pack years	1797	pk/yr	80	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780396011	Cigarette pack-years	3859	pack/years	79	current or ex-smoker	1	assume current	need algorithm to be more specific
-460127014	Pack years	10204	pk yrs	73	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	40	/day (past)	73	check_status	1	assume current	review 
-102921000006112	Tobacco smoking consumption	2992	Cigarettes (no/day)	72	check_status	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-1489355012	Referral to smoking cessation advisor	118	Cigarettes/day	65	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
-342574011	Total time smoked	880	month	62	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	247	per day	55	check_status	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-344793011	Cigarette consumption	1202	cig/day	54	check_status 	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-128381000006117	Stop smoking monitoring check done	118	Cigarettes/day	49	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-1780396011	Cigarette pack-years	17226	no of years	47	current or ex-smoker	1	assume current	need algorithm to be more specific
-102921000006112	Tobacco smoking consumption	356	g/Day	46	check_status	1	value not null <x current smoker. If 0 then ex-smoker	
-2170961000000116	Waterpipe tobacco consumption	887	times/month	45	check_status 	1	value not null <x current smoker. If 0 then ex-smoker	
-102921000006112	Tobacco smoking consumption	245	pack years	44	check_status	1	assume current	need algorithm to be more specific
-342574011	Total time smoked	298	week	43	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	1551	Ounces of tobacco/day	39	check_status 	1	value not null and 0<value<5 current smoker. If 0 then non-smoker	
-344793011	Cigarette consumption	480	/month	32	check_status 	1	assume current	need algorithm to be more specific
-344794017	Cigar consumption	45	/week	31	check_status 	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	703	cigars/day	28	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-460127014	Pack years	10180	P/years	25	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	703	cigars/day	24	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344794017	Cigar consumption	1551	Ounces of tobacco/day	24	check_status 	1	value not null and 0<value<5 current smoker. If 0 then non-smoker	
-344794017	Cigar consumption	247	per day	24	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-250387019	Tobacco consumption NOS	247	per day	22	check_status 	1	 	
-460127014	Pack years	20312	P/yrs	21	current or ex-smoker	1	assume current	need algorithm to be more specific
-2170961000000116	Waterpipe tobacco consumption	1253	daily	21	check_status 	1	 	
-1780396011	Cigarette pack-years	11030	Pack-yrs	20	current or ex-smoker	1	assume current	need algorithm to be more specific
-250387019	Tobacco consumption NOS	333	g/d	19	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-342574011	Total time smoked	299	weeks	18	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	880	month	18	check_status 	1	 	
-250387019	Tobacco consumption NOS	98	a day	17	check_status 	1	 	
-459722017	Referral to stop-smoking clinic	118	Cigarettes/day	17	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
-1780396011	Cigarette pack-years	2298	pk/yrs	15	current or ex-smoker	1	assume current	need algorithm to be more specific
-1780273014	Seen by smoking cessation advisor	118	Cigarettes/day	14	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
-1715591000006117	Referral to National Health Service stop smoking service	118	Cigarettes/day	14	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-338608011	Smoking cessation advice	1664	Quit Attempts	12	current or ex-smoker	1	assume current	need algorithm to be more specific
-342574011	Total time smoked	245	pack years	12	current or ex-smoker	1	assume current	need algorithm to be more specific
-344794017	Cigar consumption	480	/month	12	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-137771000006119	Smoking Age Started	875	age	12	current or ex-smoker	1	assume current	need algorithm to be more specific
-342574011	Total time smoked	98	a day	11	current or ex-smoker	1	assume current	need algorithm to be more specific
-344793011	Cigarette consumption	10792	cigarette	11	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	
-344793011	Cigarette consumption	141	g/week	11	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
-344794017	Cigar consumption	880	month	11	check_status 	1	assume current	need algorithm to be more specific
-344794017	Cigar consumption	47	/year	11	check_status 	1	 	
-344795016	Pipe tobacco consumption	703	cigars/day	11	check_status 	1	value not null and 0<value<200 current smoker. If 0 then non-smoker	review
-1662951000000113	Declined consent for follow-up by smoking cessation team	118	Cigarettes/day	11	current or ex-smoker	1	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
-344795016	Pipe tobacco consumption	242	oz/week	10	check_status 	1	not null and 0<value < x  current smoker. If 0 then non-smoker	
+medcodeid	medcodeid_term	numunitid	numunitid_description	numunitid_count	smokstatus	outcome	comments
+102921000006112	Tobacco smoking consumption	118	Cigarettes/day	784236	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+342574011	Total time smoked	308	year	518975	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	308	year	391631	current or ex-smoker	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	308	year	383841	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	54	{cigarettes}/d	368168	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344793011	Cigarette consumption	38	/d	224200	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344793011	Cigarette consumption	478	cigarettes / day	190454	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+137771000006119	Smoking Age Started	309	years	163622	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	39	/day	116697	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+460127014	Pack years	309	years	110694	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	245	pack years	41199	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	118	Cigarettes/day	39378	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344793011	Cigarette consumption	120	Cigs/Day	36410	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344794017	Cigar consumption	703	cigars/day	34296	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+250372012	Trying to give up smoking	118	Cigarettes/day	31207	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+1780396011	Cigarette pack-years	309	years	26798	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	310	yrs@20cigs/day	20680	current or ex-smoker	assume current	need algorithm to be more specific
+137771000006119	Smoking Age Started	308	year	18694	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	616	{pack-years}	14216	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	120	Cigs/Day	11888	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+2170961000000116	Waterpipe tobacco consumption	273	times/week	10592	check_status 	 	
+102921000006112	Tobacco smoking consumption	1202	cig/day	9747	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+1780396011	Cigarette pack-years	245	pack years	9656	current or ex-smoker	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	3071	pack-yr	9448	current or ex-smoker	assume current	need algorithm to be more specific
+338608011	Smoking cessation advice	118	Cigarettes/day	8876	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
+460127014	Pack years	900	yrs@20/day	8365	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	2682	Cig/Dy	7650	check_status	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+102921000006112	Tobacco smoking consumption	1551	Ounces of tobacco/day	7186	check_status	value not null and 0<value<5 current smoker. If 0 then non-smoker	
+460127014	Pack years	1935	PY	6955	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	703	cigars/day	6897	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+137771000006119	Smoking Age Started	1112	yrs old	6402	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	1792	pack yrs	6338	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	120	Cigs/Day	5651	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+342574011	Total time smoked	309	years	5601	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	247	per day	4968	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+460127014	Pack years	747	Yrs	4795	current or ex-smoker	assume current	need algorithm to be more specific
+344794017	Cigar consumption	55	{cigars}/d	4531	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+460127014	Pack years	4315	Yrs.	3870	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	3859	pack/years	3765	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	118	Cigarettes/day	3147	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344794017	Cigar consumption	1777	cigars / day	2933	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+460127014	Pack years	1637	packyears	2783	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	6947	/years	2242	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	7104	years @ 20cig/d	2174	current or ex-smoker	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	747	Yrs	2165	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	1917	qty/day	2093	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+102921000006112	Tobacco smoking consumption	1917	qty/day	1911	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+102921000006112	Tobacco smoking consumption	747	Yrs	1772	check_status	assume current	need algorithm to be more specific
+344794017	Cigar consumption	39	/day	1748	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344794017	Cigar consumption	38	/d	1517	check_status 	 	
+460127014	Pack years	1840	Pack/yrs (20/day)	1432	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	1580	pack-years	1420	current or ex-smoker	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	1580	pack-years	1367	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	7998	pack/year	1291	current or ex-smoker	assume current	need algorithm to be more specific
+344795016	Pipe tobacco consumption	1551	Ounces of tobacco/day	1232	check_status 	value not null and 0<value<5 current smoker. If 0 then non-smoker	
+344795016	Pipe tobacco consumption	141	g/week	1217	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
+460127014	Pack years	2378	Pack/yrs	1163	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	1739	Cig Per Day	1091	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+102921000006112	Tobacco smoking consumption	39	/day	996	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+1780396011	Cigarette pack-years	3038	P/y	987	current or ex-smoker	assume current	need algorithm to be more specific
+137771000006119	Smoking Age Started	629	years old	893	current or ex-smoker	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	1792	pack yrs	881	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	10998	pkyrs	797	current or ex-smoker	assume current	need algorithm to be more specific
+344795016	Pipe tobacco consumption	333	g/d	787	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
+460127014	Pack years	1030	NUMBER	735	current or ex-smoker	assume current	need algorithm to be more specific
+344794017	Cigar consumption	118	Cigarettes/day	721	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+21681000000118	Anti-smoking monitoring admin.	1664	Quit Attempts	704	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	2757	/YRS	646	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	7720	years@20/d	622	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	1494	YR	595	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	1296	cigarettes	563	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+1780396011	Cigarette pack-years	1637	packyears	555	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	1551	Ounces of tobacco/day	538	check_status 	value not null and 0<value<5 current smoker. If 0 then non-smoker	
+102921000006112	Tobacco smoking consumption	309	years	514	check_status	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	1918	pack*years	497	current or ex-smoker	assume current	need algorithm to be more specific
+1809131000006111	Total time smoked	308	year	472	current or ex-smoker	assume current	need algorithm to be more specific
+342574011	Total time smoked	8976	units:yrs	426	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	1323	packs	385	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	1853	cigs:	332	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+250387019	Tobacco consumption NOS	309	years	324	check_status 	assume current	review
+460127014	Pack years	2550	packyrs	302	current or ex-smoker	assume current	need algorithm to be more specific
+342574011	Total time smoked	128	day	299	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	333	g/d	291	check_status	not null and 0<value < x  current smoker. If 0 then non-smoker	
+344793011	Cigarette consumption	4331	/days	286	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
+1780396011	Cigarette pack-years	2550	packyrs	284	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	2298	pk/yrs	280	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	45	/week	244	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
+909391000006117	[RFC] Reason for care : Smoking cessation	257	ppm	226	current or ex-smoker	not null and 0<value < x  current smoker. If 0 then ex-smoker	review
+344795016	Pipe tobacco consumption	1763	grams / day	205	check_status 	value not null <x current smoker. If 0 then non-smoker	
+460127014	Pack years	3038	P/y	183	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	845	Cigs per day	159	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+338608011	Smoking cessation advice	257	ppm	159	current or ex-smoker	not null and 0<value < x  current smoker. If 0 then ex-smoker	review
+250372012	Trying to give up smoking	1551	Ounces of tobacco/day	155	current or ex-smoker	value not null and 0<value<5 current smoker. If 0 then ex-smoker	
+250372012	Trying to give up smoking	703	cigars/day	147	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+342574011	Total time smoked	352	MONTHS	143	current or ex-smoker	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	10449	Years smoked	128	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	11703	packs/year	127	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	2682	Cig/Dy	124	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+498831000006118	Attends stop smoking monitoring	118	Cigarettes/day	119	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
+338608011	Smoking cessation advice	703	cigars/day	116	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+344793011	Cigarette consumption	298	week	113	check_status 	assume current	review
+460127014	Pack years	8968	yrs @ 20 cig/d	104	current or ex-smoker	assume current	need algorithm to be more specific
+338608011	Smoking cessation advice	1551	Ounces of tobacco/day	96	current or ex-smoker	value not null and 0<value<5 current smoker. If 0 then ex-smoker	
+460127014	Pack years	3823	packs/yr	91	current or ex-smoker	assume current	need algorithm to be more specific
+344795016	Pipe tobacco consumption	118	Cigarettes/day	90	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+2170961000000116	Waterpipe tobacco consumption	272	times/day	90	check_status 	assume current	
+460127014	Pack years	1797	pk/yr	80	current or ex-smoker	assume current	need algorithm to be more specific
+1780396011	Cigarette pack-years	3859	pack/years	79	current or ex-smoker	assume current	need algorithm to be more specific
+460127014	Pack years	10204	pk yrs	73	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	40	/day (past)	73	check_status	assume current	review 
+102921000006112	Tobacco smoking consumption	2992	Cigarettes (no/day)	72	check_status	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+1489355012	Referral to smoking cessation advisor	118	Cigarettes/day	65	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
+342574011	Total time smoked	880	month	62	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	247	per day	55	check_status	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+344793011	Cigarette consumption	1202	cig/day	54	check_status 	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+128381000006117	Stop smoking monitoring check done	118	Cigarettes/day	49	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+1780396011	Cigarette pack-years	17226	no of years	47	current or ex-smoker	assume current	need algorithm to be more specific
+102921000006112	Tobacco smoking consumption	356	g/Day	46	check_status	value not null <x current smoker. If 0 then ex-smoker	
+2170961000000116	Waterpipe tobacco consumption	887	times/month	45	check_status 	value not null <x current smoker. If 0 then ex-smoker	
+102921000006112	Tobacco smoking consumption	245	pack years	44	check_status	assume current	need algorithm to be more specific
+342574011	Total time smoked	298	week	43	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	1551	Ounces of tobacco/day	39	check_status 	value not null and 0<value<5 current smoker. If 0 then non-smoker	
+344793011	Cigarette consumption	480	/month	32	check_status 	assume current	need algorithm to be more specific
+344794017	Cigar consumption	45	/week	31	check_status 	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	703	cigars/day	28	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+460127014	Pack years	10180	P/years	25	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	703	cigars/day	24	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344794017	Cigar consumption	1551	Ounces of tobacco/day	24	check_status 	value not null and 0<value<5 current smoker. If 0 then non-smoker	
+344794017	Cigar consumption	247	per day	24	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+250387019	Tobacco consumption NOS	247	per day	22	check_status 	 	
+460127014	Pack years	20312	P/yrs	21	current or ex-smoker	assume current	need algorithm to be more specific
+2170961000000116	Waterpipe tobacco consumption	1253	daily	21	check_status 	 	
+1780396011	Cigarette pack-years	11030	Pack-yrs	20	current or ex-smoker	assume current	need algorithm to be more specific
+250387019	Tobacco consumption NOS	333	g/d	19	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
+342574011	Total time smoked	299	weeks	18	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	880	month	18	check_status 	 	
+250387019	Tobacco consumption NOS	98	a day	17	check_status 	 	
+459722017	Referral to stop-smoking clinic	118	Cigarettes/day	17	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
+1780396011	Cigarette pack-years	2298	pk/yrs	15	current or ex-smoker	assume current	need algorithm to be more specific
+1780273014	Seen by smoking cessation advisor	118	Cigarettes/day	14	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	review
+1715591000006117	Referral to National Health Service stop smoking service	118	Cigarettes/day	14	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+338608011	Smoking cessation advice	1664	Quit Attempts	12	current or ex-smoker	assume current	need algorithm to be more specific
+342574011	Total time smoked	245	pack years	12	current or ex-smoker	assume current	need algorithm to be more specific
+344794017	Cigar consumption	480	/month	12	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
+137771000006119	Smoking Age Started	875	age	12	current or ex-smoker	assume current	need algorithm to be more specific
+342574011	Total time smoked	98	a day	11	current or ex-smoker	assume current	need algorithm to be more specific
+344793011	Cigarette consumption	10792	cigarette	11	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	
+344793011	Cigarette consumption	141	g/week	11	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
+344794017	Cigar consumption	880	month	11	check_status 	assume current	need algorithm to be more specific
+344794017	Cigar consumption	47	/year	11	check_status 	 	
+344795016	Pipe tobacco consumption	703	cigars/day	11	check_status 	value not null and 0<value<200 current smoker. If 0 then non-smoker	review
+1662951000000113	Declined consent for follow-up by smoking cessation team	118	Cigarettes/day	11	current or ex-smoker	value not null and 0<value<200 current smoker. If 0 then ex-smoker	
+344795016	Pipe tobacco consumption	242	oz/week	10	check_status 	not null and 0<value < x  current smoker. If 0 then non-smoker	
