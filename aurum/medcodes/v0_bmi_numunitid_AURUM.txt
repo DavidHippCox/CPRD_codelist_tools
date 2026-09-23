@@ -1,0 +1,83 @@
+medcodeid	numunitid	numunitid_description	conversion
+100716012	108	Body Mass Index	identity
+100716012	157	kg/m2	identity
+100716012	568	BMI	identity
+100716012	657	Kg/mÂ²	identity
+100716012	907	kg/m^2	identity
+100716012	1200	kg/m/m	identity
+100716012	1309	K/M2	identity
+100716012	1438	kg/m*m	identity
+100716012	1633	kg/square m	identity
+100716012	1754	kg/m*2	identity
+100716012	2050	Patient BMI calculat	identity
+100716012	2057	kg/sq.m	identity
+100716012	2569	the appropriate unit	identity
+100716012	3737	18.5.-24.9	identity
+100716012	4310	kg/sq.m.	identity
+100716012	5953	B.M.I	identity
+100716012	10176	Body mass index (Kg/M2)	identity
+100716012	18067	kgm2	identity
+100716012	18107	km/m2	identity
+100716012	18223	kgm^2	identity
+100716012	18515	kg/sq m	identity
+100716012	20642	kg/sqm	identity
+100716012	22101	Kg/m²	identity
+100716012	22120		identity
+100716012	23766	kg/m.sq	identity
+100716012	29493	kilogram per square meter	identity
+11923361000006119	157	kg/m2	identity
+11923361000006119	568	BMI	identity
+11923361000006119	907	kg/m^2	identity
+11923361000006119	23766	kg/m.sq	identity
+1900331000006113	157	kg/m2	identity
+1900331000006113	907	kg/m^2	identity
+2160062010	157	kg/m2	identity
+2160062010	907	kg/m^2	identity
+2160062010	22101	Kg/m²	identity
+2196071000000116	157	kg/m2	identity
+2196071000000116	657	Kg/mÂ²	identity
+2196071000000116	22101	Kg/m²	identity
+2350261000000115	157	kg/m2	identity
+2350261000000115	907	kg/m^2	identity
+2474325012	157	kg/m2	identity
+2474325012	657	Kg/mÂ²	identity
+2474325012	907	kg/m^2	identity
+2474325012	22101	Kg/m²	identity
+253844013	157	kg/m2	identity
+253844013	657	Kg/mÂ²	identity
+253844013	22101	Kg/m²	identity
+253845014	157	kg/m2	identity
+253845014	657	Kg/mÂ²	identity
+253845014	22101	Kg/m²	identity
+253846010	157	kg/m2	identity
+253846010	907	kg/m^2	identity
+253846010	22101	Kg/m²	identity
+253847018	157	kg/m2	identity
+253847018	907	kg/m^2	identity
+253847018	1856	BMI 25-29 - overweight	identity
+253847018	22101	Kg/m²	identity
+253848011	108	Body Mass Index	identity
+253848011	157	kg/m2	identity
+253848011	657	Kg/mÂ²	identity
+253848011	907	kg/m^2	identity
+253848011	1859	Body mass index 30+ - obesity	identity
+253848011	22101	Kg/m²	identity
+3484801000006114	157	kg/m2	identity
+3484801000006114	907	kg/m^2	identity
+3484801000006114	22101	Kg/m²	identity
+3484801000006114	23766	kg/m.sq	identity
+3484811000006112	157	kg/m2	identity
+453856012	157	kg/m2	identity
+453856012	907	kg/m^2	identity
+453856012	6064	Body mass index less than 20	identity
+453856012	22101	Kg/m²	identity
+4553721000006113	157	kg/m2	identity
+4553721000006113	907	kg/m^2	identity
+4553741000006118	157	kg/m2	identity
+4553741000006118	907	kg/m^2	identity
+5998281000006119	157	kg/m2	identity
+5998281000006119	907	kg/m^2	identity
+5998281000006119	23766	kg/m.sq	identity
+6763391000006114	157	kg/m2	identity
+7504441000006114	157	kg/m2	identity
+8286991000006119	157	kg/m2	identity

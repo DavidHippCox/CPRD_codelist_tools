@@ -1,0 +1,84 @@
+medcodeid	numunitid	numunitid_description	conversion
+11905011000006114	156	kg	identity
+11905011000006114	827	Kgs	identity
+11905011000006114	1691	Stones	stone_to_kg
+11905011000006114	2318	stone	stone_to_kg
+11905011000006114	3381	st	stone_to_kg
+13638231000006115	156	kg	identity
+13638231000006115	827	Kgs	identity
+13638231000006115	20514	kilogram	identity
+1780175010	156	kg	identity
+1780175010	419	pounds	pounds_to_kg
+1780175010	827	Kgs	identity
+1780175010	1691	Stones	stone_to_kg
+1780175010	4017	Baseline Kg	identity
+2159952010	156	kg	identity
+2159952010	827	Kgs	identity
+217781000000116	156	kg	identity
+217781000000116	827	Kgs	identity
+217781000000116	1778	Kilos	identity
+253576010	156	kg	identity
+2536041016	827	Kgs	identity
+253677014	156	kg	identity
+253677014	419	pounds	pounds_to_kg
+253677014	827	Kgs	identity
+253677014	1241	lb	identity
+253677014	1691	Stones	stone_to_kg
+253677014	1778	Kilos	identity
+253677014	1788	/kg(body wt)	identity
+253677014	2067	Lbs	pounds_to_kg
+253677014	2318	stone	stone_to_kg
+253677014	2400	kg.	identity
+253677014	2501	Kilo	identity
+253677014	2514	Weight in Kg	identity
+253677014	3283	kilograms	identity
+253677014	3381	st	stone_to_kg
+253677014	3906	WEIGHT IN KILOS	identity
+253677014	6265	decimal stones	stone_to_kg
+253677014	10179	Weight in Kilograms	identity
+253677014	10185	Weight (kgs)	identity
+253677014	14556	kg(body wt)	identity
+253677014	17469	Kg]	identity
+253677014	20514	kilogram	identity
+253677014	24159	kilog	identity
+253677014	24172	kg#	identity
+253679012	156	kg	identity
+253679012	827	Kgs	identity
+253679012	1778	Kilos	identity
+253680010	156	kg	identity
+253680010	827	Kgs	identity
+253680010	1778	Kilos	identity
+253687013	156	kg	identity
+253687013	827	Kgs	identity
+253687013	1778	Kilos	identity
+253688015	156	kg	identity
+253688015	827	Kgs	identity
+253688015	1778	Kilos	identity
+253688015	16372	killo	identity
+272551000006116	156	kg	identity
+272551000006116	827	Kgs	identity
+272551000006116	1778	Kilos	identity
+280881000006115	156	kg	identity
+2934311000006118	156	kg	identity
+2934311000006118	827	Kgs	identity
+3514400010	156	kg	identity
+3514400010	827	Kgs	identity
+356960015	156	kg	identity
+356960015	827	Kgs	identity
+402435016	156	kg	identity
+402435016	827	Kgs	identity
+402435016	1778	Kilos	identity
+406169014	156	kg	identity
+411922013	156	kg	identity
+4551811000006113	156	kg	identity
+4551811000006113	827	Kgs	identity
+5256251000006115	156	kg	identity
+5507901000006110	156	kg	identity
+59281000006111	156	kg	identity
+59281000006111	827	Kgs	identity
+6251151000006116	156	kg	identity
+6251151000006116	827	Kgs	identity
+7037161000006118	156	kg	identity
+7309791000006112	156	kg	identity
+7309801000006113	156	kg	identity
+7309801000006113	827	Kgs	identity
