@@ -119,13 +119,13 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 254305017	10797	2577	2577.00	O/E - breath - alcohol smell	163184002	254305017		27	check_upd				
 7104281000006114	40	^ESCTAL710428		Alcohol withdrawal scale	429501006	2695605014		31	aud			aud - do not derive score	
 250312016	3013062	1363	1363.00	Light drinker - 1-2u/day	160575005	250312016		17	light-drinker				
-250313014	1550997	1364	1364.00	Moderate drinker - 3-6u/day	160576006	250313014		17	moderate-drinker				
+250313014	1550997	1364	1364.00	Moderate drinker - 3-6u/day	160576006	250313014		17	heavy-drinker				
 7298241000006111	<5	^ESCTAL729824		Alcohol withdrawal scale score	444810000	2871524017		31	aud			aud - do not derive score	
 7308391000006116	37	^ESCTAD730839		Addiction Research Foundation CIWA-A (Clinical Institute Withdrawal Assessment for Alcohol)	445452008	2352771000000115		32	aud			aud - do not derive score	
 254306016	4537	2577-1	2577.11	O/E - alcoholic breath	163184002	254306016		27	check_upd				
 250321015	13749	136A	136A.00	Ex-trivial drinker (<1u/day)	160582009	250321015		17	light-drinker		1		
 250322010	10367	136B	136B.00	Ex-light drinker - (1-2u/day)	160583004	250322010		17	light-drinker		1		
-250323017	7834	136C	136C.00	Ex-moderate drinker - (3-6u/d)	160584005	250323017		17	moderate-drinker		1		
+250323017	7834	136C	136C.00	Ex-moderate drinker - (3-6u/d)	160584005	250323017		17	heavy-drinker		1		
 7309121000006114	96	^ESCTAD730912		Addiction Research Foundation Clinical Institute Withdrawal Assessment for Alcohol score	445504001	2871836015		31	aud			aud - do not derive score	
 740641000000115	35277	8HkJ	8HkJ.00	Referral to alcohol brief intervention service	376401000000103	740641000000115		40	aud				
 283028013	140635	8CE1	8CE1.00	Alcohol leaflet given	183098002	283028013		32	check_upd				
