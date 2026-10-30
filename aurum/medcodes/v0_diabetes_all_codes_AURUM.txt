@@ -1,0 +1,1569 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	category
+1065811000000118	1899	8HgC	8HgC.00	Discharged from diabetes shared care programme	494961000000102	1065811000000118		27	unspecified
+10928019	185	ESCTDI18		Diabetes mellitus associated with genetic syndrome	5969009	10928019		32	other/unspec genetic inc syndromic
+1139821000000110	627	66AQ0	66AQ000	Unsuitable for diabetes year of care programme	512561000000108	1139821000000110		1	unspecified
+1139861000000119	4443	66AQ1	66AQ100	Declined consent for diabetes year of care programme	512581000000104	1139861000000119		1	unspecified
+1162341000000110	1683	66Ar	66Ar.00	Insulin treatment stopped	708000007	3032820017		1	unspecified
+11633211000006112	178	^ESCTAT1163321		Atypical diabetes mellitus	530558861000132104	3334354013		32	unspecified
+11633221000006116	3	^ESCTAD1163322		ADM - atypical diabetes mellitus	530558861000132104	3334355014		32	unspecified
+1164191000000111	235370	679L0	679L000	Education about self management of diabetes	698610002	2974927015		17	unspecified
+1177721000000112	11800	66As	66As.00	Diabetic on subcutaneous treatment	527691000000107	1177721000000112		1	unspecified
+11924351000006118	130	^ESCT1192435		Diabetes treatment satisfaction questionnaire	273412002	408811014		32	unspecified
+11931111000006116	2	^ESCT1193111		Diabetes Distress Scale 2 item	909401000000106	2337941000000112		32	unspecified
+11931121000006112	33	^ESCT1193112		Diabetes Distress Scale 17 item	909441000000109	2338051000000112		32	unspecified
+12010081000006119	56	^ESCT1201008		Provision of patient held diabetes record declined	763782001	3643834015		32	unspecified
+12010091000006116	332	^ESCT1201009		Provision of patient held diabetes record	763783006	3643836018		32	unspecified
+12078901000006118	68	^ESCT1207890		Cataract of right eye due to diabetes mellitus	768792007	3688527014		32	unspecified
+12078921000006111	3	^ESCT1207892		Diabetic cataract of right eye	768792007	3686887011		32	unspecified
+12078931000006114	69	^ESCT1207893		Cataract of left eye due to diabetes mellitus	768793002	3688525018		32	unspecified
+12078941000006116	9	^ESCT1207894		Diabetic cataract of left eye	768793002	3686889014		32	unspecified
+12078961000006117	213	^ESCT1207896		Diabetic cataract of bilateral eyes	768794008	3686894014		32	unspecified
+12078971000006112	11	^ESCT1207897		Bilateral diabetic cataracts	768794008	3686892013		32	unspecified
+12085021000006113	400	^ESCT1208502		Preproliferative diabetic retinopathy of right eye	769181007	3689265013		32	unspecified
+12085031000006111	1	^ESCT1208503		Preproliferative retinopathy of right eye co-occurrent and due to diabetes mellitus	769181007	3689266014		32	unspecified
+12085051000006116	354	^ESCT1208505		Preproliferative diabetic retinopathy of left eye	769182000	3689267017		32	unspecified
+12085071000006114	12	^ESCT1208507		Mild nonproliferative diabetic retinopathy of right eye	769183005	3689271019		31	unspecified
+12085091000006110	64	^ESCT1208509		Mild non-proliferative diabetic retinopathy of right eye	769183005	3689273016		31	unspecified
+12085121000006114	21	^ESCT1208512		Mild nonproliferative diabetic retinopathy of left eye	769184004	3689282010		31	unspecified
+12085141000006119	75	^ESCT1208514		Mild non-proliferative diabetic retinopathy of left eye	769184004	3689278013		31	unspecified
+12085171000006110	60	^ESCT1208517		Moderate nonproliferative diabetic retinopathy of right eye	769185003	3689286013		31	unspecified
+12085181000006113	55	^ESCT1208518		Moderate non-proliferative diabetic retinopathy of right eye	769185003	3689284011		31	unspecified
+12085211000006112	41	^ESCT1208521		Moderate nonproliferative diabetic retinopathy of left eye	769186002	3689288014		31	unspecified
+12085231000006118	55	^ESCT1208523		Moderate non-proliferative diabetic retinopathy of left eye	769186002	3689292019		31	unspecified
+12085241000006111	6	^ESCT1208524		Moderate nonproliferative retinopathy of left eye due to diabetes mellitus	769186002	3690263012		31	unspecified
+12085251000006113	14	^ESCT1208525		Severe nonproliferative diabetic retinopathy of right eye	769187006	3689295017		31	unspecified
+12085271000006115	5	^ESCT1208527		Severe nonproliferative retinopathy of right eye due to diabetes mellitus	769187006	3690271011		31	unspecified
+12085281000006117	6	^ESCT1208528		Severe NPDR (nonproliferative diabetic retinopathy) of right eye	769187006	3690627018		31	unspecified
+12085291000006119	4	^ESCT1208529		Severe nonproliferative diabetic retinopathy of left eye	769188001	3689299011		31	unspecified
+12085351000006119	2	^ESCT1208535		Very severe nonproliferative diabetic retinopathy of right eye	769190000	3689306014		31	unspecified
+12085411000006113	1	^ESCT1208541		Very severe NPDR (nonproliferative diabetic retinopathy) of left eye	769191001	3690621017		31	unspecified
+12085721000006110	425	^ESCT1208572		Diabetic macular oedema of right eye	769217008	3690145017		31	unspecified
+12085731000006113	81	^ESCT1208573		Diabetic macular edema of right eye	769217008	3690142019		31	unspecified
+12085761000006116	367	^ESCT1208576		Diabetic macular oedema of left eye	769218003	3690148015		31	unspecified
+12085791000006112	66	^ESCT1208579		Diabetic macular edema of left eye	769218003	3690150011		31	unspecified
+12085801000006113	25	^ESCT1208580		Macular oedema due to type 1 diabetes mellitus	769219006	3690541016		31	type 1
+12085841000006110	173	^ESCT1208584		Macular oedema due to type 2 diabetes mellitus	769220000	3690546014		31	type 2
+12085891000006118	13	^ESCT1208589		Clinically significant macular oedema of right eye co-occurrent and due to diabetes mellitus	769221001	3690175010		27	unspecified
+12085921000006112	247	^ESCT1208592		Clinically significant macular oedema of left eye due to diabetes mellitus	769222008	3690182014		27	unspecified
+12085931000006110	7	^ESCT1208593		Clinically significant macular oedema of left eye co-occurrent and due to diabetes mellitus	769222008	3690179016		27	unspecified
+12086281000006113	2180	^ESCT1208628		Diabetic maculopathy of right eye	769244003	3690548010		27	unspecified
+12086291000006111	1	^ESCT1208629		Maculopathy of right eye due to diabetes mellitus	769244003	3690549019		27	unspecified
+12086301000006112	1	^ESCT1208630		Disorder of right macula co-occurrent and due to diabetes mellitus	769244003	3690551015		27	unspecified
+12086321000006119	1	^ESCT1208632		Maculopathy of left eye due to diabetes mellitus	769245002	3690553017		27	unspecified
+12086331000006116	2210	^ESCT1208633		Diabetic maculopathy of left eye	769245002	3690554011		27	unspecified
+12086341000006114	2	^ESCT1208634		Disorder of left macula co-occurrent and due to diabetes mellitus	769245002	3690555012		27	unspecified
+12102571000006117	5	^ESCT1210257		Clinically significant macular oedema with diabetes mellitus	770097006	3698448011		31	unspecified
+12102611000006110	3	^ESCT1210261		Clinically significant macular oedema due to diabetes mellitus	770097006	3698446010		31	unspecified
+12115561000006115	7549	^ESCT1211556		Remote diabetes structured education and support programme commenced	1097131000000105	2747511000000117		32	unspecified
+12115571000006110	468	^ESCT1211557		Remote diabetes structured education and support programme completed	1097141000000101	2747531000000113		37	unspecified
+12116461000006113	510	^ESCT1211646		Did not commence remote structured diabetes education and support programme	1098011000000102	2749351000000119		32	unspecified
+12117381000006110	382	^ESCT1211738		Referral for diabetic care	1099151000000109	2751821000000119		31	unspecified
+12119681000006110	14	^ESCT1211968		Ketosis-prone diabetes mellitus	1102351000000105	2759381000000110		31	unspecified
+12119701000006113	4	^ESCT1211970		KPD - ketosis-prone diabetes mellitus	1102351000000105	2762601000000113		31	unspecified
+12121371000006111	164672	^ESCT1212137		Diabetes structured education programme offered	1103691000000102	2762991000000111		17	unspecified
+12121381000006114	109018	^ESCT1212138		Diabetic retinopathy screening offered	1103701000000102	2763011000000112		1	unspecified
+121589010	6979000	C10	C10..00	Diabetes mellitus	73211009	121589010		32	unspecified
+12166111000006116	24	^ESCT1216611		Retinopathy due to diabetes mellitus	4855003	3688792011		32	unspecified
+12180761000006118	1	^ESCT1218076		DLRPN - diabetic lumbosacral radiculoplexus neuropathy	39058009	3698323012		32	unspecified
+12180791000006114	10	^ESCT1218079		Diabetic lumbosacral plexopathy	39058009	3698330018		32	unspecified
+12180901000006116	1	^ESCT1218090		DRPN - diabetic radiculoplexus neuropathy	39181008	3698318012		32	unspecified
+12185421000006113	305	^ESCT1218542		Polyneuropathy due to diabetes mellitus	49455004	3695673019		32	unspecified
+12189891000006110	218	^ESCT1218989		PDR - proliferative diabetic retinopathy	59276001	3699415016		32	unspecified
+1220321013	13399	L1808	L180800	Diabetes mellitus arising in pregnancy	11687002	1220321013		32	gestational
+12218471000006119	2	^ESCT1221847		Mixed sensorimotor polyneuropathy co-occurrent and due to diabetes mellitus	126534007	3695736013		31	unspecified
+12220681000006111	1	^ESCT1222068		Preproliferative retinopathy co-occurrent and due to diabetes mellitus	193349004	3689263018		32	unspecified
+1222099015	339	SL234	SL23400	Insulin poisoning	18337009	1222099015		32	unspecified
+12221251000006114	3	^ESCT1222125		Maculopathy due to diabetes mellitus	232020009	3690525017		32	unspecified
+12224731000006112	724	^ESCT1222473		Moderate non-proliferative diabetic retinopathy	312904009	3688869017		31	unspecified
+12224761000006115	15	^ESCT1222476		Severe NPDR (nonproliferative diabetic retinopathy)	312905005	3691865016		32	unspecified
+12224771000006110	6	^ESCT1222477		Vitreous haemorrhage with diabetes mellitus	312910009	3700141012		31	unspecified
+12224831000006116	6	^ESCT1222483		Macular edema due to diabetes mellitus	312912001	3690600017		32	unspecified
+12224911000006115	6	^ESCT1222491		Focal exudative diabetic maculopathy	314011005	3690154019		31	unspecified
+12224971000006112	4	^ESCT1222497		Mixed maculopathy due to diabetes mellitus	314015001	3690163017		31	unspecified
+1223147012	1782	C10FJ-1	C10FJ11	Insulin treated Type II diabetes mellitus	237599002	1223147012		32	type 2
+1223148019	1286	C109J-1	C109J11	Insulin treated non-insulin dependent diabetes mellitus	237599002	1223148019		32	unspecified
+1227774019	9355	ZV653-2	ZV65312	[V]Dietary counselling in diabetes mellitus	284350006	2575925018		32	unspecified
+12300391000006115	28	^ESCT1230039		Macular oedema not clinically significant with diabetes mellitus	399864000	3698421010		31	unspecified
+1230890017	8300	F1711	F171100	Autonomic neuropathy due to diabetes	50620007	1230890017		32	unspecified
+1230929011	4098	C10G	C10G.00	Secondary pancreatic diabetes mellitus	51002006	1230929011		32	secondary
+1233307015	421	PKyP-1	PKyP.11	Wolfram syndrome	70694009	1233307015		32	other/unspec genetic inc syndromic
+12363701000006117	4	^ESCT1236370		Gastroparesis with diabetes mellitus	713704004	3698404018		31	unspecified
+12370381000006111	4	^ESCT1237038		Peripheral neuropathy with type 2 diabetes	1511000119107	3695522017		31	type 2
+12371151000006114	1	^ESCT1237115		Moderate nonproliferative retinopathy due to secondary diabetes mellitus	368741000119105	3689185019		31	secondary
+12489821000006114	6143	^ESCT1248982		Diabetes key contact	408290003	2159854012		17	unspecified
+12490031000006110	317	^ESCT1249003		Patient offered diabetes structured education programme	416672007	2549196011		31	unspecified
+12490041000006117	38	^ESCT1249004		Diabetic retinopathy screening offered	417256004	2548205017		31	unspecified
+125705011	12	ESCTDI19		Diabetes mellitus due to insulin receptor antibodies	75682002	125705011		32	insulin receptor abs
+12623631000006115	82859	^ESCT1262363		Referral to online diabetes structured education programme	1108731000000100	2774601000000111		40	unspecified
+12623641000006113	3604	^ESCT1262364		Referral to HeLP-Diabetes (Healthy Living for People with Diabetes) online self-management programme	1108741000000109	2774621000000119		40	unspecified
+12626341000006114	405347	^ESCT1262634		QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation	1110921000000100	2779821000000117		37	unspecified
+12702381000006118	4	^ESCT1270238		Diabetic oculopathy due to type I diabetes mellitus	739681000	3537386015		32	type 1
+12703741000006118	6	^ESCT1270374		Adverse reaction to antidiabetic drug	430400006	2765938011		5	unspecified
+127041000006110	23298	C11y0	C11y000	Steroid-induced diabetes	190447002	292667010		5	secondary
+12704401000006110	7	^ESCT1270440		Diabetic oculopathy	25093002	42062018		32	unspecified
+12704411000006113	59	^ESCT1270441		Peripheral circulatory disorder associated with diabetes mellitus	421895002	2618203015		32	unspecified
+12704971000006113	41	^ESCT1270497		Neurologic disorder associated with type 2 diabetes mellitus	421326000	2623027010		32	type 2
+12704981000006111	2	^ESCT1270498		Diabetic retinopathy associated with type 2 diabetes mellitus	422034002	2967760017		32	type 2
+12704991000006114	6	^ESCT1270499		Ketoacidotic coma in type 2 diabetes mellitus	421847006	2967777017		32	type 2
+12705021000006112	227	^ESCT1270502		Clinically significant macular oedema of right eye due to diabetes mellitus	769221001	3690177019		27	unspecified
+12705071000006113	116	^ESCT1270507		Gastroparesis due to type 1 diabetes mellitus	713702000	3297343012		32	type 1
+12705081000006111	24	^ESCT1270508		Gastroparesis due to type 2 diabetes mellitus	713703005	3297356017		32	type 2
+127051000006112	923	C10B0	C10B000	Steroid-induced diabetes mellitus without complication	190416008	292616012		32	secondary
+12734341000006113	18220	^ESCT1273434		QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation using preferred method of communication	143401000000102	1628271000000116		37	unspecified
+12734741000006114	3085	^ESCT1273474		Registration for access to online diabetes self-management application	143911000000105	1629391000000115		37	unspecified
+12734771000006118	576	^ESCT1273477		Declined to register for access to online diabetes self-management application	143941000000106	1629461000000118		37	unspecified
+13488541000006117	28817	^ESCT1348854		Nonproliferative retinopathy of left eye due to diabetes mellitus	816177009	3850595016		32	unspecified
+13488551000006115	28375	^ESCT1348855		Nonproliferative retinopathy of right eye due to diabetes mellitus	816178004	3850596015		32	unspecified
+13751000006117	367	C108y	C108y00	Other specified diabetes mellitus with multiple comps	385041000000108	760111000000115		32	other type not specified
+13761000006115	130	C106y	C106y00	Other specified diabetes mellitus with neurological comps	422088007	2618195014		32	other type not specified
+13767911000006119	90	^ESCT1376791		Disorder of eye due to diabetes mellitus	25093002	3776167019		32	unspecified
+13771000006110	94	C105y	C105y00	Other specified diabetes mellitus with ophthalmic complicatn	25093002	42062018		32	other type not specified
+13781000006113	17	C10yy	C10yy00	Other specified diabetes mellitus with other spec comps	73211009	121589010		32	other type not specified
+13790061000006119	2060	^ESCT1379006		Neuropathic ulcer of foot due to diabetes mellitus	201251005	3775803010		32	unspecified
+13790071000006114	925	^ESCT1379007		Neuropathic arthropathy due to diabetes mellitus	201724008	3775805015		32	unspecified
+13791000006111	33	C107y	C107y00	Other specified diabetes mellitus with periph circ comps	421895002	2618203015		32	other type not specified
+13791991000006116	189	^ESCT1379199		Proteinuric nephropathy due to diabetes mellitus	236500003	3775761019		32	unspecified
+13810021000006111	8	^ESCT1381002		Glomerulopathy due to diabetes mellitus	309426007	3775767015		32	unspecified
+13810171000006113	112	^ESCT1381017		Vitreous haemorrhage due to diabetes mellitus	312910009	3776684014		31	unspecified
+13810181000006111	1934	^ESCT1381018		Macular oedema due to diabetes mellitus	312912001	3776797019		32	unspecified
+13811000006110	32	C10zy	C10zy00	Other specified diabetes mellitus with unspecified comps	74627003	123939015		32	other type not specified
+13832391000006118	2744	^ESCT1383239		Infection of foot due to diabetes mellitus	419100001	3775800013		32	unspecified
+13833601000006113	37	^ESCT1383360		Hyperosmolar coma due to diabetes mellitus	422126006	3775758015		32	unspecified
+139001000000110	55773	9h4	9h4..00	Exception reporting - diabetes quality indicators	716911000000104	1569461000000117		37	unspecified
+139121000000119	754594	9h42	9h42.00	Excepted from diabetes quality indicators - informed dissent	716031000000106	1568591000000119		37	unspecified
+13916191000006119	17824	^ESCT1391619		Insulin dose	789480007	3789259012		1	unspecified
+13917091000006117	264	^ESCT1391709		Neuropathic ulcer of heel due to type 2 diabetes mellitus	789569005	3789783017		32	type 2
+13947531000006116	3	^ESCT1394753		Education about administration of insulin using insulin pump	846662007	3914901016		32	unspecified
+13947541000006114	16	^ESCT1394754		Administration of insulin using insulin pump	846663002	3914897010		31	unspecified
+13949541000006118	249	^ESCT1394954		No retinopathy of left eye due to diabetes mellitus	860706000	3943763010		31	unspecified
+13949561000006119	587	^ESCT1394956		No diabetic retinopathy of left eye	860706000	3943797015		31	unspecified
+13949591000006110	716	^ESCT1394959		No diabetic retinopathy of right eye	860707009	3943798013		31	unspecified
+13949611000006116	190510	^ESCT1394961		No maculopathy of left eye due to diabetes mellitus	860709007	3943799017		27	unspecified
+13949621000006112	742	^ESCT1394962		No diabetic maculopathy of left eye	860709007	3943800018		27	unspecified
+13949641000006117	190820	^ESCT1394964		No maculopathy of right eye due to diabetes mellitus	860710002	3943806012		27	unspecified
+13949651000006115	649	^ESCT1394965		No diabetic maculopathy of right eye	860710002	3943803016		27	unspecified
+13949671000006113	137035	^ESCT1394967		No diabetic maculopathy of bilateral eyes	860711003	3943808013		27	unspecified
+13949711000006112	4070	^ESCT1394971		Diabetic maculopathy of bilateral eyes present	860712005	3943813012		27	unspecified
+13949731000006118	1	^ESCT1394973		Bilateral maculopathy due to diabetes mellitus present	860712005	3943815017		27	unspecified
+13953211000006119	2	^ESCT1395321		Ulcer of left foot due to diabetes mellitus	860978005	3947164011		31	unspecified
+13953411000006118	6	^ESCT1395341		At low risk of ulcer of right foot due to diabetes mellitus	863879002	3950857017		31	unspecified
+13953421000006114	9	^ESCT1395342		At low risk of ulcer of left foot due to diabetes mellitus	863880004	3950860012		31	unspecified
+13965721000006114	2	^ESCT1396572		Severe nonproliferative diabetic retinopathy with venous beading	870420005	3969392012		31	unspecified
+13966631000006113	13	^ESCT1396663		Newly diagnosed type 1 diabetes mellitus	870528001	3969968012		31	type 1
+13966641000006115	7	^ESCT1396664		Newly diagnosed diabetes mellitus type 1	870528001	3969967019		31	type 1
+13973601000006116	19	^ESCT1397360		Centrally involved macular oedema due to diabetes mellitus	871778008	3974541019		31	unspecified
+14015311000006110	8	^ESCT1401531		Coronary artery disease due to type 2 diabetes mellitus	16891151000119103	3778765010		32	type 2
+14056961000006112	18	^ESCT1405696		Ketoacidotic coma due to diabetes mellitus	26298008	3873331013		32	unspecified
+14057771000006116	399	^ESCT1405777		Lumbosacral radiculoplexus neuropathy due to diabetes mellitus	39058009	3793242010		32	unspecified
+14057821000006112	43	^ESCT1405782		Radiculoplexus neuropathy due to diabetes mellitus	39181008	3793237019		32	unspecified
+14058781000006117	92	^ESCT1405878		Autonomic neuropathy due to diabetes mellitus	50620007	3788972012		32	unspecified
+14058811000006115	1236	^ESCT1405881		Pancreatogenic type 3c diabetes mellitus	51002006	3873807012		32	secondary
+14059421000006119	2709	^ESCT1405942		Proliferative retinopathy due to diabetes mellitus	59276001	3780380014		32	unspecified
+14060651000006114	137	^ESCT1406065		Complication due to diabetes mellitus	74627003	3793248014		32	unspecified
+14067521000006117	3	^ESCT1406752		Mixed sensorimotor polyneuropathy due to diabetes mellitus	126534007	3789698014		31	unspecified
+14067581000006118	3818	^ESCT1406758		Disorder of kidney due to diabetes mellitus	127013003	3782027011		32	unspecified
+14070771000006115	119	^ESCT1407077		Loss of hypoglycaemic warning due to diabetes mellitus	170766006	3873345019		1	unspecified
+14071201000006110	2	^ESCT1407120		Hyperosmolar coma due to type 2 diabetes mellitus	190331003	3873747013		32	type 2
+14071211000006113	40	^ESCT1407121		Multiple complications due to type 2 diabetes mellitus	190388001	3793304018		32	type 2
+14071331000006110	258	^ESCT1407133		Chronic painful neuropathy due to diabetes mellitus	193184006	3789545016		32	unspecified
+14071341000006117	427	^ESCT1407134		Asymptomatic neuropathy due to diabetes mellitus	193185007	3789543011		32	unspecified
+14071361000006118	1649	^ESCT1407136		Preproliferative retinopathy due to diabetes mellitus	193349004	3780170018		32	unspecified
+14071371000006113	35	^ESCT1407137		Advanced maculopathy due to diabetes mellitus	193350004	3778080011		32	unspecified
+14071441000006113	169	^ESCT1407144		Cellulitis of foot due to diabetes mellitus	200687002	3849964017		32	unspecified
+14071551000006111	490	^ESCT1407155		Ischaemic ulcer of foot due to diabetes mellitus	201250006	3789745018		32	unspecified
+14072461000006116	3485	^ESCT1407246		Neuropathy due to diabetes mellitus	230572002	3788985010		32	unspecified
+14072481000006114	1	^ESCT1407248		Chronic painful polyneuropathy due to diabetes mellitus	230575000	3789546015		32	unspecified
+14072591000006111	4989	^ESCT1407259		Disorder of macula due to diabetes mellitus	232020009	3778077010		32	unspecified
+14072601000006115	25	^ESCT1407260		Proliferative retinopathy with optic disc neovascularisation due to diabetes mellitus	232021008	3781796019		31	unspecified
+14072611000006117	11	^ESCT1407261		Proliferative retinopathy with neovascularisation elsewhere than the optic disc due to diabetes mellitus	232022001	3781803010		31	unspecified
+14072621000006113	13	^ESCT1407262		Traction detachment of retina due to diabetes mellitus	232023006	3779262016		31	unspecified
+14073061000006116	5	^ESCT1407306		Abnormal metabolic state due to diabetes mellitus	237620003	3793764017		32	unspecified
+14073071000006111	34	^ESCT1407307		Severe hyperglycaemia due to diabetes mellitus	237621004	3866616016		32	unspecified
+14073081000006114	730	^ESCT1407308		Hypoglycaemic event due to diabetes	237632004	3873341011		32	unspecified
+14073091000006112	148	^ESCT1407309		Hypoglycaemia due to diabetes mellitus	237633009	3873414017		31	unspecified
+14073101000006118	404	^ESCT1407310		Nocturnal hypoglycaemia due to diabetes mellitus	237635002	3874275018		32	unspecified
+14077381000006115	78	^ESCT1407738		Hyperosmolar non-ketotic state due to diabetes mellitus	310505005	3873751010		32	unspecified
+14077471000006114	22	^ESCT1407747		Advanced retinal disease due to diabetes mellitus	311782002	3777787015		32	unspecified
+14077691000006113	1451	^ESCT1407769		Mild nonproliferative retinopathy due to diabetes mellitus	312903003	3779914017		31	unspecified
+14077701000006113	695	^ESCT1407770		Moderate nonproliferative retinopathy due to diabetes mellitus	312904009	3780068012		31	unspecified
+14077711000006111	376	^ESCT1407771		Severe nonproliferative retinopathy due to diabetes mellitus	312905005	3780111013		32	unspecified
+14077721000006115	31	^ESCT1407772		Non-high-risk proliferative retinopathy due to diabetes mellitus	312906006	3781787019		31	unspecified
+14077731000006117	179	^ESCT1407773		High risk proliferative retinopathy due to diabetes mellitus	312907002	3781001013		32	unspecified
+14077741000006110	63	^ESCT1407774		Quiescent proliferative retinopathy due to diabetes mellitus	312908007	3781789016		31	unspecified
+14077751000006112	12	^ESCT1407775		Proliferative retinopathy with iris neovascularisation due to diabetes mellitus	312909004	3781791012		31	unspecified
+14077851000006118	6	^ESCT1407785		Diffuse exudative maculopathy due to diabetes mellitus	314010006	3778097017		31	unspecified
+14077861000006116	10	^ESCT1407786		Focal exudative maculopathy due to diabetes mellitus	314011005	3778098010		31	unspecified
+14077871000006111	34	^ESCT1407787		Ischaemic maculopathy due to diabetes mellitus	314014002	3778122015		31	unspecified
+14078401000006119	11	^ESCT1407840		Arthropathy due to type 2 diabetes mellitus	314903002	3866404015		32	type 2
+14079681000006115	47417	^ESCT1407968		Nonproliferative retinopathy due to diabetes mellitus	390834004	3780158017		32	unspecified
+14079871000006119	191	^ESCT1407987		Hyperosmolar non-ketotic state due to type 2 diabetes mellitus	395204000	3873748015		32	type 2
+14083741000006114	1220	^ESCT1408374		Ketoacidosis due to type 1 diabetes mellitus	420270002	3873319011		32	type 1
+14083761000006113	4	^ESCT1408376		Mononeuropathy due to type 2 diabetes mellitus	420436000	3789623010		32	type 2
+14083771000006118	17	^ESCT1408377		Exudative maculopathy due to type 1 diabetes mellitus	420486006	3778111019		32	type 1
+14083781000006115	187	^ESCT1408378		Persistent proteinuria due to type 1 diabetes mellitus	420514000	3800541018		32	type 1
+14083791000006117	6	^ESCT1408379		Coma due to diabetes mellitus	420662003	3873350013		32	unspecified
+14083811000006118	15892	^ESCT1408381		Persistent microalbuminuria due to type 2 diabetes mellitus	420715001	3800535013		32	type 2
+14083831000006112	34	^ESCT1408383		Retinopathy due to type 1 diabetes mellitus	420789003	3779404016		32	type 1
+14083841000006119	16	^ESCT1408384		Gangrene due to type 1 diabetes mellitus	420825003	3800377014		32	type 1
+14083861000006115	4	^ESCT1408386		Mononeuropathy due to type 1 diabetes mellitus	420918009	3789621012		32	type 1
+14083881000006113	9	^ESCT1408388		Ketoacidotic coma due to type 1 diabetes mellitus	421075007	3873334017		32	type 1
+14083901000006110	176	^ESCT1408390		Persistent microalbuminuria due to type 1 diabetes mellitus	421305000	3800538010		32	type 1
+14083911000006113	82	^ESCT1408391		Disorder of nervous system due to type 2 diabetes mellitus	421326000	3789017016		32	type 2
+14083931000006119	7	^ESCT1408393		Hypoglycaemic coma due to type 1 diabetes mellitus	421437000	3873118010		32	type 1
+14083941000006112	7	^ESCT1408394		Disorder of nervous system due to type 1 diabetes mellitus	421468001	3789014011		32	type 1
+14083961000006111	46	^ESCT1408396		Gangrene due to type 2 diabetes mellitus	421631007	3800383012		32	type 2
+14083991000006115	356	^ESCT1408399		Ketoacidosis due to type 2 diabetes mellitus	421750000	3873230011		32	type 2
+14084001000006112	13	^ESCT1408400		Exudative maculopathy due to type 2 diabetes mellitus	421779007	3778113016		32	type 2
+14084021000006119	32	^ESCT1408402		Renal disorder due to type 1 diabetes mellitus	421893009	3782043016		32	type 1
+14084031000006116	28	^ESCT1408403		Non-ketotic non-hyperosmolar coma due to diabetes mellitus	421966007	3873786012		32	unspecified
+14084041000006114	3746	^ESCT1408404		Persistent proteinuria due to type 2 diabetes mellitus	421986006	3800543015		32	type 2
+14084061000006113	157	^ESCT1408406		Retinopathy due to type 2 diabetes mellitus	422034002	3779410016		32	type 2
+14084091000006117	409	^ESCT1408409		Disorder of nervous system due to diabetes mellitus	422088007	3788922010		32	unspecified
+14084101000006111	64	^ESCT1408410		Disorder of eye due to type 2 diabetes mellitus	422099009	3779417018		32	type 2
+14084111000006114	5	^ESCT1408411		Peripheral circulatory disorder due to type 2 diabetes mellitus	422166005	3800475019		32	type 2
+14084121000006118	333	^ESCT1408412		Skin ulcer due to diabetes mellitus	422183001	3850123012		32	unspecified
+14084131000006115	6	^ESCT1408413		Multiple complications due to type 1 diabetes mellitus	422228004	3800353015		32	type 1
+14085781000006119	128	^ESCT1408578		Macroalbuminuric nephropathy due to diabetes mellitus	445170001	3800545010		32	unspecified
+14090011000006118	7	^ESCT1409001		Hypoglycaemic coma due to type 2 diabetes mellitus	719216001	3873347010		32	type 2
+14091771000006115	15	^ESCT1409177		Disorder of eye due to type 1 diabetes mellitus	739681000	3779414013		32	type 1
+14092431000006119	19329	^ESCT1409243		Disorder of right macula due to diabetes mellitus	769244003	3778103012		27	unspecified
+14092441000006112	19333	^ESCT1409244		Disorder of left macula due to diabetes mellitus	769245002	3778100010		27	unspecified
+14092491000006115	380	^ESCT1409249		Erectile dysfunction due to diabetes mellitus	770096002	3793328016		32	unspecified
+14094571000006111	11	^ESCT1409457		Neuropathic arthropathy due to type 2 diabetes mellitus	781000119106	3866399017		32	type 2
+14095251000006116	286	^ESCT1409525		Neuropathic ulcer of toe due to type 2 diabetes mellitus	140381000119104	3789742015		32	type 2
+14095271000006114	164	^ESCT1409527		Neuropathic ulcer of foot due to type 2 diabetes mellitus	140531000119105	3789740011		32	type 2
+14128861000006110	1478	^ESCT1412886		No evidence of diabetic nephropathy	874908001	3983258013		27	unspecified
+14131411000006119	105	^ESCT1413141		Telehealth monitoring for diabetes mellitus	879782007	3993023018		32	unspecified
+14136361000006117	811	^ESCT1413636		Ketosis-prone diabetes mellitus	890171006	4009473018		32	unspecified
+14174261000006117	1	^ESCT1417426		Nephropathy due to drug induced diabetes mellitus	368201000119100	4016257019		31	secondary
+14174321000006116	1	^ESCT1417432		Chronic kidney disease stage 5 due to drug induced diabetes mellitus	368461000119103	4016035015		32	secondary
+14181641000006110	11	^ESCT1418164		Mild nonproliferative retinopathy of left eye due to diabetes mellitus type 2	16745531000119108	4009833018		31	type 2
+14181661000006114	10	^ESCT1418166		Mild nonproliferative retinopathy of right eye due to diabetes mellitus type 2	16745651000119101	4009834012		31	type 2
+14181871000006115	1	^ESCT1418187		Severe nonproliferative diabetic retinopathy of bilateral eyes due to diabetes mellitus type 1	16747101000119101	3993933011		31	type 1
+14181911000006117	5	^ESCT1418191		Bilateral nonproliferative retinopathy due to diabetes mellitus type 2	16747661000119109	4009541014		31	type 2
+14181941000006118	9	^ESCT1418194		Proliferative retinopathy of left eye due to diabetes mellitus type 1	16747741000119100	3994163010		31	type 1
+14181961000006119	12	^ESCT1418196		Bilateral proliferative retinopathy due to diabetes mellitus type 2	16748141000119100	3994617015		31	type 2
+14181991000006110	4	^ESCT1418199		Proliferative retinopathy of right eye due to diabetes mellitus type 1	16748741000119101	3994165015		31	type 1
+14182011000006110	1	^ESCT1418201		Bilateral proliferative retinopathy of eyes due to diabetes mellitus type 1	16749781000119101	3994169014		31	type 1
+14182031000006116	3	^ESCT1418203		Proliferative retinopathy of both eyes due to diabetes mellitus type 1	16749781000119101	3994170010		31	type 1
+14182581000006113	7	^ESCT1418258		History of proliferative retinopathy due to diabetes mellitus	16890881000119106	4028689010		31	unspecified
+14182591000006111	1	^ESCT1418259		History of proliferative diabetic retinopathy	16890881000119106	4023748018		31	unspecified
+14182601000006115	2	^ESCT1418260		History of nonproliferative diabetic retinopathy	16890921000119104	4009558016		31	unspecified
+14233341000006113	28452	^ESCT1423334		Diabetes care plan	1362341000000103	2879061000000116		37	unspecified
+14308961000006115	6	^ESCT1430896		Paediatric diabetes care plan	1363951000000106	2883611000000116		31	unspecified
+14500411000006110	1138	^ESCT1450041		Haemoglobin A1c less than 7 percent indicating good diabetic control	165679005	4578225017		11	unspecified
+14500421000006119	1440	^ESCT1450042		Haemoglobin A1c between 7 percent to 10 percent indicating borderline diabetic control	165680008	4578415013		11	unspecified
+14500431000006116	383	^ESCT1450043		Haemoglobin A1c greater than 10 percent indicating poor diabetic control	165681007	4578059010		11	unspecified
+14628111000006115	82	^ESCT1462811		GCK (glucokinase) monogenic diabetes mellitus	237604008	4635913019		32	mody
+14667031000006117	29054	^ESCT1466703		Diabetic retinopathy screening declined	413122001	4590655014		32	unspecified
+14691221000006117	10	^ESCT1469122		Problem Areas in Diabetes score	1363101000000107	2853051000000115		32	unspecified
+14691561000006113	39	^ESCT1469156		Type 1 Diabetes Distress Scale total score	1373531000000104	2853591000000115		32	type 1
+14691571000006118	5	^ESCT1469157		T1-DDS (Type 1 Diabetes Distress Scale) total score	1373531000000104	2853611000000111		32	type 1
+14691581000006115	8	^ESCT1469158		Assessment using Type 1 Diabetes Distress Scale	1373541000000108	2853631000000115		32	type 1
+14691641000006110	4	^ESCT1469164		Type 1 Diabetes Distress Scale Hypoglycemia Distress score	1373571000000102	2853721000000111		32	type 1
+14728721000006117	237	^ESCT1472872		Neovascular glaucoma due to diabetes mellitus type 2	1196922005	4693855012		32	type 2
+14757801000006116	1	^ESCT1475780		Fulminant type 1 diabetes mellitus	1217068008	5034599015		32	type 1
+14765381000006118	52	^ESCT1476538		Diabetic neurotrophic keratitis	1217674007	5037021010		32	unspecified
+1479985016	22774	679c	679c.00	Insulin administration education	385793003	1479985016		17	unspecified
+14811151000006114	1	^ESCT1481115		Assessment using diabetes management self-efficacy scale United Kingdom 15-item	1374001000000102	2855041000000117		32	unspecified
+14811191000006115	12	^ESCT1481119		Diabetes Distress Scale 17 item Emotional Burden score	1374031000000108	2855121000000111		32	unspecified
+14811211000006119	5	^ESCT1481121		Diabetes Distress Scale 17 item Physician Distress score	1374041000000104	2855161000000115		32	unspecified
+14811231000006113	6	^ESCT1481123		Diabetes Distress Scale 17 item Regimen Distress score	1374051000000101	2855191000000114		32	unspecified
+14811251000006118	8	^ESCT1481125		Diabetes Distress Scale 17 item Interpersonal Distress score	1374061000000103	2855221000000119		32	unspecified
+1484867016	156398	F4206	F420600	Non proliferative diabetic retinopathy	390834004	1484867016		32	unspecified
+1484875010	18500	9N2d	9N2d.00	Seen by diabetologist	390842003	1484875010		37	unspecified
+1484883016	2837818	2BBJ	2BBJ.00	O/E - no right diabetic retinopathy	390850007	1484883016		27	unspecified
+1484886012	2830762	2BBK	2BBK.00	O/E - no left diabetic retinopathy	390853009	1484886012		27	unspecified
+1484887015	33657	2BBL	2BBL.00	O/E - diabetic maculopathy present both eyes	390854003	1484887015		27	unspecified
+1484888013	271266	2BBM	2BBM.00	O/E - diabetic maculopathy absent both eyes	390855002	1484888013		27	unspecified
+1484923019	310275	8H7r	8H7r.00	Refer to diabetic foot screener	390890005	1484923019		40	unspecified
+1484954015	498271	9N4I	9N4I.00	Did not attend diabetic clinic	390922008	2470341017		37	unspecified
+1488393013	12641560	2G5E	2G5E.00	O/E - Right diabetic foot at low risk	394671009	1488393013		27	unspecified
+1488394019	572318	2G5G	2G5G.00	O/E - Right diabetic foot at high risk	394672002	1488394019		27	unspecified
+1488395018	53411	2G5H	2G5H.00	O/E - Right diabetic foot - ulcerated	394673007	1488395018		27	unspecified
+1488396017	56755	2G5L	2G5L.00	O/E - Left diabetic foot - ulcerated	394674001	1488396017		27	unspecified
+1488397014	12589101	2G5I	2G5I.00	O/E - Left diabetic foot at low risk	394675000	1488397014		27	unspecified
+1488398016	569696	2G5K	2G5K.00	O/E - Left diabetic foot at high risk	394676004	1488398016		27	unspecified
+1488403015	1979295	2G5J	2G5J.00	O/E - Left diabetic foot at moderate risk	394681008	1488403015		27	unspecified
+1488404014	1986889	2G5F	2G5F.00	O/E - Right diabetic foot at moderate risk	394682001	1488404014		27	unspecified
+1488405010	597712	66AW	66AW.00	Diabetic foot risk assessment	394683006	1488405010		1	unspecified
+1488406011	5075	6761	6761.00	Diabetic pre-pregnancy counselling	394684000	1488406011		17	unspecified
+1488441010	1280144	8B3l	8B3l.00	Diabetes medication review	394725008	1488441010		32	unspecified
+1488898011	1590	C10FK	C10FK00	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	395204000	1488898011		32	type 2
+14917791000006118	1	^ESCT1491779		Assessment using DSMQ (Diabetes Self Management Questionnaire)	1454081000000100	2969621000000116		32	unspecified
+14917951000006110	1	^ESCT1491795		DSMQ (Diabetes Self Management Questionnaire) Cooperation with diabetes team score	1464401000000109	2969881000000119		32	unspecified
+14917961000006112	3	^ESCT1491796		Diabetes Self Management Questionnaire Cooperation with diabetes team score	1464401000000109	2969861000000111		32	unspecified
+14918001000006114	1	^ESCT1491800		Diabetes Self Management Questionnaire - Revised Cooperation with diabetes team score	1464421000000100	2969931000000110		32	unspecified
+14918051000006113	1	^ESCT1491805		DSMQ-R (Diabetes Self Management Questionnaire - Revised) Glucose Monitoring score	1464451000000105	2970031000000111		32	unspecified
+14918101000006113	1	^ESCT1491810		Diabetes Self Management Questionnaire Medication Taking score	1465141000000104	2971781000000116		32	unspecified
+14918541000006116	7	^ESCT1491854		Mean total daily basal insulin dose	1515601000000101	3020981000000114		27	unspecified
+14918961000006111	16	^ESCT1491896		Uses continuous subcutaneous automated insulin delivery system	1516031000000105	3021981000000116		32	unspecified
+14920031000006112	107953	^ESCT1492003		NHS diabetic eye screening programme	1597671000000104	3133971000000111		32	unspecified
+14920041000006119	831	^ESCT1492004		NHS (National Health Service) DES (diabetic eye screening) programme	1597671000000104	3133981000000113		32	unspecified
+14920051000006117	206	^ESCT1492005		Diabetic digital retinal screening image quality ungradable	1597691000000100	3134021000000114		32	unspecified
+14920061000006115	3	^ESCT1492006		Diabetic digital retinal screening image quality inadequate for grading	1597691000000100	3134071000000113		32	unspecified
+14920101000006117	809	^ESCT1492010		Diabetic digital retinal screening image quality of left eye ungradable	1597711000000103	3134081000000110		32	unspecified
+14920111000006119	2	^ESCT1492011		Diabetic digital retinal screening image quality of left eye inadequate for grading	1597711000000103	3134101000000116		32	unspecified
+14920121000006110	740	^ESCT1492012		Diabetic digital retinal screening image quality of right eye ungradable	1597721000000109	3134111000000119		32	unspecified
+14920141000006115	381	^ESCT1492014		Diabetic digital retinal screening image quality of bilateral eyes ungradable	1597731000000106	3134151000000115		32	unspecified
+14920151000006118	3	^ESCT1492015		Diabetic digital retinal screening image quality of bilateral eyes inadequate for grading	1597731000000106	3134161000000117		32	unspecified
+14920181000006114	10	^ESCT1492018		Replacement of continuous subcutaneous insulin infusion catheter	1597751000000104	3134211000000110		32	unspecified
+14920201000006110	9	^ESCT1492020		Replacement of continuous subcutaneous insulin patch pump	1597761000000101	3134241000000111		32	unspecified
+1495356017	8	ESCTCO18-7		Total lipoatrophy	284449005	1495356017		32	other/unspec genetic inc syndromic
+15031611000006117	576	^ESCT1503161		Family referred to diabetes structured education programme	1258872006	5154673011		40	unspecified
+15031621000006113	369	^ESCT1503162		Caregiver referred to diabetes structured education programme	1258873001	5154675016		40	unspecified
+15071651000006119	18	^ESCT1507165		Gestational diabetes mellitus class A2	46894009	5159111018		32	gestational
+15072391000006112	36	^ESCT1507239		Gestational diabetes mellitus class A1	75022004	5159109010		32	gestational
+1539131000006115	282	EMISNQRE56		Referral for diabetic retinopathy screening	1539131000006104	1539131000006115		40	unspecified
+1550571000000114	44	C10A-1	C10A.11	Jamaica type diabetes	75524006	1550571000000114		32	malnutrition
+15518018	4184	C10N	C10N.00	Secondary diabetes mellitus	8801005	15518018		32	secondary
+1573121000006119	6426	EMISNQIN19		Insulin started by GP	1573121000006103	1573121000006119		1	unspecified
+1583841000006111	525	EMISNQIN21		Ineligibility for diabetic eye screening	1583841000006107	1583841000006111		1	unspecified
+1583851000006113	518	EMISNQIN22		Ineligibility for diab. eye screen: Discharged for other reason	1583851000006109	1583851000006113		1	unspecified
+1583861000006110	1959	EMISNQIN23		Ineligibility for diabetic eye screening: Persistent DNA	1583861000006106	1583861000006110		1	unspecified
+1583871000006115	62	EMISNQIN24		Ineligibility for diabetic eye screening: No contact details	1583871000006104	1583871000006115		1	unspecified
+1583881000006117	3984	EMISNQIN25		Ineligibility for diab. eye screening: Declined to participate	1583881000006101	1583881000006117		1	unspecified
+1583891000006119	336	EMISNQIN26		Ineligib for diab. eye screen: No longer categorised as diabetic	1583891000006103	1583891000006119		1	unspecified
+1583901000006115	84	EMISNQIN27		Ineligibility for diab. eye screen: Blind (screening contraind)	1583901000006104	1583901000006115		1	unspecified
+1583911000006117	961	EMISNQIN28		Ineligibility for diabetic eye screening: Under ophthalmic care	1583911000006101	1583911000006117		1	unspecified
+1583921000006113	1229	EMISNQIN29		Ineligibility for diabetic eye screening: Deceased	1583921000006109	1583921000006113		1	unspecified
+1583931000006111	364	EMISNQIN30		Ineligibility for diabetic eye screening: Moved away	1583931000006107	1583931000006111		1	unspecified
+16171000000110	154822	9OLZ	9OLZ.00	Diabetes monitoring admin.NOS	713671000000109	1564911000000111		37	unspecified
+1621011000006115	19344	EMISNQNO16		No evidence of diabetic peripheral neuropathy	1621011000006104	1621011000006115		1	unspecified
+1627291000006113	2600	8I83	8I83.00	Did not complete DESMOND diabetes structured education programme	306991000000107	547511000000115		32	unspecified
+1628311000006111	1165	8I84	8I84.00	Did not complete XPERT diabetes structured education programme	307021000000105	547581000000110		32	unspecified
+1628621000006112	20362	9NiD	9NiD.00	Did not attend DESMOND diabetes structured education programme	307171000000108	548141000000111		37	unspecified
+1628691000006114	15064	9Nl4	9Nl4.00	Seen by general practitioner with special interest in diabetes	300641000000105	532621000000114		37	unspecified
+1658821000000117	2787973	66At	66At.00	Diabetic dietary review	754081000000109	1658821000000117		1	unspecified
+1658861000000113	131233	66At0	66At000	Type I diabetic dietary review	754101000000103	1658861000000113		1	type 1
+1658901000000118	2437977	66At1	66At100	Type II diabetic dietary review	754121000000107	1658901000000118		1	type 2
+1658941000000115	47304	8IAs	8IAs.00	Diabetic dietary review declined	754141000000100	1658941000000115		32	unspecified
+1665721000000112	13108	66At1-1	66At111	Type 2 diabetic dietary review	754121000000107	1665721000000112		1	type 2
+1665751000000119	904	66At0-1	66At011	Type 1 diabetic dietary review	754101000000103	1665751000000119		1	type 1
+1666911000000113	295055	2G5d	2G5d.00	O/E - Left diabetic foot at increased risk	756381000000100	1666911000000113		27	unspecified
+1666931000000117	295944	2G5e	2G5e.00	O/E - Right diabetic foot at increased risk	756391000000103	1666931000000117		27	unspecified
+1667891000000113	106	C10FK-1	C10FK11	Hyperosmolar non-ketotic state in type II diabetes mellitus	395204000	1667891000000113		32	type 2
+1667921000000117	488	C10FR-1	C10FR11	Type II diabetes mellitus with gastroparesis	713703005	3698412014		32	type 2
+1667941000000112	467	C10EQ-1	C10EQ11	Type I diabetes mellitus with gastroparesis	713702000	3698406016		32	type 1
+1673581000006117	1624	EMISNQIN33		Ineligibility for diabetic eye screening: Physical disability	1673581000006101	1673581000006117		1	unspecified
+1673591000006119	314	EMISNQIN34		Ineligib for diab. eye screening: Learning or mental disability	1673591000006103	1673591000006119		1	unspecified
+1673601000006110	365	EMISNQIN35		Ineligibility for diabetic eye screening: Terminal illness	1673601000006106	1673601000006110		1	unspecified
+1682711000006119	15946	EMISNQDE12		Declined referral to DESMOND diabet. structured educat programme	1682711000006103	1682711000006119		32	unspecified
+1682761000006116	13836	EMISNQAD17		Advice about insulin storage	196551000000100	294981000000111		32	unspecified
+1682801000006113	270487	EMISNQDI36		Diabetic sick day rules advice	1682801000006109	1682801000006113		32	unspecified
+1690631000000113	28227	9NiZ	9NiZ.00	Did not attend diabetes foot screening	762811000000109	1690631000000113		37	unspecified
+1694761000006113	27708	EMISNQNE23		Newly diagnosed diabetes	405749004	2157525015		1	unspecified
+1694811000006118	220	EMISNQIN36		Insulin administration education	1694811000006102	1694811000006118		17	unspecified
+1696331000006114	573	EMISNQDI38		Diabetic dermopathy	238982009	358149019		32	unspecified
+169731000006118	269448	2BBF	2BBF.00	Retinal abnormality - diabetes-related	4855003	1230609013		32	unspecified
+1703761000000114	2592	8CE00	8CE0000	Gestational diabetes information leaflet given	764921000000102	1703761000000114		32	gestational
+1704651000006111	20998	9m0	9m0..00	Diabetic retinopathy screening administrative status	373031000000105	733141000000117		37	unspecified
+1704681000006115	734	9m02	9m02.00	Eligibility temporarily inactive for diabetic retinopathy screening	371841000000107	730531000000112		37	unspecified
+1704691000006117	398	9m03	9m03.00	Eligibility permanently inactive for diabetic retinopathy screening	371871000000101	730591000000113		37	unspecified
+1704731000006113	2993	9m07	9m07.00	Excluded from diabetic retinopathy screening as under care of ophthalmologist	374661000000106	736851000000117		37	unspecified
+1704771000006111	102	9m0B	9m0B.00	Excluded from diabetic retinopathy screening as no current contact details	374781000000105	737091000000118		37	unspecified
+1704781000006114	636	9m0C	9m0C.00	Excluded from diabetic retinopathy screening as terminal illness	374811000000108	737151000000110		37	unspecified
+1704791000006112	307	9m0D	9m0D.00	Excluded from diabetic retinopathy screening as learning disability	374841000000109	737211000000115		37	unspecified
+1704801000006113	2866	9m0E	9m0E.00	Excluded from diabetic retinopathy screening as physical disorder	374871000000103	737271000000113		37	unspecified
+1713371000006112	1	EMISNQDI43		Diabetic medicine	1713371000006108	1713371000006112		37	unspecified
+1724331000006117	17	EMISNQIN49		Insulin treatment stopped	1724331000006101	1724331000006117		1	unspecified
+1732691000000113	136222	66Aw	66Aw.00	Insulin dose	775661000000106	1732691000000113		1	unspecified
+1734281000000117	123916	66Au	66Au.00	Diabetic erectile dysfunction review	473209001	2956267011		1	unspecified
+1734721000000114	358624	66Av	66Av.00	Assessment of diabetic erectile dysfunction	473208009	2956278015		1	unspecified
+1744461000006117	1228	EMISNQSE45		Self-administration of insulin	1744461000006101	1744461000006117		1	unspecified
+1744471000006112	488	EMISNQNE28		Needs carer to administer insulin	1744471000006108	1744471000006112		1	unspecified
+1752811000000118	2629	1IA	1IA..00	No evidence of diabetic nephropathy	783901000000107	1752811000000118		27	unspecified
+1754911000006114	11194	9h43	9h43.00	Excepted from diabetes quality indicators: service unavailable	750721000000102	1650891000000116		37	unspecified
+1755441000006119	1467848	9OLN	9OLN.00	Diabetes monitoring invitation by short message service text messaging	705072004	3022978015		37	unspecified
+1759911000000118	17709	8IE2	8IE2.00	Diabetes care plan declined	787061000000100	1759911000000118		32	unspecified
+1763361000006116	231	EMISNQPA118		Participant in ASCEND(A Study of Cardiovascu.Events in Diabetes)	1763361000006100	1763361000006116		37	unspecified
+1763421000006116	106	EMISNQIN92		Insulin dose	1763421000006100	1763421000006116		1	unspecified
+1763761000006115	2	EMISNQNO48		No evidence of diabetic nephropathy	1763761000006104	1763761000006115		27	unspecified
+1767201000006118	44858	67IJ1	67IJ100	Diabetic pre-pregnancy education	394684000	2576238013		17	unspecified
+1773381000006119	30036	EMISNQSE63		Seen in in-house nurse-led diabetic clinic	1773381000006103	1773381000006119		37	unspecified
+1775381000006118	21131	EMISNQRE174		Referred to Diabetes Service	1775381000006102	1775381000006118		40	unspecified
+1776581000006117	8093	EMISNQRE216		Reason for referral: Diabetes	1776581000006101	1776581000006117		40	unspecified
+1780286017	1396044	66Ac	66Ac.00	Diabetic peripheral neuropathy screening	401081006	1780286017		1	unspecified
+1780311019	4714	C10EL	C10EL00	Type 1 diabetes mellitus with persistent microalbuminuria	401110002	1780311019		32	type 1
+1780386019	1108773	66Ab	66Ab.00	Diabetic foot examination	401191002	1780386019		1	unspecified
+1780981000006115	537	EMISNQDI70		Diabetic on non-insulin injectable	1780981000006104	1780981000006115		1	unspecified
+1783381000006112	4199	671F0	671F000	Insulin alert patient information booklet information discussed	804941000000106	1799421000000111		17	unspecified
+1784011000006116	103	8CdD	8CdD.00	Advised to maintain back up supply of insulin for subcutaneous injection	783301000000106	1751561000000111		32	unspecified
+1784621000006118	178376	8IE9	8IE9.00	Referral to diabetes education and self management for ongoing and newly diagnosed structured programme declined	781161000000107	1746421000000111		32	unspecified
+1784711000006118	227	8IF	8IF..00	Professional judgement not to engage patient with insulin alert requirements	805521000000106	1800721000000110		32	unspecified
+1785163015	2192	F4207	F420700	High risk proliferative diabetic retinopathy	312907002	1785163015		32	unspecified
+1785332013	1232002	F4200	F420000	Background diabetic retinopathy	390834004	1785332013		32	unspecified
+1786715019	18	C3500-1	C350011	Bronzed diabetes	399144008	1786715019		32	other/unspec genetic inc syndromic
+178798017	6989	ESCTDI20		Diabetic ketoacidosis without coma	111556005	178798017		32	unspecified
+1799241000000115	18595	8CE01	8CE0100	Insulin alert patient information booklet given	804851000000104	1799241000000115		32	unspecified
+1799301000000112	125311	8CE02	8CE0200	Insulin passport given	804881000000105	1799301000000112		32	unspecified
+1799541000000117	35715	8BAi	8BAi.00	Insulin passport completed	805001000000108	1799541000000117		32	unspecified
+1799591000000110	5028	8BAj	8BAj.00	Informed dissent not to carry insulin passport	805021000000104	1799591000000110		32	unspecified
+1804191000006114	13713	EMISNQDI80		Diabetic retinopathy screen done by optician	1804191000006105	1804191000006114		1	unspecified
+1822191000006112	1	EMISNQDI93		Diabetes pathway protocol not followed	1822191000006108	1822191000006112		32	unspecified
+1822391000006114	33	EMISNQDA12		Date other antidiabetic drug started	1822391000006105	1822391000006114		1	unspecified
+1823921000006119	995	EMISNQDI96		Diabetes mellitus confirmed	1823921000006103	1823921000006119		27	unspecified
+1824081000006117	1	EMISNQDI97		Diabetes clinical pathway protocol followed	1824081000006101	1824081000006117		32	unspecified
+1824641000006115	1	EMISNQAD61		Advised about diabetes and driving	758621000000105	1672471000000117		32	unspecified
+1824931000006119	1984	EMISNQHO54		Home visit for diabetes monitoring	1824931000006103	1824931000006119		1	unspecified
+1839671000006113	19075	EMISNQDI101		Diabetic short review	1839671000006109	1839671000006113		1	unspecified
+1841451000006115	3	EMISNQDI105		Diabetic foot screening invitation	1841451000006104	1841451000006115		37	unspecified
+1841461000006118	2948	EMISNQDI106		Diabetic foot screening invitation letter	1841461000006102	1841461000006118		37	unspecified
+1841481000006111	2	EMISNQDI108		Diabetic foot screening invitation second letter	1841481000006107	1841481000006111		37	unspecified
+1842001000006118	23738	EMISNQDI111		Diabetic annual review by practice nurse	1842001000006102	1842001000006118		1	unspecified
+1848531000006116	152	PKyP	PKyP.00	Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	70694009	3028935019		32	other/unspec genetic inc syndromic
+1850931000006111	17581	EMISNQRE335		Reason for influenza vaccine - diabetes mellitus	1850931000006107	1850931000006111		9	unspecified
+1853141000006111	2	EMISNQIN162		In-house diabetes foot screening	1853141000006107	1853141000006111		37	unspecified
+1855341000006113	159	EMISNQCO166		Conversion to insulin by hospital	1855341000006109	1855341000006113		1	unspecified
+1855351000006110	10	EMISNQCO167		Conversion to insulin by diabetic specialist nurse	1855351000006106	1855351000006110		1	unspecified
+1856641000006113	82804	EMISNQDI118		Diabetes monitoring in primary care	1856641000006109	1856641000006113		37	unspecified
+1856651000006110	12375	EMISNQDI119		Diabetes monitoring in secondary care	1856651000006106	1856651000006110		37	unspecified
+1856661000006112	417	TESTPDI5		Diabetes treatment type	1856661000006108	1856661000006112		1	unspecified
+1858811000006114	1	EMISNQAU110		AURAS-AF - consider the patient to have diabetes	1858811000006105	1858811000006114		37	unspecified
+1868141000006110	40227	8IEa	8IEa.00	Referral to DAFNE diabetes structured education programme declined	860981000000106	2262201000000116		32	unspecified
+1873301000006114	1027	EMISNQCA1013		Care contact service: diabetes	1873301000006105	1873301000006114		37	unspecified
+1876341000006117	32542	EMISNQDI129		Diabetic 3 month review	1876341000006101	1876341000006117		1	unspecified
+1877371000006111	42	EMISNQDI132		Diabetes clinical management plan no longer in place	1877371000006107	1877371000006111		32	unspecified
+1884591000006118	7425	66o	66o..00	Further diabetic monitoring	170742000	264676010		1	unspecified
+1891061000006117	2	EMISNQPA326		Participant in Diabetes Aerobic and Resistance Exercise study	1891061000006101	1891061000006117		37	unspecified
+189711000000119	7	C10M0	C10M000	Lipoatrophic diabetes mellitus without complication	112991000000101	189711000000119		32	other/unspec genetic inc syndromic
+189721000000113	53	C10N0	C10N000	Secondary diabetes mellitus without complication	8801005	15518018		32	secondary
+189831000000116	10977	9M00	9M00.00	Informed consent for diabetes national audit	113131000000107	189831000000116		37	unspecified
+189841000000113	1238	9M10	9M10.00	Informed dissent for diabetes national audit	113141000000103	189841000000113		37	unspecified
+1916521000006118	18265	EMISNQAC841		Access to online patient diabetes education given	1916521000006102	1916521000006118		32	unspecified
+1918361000006116	58244	EMISNQDI158		Diabetes care planning test results sent to patient	1918361000006100	1918361000006116		37	unspecified
+1920661000006119	224	EMISNQUN46		Unsuitable for DESMOND diabetes structured education programme	1920661000006103	1920661000006119		37	unspecified
+1932051000006114	365	EMISNQ3D9		3D study - problems with diabetes management	1932051000006105	1932051000006114		37	unspecified
+1935341000006117	1119	EMISNQPA381		Patient in diabetes study	1935341000006101	1935341000006117		37	unspecified
+1946681000006112	1032	8OAH-1	8OAH.11	Provision of written information about diabetes & hypertensn	715759002	3303627011		32	unspecified
+1946691000006110	99556	8OAH	8OAH.00	Provision of written information about diabetes and hypertension	715759002	3303627011		32	unspecified
+1946701000006110	221001	8OAJ	8OAJ.00	Provision of written information about diabetes and high haemoglobin A1c level	719943000	3318543018		32	unspecified
+1946711000006113	202320	8OAK	8OAK.00	Provision of written information about diabetes and high cholesterol	715879000	3304025010		32	unspecified
+1947151000006112	18171	9Na51	9Na5100	Joint consultation with practice nurse and community diabetes specialist nurse	956781000000107	2439471000000113		37	unspecified
+1947161000006114	7377	9Na52	9Na5200	Joint consultation with General Practitioner and community diabetes specialist nurse	956921000000109	2439751000000110		37	unspecified
+1954041000006119	3	EMISNQDI204		Diabetic - uses carbohydrate counting	1954041000006103	1954041000006119		1	unspecified
+1955171000006110	1	EMISNQKE155		Keele ENHANCE trial - diabetic review	1955171000006106	1955171000006110		37	unspecified
+1957911000006111	10884	EMISNQHO137		H/O: hypoglycaemic event in diabetes	1957911000006107	1957911000006111		32	unspecified
+1957931000006117	140502	EMISNQNO149		No H/O hypoglycaemic event in diabetes	1957931000006101	1957931000006117		27	unspecified
+1960611000006113	129	EMISNQDI211		Diabetic foot examination - action required	1960611000006109	1960611000006113		1	unspecified
+1960621000006117	1015	EMISNQDI212		Diabetic foot examination - no action required	1960621000006101	1960621000006117		1	unspecified
+1966311000006116	56469	66o5	66o5.00	Diabetic on oral treatment and glucagon-like peptide 1 receptor agonist	976341000000101	2483721000000113		1	unspecified
+1966321000006112	16716	66o6	66o6.00	Diabetic on insulin and glucagon-like peptide 1 receptor agonist	976361000000100	2483761000000117		1	unspecified
+1966441000006113	11091	67W1	67W1.00	Recommendation to self-refer for diabetes structured education	977201000000107	2485781000000113		17	unspecified
+1967341000006115	16408	9NST	9NST.00	Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) programme	720504004	3321058013		37	unspecified
+1968641000006114	155	C10Q	C10Q.00	Maturity-onset diabetes of the young, type 5	609572000	2967853015		32	mody
+197761014	34011730	C10F	C10F.00	Type 2 diabetes mellitus	44054006	197761014		32	type 2
+197984010	3315513	C10E	C10E.00	Type 1 diabetes mellitus	46635009	197984010		32	type 1
+1984081000006115	22	EMISNQMA130		Manchester triage - Diabetes	1984081000006104	1984081000006115		1	unspecified
+198461000000116	11133	C10G0	C10G000	Diabetes mellitus associated with pancreatic disease	51002006	84990019		32	secondary
+1987971000006114	300	9OLP		X-PERT First Steps diabetes self-management programme completed	1033281000000100	2645821000000114		37	unspecified
+1988741000006117	204	L180B		Pregnancy and non-insulin-dependent diabetes mellitus	237627000	356133011		32	pregnancy
+19931010	2085	66AJ1	66AJ100	Brittle diabetes	11530004	19931010		27	unspecified
+199471000000118	16	C10K0	C10K000	Type A insulin resistance without complication	237651005	356181016		32	other/unspec genetic inc syndromic
+1996751000006117	6029	EMISNQIN281		Insulin injection technique checked	1996751000006101	1996751000006117		1	unspecified
+200111000006116	1144230	8CA41	8CA4100	Diabetes mellitus diet education	284350006	2575925018		32	unspecified
+2014951000006115	6425	EMISNQNE127		New diabetic foot ulcer	2014951000006104	2014951000006115		1	unspecified
+20191016	374840	L1809	L180900	Gestational diabetes mellitus	11687002	20191016		32	gestational
+205225016	46684	C104-1	C104.11	Diabetic nephropathy	127013003	205225016		32	unspecified
+2115761000000117	168276	661N4	661N400	Diabetes self-management plan review	810961000000103	2115761000000117		1	unspecified
+2116661000000116	229413	8Hlc	8Hlc.00	Referral to community diabetes service	811391000000104	2116661000000116		40	unspecified
+2117891000000114	2058014	661M4	661M400	Diabetes self-management plan agreed	811981000000102	2117891000000114		1	unspecified
+2128081000000111	12374	66Ay	66Ay.00	Gestational diabetes mellitus annual review	816711000000104	2128081000000111		1	gestational
+213141000006111	302	L180X	L180X00	Pre-existing diabetes mellitus, unspecified	385051000000106	760131000000111		32	unspecified
+2139121000000115	56206	8BAm	8BAm.00	Insulin passport checked	821501000000107	2139121000000115		32	unspecified
+214921000006116	11024	F372	F372.00	Polyneuropathy in diabetes	49455004	82373015		32	unspecified
+2156000010	12	ESCTLI13		Lipodystrophy, partial, with Rieger anomaly, short stature, and insulinopenic diabetes mellitus	237608006	2156000010		32	other/unspec genetic inc syndromic
+2156571000000116	308643	67D8	67D8.00	Provision of diabetes clinical summary	829521000000104	2156571000000116		17	unspecified
+2159170012	1121673	8BL2	8BL2.00	Patient on maximal tolerated therapy for diabetes	407569005	2159170012		32	unspecified
+2159271018	240658	9N1i	9N1i.00	Seen in diabetic foot clinic	407672007	2159271018		37	unspecified
+2159854012	4221	918T	918T.00	Diabetes key contact	932321000000105	2388971000000113		37	unspecified
+2159948010	140103	8HBG	8HBG.00	Diabetic retinopathy 12 month review	408384004	2159948010		32	unspecified
+2159949019	4714	8HBH	8HBH.00	Diabetic retinopathy 6 month review	408385003	2159949019		32	unspecified
+2159955012	23849	9NN8	9NN8.00	Under care of diabetologist	408391001	2159955012		37	unspecified
+2159956013	32656	9NN9	9NN9.00	Under care of diabetes specialist nurse	408392008	2159956013		37	unspecified
+2159958014	899716	9NND	9NND.00	Under care of diabetic foot screener	408394009	2159958014		37	unspecified
+2159960011	45488	8I6F	8I6F.00	Diabetic retinopathy screening not indicated	408396006	2159960011		32	unspecified
+2159961010	160491	8I6G	8I6G.00	Diabetic foot examination not indicated	408397002	2159961010		32	unspecified
+2159969012	156276	9360	9360.00	Patient held diabetic record issued	408405001	2159969012		37	unspecified
+2159973010	954545	2BBP	2BBP.00	O/E - right eye background diabetic retinopathy	408409007	2159973010		27	unspecified
+2159974016	959534	2BBQ	2BBQ.00	O/E - left eye background diabetic retinopathy	408410002	2159974016		27	unspecified
+2159975015	80012	2BBR	2BBR.00	O/E - right eye preproliferative diabetic retinopathy	408411003	2159975015		27	unspecified
+2159976019	79821	2BBS	2BBS.00	O/E - left eye preproliferative diabetic retinopathy	408412005	2159976019		27	unspecified
+2159977011	44942	2BBT	2BBT.00	O/E - right eye proliferative diabetic retinopathy	408413000	2159977011		27	unspecified
+2159978018	44210	2BBV	2BBV.00	O/E - left eye proliferative diabetic retinopathy	408414006	2159978018		27	unspecified
+2159979014	145753	2BBW	2BBW.00	Maculopathy of right eye with diabetes mellitus	769244003	3698428016		27	unspecified
+2159980012	147780	2BBX	2BBX.00	Maculopathy of left eye with diabetes mellitus	769245002	3698426017		27	unspecified
+2160025013	17828	9b920	9b92000	Diabetic medicine	408475000	2160025013		37	unspecified
+2160090014	373	C10H	C10H.00	Diabetes mellitus induced by non-steroid drugs	408540003	2160090014		32	secondary
+216195015	103363	66AU	66AU.00	Diabetes care by hospital only	243860001	364695019		1	unspecified
+216201011	10099109	68A7	68A7.00	Diabetic retinopathy screening	134395001	216201011		1	unspecified
+21631000000117	2169837	9OL	9OL..00	Diabetes monitoring administration	713671000000109	1564911000000111		37	unspecified
+2168881000000114	4044	7L100-1	7L10011	Subcutaneous infusion with insulin pump	180178009	2168881000000114		32	unspecified
+2176771000000110	1875	8IEQ	8IEQ.00	Referral to community diabetes specialist nurse declined	838731000000104	2176771000000110		32	unspecified
+2182651000000118	130264	8HTE1	8HTE100	Referral to community diabetes clinic	841221000000102	2182651000000118		40	unspecified
+2205911000000116	22521	8CMW7	8CMW700	Diabetes clinical pathway	851501000000106	2205911000000116		32	unspecified
+2220161000000117	74011	8OA3	8OA3.00	Provision of written information about diabetes and driving	857921000000103	2220161000000117		32	unspecified
+2227781000000112	320212	9Oy00	9Oy0000	Diabetic foot screening invitation	861491000000107	2227781000000112		37	unspecified
+2227861000000112	89941	9Oy02	9Oy0200	Diabetic foot screening invitation first letter	861531000000107	2227861000000112		37	unspecified
+2227981000000110	26756	9Oy03	9Oy0300	Diabetic foot screening invitation second letter	861551000000100	2227981000000110		37	unspecified
+2230301000000116	11460	9Oy04	9Oy0400	Diabetic foot screening invitation third letter	862481000000103	2230301000000116		37	unspecified
+223291000000111	26190	C1001-1	C100111	Maturity onset diabetes	44054006	493774016		32	unspecified
+2243331000000115	4748	K27y7	K27y700	Erectile dysfunction due to diabetes mellitus	867891000000101	2243331000000115		32	unspecified
+2249831000000111	51338	9NJy	9NJy.00	In-house diabetic foot screening	870681000000109	2249831000000111		37	unspecified
+2249871000000113	352	9NJy0	9NJy000	In-house diabetic foot screening first appointment	870701000000106	2249871000000113		37	unspecified
+2249951000000114	894	9NJy1	9NJy100	In-house diabetic foot screening follow-up appointment	870741000000109	2249951000000114		37	unspecified
+2249991000000118	148	8HgZ	8HgZ.00	Discharge from in-house diabetic foot screening	870761000000105	2249991000000118		32	unspecified
+2262341000000113	357	66AH1	66AH100	Conversion to insulin in secondary care	876361000000109	2262341000000113		1	unspecified
+2262381000000117	1026	66AH2	66AH200	Conversion to insulin by diabetes specialist nurse	876381000000100	2262381000000117		1	unspecified
+2265851000000114	1354	8BAp	8BAp.00	Insulin passport not checked	878011000000108	2265851000000114		32	unspecified
+2279261000000115	501798	679L2	679L200	Education about diabetes and driving	700414001	2990473010		17	unspecified
+2279291000000114	39255	679L2-1	679L211	Advice about diabetes and driving	700414001	2990473010		17	unspecified
+2283241000000113	50149	8I94	8I94.00	Diabetes structured education programme not available	885931000000100	2283241000000113		32	unspecified
+2287311000000111	715425	66AS0	66AS000	Diabetes Year of Care annual review	887861000000105	2287311000000111		1	unspecified
+2287971000000119	68110	C10P	C10P.00	Diabetes mellitus in remission	703136005	3007272014		32	unspecified
+2288011000000114	531	C10P0	C10P000	Type I diabetes mellitus in remission	703137001	3007238018		32	type 1
+2288041000000110	192	C10P0-1	C10P011	Type 1 diabetes mellitus in remission	703137001	3007274010		32	type 1
+2288061000000111	71455	C10P1	C10P100	Type II diabetes mellitus in remission	703138006	3007241010		32	type 2
+2288071000000116	22468	C10P1-1	C10P111	Type 2 diabetes mellitus in remission	703138006	3007259013		32	type 2
+2337941000000112	133636	38QW	38QW.00	Diabetes Distress Scale 2 item score	909421000000102	2337981000000116		32	unspecified
+2338051000000112	8800	38QX	38QX.00	Diabetes Distress Scale 17 item score	910931000000101	2341461000000112		32	unspecified
+2368911000000117	658376	679L3	679L300	Diabetic foot care education	923361000000106	2368911000000117		17	unspecified
+2369111000000112	97952	67HA	67HA.00	Lifestyle education for diabetes	923461000000103	2369111000000112		17	unspecified
+2378231000000112	3156	8Hgd	8Hgd.00	Discharge from secondary care diabetes service	927821000000100	2378231000000112		32	unspecified
+2380481000000115	186	66o1	66o1.00	Enquiry about diabetic erectile dysfunction declined	928851000000109	2380481000000115		1	unspecified
+2415191000000113	5942	1M8	1M8..00	Diabetic peripheral neuropathic pain	944141000000108	2415191000000113		27	unspecified
+2444761000000113	3	^ESCT1171154		Paediatric diabetic medicine care plan	959031000000102	2444761000000113		31	unspecified
+2451551000000117	418	^ESCT1171271		Diabetes education care plan	961931000000109	2451551000000117		31	unspecified
+2460251000000115	32921	66o2	66o2.00	Diabetic on non-insulin injectable medication	719566006	3316952014		1	unspecified
+2460621000000111	29	8OAL	8OAL.00	Provision of diabetes identity card	719570003	3316960010		32	unspecified
+2461101000000116	43	66o3	66o3.00	Has diabetes identity card	720724003	3321867012		1	unspecified
+2465001000000115	8590	679l	679l.00	Diabetic injection administration education	968061000000105	2465001000000115		17	unspecified
+2474309019	376074	8I3W	8I3W.00	Diabetic foot examination declined	412752009	2474309019		32	unspecified
+2474334019	303733	8CR2	8CR2.00	Diabetes clinical management plan	736284000	3517021014		32	unspecified
+2474671011	348208	8I3X	8I3X.00	Diabetic retinopathy screening refused	413122001	2474671011		32	unspecified
+2474726011	34350	7276	7276.00	Pan retinal photocoagulation for diabetes	413180006	2474726011		32	unspecified
+2474730014	1	C10L0	C10L000	Fibrocalculous pancreatopathy without complication	413184002	2474730014		32	secondary
+2475901019	441	C10K	C10K.00	Type A insulin resistance	237651005	2475901019		32	other/unspec genetic inc syndromic
+2476117016	534	C10C-2	C10C.12	Maturity onset diabetes in youth type 1	609562003	2967867012		32	mody
+2493341000000118	1	38VP	38VP.00	Young Townson FootSkin Scale for Diabetic Neuropathy	980351000000105	2493341000000118		32	unspecified
+2500921000000110	1787	13B10	13B1000	Diabetic carbohydrate counting diet	983451000000106	2500921000000110		17	unspecified
+250447011	197419	13B1	13B1.00	Diabetic diet	160670007	250447011		17	unspecified
+251187019	10022	13Y1	13Y1.00	Diabetic association member	161102006	251187019		17	unspecified
+251591016	243140	1434	1434.00	H/O: diabetes mellitus	161445009	251591016		32	unspecified
+251892015	16420	14P3	14P3.00	H/O: insulin therapy	161649006	251892015		32	unspecified
+25261000000111	35004	9OL-1	9OL..11	Diabetes clinic administration	713691000000108	1564931000000115		37	unspecified
+2532967014	5508	2BBm	2BBm.00	Clinically significant macular oedema of right eye due to diabetes mellitus	769221001	3690175010		27	unspecified
+2532974016	1181	8CP2	8CP2.00	Transition of diabetes care options discussed	415744000	2532974016		32	unspecified
+2532976019	1744	2G5W	2G5W.00	O/E - left chronic diabetic foot ulcer	414890007	2532976019		27	unspecified
+2532977011	1525	2G5V	2G5V.00	O/E - right chronic diabetic foot ulcer	414906009	2532977011		27	unspecified
+2533102013	105178	9OLB	9OLB.00	Attended diabetes structured education programme	413597006	2533102013		37	unspecified
+2533106011	2477	8HTe	8HTe.00	Referral to diabetes preconception counselling clinic	415269004	2533106011		40	unspecified
+2533107019	86266	66Af	66Af.00	Patient diabetes education review	385805005	1459984016		17	unspecified
+2533110014	1059276	8Hj0	8Hj0.00	Referral to diabetes structured education programme	415270003	2533110014		40	unspecified
+2548205017	128827	68A9	68A9.00	Diabetic retinopathy screening offered	1103701000000102	2763011000000112		1	unspecified
+2548271013	2449793	8CS0	8CS0.00	Agreeing on diabetes care plan	703040004	3006793017		32	unspecified
+2548430017	5327	8Hg4	8Hg4.00	Discharged from care of diabetes specialist nurse	417467000	2548430017		27	unspecified
+2548633012	4469	8I57	8I57.00	Provision of patient held diabetes record refused	763782001	3643843012		32	unspecified
+2549069011	80075	9N0n	9N0n.00	Seen in community diabetes specialist clinic	416554009	2549069011		37	unspecified
+2549196011	113929	679R	679R.00	Patient offered diabetes structured education programme	1103691000000102	2762991000000111		17	unspecified
+2549222013	58984	9N0o	9N0o.00	Seen in community diabetic specialist nurse clinic	416696002	2549222013		37	unspecified
+2549778010	19054	9N0m	9N0m.00	Seen in diabetic nurse consultant clinic	417566006	2549778010		37	unspecified
+2549896013	203	2BBo	2BBo.00	O/E - sight threatening diabetic retinopathy	417677008	2549896013		27	unspecified
+2549901010	73255	9OLD	9OLD.00	Diabetic patient unsuitable for digital retinal photography	417681008	2549901010		37	unspecified
+2575261000006118	16	^ESCTMA257526		Maternal diabetes mellitus with hypoglycaemia affecting foetus OR newborn	4783006	2793312010		32	pregnancy
+2575271000006113	2	^ESCTMA257527		Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn	4783006	8973010		32	pregnancy
+2575281000006111	1	^ESCTMA257528		Maternal diabetes mellitus with hypoglycaemia affecting fetus OR newborn	4783006	494932011		32	pregnancy
+257623014	111716	42WZ	42WZ.00	Hb. A1C - diabetic control	269823000	404444016		11	unspecified
+2576431000006117	66	^ESCTDR257643		DR - Diabetic retinopathy	4855003	1230610015		32	unspecified
+2586611000000113	103066	9NlP1		Seen by diabetes specialist nurse	720685006	3320858019		37	unspecified
+2586691000000116	5820	9NN90		Under care of hospital-based diabetes specialist nurse	1024551000000109	2586691000000116		37	unspecified
+2586731000000110	9476	9NN91		Under care of community-based diabetes specialist nurse	1024571000000100	2586731000000110		37	unspecified
+259365016	10673	44V3	44V3.00	Glucose tolerance test indicates diabetes mellitus	166928007	2817641015		34	unspecified
+2597931000006119	398	^ESCTDI259793		Diabetic education	6143009	2576111013		31	unspecified
+2622193012	70704	C101	C101.00	Diabetes mellitus with ketoacidosis	420422005	2622193012		32	unspecified
+264676010	9293872	66A	66A..00	Diabetic monitoring	170742000	264676010		1	unspecified
+264677018	159609	66A1	66A1.00	Initial diabetic assessment	170743005	264677018		1	unspecified
+264678011	2534368	66A2	66A2.00	Follow-up diabetic assessment	170744004	264678011		1	unspecified
+264679015	2525817	66A3	66A3.00	Diabetic on diet only	170745003	264679015		1	unspecified
+264681018	7130180	66A4	66A4.00	Diabetic on oral treatment	170746002	264681018		1	unspecified
+264682013	1928692	66A5	66A5.00	Diabetic on insulin	170747006	264682013		1	unspecified
+264693010	635207	66A8	66A8.00	Has seen dietician - diabetes	170752001	264693010		1	unspecified
+264695015	528960	66A9	66A9.00	Understands diet - diabetes	170753006	264695015		1	unspecified
+264701014	904695	66AD	66AD.00	Fundoscopy - diabetic check	170757007	264701014		1	unspecified
+264704018	16807	66AG	66AG.00	Diabetic drug side effects	170760000	264704018		5	unspecified
+264705017	67116	66AH	66AH.00	Diabetic treatment changed	170761001	264705017		1	unspecified
+264706016	90775	66AH0	66AH000	Conversion to insulin	170762008	264706016		1	unspecified
+264707013	726094	66AI	66AI.00	Diabetic - good control	170763003	264707013		1	unspecified
+264716012	20299	66AJz	66AJz00	Diabetic - poor control NOS	268519009	401531012		27	unspecified
+264717015	16739	66AK	66AK.00	Diabetic - cooperative patient	170769004	264717015		1	unspecified
+264718013	2815	66AL	66AL.00	Diabetic-uncooperative patient	170770003	264718013		1	unspecified
+264719017	49887	66AM	66AM.00	Diabetic - follow-up default	170771004	264719017		1	unspecified
+264720011	16634	66AN	66AN.00	Date diabetic treatment start	170772006	264720011		1	unspecified
+264723013	3295104	66AP	66AP.00	Diabetes: practice programme	170774007	264723013		1	unspecified
+264724019	434472	66AQ	66AQ.00	Diabetes: shared care programme	170775008	264724019		1	unspecified
+264726017	1024894	66AR	66AR.00	Diabetes management plan given	170742000	264676010		1	unspecified
+264727014	13409331	66AS	66AS.00	Diabetic annual review	170777000	264727014		1	unspecified
+264728016	228968	66AT	66AT.00	Annual diabetic blood test	170778005	264728016		1	unspecified
+264729012	657092	66AZ	66AZ.00	Diabetic monitoring NOS	170742000	264676010		1	unspecified
+2674067015	15683	C10ER	C10ER00	Latent autoimmune diabetes mellitus in adult	426875007	2674067015		32	unspecified
+2683561000006119	200	^ESCTBR268356		Brittle diabetes mellitus	11530004	2658852011		27	unspecified
+2683581000006112	66	^ESCTLA268358		Labile diabetes	11530004	1220208016		27	unspecified
+2683591000006110	12	^ESCTUN268359		Unstable diabetes mellitus	11530004	2871747019		27	unspecified
+2686071000006114	3832	^ESCTGE268607		Gestational diabetes	11687002	1220319015		32	gestational
+2686101000006116	345	^ESCTGD268610		GDM - Gestational diabetes mellitus	11687002	1220322018		32	gestational
+2693189019	418744	679L	679L.00	Health education - diabetes	385805005	2693189019		17	unspecified
+278718015	2937	7L100	7L10000	Continuous subcutaneous infusion of insulin	180178009	278718015		32	unspecified
+280511000006113	64	C109D	C109D00	Non-insulin dependent diabetes mellitus with hypoglyca coma	719216001	3316336015		32	unspecified
+280521000006117	36	C109A	C109A00	Non-insulin dependent diabetes mellitus with mononeuropathy	420436000	3697667019		32	unspecified
+280531000006119	218	C109C	C109C00	Non-insulin dependent diabetes mellitus with nephropathy	420279001	3035432019		32	unspecified
+280541000006112	54	C109B	C109B00	Non-insulin dependent diabetes mellitus with polyneuropathy	713706002	3297353013		32	unspecified
+280551000006114	391	C1094	C109400	Non-insulin-dependent diabetes mellitus with ulcer	190389009	292580015		32	unspecified
+280561000006111	85	C109F	C109F00	Non-insulin-dependent diabetes mellitus with peripheral angiopathy	314902007	459307013		32	unspecified
+280571000006116	861186	C109	C109.00	Non-insulin dependent diabetes mellitus	44054006	493773010		32	unspecified
+280581000006118	289	C1093	C109300	Non-insulin-dependent diabetes mellitus with multiple complications	190388001	292578014		32	unspecified
+280591000006115	608	C1092	C109200	Non-insulin-dependent diabetes mellitus with neuro comps	421326000	3695406015		32	unspecified
+281161000006114	133	C109E	C109E00	Non-insulin depend diabetes mellitus with diabetic cataract	420756003	3035281015		32	unspecified
+281171000006119	36279	C1097	C109700	Type II diabetes mellitus uncontrolled	443694000	2842387018		32	type 2
+281181000006116	20	C109H	C109H00	Non-insulin dependent diabetes mellitus with neuropathic arthropathy	314904008	459314010		32	unspecified
+281211000006117	126	C1095	C109500	Gangrene associated with type 2 diabetes mellitus	421631007	2967779019		32	type 2
+2817479019	200	ESCTHY3		Hyperglycaemic crisis in diabetes mellitus	441656006	2817479019		32	unspecified
+282568013	10868	8A12	8A12.00	Diabetic crisis monitoring	182780004	282568013		32	unspecified
+282570016	6713	8A13	8A13.00	Diabetic stabilisation	182781000	282570016		32	unspecified
+283027015	138935	8CE0	8CE0.00	Diabetic leaflet given	183097007	283027015		32	unspecified
+283544013	5038	8H2J	8H2J.00	Diabetic emergency hospital admission	183472000	3082988012		40	unspecified
+283584016	840	8H3O	8H3O.00	Non-urgent diabetic admission	183506001	283584016		40	unspecified
+283620017	273636	8H4F	8H4F.00	Referral to diabetologist	183530004	283620017		40	unspecified
+283709014	61222	8H7C	8H7C.00	Referral to diabetic liaison nurse	308458007	451803019		40	unspecified
+283889016	331	8HKE	8HKE.00	Diabetology D.V. requested	183722003	283889016		40	unspecified
+283938017	3021	8HLE	8HLE.00	Diabetology D.V. done	183751004	283938017		27	unspecified
+283974014	89	8HME	8HME.00	Listed for Diabetology admission	183781007	2668804016		40	unspecified
+284124018	2219	8HVU	8HVU.00	Private referral to diabetologist	183910005	284124018		40	unspecified
+285751016	349864	9OL1	9OL1.00	Attends diabetes monitoring	185753003	285751016		37	unspecified
+285752011	9836	9OL2	9OL2.00	Refuses diabetes monitoring	185754009	285752011		37	unspecified
+285753018	48487	9OL3	9OL3.00	Diabetes monitoring default	185755005	285753018		37	unspecified
+285759019	583	9OL9	9OL9.00	Diabetes monitoring deleted	185761008	285759019		37	unspecified
+2867421000006114	10	^ESCTIN286742		Insulin dependent diabetes mellitus type 1A	23045005	2967774012		31	type 1
+2867431000006112	16	^ESCTIN286743		Insulin dependent diabetes mellitus type IA	23045005	38709010		31	type 1
+2900951000006115	20	^ESCTDI290095		Diabetic eye disease	25093002	42066015		32	unspecified
+2906401000006113	353	^ESCTDI290640		Diabetic retinal microaneurysm	25412000	42612012		32	unspecified
+292466013	20345	C100	C100.00	Diabetes mellitus without complication	111552007	178796018		32	unspecified
+292475010	6694	C100z	C100z00	Diabetes mellitus NOS with no mention of complication	111552007	178796018		32	unspecified
+292478012	420	C101y	C101y00	Other specified diabetes mellitus with ketoacidosis	420422005	2616611010		32	other type not specified
+292479016	1898	C101z	C101z00	Diabetes mellitus NOS with ketoacidosis	420422005	2616611010		32	unspecified
+292480018	848	C102	C102.00	Diabetes mellitus with hyperosmolar coma	422126006	2618221017		32	unspecified
+292482014	28	C1020	C102000	Diabetes mellitus, juvenile type, with hyperosmolar coma	190330002	292482014		32	unspecified
+292483016	106	C1021	C102100	Diabetes mellitus, adult onset, with hyperosmolar coma	190331003	292483016		32	unspecified
+292484010	162	C102z	C102z00	Hyperosmolar coma associated with diabetes mellitus	422126006	2618221017		32	unspecified
+292488013	45	C103y	C103y00	Coma associated with diabetes mellitus	420662003	2618230013		32	unspecified
+292489017	123	C103z	C103z00	Diabetes mellitus NOS with ketoacidotic coma	420422005	2616611010		32	unspecified
+292495016	150	C104y	C104y00	Other specified diabetes mellitus with renal complications	127013003	301016		32	other type not specified
+292496015	1938	C104z	C104z00	Diabetes mellitus with nephropathy NOS	127013003	301016		32	unspecified
+292503016	256	C105z	C105z00	Diabetes mellitus NOS with ophthalmic manifestation	25093002	42062018		32	unspecified
+292512019	2027	C106z	C106z00	Diabetes mellitus NOS with neurological manifestation	422088007	2618195014		32	unspecified
+292523015	921	C107z	C107z00	Diabetes mellitus NOS with peripheral circulatory disorder	421895002	2618203015		32	unspecified
+292538019	10	C10E5-1	C10E511	Type I diabetes mellitus with ulcer	190368000	292538019		32	type 1
+292540012	309	C10E5	C10E500	Type 1 diabetes mellitus with ulcer	190368000	292540012		32	type 1
+292541011	173	C10E6	C10E600	Type 1 diabetes mellitus with gangrene	420825003	2618207019		32	type 1
+292543014	13	C10E6-1	C10E611	Type I diabetes mellitus with gangrene	420825003	2618207019		32	type 1
+292548017	1950	C10E8	C10E800	Type 1 diabetes mellitus - poor control	444073006	2872487013		32	type 1
+292550013	65	C10E8-1	C10E811	Type I diabetes mellitus - poor control	444073006	2872487013		32	type 1
+292551012	37	C10E9-1	C10E911	Type I diabetes mellitus maturity onset	190372001	292551012		32	type 1
+292553010	2801	C10E9	C10E900	Type 1 diabetes mellitus maturity onset	190372001	292553010		32	type 1
+292565014	324	C108z	C108z00	Diabetes mellitus with multiple complications	385041000000108	760111000000115		32	unspecified
+292576013	40	C10F3-1	C10F311	Type II diabetes mellitus with multiple complications	190388001	292576013		32	type 2
+292577016	3029	C10F3	C10F300	Type 2 diabetes mellitus with multiple complications	190388001	292577016		32	type 2
+292579018	1358	C10F4	C10F400	Type 2 diabetes mellitus with ulcer	190389009	292579018		32	type 2
+292581016	43	C10F4-1	C10F411	Type II diabetes mellitus with ulcer	190389009	292581016		32	type 2
+292582011	8	C10F5-1	C10F511	Type II diabetes mellitus with gangrene	421631007	2618206011		32	type 2
+292583018	309	C10F5	C10F500	Type 2 diabetes mellitus with gangrene	421631007	2618206011		32	type 2
+292589019	403	C10F7-1	C10F711	Type II diabetes mellitus - poor control	443694000	2921019012		32	type 2
+292590011	19277	C10F7	C10F700	Type II diabetes mellitus poorly controlled	443694000	2921019012		32	type 2
+292606016	140	C10A1	C10A100	Malnutrition-related diabetes mellitus with ketoacidosis	190406000	292606016		32	malnutrition
+292612014	4	C10A7	C10A700	Malnutrition-related diabetes mellitus without complications	190412005	292612014		32	malnutrition
+292617015	1709	C10y	C10y.00	Diabetes mellitus with other specified manifestation	74627003	123939015		32	unspecified
+292621010	63	C10yz	C10yz00	Diabetes mellitus NOS with other specified manifestation	73211009	121589010		32	unspecified
+292622015	1938	C10z	C10z.00	Diabetes mellitus with unspecified complication	74627003	123939015		32	unspecified
+292626017	2921	C10zz	C10zz00	Diabetic complication	74627003	123939015		32	unspecified
+293756010	86	Cyu20	Cyu2000	[X]Other specified diabetes mellitus	73211009	121589010		32	other type not specified
+293759015	2815	Cyu23	Cyu2300	Diabetic renal disease	127013003	301016		32	unspecified
+2967831017	13	L180A		Pre-existing type 1 diabetes mellitus in pregnancy	199223000	306106018		32	type 1
+297492014	782	F3450	F345000	Diabetic mononeuritis multiplex	193141005	297492014		32	unspecified
+297510017	1968	F35z0	F35z000	Diabetic mononeuritis NOS	193141005	297492014		32	unspecified
+297550019	7642	F3720	F372000	Acute painful diabetic neuropathy	193183000	297550019		32	unspecified
+297551015	14988	F3721	F372100	Chronic painful diabetic neuropathy	193184006	297551015		32	unspecified
+297552010	19621	F3722	F372200	Asymptomatic diabetic neuropathy	193185007	297552010		32	unspecified
+297754014	93137	F4202	F420200	Preproliferative diabetic retinopathy	193349004	297754014		32	unspecified
+297755010	6977	F4203	F420300	Advanced diabetic maculopathy	193350004	297755010		32	unspecified
+297758012	19823	F420z	F420z00	Diabetic retinopathy NOS	4855003	9093013		32	unspecified
+297964010	274	F4407	F440700	Diabetic iritis	193489006	297964010		32	unspecified
+298811000000118	16978	8I3k	8I3k.00	Insulin therapy declined	198321000000100	298811000000118		32	unspecified
+299191000000110	1324	66Ag	66Ag.00	Insulin needles changed daily	198471000000107	299191000000110		1	unspecified
+299211000000114	9397	66Ah	66Ah.00	Insulin needles changed for each injection	198481000000109	299211000000114		1	unspecified
+299261000000111	538638	66Ai	66Ai.00	Diabetic 6 month review	198501000000100	299261000000111		1	unspecified
+299601000000114	10399	C10EQ	C10EQ00	Gastroparesis with type 1 diabetes mellitus	713702000	3698406016		32	type 1
+299621000000117	6281	C10FR	C10FR00	Gastroparesis with type 2 diabetes mellitus	713703005	3698412014		32	type 2
+299991000000112	26656	8HTi	8HTi.00	Referral to multidisciplinary diabetic clinic	198831000000108	299991000000112		40	unspecified
+300021000000110	22462	9N1o	9N1o.00	Seen in multidisciplinary diabetic clinic	198841000000104	300021000000110		37	unspecified
+301161000000113	578	66Aj	66Aj.00	Insulin needles changed less than once a day	199291000000104	301161000000113		1	unspecified
+301191000000119	892446	9N4p	9N4p.00	Did not attend diabetic retinopathy clinic	199301000000100	301191000000119		37	unspecified
+301611000000118	105	66Ak	66Ak.00	Diabetes monitoring lower risk albumin excretion	199481000000100	1749411000000114		1	unspecified
+301641000000117	67	66Al	66Al.00	Diabetes monitoring higher risk albumin excretion	199491000000103	1749311000000117		1	unspecified
+302011	4061	G73y0	G73y000	Diabetic peripheral angiopathy	127014009	302011		32	unspecified
+3029742016	5	ESCTCO18		Congenital generalized lipodystrophy	284449005	3029742016		32	other/unspec genetic inc syndromic
+303846016	870	K01x1	K01x100	Nephrotic syndrome in diabetes mellitus	197605007	303846016		32	unspecified
+3039941000006118	2	^ESCTPI303994		Pineal hyperplasia AND diabetes mellitus syndrome	33559001	55997018		32	other/unspec genetic inc syndromic
+3039971000006114	1	^ESCTPI303997		Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities	33559001	1228082013		32	other/unspec genetic inc syndromic
+3050291000006112	1	^ESCTAD305029		Adult diabetes diet	34170007	57058012		31	unspecified
+305158015	249	Kyu03	Kyu0300	Diabetic glomerulopathy	309426007	452844015		32	unspecified
+306108017	570	L1801	L180100	Diabetes mellitus during pregnancy - baby delivered	199225007	306108017		32	pregnancy
+306110015	529	L1803	L180300	Diabetes mellitus during pregnancy - baby not yet delivered	199227004	306110015		32	pregnancy
+306112011	824	L1805	L180500	Pre-existing diabetes mellitus, insulin-dependent	385051000000106	760131000000111		32	unspecified
+306113018	222	L1806	L180600	Pre-existing diabetes mellitus, non-insulin-dependent	199230006	306113018		32	unspecified
+306114012	3	L1807	L180700	Pre-existing malnutrition-related diabetes mellitus	199231005	306114012		32	malnutrition
+307661000000114	17020	8HHy	8HHy.00	Referral to diabetic register	201961000000104	307661000000114		40	unspecified
+308071000000112	6627	93C4	93C4.00	Patient consent given for addition to diabetic register	202151000000105	308071000000112		37	unspecified
+308110013	658	Lyu29	Lyu2900	Pre-existing diabetes mellitus	385051000000106	760131000000111		32	unspecified
+308360012	4975	M0372	M037200	Cellulitis in diabetic foot	200687002	308360012		32	unspecified
+308811000000110	95060	8HTk	8HTk.00	Referral to diabetic eye clinic	202461000000102	308811000000110		40	unspecified
+309177010	19945	M2710	M271000	Ischaemic ulcer diabetic foot	201250006	309177010		32	unspecified
+309179013	53226	M2711	M271100	Neuropathic diabetic ulcer - foot	201251005	309179013		32	unspecified
+309180011	34977	M2712	M271200	Mixed diabetic ulcer - foot	201252003	309180011		32	unspecified
+309737011	1520	N0300	N030000	Diabetic cheiroarthropathy	201723002	309737011		32	unspecified
+309738018	246	N0300-1	N030011	Diabetic cheiropathy	201723002	309738018		32	unspecified
+3102571000006114	10	^ESCTDI310257		Diabetic urine	37398008	62388019		31	unspecified
+3115111000006117	1	^ESCTDI311511		Diarrhoea in diabetes	38205001	63935011		31	unspecified
+3128741000006119	1	^ESCTDI312874		Diabetic lumbosacral radiculoplexus neuropathy	39058009	3316765012		32	unspecified
+3136191000006114	24	^ESCTAD313619		Administration of insulin	39543009	66321013		31	unspecified
+317347010	1419	R0542	R054200	[D]Gangrene of toe in diabetic	195302000	300505017		32	unspecified
+317348017	224	R0543	R054300	[D]Widespread diabetic foot gangrene	195303005	300506016		32	unspecified
+3209431000006116	30	^ESCTDI320943		Diabetes mellitus type II	44054006	73465010		32	type 2
+3209441000006114	920	^ESCTDI320944		Diabetes mellitus type 2	44054006	197763012		32	type 2
+324113011	37	SL23	SL23.00	Insulins and antidiabetic poisoning	212545006	324113011		32	unspecified
+324117012	14	SL23z	SL23z00	Insulins or antidiabetic poisoning NOS	212545006	324112018		32	unspecified
+3253231000006110	155	^ESCTDI325323		Diabetes mellitus type I	46635009	77728011		32	type 1
+3253241000006117	123	^ESCTDI325324		Diabetes mellitus type 1	46635009	197985011		32	type 1
+3258001000006116	13	^ESCTGE325800		Gestational diabetes mellitus, class A>2<	46894009	78158011		32	gestational
+3286521000006111	444	^ESCTDR328652		Drug resistance to insulin	48606007	80996016		32	unspecified
+3291658019	5	ESCTDI19-1		Diabetes mellitus caused by insulin receptor antibodies	75682002	3291658019		32	insulin receptor abs
+3292081000006115	3	^ESCTBU329208		Bullosis diabeticorum	48951005	81560017		31	unspecified
+3297551000006115	3	^ESCTFA329755		Familial partial lipodystrophy	49292002	198186010		31	other/unspec genetic inc syndromic
+330806013	100	TJ23z	TJ23z00	Adverse reaction to insulins and antidiabetic agents NOS	430400006	2708697011		5	unspecified
+3319861000006118	795	^ESCTDI331986		Diabetic autonomic neuropathy	50620007	84344019		32	unspecified
+3336681000006110	6	^ESCTAD333668		Adult progeria	51626007	1231008011		32	other/unspec genetic inc syndromic
+3416171000006118	70	^ESCTNE341617		Necrobiosis lipoidica diabeticorum	56391002	93774015		31	unspecified
+345486016	162335	F372-2	F372.12	Diabetic neuropathy	230572002	345486016		32	unspecified
+345487013	26553	C106-2	C106.12	Diabetes mellitus with neuropathy	230572002	345487013		32	unspecified
+345492010	1863	F3y0	F3y0.00	Diabetic mononeuropathy	230577008	345492010		32	unspecified
+3459801000006118	1	^ESCTDI345980		Diabetes mellitus associated with hormonal aetiology	59079001	498344013		32	unspecified
+347657010	301140	F4204	F420400	Diabetic maculopathy	232020009	347657010		32	unspecified
+3500731000006113	3	^ESCTFA350073		Fanconi-Bickel syndrome	61598006	102347014		31	other/unspec genetic inc syndromic
+3511581000006114	14	^ESCTPR351158		Pretibial pigmental patches in diabetes	62260007	103479010		32	unspecified
+3511972010	67	^ESCT1164874		Diabetic education service	734920002	3511972010		31	unspecified
+3511973017	9	^ESCT1164875		Diabetes mellitus education service	734920002	3511973017		31	unspecified
+3513752015	2	^ESCT1165226		Absence of lower limb due to diabetes mellitus	735200002	3513752015		31	unspecified
+3514795011	4	^ESCT1165610		Hyperosmolar hyperglycaemic coma due to diabetes mellitus without ketoacidosis	735537007	3514795011		31	unspecified
+3515955014	6497	^ESCT1166198		Diabetes self management plan	735985000	3515955014		31	unspecified
+3527174019	3	^ESCT1167508		Diabetes mellitus caused by chemical	737212004	3527174019		32	unspecified
+3537388019	1	^ESCT1168360		Diabetic oculopathy due to type 1 diabetes mellitus	739681000	3537388019		32	type 1
+354316011	355	C314-1	C314.11	Kidney disorder due to diabetes mellitus	127013003	3688488015		32	unspecified
+354508018	53	K08yA-1	K08yA11	Clinical diabetic nephropathy	236500003	354508018		32	unspecified
+354509014	1420	K08yA	K08yA00	Proteinuric diabetic nephropathy	236500003	354509014		32	unspecified
+354661000006118	19	U6023-1	U602311	[X] Adverse reaction to insulins and antidiabetic agents	430400006	2708697011		5	unspecified
+354671000006113	7	U6023-E	U60231E	[X] Adverse reaction to insulins and antidiabetic agents NOS	430400006	2708697011		5	unspecified
+356078011	173	ESCTSE11		Secondary endocrine diabetes mellitus	237601000	356078011		32	secondary
+356085010	901	C10D-1	C10D.11	Maturity onset diabetes in youth type 2	237604008	356085010		32	mody
+356101019	6	ESCTHY1		Hyperproinsulinaemia	237613005	356101019		32	other/unspec genetic inc syndromic
+356110010	29	ESCTME15		Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	237617006	356110010		32	other/unspec genetic inc syndromic
+356111014	17	ESCTIN27		Insulin-dependent diabetes mellitus secretory diarrhoea syndrome	237618001	356111014		32	other/unspec genetic inc syndromic
+356118015	34	ESCTDI21		Diabetes-deafness syndrome maternally transmitted	237619009	356118015		32	other/unspec genetic inc syndromic
+356119011	8	ESCTAB10		Abnormal metabolic state in diabetes mellitus	237620003	356119011		32	unspecified
+356121018	403	ESCTDI22		Diabetic severe hyperglycaemia	237621004	356121018		32	unspecified
+358035014	7200	M21yC	M21yC00	Insulin lipohypertrophy	238894004	358035014		5	unspecified
+358036010	2770	M21yC-1	M21yC11	Insulin site lipohypertrophy	238894004	358036010		5	unspecified
+3636751012	53	^ESCT1169219		Acute complication with diabetes mellitus	762489000	3636751012		32	unspecified
+3636752017	1	^ESCT1169220		Acute complication co-occurrent and due to diabetes mellitus	762489000	11692201000006114		32	unspecified
+3649791000006119	64	^ESCTDI364979		Diabetes mellitus AND insipidus with optic atrophy AND deafness	70694009	117422014		32	other/unspec genetic inc syndromic
+3690681000006114	7	^ESCTDM369068		DM - Diabetes mellitus	73211009	502372015		32	unspecified
+3719631000006112	20	^ESCTGE371963		Gestational diabetes mellitus, class A>1<	75022004	124602011		32	gestational
+377001000006117	629	Cyu2	Cyu2.00	[X]Diabetes mellitus	73211009	121589010		32	unspecified
+391111000006119	890	U6023	U602300	Adverse reaction to antidiabetic drug	430400006	2708697011		5	unspecified
+396661000006115	5	Cyu21	Cyu2100	Malnutrition-related diabetes mellitus with multiple complications	190411003	292611019		32	malnutrition
+396671000006110	1	Cyu22	Cyu2200	[X]Malnutrit-related diabetes mellitus with unspec complics	190411003	292611019		32	malnutrition
+399419012	206	F3813	F381300	Myasthenic syndrome due to diabetic amyotrophy	267604001	399419012		32	unspecified
+401531012	544073	66AJ	66AJ.00	Diabetic - poor control	268519009	401531012		27	unspecified
+404444016	3965958	42W	42W..00	Haemoglobin A1C - diabetic control interpretation	269823000	1206383011		11	unspecified
+405057014	41627	9OLA-1	9OLA.11	Diabetes monitored	270445003	405057014		37	unspecified
+405561000000113	145388	68AB	68AB.00	Diabetic digital retinopathy screening offered	247771000000108	405561000000113		1	unspecified
+406351000000114	332120	8Hl1	8Hl1.00	Referral for diabetic retinopathy screening	248161000000101	406351000000114		40	unspecified
+408811014	26277	3883	3883.00	DTSQs (Diabetes Treatment Satisfaction Questionnaire status version) score	765147009	3657199015		3	unspecified
+411891014	4169	66AJ-1	66AJ.11	Unstable diabetes	11530004	19931010		27	unspecified
+423112012	7	ESCTCO18-4		Congenital total lipodystrophy	284449005	423112012		32	other/unspec genetic inc syndromic
+429970018	65	C10E4-1	C10E411	Unstable type I diabetes mellitus	290002008	429970018		32	type 1
+429971019	530	C10E4	C10E400	Unstable type 1 diabetes mellitus	290002008	429971019		32	type 1
+429972014	122	C10E4-2	C10E412	Unstable insulin dependent diabetes mellitus	11530004	19931010		27	unspecified
+4383621000006112	3	^ESCTDI438362		Diabetic mixed sensory-motor polyneuropathy	126534007	94571018		31	unspecified
+4392131000006114	5	^ESCTDI439213		Diabetic sensory polyneuropathy	127011001	299011		31	unspecified
+4392141000006116	104	^ESCTLI439214		Lipoatrophic diabetes	127012008	300015		32	other/unspec genetic inc syndromic
+4392181000006110	1	^ESCTRE439218		Renal disorder associated with diabetes mellitus	127013003	2619011010		32	unspecified
+4392201000006111	4	^ESCTDI439220		Diabetic peripheral vascular disease	127014009	205224017		32	unspecified
+4392221000006118	126	^ESCTPE439222		Peripheral angiopathy due to diabetes mellitus	127014009	3313388015		32	unspecified
+448261010	32671	9N2i	9N2i.00	Seen by diabetic liaison nurse	305738006	448261010		37	unspecified
+449540010	548	ESCTDI1		Discharge by diabetic liaison nurse	306499007	449540010		32	unspecified
+451410016	45234	2G5A	2G5A.00	O/E - Right diabetic foot at risk	308105005	451410016		27	unspecified
+451411017	44122	2G5B	2G5B.00	O/E - Left diabetic foot at risk	308106006	451411017		27	unspecified
+452078013	267593	7L198	7L19800	Subcutaneous injection of insulin	308755006	452078013		32	unspecified
+453050019	4696	3881	3881.00	Education score - diabetes	309593006	453050019		3	unspecified
+453100011	650	14F4	14F4.00	H/O: Admission in last year for diabetes foot problem	309635005	453100011		32	unspecified
+453910015	183730	42c	42c..00	Haemoglobin A1C - diabetic control finding	365845005	1206639010		11	unspecified
+4539551000006112	1	^ESCTPR453955		Pre-existing diabetes mellitus	161445009	2820057017		32	unspecified
+4539561000006114	4	^ESCTHI453956		History of diabetes mellitus	161445009	2986596017		32	unspecified
+454092018	1041	ESCTDI23		Diabetic hyperosmolar non-ketotic state	310505005	454092018		32	unspecified
+454093011	133	ESCTDI23-3		HONKS - Diabetic hyperosmolar non-ketotic state	310505005	454093011		32	unspecified
+455408014	1359	F4205	F420500	Advanced diabetic retinal disease	311782002	455408014		32	unspecified
+456646018	175935	8H7f	8H7f.00	Referral to diabetes nurse	312856000	456646018		40	unspecified
+456686014	116366	9NM0	9NM0.00	Attending diabetes clinic	312888008	456686014		37	unspecified
+457156014	115	ZV6DB	ZV6DB00	[V]Admitted for conversion to insulin	876361000000109	2262341000000113		1	unspecified
+457157017	270	ZV6DA	ZV6DA00	[V]Admitted for commencement of insulin	345041000000101	646031000000112		1	unspecified
+457231013	2873909	9N1v	9N1v.00	Seen in diabetic eye clinic	313340009	457231013		37	unspecified
+457325013	131	C10EA-1	C10EA11	Type I diabetes mellitus without complication	313435000	457325013		32	type 1
+457326014	481	C10EA	C10EA00	Type 1 diabetes mellitus without complication	313435000	457326014		32	type 1
+457327017	333	C10EA-2	C10EA12	Insulin-dependent diabetes without complication	111552007	178796018		32	unspecified
+457328010	5922	C1099	C109900	Non-insulin-dependent diabetes mellitus without complication	313436004	457328010		32	unspecified
+457329019	14550	C10F9	C10F900	Type 2 diabetes mellitus without complication	313436004	457329019		32	type 2
+457330012	1320	C10F9-1	C10F911	Type II diabetes mellitus without complication	313436004	457330012		32	type 2
+458512016	429573	66AV	66AV.00	Diabetic on insulin and oral treatment	314194001	458512016		1	unspecified
+459161015	366	C10EE	C10EE00	Type 1 diabetes mellitus with hypoglycaemic coma	314771006	459161015		32	type 1
+459162010	150	C10EE-2	C10EE12	Insulin dependent diabetes mellitus with hypoglycaemic coma	237632004	356141011		32	unspecified
+459163017	50	C10EE-1	C10EE11	Type I diabetes mellitus with hypoglycaemic coma	314771006	459163017		32	type 1
+459167016	254	C10FD	C10FD00	Type 2 diabetes mellitus with hypoglycaemic coma	719216001	3316336015		32	type 2
+459169018	68	C10FD-1	C10FD11	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	719216001	3316336015		32	type 2
+459292011	85	C10EH	C10EH00	Type 1 diabetes mellitus with arthropathy	314893005	459292011		32	type 1
+459293018	6	C10EH-2	C10EH12	Insulin dependent diabetes mellitus with arthropathy	39710007	1229552016		32	unspecified
+459294012	23	C10EH-1	C10EH11	Type I diabetes mellitus with arthropathy	314893005	459294012		32	type 1
+459295013	10	C10EJ-1	C10EJ11	Type I diabetes mellitus with neuropathic arthropathy	71771000119100	3010513018		32	type 1
+459296014	243	C10EJ	C10EJ00	Type 1 diabetes mellitus with neuropathic arthropathy	71771000119100	3010513018		32	type 1
+459306016	72	C10FF-1	C10FF11	Type II diabetes mellitus with peripheral angiopathy	314902007	459306016		32	type 2
+459308015	388	C10FF	C10FF00	Type 2 diabetes mellitus with peripheral angiopathy	314902007	459308015		32	type 2
+459309011	10	C109G	C109G00	Non-insulin dependent diabetes mellitus with arthropathy	314903002	459309011		32	unspecified
+459310018	252	C10FG	C10FG00	Type 2 diabetes mellitus with arthropathy	314903002	459310018		32	type 2
+459311019	51	C10FG-1	C10FG11	Type II diabetes mellitus with arthropathy	314903002	459311019		32	type 2
+459312014	41	C10FH-1	C10FH11	Type II diabetes mellitus with neuropathic arthropathy	314904008	459312014		32	type 2
+459313016	1001	C10FH	C10FH00	Type 2 diabetes mellitus with neuropathic arthropathy	314904008	459313016		32	type 2
+459520010	60470	212H	212H.00	Diabetes resolved	315051004	459520010		27	unspecified
+4595391000006115	1	^ESCTHE459539		Hemoglobin A1c greater than 10% indicating poor diabetic control	165681007	2767755018		11	unspecified
+459694018	119174	13AB	13AB.00	Diabetic lipid lowering diet	315207000	459694018		17	unspecified
+459695017	97402	13AC	13AC.00	Diabetic weight reducing diet	315208005	459695017		17	unspecified
+4636411000006110	1909	^ESCTDI463641		Diet controlled diabetes mellitus	170745003	264680017		1	unspecified
+4636471000006118	10272	^ESCTHA463647		Has seen dietitian - diabetes	170752001	264694016		1	unspecified
+4636711000006116	13	^ESCTDI463671		Diabetes: shared care program	170775008	264725018		1	unspecified
+468191000006114	123	TJ23	TJ23.00	Adverse reaction to insulins and antidiabetic agents	430400006	2708697011		5	unspecified
+4726201000006118	126	^ESCTDI472620		Diabetology domiciliary visit requested	183722003	283890013		40	unspecified
+4726801000006119	1	^ESCTDI472680		Diabetology domiciliary visit done	183751004	2668886017		27	unspecified
+472901000000116	76379	66Am	66Am.00	Insulin dose changed	703972004	3012379017		1	unspecified
+4757991000006116	3	^ESCTTY475799		Type 1 diabetes mellitus with hyperosmolar coma	190330002	2967854014		32	type 1
+4758011000006112	7	^ESCTTY475801		Type 2 diabetes mellitus with hyperosmolar coma	190331003	2967818010		32	type 2
+4758061000006110	1	^ESCTIN475806		Insulin-dependent diabetes mellitus with ulcer	190368000	292539010		32	unspecified
+4758121000006115	50	^ESCTIN475812		Insulin-dependent diabetes maturity onset	190372001	292552017		32	unspecified
+4771421000006116	37	^ESCTPP477142		PPDR - Preproliferative diabetic retinopathy	193349004	2579151010		32	unspecified
+4788421000006117	6	^ESCTNE478842		Nephrotic syndrome due to diabetes mellitus	197605007	3013381011		32	unspecified
+479511000000117	27701	66An	66An.00	Diabetes type 1 review	279291000000109	479511000000117		1	type 1
+479571000000110	487259	66Ao	66Ao.00	Diabetes type 2 review	279321000000104	479571000000110		1	type 2
+4796321000006113	194	^ESCTPR479632		Pre-existing type 2 diabetes mellitus	199230006	2967812011		32	type 2
+479981000000119	106544	8Hl4	8Hl4.00	Referral to community diabetes specialist nurse	279521000000108	479981000000119		40	unspecified
+4807571000006117	2	^ESCTIS480757		Ischemic ulcer diabetic foot	201250006	309178017		32	unspecified
+4808881000006117	354	^ESCTDI480888		Diabetic hand syndrome	201723002	309735015		32	unspecified
+4808891000006119	1	^ESCTDI480889		Diabetic cheirarthropathy	201723002	309736019		32	unspecified
+4808921000006113	864	^ESCTDI480892		Diabetic neuropathic arthropathy	201724008	309740011		32	unspecified
+483882011	2387	C10C	C10C.00	Maturity-onset diabetes of the young	609561005	2967884018		32	mody
+483886014	3162	C10C-1	C10C.11	Maturity onset diabetes in youth	609561005	2967884018		32	mody
+4868691000006117	3	^ESCTPO486869		Poisoning by antidiabetic agent	212545006	324112018		32	unspecified
+493773010	49525	C109-1	C109.11	NIDDM - Non-insulin dependent diabetes mellitus	44054006	493773010		32	unspecified
+493774016	773442	C10F-1	C10F.11	Type II diabetes mellitus	44054006	493774016		32	type 2
+494564012	94296	C10E-1	C10E.11	Type I diabetes mellitus	46635009	494564012		32	type 1
+494831000000119	2983	C10N1	C10N100	Diabetes mellitus associated with cystic fibrosis	426705001	2674608014		32	other/unspec genetic inc syndromic
+498512013	2	ESCTDI18-1		Genetic syndromes of diabetes mellitus	5969009	498512013		32	other/unspec genetic inc syndromic
+5009561000006114	1	^ESCTDI500956		Diabetic chronic painful polyneuropathy	230575000	345490019		32	unspecified
+5030691000006115	7	^ESCTPR503069		Proliferative diabetic retinopathy with new vessels on disc	232021008	2642350011		31	unspecified
+5030741000006118	4	^ESCTPR503074		Proliferative diabetic retinopathy with new vessels elsewhere than on disc	232022001	347659013		31	unspecified
+5030771000006114	10	^ESCTDI503077		Diabetic traction retinal detachment	232023006	347660015		31	unspecified
+5095031000006114	1354	^ESCTMI509503		Microalbuminuric diabetic nephropathy	236499007	354506019		32	unspecified
+5109461000006115	7	^ESCTDI510946		Diabetes type 2 on insulin	237599002	3037103012		32	type 2
+5109541000006118	14	^ESCTTR510954		Transient neonatal diabetes mellitus	237603002	2967847015		32	other/unspec genetic inc syndromic
+5109561000006119	712	^ESCTMA510956		Maturity onset diabetes of the young, type 2	237604008	2967875018		32	mody
+5109611000006116	1199	^ESCTMO510961		MODY - Maturity onset diabetes in youth type 2	237604008	356086011		32	mody
+5109621000006112	158	^ESCTMO510962		MODY - Maturity onset diabetes glucokinase-related	237604008	356087019		32	mody
+5109901000006112	2	^ESCTDI510990		Diabetic severe hyperglycemia	237621004	356120017		32	unspecified
+5110001000006118	179	^ESCTPR511000		Pregnancy and type 2 diabetes mellitus	237627000	2967837018		32	type 2
+5110071000006112	150	^ESCTHY511007		Hypoglycaemic event in diabetes	237632004	356141011		32	unspecified
+5110081000006110	2	^ESCTHY511008		Hypoglycemic event in diabetes	237632004	356142016		32	unspecified
+5110091000006113	37	^ESCTHY511009		Hypoglycaemic state in diabetes	237633009	356144015		31	unspecified
+5110101000006119	1	^ESCTHY511010		Hypoglycemic state in diabetes	237633009	356143014		31	unspecified
+5110461000006114	477	^ESCTIN511046		Insulin resistance - type A	237651005	356181016		32	other/unspec genetic inc syndromic
+5128751000006113	5	^ESCTDI512875		Diabetic thick skin syndrome	238983004	358150019		31	unspecified
+5128771000006115	6	^ESCTDI512877		Diabetic rubeosis	238984005	358152010		31	unspecified
+5192411000006114	5858	^ESCTDI519241		Diabetic monitoring status	243860001	364695019		1	unspecified
+532331000000119	159723	9OLF	9OLF.00	Diabetes structured education programme completed	755491000000100	1662411000000116		37	unspecified
+5337481000006116	2	^ESCTWO533748		Wolcott-Rallison dysplasia	254066006	378216019		31	other/unspec genetic inc syndromic
+546001000000113	7577	9OLG	9OLG.00	Attended XPERT diabetes structured education programme	306401000000106	546001000000113		37	unspecified
+546071000000117	2689	9OLH	9OLH.00	Attended DAFNE diabetes structured education programme	306441000000109	546071000000117		37	unspecified
+546151000000110	2275	9OLJ	9OLJ.00	DAFNE diabetes structured education programme completed	306471000000103	546151000000110		37	unspecified
+546221000000114	18393	9OLK	9OLK.00	DESMOND diabetes structured education programme completed	306501000000105	546221000000114		37	unspecified
+546291000000112	10328	9OLL	9OLL.00	XPERT diabetes structured education programme completed	306531000000104	546291000000112		37	unspecified
+546471000000114	1181288	9OLM	9OLM.00	Diabetes structured education programme declined	306591000000103	546471000000114		37	unspecified
+546871000000112	15924	8Hj3	8Hj3.00	Referral to DAFNE diabetes structured education programme	306701000000102	546871000000112		40	unspecified
+546961000000111	298505	8Hj4	8Hj4.00	Referral to DESMOND diabetes structured education programme	306741000000104	546961000000111		40	unspecified
+547061000000110	117757	8Hj5	8Hj5.00	Referral to XPERT diabetes structured education programme	306771000000105	547061000000110		40	unspecified
+547191000000117	47547	9NiA	9NiA.00	Did not attend diabetes structured education programme	306861000000107	547191000000117		37	unspecified
+547331000000115	2703	8I81	8I81.00	Did not complete diabetes structured education programme	306931000000106	547331000000115		32	unspecified
+547441000000118	96	8I82	8I82.00	Did not complete DAFNE diabetes structured education program	306961000000101	547441000000118		32	unspecified
+548121000000116	711	9NiC	9NiC.00	Did not attend DAFNE diabetes structured education programme	307141000000102	548121000000116		37	unspecified
+548131000000119	6989	9NiE	9NiE.00	Did not attend XPERT diabetes structured education programme	307201000000109	548131000000119		37	unspecified
+5505651000006113	91	^ESCTDI550565		Diabetes mellitus uncontrolled	268519009	2920470017		27	unspecified
+5513671000006116	3	^ESCTHE551367		Hemoglobin A1C - diabetic control interpretation	269823000	404443010		11	unspecified
+5549741000006110	25	^ESCTDI554974		Diabetes clinic satisfaction questionnaire	273411009	408808013		31	unspecified
+5549771000006119	76	^ESCTDT554977		DTSQ - Diabetes treatment satisfaction questionnaire	273412002	408810010		32	unspecified
+5587071000006119	7	^ESCTDI558707		Diabetes mellitus in neonate small for gestational age	276560009	2532367019		32	unspecified
+56000018	17	C1zy6	C1zy600	Rabson-Mendenhall syndrome	33559001	56000018		32	other/unspec genetic inc syndromic
+5634901000006116	3092	^ESCTDI563490		Diabetic foot	280137006	417658010		32	unspecified
+5754581000006110	93	^ESCTBR575458		Brittle type 1 diabetes mellitus	290002008	2872766016		32	type 1
+5774231000006113	2	^ESCTAC577423		Accidental insulin poisoning	291802003	431893016		31	unspecified
+587111000006111	745	C1091	C109100	Non-insulin-dependent diabetes mellitus with ophthalm comps	422099009	3698440016		32	unspecified
+587521000006111	858	C1090	C109000	Non-insulin-dependent diabetes mellitus with renal comps	420279001	2615535015		32	unspecified
+5933621000006118	33	^ESCTPE593362		Perceived control of insulin-dependent diabetes	304752002	447137014		32	unspecified
+5942001000006110	18	^ESCTUN594200		Under care of diabetic liaison nurse	305561005	448019012		31	unspecified
+5949691000006115	6	^ESCTRE594969		Referral by diabetic liaison nurse	306032006	448797017		31	unspecified
+5976641000006118	23	^ESCTAD597664		Admission to diabetic department	308253000	451579011		31	unspecified
+5979491000006119	3646	^ESCTDI597949		Diabetes monitoring call	308505000	451865012		31	unspecified
+5988631000006117	194	^ESCTDI598863		Diabetes dietitian	309417009	452832018		31	unspecified
+59931000006118	41	C1zy4	C1zy400	Werner's syndrome	51626007	85980017		32	other/unspec genetic inc syndromic
+59941000006111	1	C1zyz-1	C1zyz11	Werner's syndrome	51626007	85980017		32	other/unspec genetic inc syndromic
+5994181000006119	118	^ESCTDI599418		Diabetic department	309924002	453436018		31	unspecified
+5999771000006115	248531	^ESCTDI599977		Diabetes monitoring invitation	310425007	453998014		37	unspecified
+6022581000006116	1386	^ESCTMI602258		Mild non-proliferative diabetic retinopathy	312903003	2642672017		31	unspecified
+6022611000006112	105	^ESCTMI602261		Mild nonproliferative diabetic retinopathy	312903003	2921114017		31	unspecified
+6022621000006116	314	^ESCTMO602262		Moderate nonproliferative diabetic retinopathy	312904009	1775724010		31	unspecified
+6022671000006115	20	^ESCTPR602267		Proliferative diabetic retinopathy - non high risk	312906006	456706019		31	unspecified
+6022691000006119	60	^ESCTEA602269		Early proliferative diabetic retinopathy	312906006	1785158019		31	unspecified
+6022721000006112	356	^ESCTPR602272		Proliferative diabetic retinopathy - high risk	312907002	456707011		32	unspecified
+6022761000006118	72	^ESCTPR602276		Proliferative diabetic retinopathy - quiescent	312908007	456708018		31	unspecified
+6022771000006113	4	^ESCTIN602277		Inactive proliferative diabetic retinopathy	312908007	456709014		31	unspecified
+6022831000006119	86	^ESCTDI602283		Diabetic vitreous haemorrhage	312910009	456713019		31	unspecified
+6022841000006112	4	^ESCTDI602284		Diabetic vitreous hemorrhage	312910009	456712012		31	unspecified
+6022871000006116	6	^ESCTCL602287		Clinically significant diabetic macular oedema	312911008	1783526017		31	unspecified
+6022921000006114	44291	^ESCTDI602292		Diabetic macular oedema	312912001	456717018		32	unspecified
+6022931000006112	110	^ESCTDI602293		Diabetic macular edema	312912001	456716010		32	unspecified
+6030001000006116	31	^ESCTIN603000		Insulin-dependent diabetes without complication	313435000	457327017		32	unspecified
+6041331000006116	4	^ESCTDI604133		Diffuse diabetic maculopathy	314010006	458280018		31	unspecified
+6041341000006114	20	^ESCTFO604134		Focal diabetic maculopathy	314011005	458281019		31	unspecified
+6041411000006117	22	^ESCTIS604141		Ischaemic diabetic maculopathy	314014002	458286012		31	unspecified
+6041421000006113	1	^ESCTIS604142		Ischemic diabetic maculopathy	314014002	458287015		31	unspecified
+6041431000006111	11	^ESCTMI604143		Mixed diabetic maculopathy	314015001	458288013		31	unspecified
+6047101000006117	14	^ESCTDI604710		Diabetic optic papillopathy	314537004	458912013		31	unspecified
+6050041000006115	1	^ESCTIN605004		Insulin dependent diabetes mellitus with hypoglycaemic coma	314771006	459162010		32	unspecified
+607851000006113	770	66AO	66AO.00	Date diabetic treatment stopped	170773001	264721010		1	unspecified
+616081000006113	32	889A	889A.00	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction	315287002	459791015		32	unspecified
+616151000006118	51	L1800	L180000	Diabetes mellitus - unspec whether in pregnancy/puerperium	199223000	306106018		32	pregnancy
+616191000006112	5203	L180	L180.00	Diabetes mellitus during pregnancy, childbirth and the puerperium	199223000	306106018		32	pregnancy
+616211000006113	433	L180z	L180z00	Diabetes mellitus in pregnancy/childbirth/puerperium NOS	199223000	306106018		32	pregnancy
+616221000006117	8	L1804	L180400	Diabetes mellitus in the puerperium - baby delivered during previous episode of care	199228009	2923439012		32	unspecified
+616231000006119	21	L1802	L180200	Diabetes mellitus in the puerperium - baby delivered during current episode of care	199226008	306109013		32	unspecified
+616241000006112	7347	C10B	C10B.00	Diabetes mellitus induced by steroids	190447002	292667010		5	secondary
+616351000006115	447	C107-1	C107.11	Diabetes mellitus with gangrene	422275004	2616612015		32	unspecified
+616381000006111	868	C103	C103.00	Diabetes mellitus with ketoacidotic coma	26298008	44045012		32	unspecified
+616391000006114	52326	C106	C106.00	Nervous system disorder due to diabetes mellitus	422088007	3688477014		32	unspecified
+616421000006118	24975	C105	C105.00	Eye disorder due to diabetes mellitus	25093002	3688467012		32	unspecified
+616441000006113	5757	C107	C107.00	Peripheral vascular disorder due to diabetes mellitus	421895002	3688501014		32	unspecified
+616451000006110	251	C106-3	C106.13	Diabetes mellitus with polyneuropathy	49455004	82373015		32	unspecified
+616461000006112	13730	C104	C104.00	Diabetes mellitus with renal manifestation	127013003	301016		32	unspecified
+616481000006119	1800	C1061	C106100	Diabetes mellitus, adult onset, + neurological manifestation	421326000	2618196010		32	unspecified
+616491000006116	1204	C1051	C105100	Diabetes mellitus, adult onset, + ophthalmic manifestation	422099009	2618233010		32	unspecified
+616501000006112	768	C10z1	C10z100	Disorder due to type 2 diabetes mellitus	422014003	3013072014		32	type 2
+616511000006110	99238	C1001	C100100	Diabetes mellitus, adult onset, no mention of complication	313436004	457329019		32	unspecified
+616531000006116	966	C1011	C101100	Diabetes mellitus, adult onset, with ketoacidosis	421750000	2618220016		32	unspecified
+616541000006114	27	C1031	C103100	Diabetes mellitus, adult onset, with ketoacidotic coma	421847006	2618218019		32	unspecified
+616551000006111	1170	C1041	C104100	Diabetes mellitus, adult onset, with renal manifestation	420279001	2615535015		32	unspecified
+616561000006113	280	C1072	C107200	Diabetes mellitus, adult with gangrene	421631007	2618206011		32	unspecified
+616571000006118	1257	C10y1	C10y100	Diabetes mellitus, adult, + other specified manifestation	73211009	121589010		32	unspecified
+616581000006115	643	C1071	C107100	Diabetes mellitus, adult, + peripheral circulatory disorder	422166005	2618204014		32	unspecified
+616591000006117	28	C1070	C107000	Diabetes mellitus, juvenile +peripheral circulatory disorder	421365002	2618205010		32	unspecified
+616601000006113	181	C1050	C105000	Diabetes mellitus, juvenile type, + ophthalmic manifestation	739681000	3537386015		32	unspecified
+616611000006111	125	C10z0	C10z000	Disorder due to type 1 diabetes mellitus	420868002	3013528019		32	type 1
+616621000006115	14550	C1000	C100000	Type 1 diabetes mellitus without complication	313435000	457326014		32	type 1
+616641000006110	1830	C1010	C101000	Diabetes mellitus, juvenile type, with ketoacidosis	420270002	2618216015		32	unspecified
+616651000006112	50	C1030	C103000	Diabetes mellitus, juvenile type, with ketoacidotic coma	421075007	2618217012		32	unspecified
+616661000006114	105	C1040	C104000	Diabetes mellitus, juvenile type, with renal manifestation	421893009	2618211013		32	unspecified
+616671000006119	143	C1060	C106000	Diabetes mellitus, juvenile, + neurological manifestation	421468001	2618197018		32	unspecified
+616681000006116	121	C10y0	C10y000	Diabetes mellitus, juvenile, + other specified manifestation	73211009	121589010		32	unspecified
+616691000006118	1181661	9OLA	9OLA.00	Diabetes monitoring check done	270445003	405056017		37	unspecified
+616701000006118	458609	9OL8	9OL8.00	Diabetes monitoring telephone invite	185760009	285758010		37	unspecified
+616711000006115	239914	9OL7	9OL7.00	Diabetes monitoring verbal invite	185759004	285757017		37	unspecified
+616731000006114	5980790	9OL4	9OL4.00	Diabetes monitoring first letter	185756006	285754012		37	unspecified
+616741000006116	1719461	9OL5	9OL5.00	Diabetes monitoring second letter	185757002	285755013		37	unspecified
+616751000006119	616581	9OL6	9OL6.00	Diabetes monitoring third letter	185758007	285756014		37	unspecified
+616801000006114	15069	21263	2126300	Diabetes resolved	315051004	459520010		27	unspecified
+616821000006116	9247	3882	3882.00	Diabetes wellbeing questionnaire	273413007	408812019		3	unspecified
+616831000006118	557	C107-2	C107.12	Diabetes with gangrene	422275004	2616612015		32	unspecified
+616891000006119	236531	EMISHGT48		Diabetic - moderate control	616891000006103	616891000006119		1	unspecified
+616921000006113	2288	C106-1	C106.11	Diabetic amyotrophy	39058009	65526011		32	unspecified
+616971000006114	14191	N0301	N030100	Diabetic Charcot's arthropathy	201724008	309739014		32	unspecified
+617041000006117	2083	EMISHGT200		Diabetic Foot Risk Assessment	617041000006101	617041000006117		27	unspecified
+620171000000113	7912	8H4e	8H4e.00	Referral to diabetes special interest general practitioner	334711000000100	620171000000113		40	unspecified
+622051000000118	7102	ZV13F	ZV13F00	History of gestational diabetes mellitus	472971004	2955501019		32	gestational history
+622221000000118	283	C10FS	C10FS00	Maternally inherited diabetes mellitus	335621000000101	622221000000118		32	other/unspec genetic inc syndromic
+63021000000116	160083	66AY	66AY.00	Good compliance with diabetic diet	25351000000101	1749251000000114		1	unspecified
+63041000000111	47623	66Aa	66Aa.00	Poor compliance with diabetic diet	25361000000103	1749271000000117		1	unspecified
+6348911000006117	25853	^ESCTDI634891		Diabetic foot ulcer	371087003	1209795012		32	unspecified
+640011000006114	1165	EMISHGT46		Emergency Diabetic Admission since last appointment	640011000006105	640011000006114		1	unspecified
+641581000006115	1137	C1096	C109600	Non-insulin-dependent diabetes mellitus with retinopathy	422034002	3035295017		32	unspecified
+643691000000114	27821	9kL	9kL..00	Insulin initiation enhanced services administration	344641000000106	1153101000000112		37	unspecified
+6443801000006114	2	^ESCTIN644380		Insulin administration assessment	385792008	1479984017		31	unspecified
+6443841000006111	4	^ESCTIN644384		Insulin administration management	385794009	1776031010		31	unspecified
+6444031000006114	67	^ESCTDI644403		Diabetic care assessment	385803003	1479995011		32	unspecified
+6444051000006119	6175	^ESCTDI644405		Diabetic care	385804009	1479996012		31	unspecified
+6444071000006112	13565	^ESCTDI644407		Diabetic care education	385805005	1479997015		17	unspecified
+6444101000006119	5	^ESCTDI644410		Diabetic care management	385806006	1479998013		31	unspecified
+646031000000112	46186	66Ap	66Ap.00	Insulin treatment initiated	345041000000101	646031000000112		1	unspecified
+6515171000006112	3184	^ESCTNO651517		Nonproliferative diabetic retinopathy	390834004	2643005014		32	unspecified
+6515201000006111	83	^ESCTNP651520		NPDR - Non proliferative diabetic retinopathy	390834004	2579521014		32	unspecified
+6515211000006114	1240	^ESCTBD651521		BDR - Background diabetic retinopathy	390834004	2621399015		32	unspecified
+6515391000006110	1572	^ESCTON651539		On examination - no right diabetic retinopathy	390850007	2621470014		27	unspecified
+6515431000006116	1552	^ESCTON651543		On examination - no left diabetic retinopathy	390853009	2621471013		27	unspecified
+6515451000006111	3	^ESCTON651545		On examination - diabetic maculopathy present both eyes	390854003	2621472018		27	unspecified
+6515471000006118	123	^ESCTON651547		On examination - diabetic maculopathy absent both eyes	390855002	2621473011		27	unspecified
+6516331000006118	756	^ESCTDN651633		DNA - Did not attend diabetic clinic	390922008	1484954015		37	unspecified
+6546241000006111	49	^ESCTON654624		On examination - Right diabetic foot at low risk	394671009	2621543017		27	unspecified
+6546261000006110	16	^ESCTON654626		On examination - Right diabetic foot at high risk	394672002	2621544011		27	unspecified
+6546281000006117	3	^ESCTON654628		On examination - Right diabetic foot - ulcerated	394673007	2621545012		27	unspecified
+6546301000006118	1	^ESCTON654630		On examination - Left diabetic foot - ulcerated	394674001	2621551019		27	unspecified
+6546321000006111	40	^ESCTON654632		On examination - Left diabetic foot at low risk	394675000	2621552014		27	unspecified
+6546341000006116	15	^ESCTON654634		On examination - Left diabetic foot at high risk	394676004	2621553016		27	unspecified
+6546411000006113	21	^ESCTON654641		On examination - Left diabetic foot at moderate risk	394681008	2621559017		27	unspecified
+6546431000006119	18	^ESCTON654643		On examination - Right diabetic foot at moderate risk	394682001	2621560010		27	unspecified
+65526011	848	F3813-1	F381311	Diabetic amyotrophy	39058009	65526011		32	unspecified
+6611521000006112	34	^ESCTDI661152		Diabetes self-monitoring health education	398773005	2576254011		31	unspecified
+6612501000006110	66	^ESCTDI661250		Diabetic foot at risk	398819009	1778315019		31	unspecified
+6613341000006113	982	^ESCTDI661334		Diabetic monitoring - injection sites abnormal	398871001	1778359011		31	unspecified
+6615341000006112	16869	^ESCTDI661534		Diabetic monitoring - injection sites normal	398985007	1778453011		31	unspecified
+6618061000006116	2	^ESCTBR661806		Bronze diabetes	399144008	1778601012		32	other/unspec genetic inc syndromic
+6630481000006114	1	^ESCTPR663048		Proliferative diabetic retinopathy - high risk with no macular oedema	399862001	1773460015		31	unspecified
+6630561000006115	611	^ESCTDI663056		Diabetic macular oedema not clinically significant	399864000	1773462011		31	unspecified
+6630571000006110	18	^ESCTDI663057		Diabetic macular edema not clinically significant	399864000	1774748012		31	unspecified
+6630581000006113	59	^ESCTVE663058		Very severe proliferative diabetic retinopathy	399865004	1779161016		31	unspecified
+6630591000006111	10	^ESCTDI663059		Diabetic retinal venous beading	399866003	1779162011		32	unspecified
+6630631000006111	3	^ESCTDI663063		Diabetic intraretinal microvascular anomaly	399868002	2616286019		31	unspecified
+6630641000006118	2	^ESCTHI663064		High risk proliferative diabetic retinopathy not amenable to photocoagulation	399869005	1779165013		31	unspecified
+6630661000006119	1	^ESCTNO663066		Non-high-risk proliferative diabetic retinopathy with no macular oedema	399870006	1773463018		31	unspecified
+6630671000006114	1	^ESCTNO663067		Non-high-risk proliferative diabetic retinopathy with no macular edema	399870006	1774749016		31	unspecified
+6630701000006110	27	^ESCTVI663070		Visually threatening diabetic retinopathy	399871005	1779166014		32	unspecified
+6630721000006117	2	^ESCTSE663072		Severe nonproliferative diabetic retinopathy with clinically significant macular oedema	399872003	1773464012		31	unspecified
+6630751000006114	4	^ESCTSE663075		Severe nonproliferative diabetic retinopathy with no macular oedema	399873008	1773465013		31	unspecified
+6630801000006119	2	^ESCTPR663080		Proliferative diabetic retinopathy - high risk with clinically significant macular edema	399874002	1774752012		31	unspecified
+6630821000006112	1	^ESCTNO663082		Non-high-risk proliferative diabetic retinopathy with clinically significant macular oedema	399875001	1773467017		31	unspecified
+6630851000006115	15	^ESCTVE663085		Very severe nonproliferative diabetic retinopathy	399876000	1779167017		31	unspecified
+6670981000006118	20	^ESCTDI667098		Diabetic wet gangrene of the foot	402864004	1781954013		31	unspecified
+6718121000006115	85	^ESCTDI671812		Diabetes type	405751000	2157527011		31	unspecified
+674961000006118	481	C1074	C107400	Peripheral circulatory disorder associated with type 2 diabetes mellitus	422166005	2623039019		32	type 2
+6761781000006114	356	^ESCTON676178		On examination - right eye background diabetic retinopathy	408409007	2621799017		27	unspecified
+6761801000006113	495	^ESCTON676180		On examination - left eye background diabetic retinopathy	408410002	2621800018		27	unspecified
+6761821000006115	27	^ESCTON676182		On examination - right eye preproliferative diabetic retinopathy	408411003	2621610013		27	unspecified
+6761841000006110	22	^ESCTON676184		On examination - left eye preproliferative diabetic retinopathy	408412005	2621611012		27	unspecified
+6761861000006114	8	^ESCTON676186		On examination - right eye proliferative diabetic retinopathy	408413000	2621612017		27	unspecified
+6761881000006116	10	^ESCTON676188		On examination - left eye proliferative diabetic retinopathy	408414006	2621613010		27	unspecified
+6837961000006116	36	^ESCTPA683796		Panretinal photocoagulation for diabetes	413180006	2478684010		32	unspecified
+6843971000006117	1017	^ESCTAT684397		Attended diabetes structured education program	413597006	2533101018		37	unspecified
+6866541000006117	35	^ESCTON686654		On examination - left eye stable treated proliferative diabetic retinopathy	414894003	2621811014		27	unspecified
+6866781000006116	2	^ESCTON686678		On examination - right chronic diabetic foot ulcer	414906009	2621798013		27	unspecified
+6866901000006111	25	^ESCTON686690		On examination - right eye stable treated proliferative diabetic retinopathy	414910007	2621810010		27	unspecified
+6872991000006113	92	^ESCTRE687299		Referral to diabetes structured education program	415270003	2533109016		40	unspecified
+6888611000006119	1	^ESCTDI688861		Diabetic record status	416193009	2548694015		31	unspecified
+692951000000111	914994	66Aq	66Aq.00	Diabetic foot screen	367011000000100	692951000000111		1	unspecified
+6931861000006110	47	^ESCTIN693186		Infection of foot associated with diabetes	419100001	2576753016		32	unspecified
+6951081000006112	3	^ESCTKE695108		Ketoacidosis in type I diabetes mellitus	420270002	2618216015		32	type 1
+6951091000006110	5	^ESCTDI695109		Diabetes type 1 with ketoacidosis	420270002	3035606019		32	type 1
+6953861000006110	41158	^ESCTDI695386		Diabetic ketoacidosis	420422005	2616611010		32	unspecified
+6953871000006115	11	^ESCTKE695387		Ketoacidosis in diabetes mellitus	420422005	2622192019		32	unspecified
+6953891000006119	14	^ESCTDI695389		Diabetic acidosis	420422005	2622194018		32	unspecified
+6953901000006115	1807	^ESCTDK695390		DKA - diabetic ketoacidosis	420422005	3303994013		32	unspecified
+6954991000006112	1	^ESCTEX695499		Exudative maculopathy associated with type I diabetes mellitus	420486006	2618236019		32	type 1
+6959811000006110	3	^ESCTDI695981		Diabetes type 2 with cataract	420756003	3035281015		32	type 2
+6960441000006112	1	^ESCTDI696044		Diabetes type 1 with retinopathy	420789003	3035448018		32	type 1
+6961901000006111	4	^ESCTDI696190		Disorder associated with type I diabetes mellitus	420868002	2618215016		32	type 1
+6965561000006116	1	^ESCTKE696556		Ketoacidotic coma in type I diabetes mellitus	421075007	2618217012		32	type 1
+6969921000006119	4	^ESCTNE696992		Neurologic disorder associated with type II diabetes mellitus	421326000	2618196010		32	type 2
+6969931000006116	6	^ESCTDI696993		Diabetes type 2 with neurological disorder	421326000	3035455016		32	type 2
+6977421000006110	14	^ESCTKE697742		Ketoacidosis in type II diabetes mellitus	421750000	2618220016		32	type 2
+6977431000006113	1	^ESCTDI697743		Diabetes type 2 with ketoacidosis	421750000	3035594017		32	type 2
+6977971000006119	10	^ESCTEX697797		Exudative maculopathy associated with type II diabetes mellitus	421779007	2618237011		32	type 2
+6982511000006110	7	^ESCTDI698251		Diabetic retinopathy associated with type II diabetes mellitus	422034002	2618241010		32	type 2
+6982521000006119	123	^ESCTDI698252		Diabetes type 2 with retinopathy	422034002	3035295017		32	type 2
+6985411000006117	25	^ESCTDI698541		Diabetic skin ulcer	422183001	2618214017		32	unspecified
+7032031000006112	124	^ESCTDI703203		Diabetic peripheral neuropathy	424736006	2645902011		31	unspecified
+7065531000006115	15	^ESCTLA706553		Latent autoimmune diabetes mellitus in adult (LADA)	426875007	2674066012		32	unspecified
+7066051000006114	1	^ESCTDI706605		Diabetes type 1 with small vessel disease	426907004	3035523018		31	type 1
+7068831000006114	395	^ESCTDI706883		Diabetes mellitus due to cystic fibrosis	427089005	2675251010		32	other/unspec genetic inc syndromic
+7069481000006115	1	^ESCTSM706948		Small vessel disease due to type 2 diabetes mellitus	427134009	2674133011		31	type 2
+7081131000006113	1	^ESCTDI708113		Diabetic ophthalmoplegia	427943001	2692270018		31	unspecified
+7086001000006113	4073	^ESCTDI708600		Dietary education for type 2 diabetes mellitus	428274007	2967784013		32	type 2
+7086021000006115	3178	^ESCTDI708602		Dietary advice for type II diabetes	428274007	1642521000000119		32	type 2
+7098211000006116	1513	^ESCTDI709821		Dietary education for type 1 diabetes mellitus	429094000	2967892010		32	type 1
+7107831000006117	3034	^ESCTDI710783		Diabetic education completed	429729007	2695296013		17	unspecified
+719471000006119	1	C10AW	C10AW00	Malnutrit-related diabetes mellitus with unspec complics	190411003	292611019		32	malnutrition
+719481000006116	1	C10A3	C10A300	Malnutrit-related diabetes mellitus wth ophthalmic complicat	421256007	2618239014		32	malnutrition
+719531000006118	244	C10A	C10A.00	Malnutrition related diabetes mellitus	75524006	125439011		32	malnutrition
+719541000006111	4	C10A0	C10A000	Malnutrition-related diabetes mellitus with coma	420996007	2618229015		32	malnutrition
+719561000006110	3	C10A6	C10A600	Malnutrition-related diabetes mellitus with multiple comps	190411003	292611019		32	malnutrition
+719571000006115	5	C10A2	C10A200	Malnutrition-related diabetes mellitus with renal complications	190407009	292607013		32	malnutrition
+719591000006119	2	C10A4	C10A400	Malnutrition-related diabetes mellitus wth neuro complicatns	420683009	2618198011		32	malnutrition
+719601000006110	5	C10A5	C10A500	Malnutrition-related diabetes mellitus with peripheral circulatory complications	190410002	292610018		32	malnutrition
+720311000006119	1	C10AX	C10AX00	Malnutrit-relat diabetes mellitus with other spec comps	190411003	292611019		32	malnutrition
+7217901000006119	93	^ESCTDI721790		Dietary education for gestational diabetes	439051004	2795283011		31	gestational
+7233161000006117	16	^ESCTIN723316		Initiation of first time insulin therapy	440163003	2793438011		32	unspecified
+7253221000006117	2	^ESCTHY725322		Hyperglycemic crisis in diabetes mellitus	441656006	2817480016		32	unspecified
+72651000006114	144	C1084	C108400	Unstable insulin dependent diabetes mellitus	11530004	19931010		27	unspecified
+72711000006117	40	C1084-2	C108412	Unstable type 1 diabetes mellitus	290002008	429971019		32	type 1
+72721000006113	18	C1084-1	C108411	Unstable type I diabetes mellitus	290002008	429970018		32	type 1
+7281511000006118	40	^ESCTTY728151		Type 2 diabetes mellitus uncontrolled	443694000	3321322011		32	type 2
+7287611000006113	700	^ESCTTY728761		Type 1 diabetes mellitus uncontrolled	444073006	2967763015		32	type 1
+7287621000006117	3	^ESCTTY728762		Type I diabetes mellitus uncontrolled	444073006	2842075017		32	type 1
+7287641000006112	1	^ESCTTY728764		Type 1 diabetes mellitus well controlled	444074000	2967776014		31	type 1
+7288191000006110	5	^ESCTTY728819		Type 2 diabetes mellitus well controlled	444110003	2967750014		31	type 2
+7299971000006116	138	^ESCTDI729997		Diabetes mellitus service	444913002	2870732018		31	unspecified
+7303881000006118	4	^ESCTMA730388		Macroalbuminuric diabetic nephropathy	445170001	2871571011		32	unspecified
+730411000000115	8048	9m00	9m00.00	Eligible for diabetic retinopathy screening	371781000000108	730411000000115		37	unspecified
+730471000000113	3597	9m01	9m01.00	Ineligible for diabetic retinopathy screening	371811000000106	730471000000113		37	unspecified
+7305321000006114	19	^ESCTPO730532		Posttransplant diabetes mellitus	445260006	2871987018		31	unspecified
+7306751000006110	14	^ESCTBR730675		Brittle type 2 diabetes mellitus	445353002	2967761018		27	type 2
+7306781000006119	1	^ESCTUN730678		Unstable type II diabetes mellitus	445353002	2870782011		27	type 2
+7318191000006115	87	^ESCTCH731819		Change in insulin dose	446047003	2882767018		31	unspecified
+73294018	9949	F4640	F464000	Diabetic cataract	43959009	73294018		32	unspecified
+733161000000116	200	2BBr	2BBr.00	Impaired vision due to diabetic retinopathy	373041000000101	733161000000116		27	unspecified
+73466011	163216	C1001-2	C100112	Non-insulin dependent diabetes mellitus	44054006	493773010		32	unspecified
+736731000000118	1514	9m05	9m05.00	Excluded from diabetic retinopathy screening as moved away	374601000000107	736731000000118		37	unspecified
+736791000000117	5666	9m06	9m06.00	Excluded from diabetic retinopathy screening as deceased	374631000000101	736791000000117		37	unspecified
+736911000000111	253	9m08	9m08.00	Excluded from diabetic retinopathy screening as blind	374691000000100	736911000000111		37	unspecified
+737031000000119	165544	9m0A	9m0A.00	Diabetic retinopathy screening declined	839811000000106	2179381000000118		37	unspecified
+737331000000117	15590	9m04	9m04.00	Excluded from diabetic retinopathy screening	374901000000103	737331000000117		37	unspecified
+746791000006111	508	C108A	C108A00	Insulin-dependent diabetes without complication	111552007	178796018		32	unspecified
+7480661000006114	12504	^ESCTHO748066		H/O diabetes mellitus type 2	472969004	2242161000000116		31	type 2
+7480691000006118	2391	^ESCTHO748069		H/O diabetes mellitus type 1	472970003	2242181000000113		31	type 1
+7480721000006111	12947	^ESCTHO748072		H/O gestational diabetes mellitus	472971004	2242171000000111		32	gestational history
+7480741000006116	8	^ESCTHI748074		History of maturity onset diabetes mellitus in young	472972006	2955489017		31	unspecified
+7483291000006111	5417	^ESCTSY748329		Symptomatic diabetic peripheral neuropathy absent	473134007	2955832013		31	unspecified
+7484011000006111	1	^ESCTDI748401		Discussion about diabetic ketoacidosis in pregnancy	473180009	2956116017		31	pregnancy
+7500191000006118	118	^ESCTMA750019		Maturity onset diabetes of the young, type 1	609562003	2967867012		32	mody
+7500201000006115	3	^ESCTMO750020		MODY1	609562003	2967828018		32	mody
+7500211000006117	93	^ESCTPR750021		Pre-existing diabetes mellitus in pregnancy	609563008	2967860014		32	unspecified
+7500251000006116	5	^ESCTPR750025		Pregnancy and type 1 diabetes mellitus	609566000	2967852013		31	type 1
+7500351000006110	3	^ESCTRE750035		Renal cysts and diabetes syndrome	609572000	3435009012		32	other/unspec genetic inc syndromic
+7500501000006118	4	^ESCTDI750050		Diabetes mellitus, transient neonatal 1	609579009	2967822017		32	other/unspec genetic inc syndromic
+7500521000006111	1	^ESCTDI750052		Diabetes mellitus, transient neonatal 2	609580007	2967886016		32	other/unspec genetic inc syndromic
+7507871000006114	19	^ESCTDI750787		Diabetes self management plan	698360004	2973971011		31	unspecified
+7565341000006118	8604	^ESCTDI756534		Diabetes clinic	702706001	3005741010		31	unspecified
+7567341000006113	192	^ESCTDI756734		Diabetes foot care clinic	702848001	3006333017		31	unspecified
+7567351000006110	932	^ESCTDI756735		Diabetes in pregnancy clinic	702849009	3006330019		31	pregnancy
+7567371000006117	7023	^ESCTDI756737		Diabetic retinopathy clinic	702850009	3006342012		31	unspecified
+7613941000006113	19	^ESCTDI761394		Diabetic glomerulosclerosis	707221002	3029228011		31	unspecified
+764191000006112	9055	2G510	2G51000	Foot abnormality - diabetes related	280137006	417658010		32	unspecified
+764201000006110	5456	2G5C	2G5C.00	Foot abnormality - diabetes related	280137006	417658010		32	unspecified
+7682141000006117	5	^ESCTDI768214		Diabetic ulcer care	711027007	3047149017		31	unspecified
+7700041000006112	6	^ESCTAS770004		Assessment of diabetic foot ulcer	713130008	3288148012		31	unspecified
+7704351000006117	4	^ESCTNE770435		Neovascular glaucoma due to diabetes mellitus	713457002	3289365017		31	unspecified
+7708051000006112	2	^ESCTGA770805		Gastroparesis due to diabetes mellitus type I	713702000	3297354019		32	type 1
+7708081000006116	13	^ESCTGA770808		Gastroparesis due to diabetes mellitus	713704004	3297389017		31	unspecified
+7708091000006118	6	^ESCTPO770809		Polyneuropathy due to type 1 diabetes mellitus	713705003	3297342019		32	type 1
+771331000006116	76	C108H	C108H00	Insulin dependent diabetes mellitus with arthropathy	39710007	1229552016		32	unspecified
+771341000006114	35	C108F	C108F00	Insulin dependent diabetes mellitus with diabetic cataract	43959009	73294018		32	unspecified
+771351000006111	27	C1086	C108600	Insulin dependent diabetes mellitus with gangrene	422275004	2616612015		32	unspecified
+771361000006113	262	C108E	C108E00	Insulin dependent diabetes mellitus with hypoglycaemic coma	237632004	356141011		32	unspecified
+771371000006118	10	C108B	C108B00	Insulin dependent diabetes mellitus with mononeuropathy	230577008	345492010		32	unspecified
+771381000006115	184	C1083	C108300	Insulin dependent diabetes mellitus with multiple complicatn	385041000000108	760111000000115		32	unspecified
+771391000006117	150	C108D	C108D00	Insulin dependent diabetes mellitus with nephropathy	127013003	301016		32	unspecified
+771401000006115	35	C108C	C108C00	Insulin dependent diabetes mellitus with polyneuropathy	49455004	82373015		32	unspecified
+771411000006117	367	C1087	C108700	Insulin dependent diabetes mellitus with retinopathy	4855003	9093013		32	unspecified
+771421000006113	80	C1085	C108500	Insulin dependent diabetes mellitus with ulcer	422183001	2623058011		32	unspecified
+771481000006112	64	C1082	C108200	Insulin-dependent diabetes mellitus with neurological comps	422088007	3688477014		32	unspecified
+771491000006110	199	C1081	C108100	Insulin-dependent diabetes mellitus with ophthalmic comps	25093002	3688467012		32	unspecified
+771501000006119	103	C1080	C108000	Insulin-dependent diabetes mellitus with renal complications	127013003	301016		32	unspecified
+772131000006111	31	C108J	C108J00	Insulin dependent diab mell with neuropathic arthropathy	201724008	309740011		32	unspecified
+772141000006118	6	C108G	C108G00	Insulin dependent diab mell with peripheral angiopathy	421895002	2618203015		32	unspecified
+772151000006116	1056	C1089	C108900	Insulin dependent diabetes maturity onset	73211009	121589010		32	unspecified
+772161000006119	97169	C1000-1	C100011	Insulin dependent diabetes mellitus	73211009	121589010		32	unspecified
+772171000006114	132685	C108	C108.00	Insulin dependent diabetes mellitus	73211009	121589010		32	unspecified
+772181000006112	941	C1088	C108800	Insulin dependent diabetes mellitus - poor control	268519009	401531012		27	unspecified
+7728071000006113	56	^ESCTRE772807		Referral to diabetes service	715159005	3301740017		31	unspecified
+7741101000006113	7	^ESCTDI774110		Diabetic embryopathy	716020005	3304454013		32	unspecified
+777231000006119	187415	66AA-1	66AA.11	Diabetic monitoring - injection sites	268517006	401527018		1	unspecified
+77727018	83502	C10E-2	C10E.12	Insulin dependent diabetes mellitus	73211009	121589010		32	unspecified
+7804621000006115	2	^ESCTNO780462		Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) program	720504004	3321059017		37	unspecified
+7811791000006112	9	^ESCTDE781179		DEND syndrome	721088003	3323446012		32	other/unspec genetic inc syndromic
+7811801000006113	2	^ESCTDE781180		Developmental delay, epilepsy, neonatal diabetes syndrome	721088003	3323445011		32	other/unspec genetic inc syndromic
+7812121000006117	3807	^ESCTDI781212		Diabetic retinopathy of eye not detected	721103006	3323522015		31	unspecified
+7812131000006119	121	^ESCTDI781213		Diabetic retinopathy absent	721103006	3323523013		31	unspecified
+7828041000006115	1957	^ESCTDI782804		Diabetic retinal eye exam	722161008	3330943015		31	unspecified
+7851731000006116	80	^ESCTDI785173		Diabetic mastopathy	724136006	3498178019		32	unspecified
+7854021000006118	7	^ESCTXL785402		X-linked immune dysregulation, polyendocrinopathy, enteropathy syndrome	724276006	3433491012		32	other/unspec genetic inc syndromic
+7861571000006116	4	^ESCTRA786157		Radiculoplexoneuropathy due to diabetes mellitus	724810001	3444986010		32	unspecified
+7861581000006118	40	^ESCTDI786158		Diabetic radiculoplexus neuropathy	724810001	3444987018		32	unspecified
+7863801000006113	2	^ESCTLU786380		Lumbosacral plexopathy co-occurrent and due to diabetes mellitus	724997001	3436917010		32	unspecified
+7863811000006111	17	^ESCTLU786381		Lumbosacral plexopathy with diabetes mellitus	724997001	3436918017		32	unspecified
+787101000006114	159	C1073	C107300	IDDM with peripheral circulatory disorder	421895002	2618203015		32	unspecified
+787111000006112	31708	C108-1	C108.11	IDDM-Insulin dependent diabetes mellitus	73211009	121589010		32	unspecified
+7881921000006114	4	^ESCTPR788192		Primrose syndrome	726709001	3451973010		32	other/unspec genetic inc syndromic
+7963261000006115	13	^ESCTWO796326		Wolfram-like syndrome	734022008	3481937011		31	other/unspec genetic inc syndromic
+7966561000006111	146	^ESCTMI796656		Mixed hyperlipidaemia due to type 2 diabetes mellitus	701000119103	3014148013		32	type 2
+7966611000006114	39	^ESCTCH796661		Chronic kidney disease stage 5 due to type 2 diabetes mellitus	711000119100	3013043013		32	type 2
+7966641000006113	55	^ESCTCH796664		Chronic kidney disease stage 4 due to type 2 diabetes mellitus	721000119107	3013100015		32	type 2
+7966691000006116	66	^ESCTCH796669		Chronic kidney disease stage 3 due to type 2 diabetes mellitus	731000119105	3013103018		32	type 2
+7966761000006115	31	^ESCTCH796676		Chronic kidney disease stage 2 due to type 2 diabetes mellitus	741000119101	3013063018		32	type 2
+7966791000006111	35	^ESCTCH796679		Chronic kidney disease stage 1 due to type 2 diabetes mellitus	751000119104	3013056018		32	type 2
+7966931000006114	13	^ESCTAN796693		Angina associated with type 2 diabetes mellitus	791000119109	2967773018		32	type 2
+7968751000006116	341	^ESCTDI796875		Diabetes mellitus type 2 without retinopathy	1481000119100	3013049012		32	type 2
+7968821000006118	2	^ESCTDI796882		Diabetic vitreous haemorrhage associated with type II diabetes mellitus	1491000119102	2967546017		31	type 2
+7968831000006115	1	^ESCTDI796883		Diabetic vitreous hemorrhage associated with type II diabetes mellitus	1491000119102	2967698011		31	type 2
+7968881000006119	53	^ESCTPR796888		Proliferative diabetic retinopathy due to type 2 diabetes mellitus	1501000119109	3013241019		31	type 2
+7968951000006118	1	^ESCTDI796895		Diabetic peripheral neuropathy associated with type II diabetes mellitus	1511000119107	2967619016		31	type 2
+7969001000006112	31	^ESCTFO796900		Foot ulcer due to type 2 diabetes mellitus	1521000119100	3013067017		31	type 2
+7969151000006110	14	^ESCTNO796915		Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus	1551000119108	3013461011		31	type 2
+7969211000006115	18	^ESCTMI796921		Mixed hyperlipidaemia due to type 1 diabetes mellitus	1571000119104	3013050012		32	type 1
+7979721000006113	4	^ESCTDI797972		Diabetic foot exam not done	4551000175107	3305774013		31	unspecified
+7979841000006113	66	^ESCTDI797984		Diabetic retinal eye exam not done	4581000175103	3330941018		31	unspecified
+8006221000006115	270	^ESCTMI800622		Microalbuminuria due to type 1 diabetes mellitus	18521000119106	3013076012		32	type 1
+8012061000006117	1535	^ESCTTY801206		Type 2 diabetic on insulin	24471000000103	2201341000000118		31	type 2
+8012071000006112	1	^ESCTTY801207		Type II diabetes on insulin	24471000000103	1667901000000114		31	type 2
+8012081000006110	783	^ESCTTY801208		Type 2 diabetic on diet only	24481000000101	2201281000000117		1	type 2
+8012091000006113	1432	^ESCTTY801209		Type II diabetes on diet only	24481000000101	1667911000000111		1	type 2
+8014501000006115	3	^ESCTDI801450		Diabetes mellitus type 1 without retinopathy	31321000119102	3013981017		31	type 1
+8016601000006114	275	^ESCTPO801660		Postpartum gestational diabetes mellitus	40791000119105	3005715016		32	gestational
+8016611000006112	41	^ESCTGE801661		Gestational diabetes, delivered	40791000119105	3005798015		32	gestational
+8016621000006116	580	^ESCTGE801662		Gestational diabetes mellitus complicating pregnancy	40801000119106	3301670017		32	gestational
+8016631000006118	18	^ESCTGE801663		Gestational DM antepartum	40801000119106	3289671017		32	gestational
+801901000006119	92478	L1808-1	L180811	Gestational diabetes mellitus	11687002	20191016		32	gestational
+8019521000006112	3	^ESCTNO801952		Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus	60961000119107	3013051011		31	type 1
+8019531000006110	33	^ESCTPR801953		Proliferative retinopathy due to type 1 diabetes mellitus	60971000119101	3013129018		31	type 1
+8022441000006118	2	^ESCTNE802244		Neuropathic arthropathy due to type 1 diabetes mellitus	71771000119100	3012218016		32	type 1
+8022481000006112	1	^ESCTPE802248		Peripheral neuropathy due to type 1 diabetes mellitus	71791000119104	3289695015		31	type 1
+8024771000006113	10	^ESCTRU802477		Rubeosis iridis due to type 1 diabetes mellitus	82581000119105	3011256017		32	type 1
+8026031000006115	1	^ESCTHE802603		Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus	87451000119102	3013150010		31	type 2
+8026041000006113	2	^ESCTFO802604		Forefoot ulcer due to type 2 diabetes mellitus	87461000119100	3013415011		31	type 2
+8026061000006112	1	^ESCTHE802606		Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus	87481000119109	3013126013		31	type 1
+8027391000006115	17	^ESCTCH802739		Chronic kidney disease stage 1 due to type 1 diabetes mellitus	90721000119101	3010567012		32	type 1
+8027411000006115	8	^ESCTCH802741		Chronic kidney disease stage 2 due to type 1 diabetes mellitus	90731000119103	3010552013		32	type 1
+8027451000006119	7	^ESCTCH802745		Chronic kidney disease stage 3 due to type 1 diabetes mellitus	90741000119107	3013167015		32	type 1
+8027471000006112	24	^ESCTCH802747		Chronic kidney disease stage 4 due to type 1 diabetes mellitus	90751000119109	3013465019		32	type 1
+8027491000006113	10	^ESCTCH802749		Chronic kidney disease stage 5 due to type 1 diabetes mellitus	90761000119106	3013545012		32	type 1
+8027521000006110	4625	^ESCTMI802752		Microalbuminuria due to type 2 diabetes mellitus	90781000119102	3013121015		32	type 2
+8030601000006119	13	^ESCTMA803060		Macular oedema and retinopathy due to type 2 diabetes mellitus	97331000119101	3013603019		31	type 2
+8034861000006113	4	^ESCTLE803486		Leg ulcer due to type 2 diabetes mellitus	110171000119107	3013967019		31	type 2
+8035211000006110	1	^ESCTDY803521		Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus	111231000119109	3011558015		31	type 2
+8037841000006115	3	^ESCTHY803784		Hypoglycaemia due to type 2 diabetes mellitus	120731000119103	3011938013		31	type 2
+8040331000006118	22	^ESCTHY804033		Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus	127991000119101	3013758011		32	type 2
+8043301000006116	532	^ESCTHY804330		Hyperlipidaemia due to type 2 diabetes mellitus	137931000119102	3013435012		32	type 2
+8043321000006114	86	^ESCTHY804332		Hyperlipidaemia due to type 1 diabetes mellitus	137941000119106	3013242014		32	type 1
+8043621000006117	43	^ESCTMI804362		Mild nonproliferative retinopathy due to type 2 diabetes mellitus	138911000119106	3013173019		31	type 2
+8043631000006119	9	^ESCTMO804363		Moderate nonproliferative retinopathy due to type 2 diabetes mellitus	138921000119104	3013599019		31	type 2
+8044011000006117	1	^ESCTHY804401		Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus	140101000119109	3013074010		32	type 2
+8044041000006118	4	^ESCTHY804404		Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus	140111000119107	3014010018		32	type 2
+8044061000006119	5	^ESCTHY804406		Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus	140121000119100	3013055019		32	type 2
+8044171000006110	4	^ESCTNE804417		Neuropathic toe ulcer due to type 2 diabetes mellitus	140381000119104	3013650011		32	type 2
+8044181000006113	9	^ESCTUL804418		Ulcer of toe due to type 2 diabetes mellitus	140391000119101	3013112016		31	type 2
+8044221000006116	4	^ESCTIS804422		Ischaemic foot ulcer due to type 2 diabetes mellitus	140521000119107	3013655018		31	type 2
+8048421000006113	785	^ESCTPR804842		Proteinuria due to type 2 diabetes mellitus	157141000119108	3013070018		32	type 2
+8050101000006114	5	^ESCTTY805010		Type 2 diabetes mellitus controlled by diet	164971000119101	3013433017		31	type 2
+8060931000006110	61523	^ESCTNO806093		No diabetic retinopathy	201141000000103	305821000000110		27	unspecified
+8064411000006119	9735	^ESCTDI806441		Diabetic with adequate control	204061000000100	1749211000000110		31	unspecified
+8077141000006113	38	^ESCTPR807714		Proteinuria due to type 1 diabetes mellitus	243421000119104	3013116018		32	type 1
+8082941000006118	964	^ESCTAT808294		Attended DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme	276651000000107	1676151000000117		37	unspecified
+8082951000006116	413	^ESCTAT808295		Attended diabetes education and self management for ongoing and newly diagnosed structured programme	276651000000107	474071000000116		37	unspecified
+8084961000006111	15	^ESCTDI808496		Diabetes type II review	279321000000104	1667931000000115		1	type 2
+8097461000006110	8	^ESCTIN809746		Information sharing consent status for national screening programme for diabetic retinopathy	305401000000104	543011000000117		31	unspecified
+8098221000006116	659	^ESCTAT809822		Attended expert patient education versus routine treatment diabetes structured education programme	306401000000106	545911000000117		37	unspecified
+8098241000006111	82	^ESCTAT809824		Attended XPERT (expert patient education versus routine treatment) diabetes structured education programme	306401000000106	1678351000000116		37	unspecified
+8098261000006110	514	^ESCTAT809826		Attended dose adjustment for normal eating diabetes structured education programme	306441000000109	546021000000116		37	unspecified
+8098281000006117	13	^ESCTAT809828		Attended DAFNE (dose adjustment for normal eating) diabetes structured education programme	306441000000109	1677261000000111		37	unspecified
+8098291000006119	541	^ESCTDO809829		Dose adjustment for normal eating diabetes structured education programme completed	306471000000103	546101000000114		37	unspecified
+8098311000006115	40	^ESCTDA809831		DAFNE (dose adjustment for normal eating) diabetes structured education programme completed	306471000000103	1678361000000118		37	unspecified
+8098321000006111	1760	^ESCTDI809832		Diabetes education and self management for ongoing and newly diagnosed structured programme completed	306501000000105	546171000000118		37	unspecified
+8098341000006116	408	^ESCTDE809834		DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme completed	306501000000105	1678371000000113		37	unspecified
+8098351000006119	607	^ESCTEX809835		Expert patient education versus routine treatment diabetes structured education programme completed	306531000000104	546241000000119		37	unspecified
+8098371000006112	61	^ESCTXP809837		XPERT (expert patient education versus routine treatment) diabetes structured education programme completed	306531000000104	1678381000000110		37	unspecified
+8098861000006114	3114	^ESCTRE809886		Referral to dose adjustment for normal eating diabetes structured education programme	306701000000102	546821000000113		40	unspecified
+8098881000006116	10	^ESCTRE809888		Referral to DAFNE (dose adjustment for normal eating) diabetes structured education programme	306701000000102	1678391000000112		40	unspecified
+8098931000006110	62467	^ESCTRE809893		Referral to diabetes education and self management for ongoing and newly diagnosed diabetes structured programme	306741000000104	546911000000114		40	unspecified
+8098951000006115	234	^ESCTRE809895		Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) diabetes structured programme	306741000000104	1678421000000118		40	unspecified
+8098961000006118	9973	^ESCTRE809896		Referral to expert patient education versus routine treatment diabetes structured education programme	306771000000105	546981000000119		40	unspecified
+8098981000006111	33	^ESCTRE809898		Referral to XPERT (expert patient education versus routine treatment) diabetes structured education programme	306771000000105	1678451000000111		40	unspecified
+8099131000006117	20	^ESCTDI809913		Did not complete dose adjustment for normal eating diabetes structured education programme	306961000000101	547391000000119		32	unspecified
+8099151000006112	3	^ESCTDI809915		Did not complete DAFNE (dose adjustment for normal eating) diabetes structured education programme	306961000000101	1678521000000117		32	unspecified
+8099161000006114	316	^ESCTDI809916		Did not complete diabetes education and self management for ongoing and newly diagnosed structured programme	306991000000107	547461000000117		32	unspecified
+8099181000006116	86	^ESCTDI809918		Did not complete DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme	306991000000107	1678531000000115		32	unspecified
+8099221000006113	623	^ESCTDI809922		Did not complete expert patient education versus routine treatment diabetes structured education programme	307021000000105	547531000000111		32	unspecified
+8099281000006112	115	^ESCTDI809928		Did not attend dose adjustment for normal eating diabetes structured education programme	307141000000102	547951000000111		37	unspecified
+8099301000006111	4	^ESCTDI809930		Did not attend DAFNE (dose adjustment for normal eating) diabetes structured education programme	307141000000102	1677601000000114		37	unspecified
+8099311000006114	1701	^ESCTDI809931		Did not attend diabetes education and self management for ongoing and newly diagnosed structured programme	307171000000108	548011000000114		37	unspecified
+8099331000006115	508	^ESCTDI809933		Did not attend DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme	307171000000108	1677761000000115		37	unspecified
+8099341000006113	570	^ESCTDI809934		Did not attend expert patient education versus routine treatment diabetes structured education programme	307201000000109	548071000000116		37	unspecified
+8099361000006112	106	^ESCTDI809936		Did not attend XPERT (expert patient education versus routine treatment) diabetes structured education programme	307201000000109	1677771000000110		37	unspecified
+8099881000006113	342	^ESCTDI809988		Diabetes structured education programme	308421000000103	554031000000113		31	unspecified
+8107641000006119	1	^ESCTAD810764		Advised to contact diabetic liaison nurse	335951000000100	623211000000116		31	unspecified
+8110861000006117	14	^ESCTRE811086		Referral to children's diabetes nurse specialist	344061000000104	642321000000111		31	unspecified
+8118151000006112	3	^ESCTHY811815		Hyperosmolarity co-occurrent and due to drug induced diabetes mellitus	367261000119100	8118151000006112		5	secondary
+8119331000006114	13	^ESCTHY811933		Hyperglycaemia due to type 1 diabetes mellitus	367991000119101	3285563015		31	type 1
+8119451000006114	7	^ESCTHY811945		Hyperglycaemia due to type 2 diabetes mellitus	368051000119109	3285573018		31	type 2
+8120381000006111	6	^ESCTNE812038		Neuropathy due to type 2 diabetes mellitus	368581000119106	3286868011		31	type 2
+8120401000006111	3	^ESCTHY812040		Hyperosmolar coma due to secondary diabetes mellitus	368601000119102	3288475010		32	secondary
+8120431000006115	2945	^ESCTMI812043		Mild nonproliferative retinopathy due to secondary diabetes mellitus	368711000119106	3289754012		32	secondary
+817471000006110	38601	42c0	42c0.00	Haemoglobin A1c less than 7% indicating good diabetic control	165679005	2770693019		11	unspecified
+817481000006113	15190	42c2	42c2.00	Haemoglobin A1c greater than 10% indicating poor diabetic control	165681007	2767754019		11	unspecified
+817491000006111	50069	42c1	42c1.00	Haemoglobin A1c between 7%-10% indicating borderline diabetic control	165680008	2768430011		11	unspecified
+8195201000006113	42	^ESCTHI819520		History of diabetic complication	519141000000107	1159171000000119		31	unspecified
+8232101000006117	1560	^ESCTRE823210		Referral to type I diabetes structured education programme	754461000000105	1659881000000114		40	type 1
+8236711000006119	97	^ESCTDN823671		DNA (did not attend) diabetes foot screening	762811000000109	1690661000000115		37	unspecified
+82373015	2624	F372-1	F372.11	Diabetic polyneuropathy	49455004	82373015		32	unspecified
+8240001000006116	8813	^ESCTME824000		Mean total daily insulin dose	769581000000107	1717411000000110		31	unspecified
+8240511000006110	14	^ESCTHO824051		H/O: secondary diabetes mellitus	771571000000102	1721671000000116		31	secondary
+8241041000006113	269	^ESCTSY824104		Symptomatic diabetic peripheral neuropathy	773001000000103	1726111000000110		31	unspecified
+8241691000006114	18	^ESCTHO824169		H/O: diabetic nephropathy	774521000000103	1730211000000119		31	unspecified
+8242331000006114	344	^ESCTDI824233		Diabetic retinopathy detected by national screening programme	775841000000109	1733071000000112		31	unspecified
+8242811000006111	10	^ESCTNO824281		No H/O: diabetic nephropathy	777591000000108	1738261000000119		31	unspecified
+8242821000006115	102	^ESCTNO824282		No diabetic autonomic neuropathy	777601000000102	1738281000000111		31	unspecified
+8243411000006117	5883	^ESCTRE824341		Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme declined	781161000000107	1748431000000112		32	unspecified
+8244671000006110	41	^ESCTHO824467		H/O diabetic ketoacidosis	783231000000106	1751421000000116		31	unspecified
+8259001000006114	17	^ESCTSE825900		Self management of diabetes	806961000000103	1804001000000113		31	unspecified
+8259591000006113	11523	^ESCTRE825959		Referral to diabetic clinic	809391000000101	2112481000000112		31	unspecified
+8264221000006117	30	^ESCTMA826422		Management of gestational diabetes mellitus	816261000000105	2127141000000115		31	gestational
+8267041000006114	136	^ESCTDI826704		Diabetes monitoring injection site check declined	819301000000105	2134281000000112		1	unspecified
+8267081000006115	1030	^ESCTDI826708		Diabetes monitoring injection site not checked	819331000000104	2134341000000111		1	unspecified
+8274621000006113	31	^ESCTPA827462		Paediatric diabetic medicine	828031000000104	2153021000000115		31	unspecified
+8275381000006118	5062	^ESCTEN827538		Endocrinology and diabetes	828901000000109	2154751000000112		31	unspecified
+8279271000006111	641	^ESCTPR827927		Provision of written information about diabetes	837801000000103	2174791000000119		31	unspecified
+8284551000006114	4	^ESCTAS828455		Assessment of diabetic ulcer of lower limb	843801000000106	2189361000000117		31	unspecified
+8284561000006111	1	^ESCTAS828456		Assessment of diabetic ulcer of lower leg	843811000000108	2189381000000114		31	unspecified
+8286801000006115	14093	^ESCTED828680		Education about diabetic neuropathy	846661000000104	2195521000000119		31	unspecified
+8286821000006113	744	^ESCTED828682		Education about diabetic nephropathy	846691000000105	2195581000000118		31	unspecified
+8286851000006116	1567	^ESCTED828685		Education about diabetic retinopathy	846721000000101	2195641000000113		31	unspecified
+8297051000006113	3410	^ESCTRE829705		Referral to DAFNE (dose adjustment for normal eating) diabetes structured education programme declined	860981000000106	2226651000000113		32	unspecified
+82979011	435	Q441	Q441.00	Neonatal diabetes mellitus	49817004	82979011		32	other/unspec genetic inc syndromic
+8313901000006110	23	^ESCTPA831390		Paediatric diabetic medicine service	893631000000106	2300411000000111		31	unspecified
+8352721000006117	248	^ESCTDI835272		Diabetic medicine service	963151000000104	2454011000000112		31	unspecified
+840951000006119	72957	C109J	C109J00	Insulin treated Type 2 diabetes mellitus	237599002	2967820013		32	type 2
+840971000006112	864	C10D	C10D.00	Diabetes mellitus autosomal dominant type II	237604008	356082013		32	mody
+841011000006112	3081	F4208	F420800	Severe nonproliferative diabetic retinopathy	312905005	1775725011		32	unspecified
+841351000006110	1649	C109J-2	C109J12	Insulin treated Type II diabetes mellitus	237599002	1223147012		32	type 2
+8413691000006118	1545	^ESCTXP841369		X-PERT (expert patient education versus routine treatment) First Steps diabetes self-management programme completed	1033281000000100	2609421000000115		37	unspecified
+84281000006115	40867	C108-2	C108.12	Type 1 diabetes mellitus	46635009	197984010		32	type 1
+8428501000006113	4	^ESCTSE842850		Seen in diabetes preconception counselling clinic	1054201000000109	2653211000000118		31	unspecified
+8428511000006111	26	^ESCTSE842851		Seen in community diabetes antenatal clinic	1054211000000106	2653231000000114		31	unspecified
+8428521000006115	1126	^ESCTSE842852		Seen in hospital diabetes antenatal clinic	1054221000000100	2653251000000119		31	unspecified
+84291000006117	912	C1088-2	C108812	Type 1 diabetes mellitus - poor control	444073006	2872487013		32	type 1
+84301000006116	82	C1089-2	C108912	Type 1 diabetes mellitus maturity onset	190372001	292553010		32	type 1
+84311000006118	12	C108H-2	C108H12	Type 1 diabetes mellitus with arthropathy	314893005	459292011		32	type 1
+84321000006114	16	C108F-2	C108F12	Type 1 diabetes mellitus with diabetic cataract	421920002	2618234016		32	type 1
+84331000006112	2	C1086-2	C108612	Type 1 diabetes mellitus with gangrene	420825003	2618207019		32	type 1
+84341000006119	28	C108E-2	C108E12	Type 1 diabetes mellitus with hypoglycaemic coma	314771006	459161015		32	type 1
+84361000006115	14	C1083-2	C108312	Type 1 diabetes mellitus with multiple complications	422228004	2618232017		32	type 1
+84371000006110	264	C108D-2	C108D12	Type 1 diabetes mellitus with nephropathy	421893009	2623054013		32	type 1
+84381000006113	21	C1082-2	C108212	Type 1 diabetes mellitus with neurological complications	421468001	2618197018		32	type 1
+84391000006111	3	C108J-2	C108J12	Type 1 diabetes mellitus with neuropathic arthropathy	71771000119100	3010513018		32	type 1
+8439941000006112	908578	^ESCTDI843994		Diabetes monitoring SMS (short message service) text message first invitation	1066911000000100	2679841000000117		37	unspecified
+8439961000006111	313106	^ESCTDI843996		Diabetes monitoring SMS (short message service) text message second invitation	1066921000000106	2679861000000116		37	unspecified
+8439971000006116	75920	^ESCTDI843997		Diabetes monitoring SMS (short message service) text message third invitation	1066931000000108	2679881000000113		37	unspecified
+84401000006113	84	C1081-2	C108112	Type 1 diabetes mellitus with ophthalmic complications	739681000	3537386015		32	type 1
+8440231000006115	8	^ESCTEA844023		Eating disorder co-occurrent with diabetes mellitus type 1	1067201000000106	2680481000000110		31	type 1
+84421000006115	14	C108C-2	C108C12	Type 1 diabetes mellitus with polyneuropathy	713705003	3297342019		32	type 1
+84431000006117	53	C1080-2	C108012	Type 1 diabetes mellitus with renal complications	421893009	2618211013		32	type 1
+84441000006110	54	C1087-2	C108712	Type 1 diabetes mellitus with retinopathy	420789003	3699407019		32	type 1
+84451000006112	31	C1085-2	C108512	Type 1 diabetes mellitus with ulcer	190368000	292540012		32	type 1
+84461000006114	13	C108A-2	C108A12	Type 1 diabetes mellitus without complication	313435000	457326014		32	type 1
+84471000006119	305835	C109-2	C109.12	Type 2 diabetes mellitus	44054006	197761014		32	type 2
+84481000006116	1547	C1097-2	C109712	Type 2 diabetes mellitus - poor control	443694000	2921019012		32	type 2
+84491000006118	16	C109G-2	C109G12	Type 2 diabetes mellitus with arthropathy	314903002	459310018		32	type 2
+84501000006114	114	C109E-2	C109E12	Type 2 diabetes mellitus with diabetic cataract	420756003	3688522015		32	type 2
+84511000006112	19	C1095-2	C109512	Type 2 diabetes mellitus with gangrene	421631007	2618206011		32	type 2
+84521000006116	28	C109D-2	C109D12	Type 2 diabetes mellitus with hypoglycaemic coma	719216001	3316336015		32	type 2
+84531000006118	19	C109A-2	C109A12	Type 2 diabetes mellitus with mononeuropathy	420436000	2618201018		32	type 2
+845341000006111	418	66AX	66AX.00	Diabetes: shared care in pregnancy - diabetologist and obstetrician	24451000000107	61891000000110		1	pregnancy
+84541000006111	218	C1093-2	C109312	Type 2 diabetes mellitus with multiple complications	190388001	292577016		32	type 2
+8454931000006116	182	^ESCTPA845493		Paediatric diabetes service	1079491000000102	2706051000000119		31	unspecified
+84551000006113	1127	C109C-2	C109C12	Type 2 diabetes mellitus with nephropathy	420279001	3035432019		32	type 2
+84561000006110	122	C1092-2	C109212	Type 2 diabetes mellitus with neurological complications	421326000	3695406015		32	type 2
+84571000006115	22	C109H-2	C109H12	Type 2 diabetes mellitus with neuropathic arthropathy	314904008	459313016		32	type 2
+84581000006117	195	C1091-2	C109112	Type 2 diabetes mellitus with ophthalmic complications	422099009	3698440016		32	type 2
+84591000006119	8	C109F-2	C109F12	Type 2 diabetes mellitus with peripheral angiopathy	314902007	459308015		32	type 2
+8459531000006110	8637	^ESCTDI845953		Diabetes monitoring invitation email	1083111000000108	2714151000000110		37	unspecified
+84601000006110	27	C109B-2	C109B12	Type 2 diabetes mellitus with polyneuropathy	713706002	3297353013		32	type 2
+84611000006113	222	C1090-2	C109012	Type 2 diabetes mellitus with renal complications	420279001	2618208012		32	type 2
+84621000006117	152	C1096-2	C109612	Type 2 diabetes mellitus with retinopathy	422034002	3699410014		32	type 2
+84631000006119	93	C1094-2	C109412	Type 2 diabetes mellitus with ulcer	190389009	292579018		32	type 2
+84641000006112	107	C1099-2	C109912	Type 2 diabetes mellitus without complication	313436004	457329019		32	type 2
+84651000006114	23299	C108-3	C108.13	Type I diabetes mellitus	46635009	494564012		32	type 1
+84661000006111	3867	C1088-1	C108811	Type I diabetes mellitus poorly controlled	444073006	2872487013		32	type 1
+84671000006116	239	C1089-1	C108911	Type I diabetes mellitus maturity onset	190372001	292551012		32	type 1
+84681000006118	1	C108H-1	C108H11	Type I diabetes mellitus with arthropathy	314893005	459294012		32	type 1
+84691000006115	26	C108F-1	C108F11	Cataract due to diabetes mellitus type 1	421920002	3688521010		32	type 1
+84701000006115	13	C1086-1	C108611	Type I diabetes mellitus with gangrene	420825003	2618207019		32	type 1
+84711000006117	71	C108E-1	C108E11	Type I diabetes mellitus with hypoglycaemic coma	314771006	459163017		32	type 1
+84721000006113	4	C108B-1	C108B11	Mononeuropathy with type 1 diabetes mellitus	420918009	3697664014		32	type 1
+84731000006111	344	C1083-1	C108311	Multiple complications of type 1 diabetes mellitus	422228004	2967771016		32	type 1
+84741000006118	393	C108D-1	C108D11	Type I diabetes mellitus with nephropathy	421893009	2623054013		32	type 1
+84751000006116	4	C1082-1	C108211	Type I diabetes mellitus with neurological complications	421468001	3695401013		32	type 1
+84761000006119	123	C108J-1	C108J11	Type I diabetes mellitus with neuropathic arthropathy	71771000119100	3010513018		32	type 1
+84771000006114	30	C1081-1	C108111	Disorder of eye with type 1 diabetes mellitus	739681000	3698438014		32	type 1
+84781000006112	2	C108G-1	C108G11	Type I diabetes mellitus with peripheral angiopathy	31211000119101	3315042015		32	type 1
+84791000006110	5	C108C-1	C108C11	Polyneuropathy due to diabetes mellitus type I	713705003	3297390014		32	type 1
+84801000006111	60	C1080-1	C108011	Type I diabetes mellitus with renal complications	421893009	2623054013		32	type 1
+84811000006114	122	C1087-1	C108711	Type I diabetes mellitus with retinopathy	420789003	3699407019		32	type 1
+84821000006118	21	C1085-1	C108511	Type I diabetes mellitus with ulcer	190368000	292538019		32	type 1
+84831000006115	6	C108A-1	C108A11	Type I diabetes mellitus without complication	313435000	457325013		32	type 1
+84841000006113	60949	C109-3	C109.13	Type II diabetes mellitus	44054006	493774016		32	type 2
+84851000006110	915	C1097-1	C109711	Type II diabetes mellitus - poor control	443694000	2921019012		32	type 2
+84861000006112	5	C109G-1	C109G11	Type II diabetes mellitus with arthropathy	314903002	459311019		32	type 2
+84871000006117	251	C109E-1	C109E11	Cataract due to diabetes mellitus type 2	420756003	3688522015		32	type 2
+84881000006119	9	C1095-1	C109511	Type II diabetes mellitus with gangrene	421631007	2618206011		32	type 2
+84891000006116	5	C109D-1	C109D11	Type II diabetes mellitus with hypoglycaemic coma	719216001	3316336015		32	type 2
+84901000006117	30	C109A-1	C109A11	Mononeuropathy with type 2 diabetes mellitus	420436000	3697667019		32	type 2
+84911000006119	8	C1093-1	C109311	Type II diabetes mellitus with multiple complications	190388001	292576013		32	type 2
+84921000006110	1481	C109C-1	C109C11	Renal disorder due to type 2 diabetes mellitus	420279001	3013392012		32	type 2
+84931000006113	54	C1092-1	C109211	Neurological disorder with diabetes type 2	421326000	3695406015		32	type 2
+84941000006115	14	C109H-1	C109H11	Type II diabetes mellitus with neuropathic arthropathy	314904008	459312014		32	type 2
+84951000006118	52	C1091-1	C109111	Disorder of eye with type 2 diabetes mellitus	422099009	3698440016		32	type 2
+84961000006116	19	C109F-1	C109F11	Type II diabetes mellitus with peripheral angiopathy	314902007	459306016		32	type 2
+84971000006111	75	C109B-1	C109B11	Type II diabetes mellitus with polyneuropathy	713706002	3297353013		32	type 2
+84981000006114	89	C1090-1	C109011	Type II diabetes mellitus with renal complications	420279001	3013392012		32	type 2
+84991000006112	247	C1096-1	C109611	Type II diabetes mellitus with retinopathy	422034002	3699410014		32	type 2
+85001000006117	78	C1094-1	C109411	Type II diabetes mellitus with ulcer	190389009	292581016		32	type 2
+85011000006119	92	C1099-1	C109911	Type II diabetes mellitus without complication	313436004	457330012		32	type 2
+850691000006118	514	C109K	C109K00	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	395204000	1488898011		32	type 2
+851051000006110	26	EMISR4QIN2		Ins-treat non-ins-dep diab mel	851051000006106	851051000006110		32	unspecified
+856531000006119	2116	EMISQDI1		Diabetic - GP eye check	856531000006103	856531000006119		1	unspecified
+856551000006114	14168	EMISQDI2		Diabetic - hospital eye check	856551000006105	856551000006114		1	unspecified
+856611000006114	4658	EMISQLA1		Laser treated diabetic retinopathy	856611000006105	856611000006114		32	unspecified
+856621000006118	51	EMISQLE10		Left proliferative diabetic retinopathy	856621000006102	856621000006118		32	unspecified
+856631000006115	2677	EMISQLE11		Left laser treated diabetic retinopathy	856631000006104	856631000006115		32	unspecified
+856641000006113	68	EMISQLE12		Left diabetic maculopathy	856641000006109	856641000006113		32	unspecified
+856651000006110	383	EMISQLE13		Left advanced diabetic retinal disease	856651000006106	856651000006110		32	unspecified
+856661000006112	282	EMISQLE14		Left diabetic foot active ulceration	856661000006108	856661000006112		27	unspecified
+856671000006117	468	EMISQLE15		Left diabetic foot high risk	856671000006101	856671000006117		27	unspecified
+856681000006119	2235	EMISQLE16		Left diabetic foot moderate risk	856681000006103	856681000006119		27	unspecified
+856691000006116	10376	EMISQLE17		Left diabetic foot low current risk	856691000006100	856691000006116		27	unspecified
+856771000006110	2326	EMISTO1		Patient has been told has diabetes	856771000006106	856771000006110		27	unspecified
+857031000006113	6014	EMISQLE8		Left non-proliferative diabetic retinopathy	857031000006109	857031000006113		32	unspecified
+857051000006118	45	EMISQLE9		Left preproliferative diabetic retinopathy	857051000006102	857051000006118		32	unspecified
+857411000006110	122	EMISQRI10		Right proliferative diabetic retinopathy	857411000006106	857411000006110		32	unspecified
+857421000006119	2692	EMISQRI11		Right laser treated diabetic retinopathy	857421000006103	857421000006119		32	unspecified
+857431000006116	167	EMISQRI12		Right diabetic maculopathy	857431000006100	857431000006116		32	unspecified
+857441000006114	360	EMISQRI13		Right advanced diabetic retinal disease	857441000006105	857441000006114		32	unspecified
+857691000006119	267	EMISQRI14		Right diabetic foot active ulceration	857691000006103	857691000006119		27	unspecified
+857721000006112	598	EMISQRI15		Right diabetic foot high risk	857721000006108	857721000006112		27	unspecified
+857741000006117	2364	EMISQRI16		Right diabetic foot moderate risk	857741000006101	857741000006117		27	unspecified
+857761000006118	10618	EMISQRI17		Right diabetic foot low current risk	857761000006102	857761000006118		27	unspecified
+857971000006110	5977	EMISQRI8		Right non-proliferative diabetic retinopathy	857971000006106	857971000006110		32	unspecified
+857981000006113	94	EMISQRI9		Right preproliferative diabetic retinopathy	857981000006109	857981000006113		32	unspecified
+881441000006111	4842	C1000-99	C100099	Diabetes mellitus - juvenile	73211009	881441000006111		32	unspecified
+881451000006113	27698	C1001-99	C100199	Diabetes mellitus -adult onset	532411000000102	881451000006113		32	unspecified
+881461000006110	609	C101-99	C101.99	Diabetes+ketoacidosis -no coma	420422005	881461000006110		32	unspecified
+881471000006115	65	C103-99	C103.99	Diabetes with coma	26298008	881471000006115		32	unspecified
+881481000006117	1283	C104-99	C104.99	Diabetes + nephropathy	127013003	881481000006117		32	unspecified
+881491000006119	1365	C105-99	C105.99	Diabetes + eye manifestation	25093002	881491000006119		32	unspecified
+881501000006110	5559	C106-99	C106.99	Diabetes + neuropathy	230572002	881501000006110		32	unspecified
+881511000006113	690	C107-99	C107.99	Diabetes + periph.circulat.dis	422275004	881511000006113		32	unspecified
+881521000006117	287	C10y-99	C10y.99	Diabetes + other complications	658011000000104	881521000006117		32	unspecified
+887971000006115	509	L180-99	L180.99	Preg.+ diabetes mellitus	199223000	887971000006115		32	pregnancy
+902201000006112	38	TJ23-99	TJ23.99	Reaction: insulin/antidiabetic	293190009	902201000006112		5	unspecified
+905621000006113	7509	HNG0036		[RFC] Reason for care : Diabetes	905621000006109	905621000006113		12	unspecified
+906711000006116	2499	HNG0167		[RFC] Reason for care : Diabetic foot/leg ulcer	906711000006100	906711000006116		12	unspecified
+908831000006118	233303	HNG0605		[RFC] Reason for care : Diabetes mellitus	908831000006102	908831000006118		12	unspecified
+9093013	552290	F420	F420.00	Diabetic retinopathy	4855003	9093013		32	unspecified
+910211000006114	537	HNGNQRF66		[RFC] Reason for care : Diabetic health promotion	910211000006105	910211000006114		12	unspecified
+910491000006117	2456	HNGNQRF94		[RFC] Reason for care : Diabetic leg ulcer	910491000006101	910491000006117		12	unspecified
+910501000006113	15149	HNGNQRF95		[RFC] Reason for care : Diabetic foot ulcer	910501000006109	910501000006113		12	unspecified
+913441000006119	216	C10E0-2	C10E012	Insulin-dependent diabetes mellitus with renal complications	127013003	301016		32	unspecified
+913451000006117	1740	C10E0	C10E000	Type 1 diabetes mellitus with renal complications	421893009	2618211013		32	type 1
+913461000006115	20	C10E0-1	C10E011	Type I diabetes mellitus with renal complications	421893009	2623054013		32	type 1
+913471000006110	271	C10E1-2	C10E112	Insulin-dependent diabetes mellitus with ophthalmic comps	25093002	3688467012		32	unspecified
+913481000006113	448	C10E1	C10E100	Type 1 diabetes mellitus with ophthalmic complications	739681000	3537386015		32	type 1
+913491000006111	3	C10E1-1	C10E111	Type I diabetes mellitus with ophthalmic complications	739681000	3698438014		32	type 1
+913501000006115	145	C10E2-2	C10E212	Insulin-dependent diabetes mellitus with neurological comps	422088007	3688477014		32	unspecified
+913511000006117	197	C10E2	C10E200	Type 1 diabetes mellitus with neurological complications	421468001	2618197018		32	type 1
+913521000006113	6	C10E2-1	C10E211	Neurological disorder with type 1 diabetes mellitus	421468001	3695401013		32	type 1
+913531000006111	181	C10E3-2	C10E312	Insulin dependent diabetes mellitus with multiple complicat	385041000000108	760111000000115		32	unspecified
+913541000006118	1105	C10E3	C10E300	Type 1 diabetes mellitus with multiple complications	422228004	2618232017		32	type 1
+913551000006116	16	C10E3-1	C10E311	Type I diabetes mellitus with multiple complications	422228004	2967771016		32	type 1
+913591000006110	154	C10E5-2	C10E512	Skin ulcer associated with diabetes mellitus	422183001	2623058011		32	unspecified
+913621000006112	24	C10E6-2	C10E612	Insulin dependent diabetes mellitus with gangrene	422275004	2616612015		32	unspecified
+913651000006115	205	C10E7-2	C10E712	Insulin dependent diabetes mellitus with retinopathy	4855003	9093013		32	unspecified
+913661000006118	2807	C10E7	C10E700	Retinopathy with type 1 diabetes mellitus	420789003	3699407019		32	type 1
+913671000006113	67	C10E7-1	C10E711	Type I diabetes mellitus with retinopathy	420789003	3699407019		32	type 1
+913681000006111	449	C10E8-2	C10E812	Insulin dependent diabetes mellitus - poor control	268519009	401531012		27	unspecified
+913711000006112	1089	C10E9-2	C10E912	Insulin dependent diabetes maturity onset	73211009	121589010		32	unspecified
+913771000006115	12	C10EB-2	C10EB12	Insulin dependent diabetes mellitus with mononeuropathy	230577008	345492010		32	unspecified
+913781000006117	17	C10EB	C10EB00	Type 1 diabetes mellitus with mononeuropathy	420918009	2618199015		32	type 1
+913791000006119	7	C10EB-1	C10EB11	Type I diabetes mellitus with mononeuropathy	420918009	3697664014		32	type 1
+913801000006118	33	C10EC-2	C10EC12	Insulin dependent diabetes mellitus with polyneuropathy	49455004	82373015		32	unspecified
+913811000006115	122	C10EC	C10EC00	Type 1 diabetes mellitus with polyneuropathy	713705003	3297342019		32	type 1
+913821000006111	1	C10EC-1	C10EC11	Type I diabetes mellitus with polyneuropathy	713705003	3297390014		32	type 1
+913831000006114	62	C10ED-2	C10ED12	Insulin dependent diabetes mellitus with nephropathy	127013003	301016		32	unspecified
+913841000006116	1343	C10ED	C10ED00	Renal disorder associated with type 1 diabetes mellitus	421893009	2623054013		32	type 1
+913851000006119	21	C10ED-1	C10ED11	Type I diabetes mellitus with nephropathy	421893009	2623054013		32	type 1
+913891000006113	15	C10EF-2	C10EF12	Insulin dependent diabetes mellitus with diabetic cataract	43959009	73294018		32	unspecified
+913901000006112	43	C10EF	C10EF00	Type 1 diabetes mellitus with diabetic cataract	421920002	2618234016		32	type 1
+913911000006110	2	C10EF-1	C10EF11	Type I diabetes mellitus with diabetic cataract	421920002	3688521010		32	type 1
+913921000006119	6	C10EG-2	C10EG12	Insulin dependent diab mell with peripheral angiopathy	421895002	2618203015		32	unspecified
+913931000006116	27	C10EG	C10EG00	Type 1 diabetes mellitus with peripheral angiopathy	31211000119101	3315042015		32	type 1
+913941000006114	5	C10EG-1	C10EG11	Peripheral angiopathy due to type 1 diabetes mellitus	31211000119101	3315042015		32	type 1
+913981000006115	43	C10EJ-2	C10EJ12	Insulin dependent diab mell with neuropathic arthropathy	201724008	309740011		32	unspecified
+914031000006118	3908	C10F0	C10F000	Renal disorder associated with type II diabetes mellitus	420279001	2618208012		32	type 2
+914041000006111	25	C10F0-1	C10F011	Type II diabetes mellitus with renal complications	420279001	3013392012		32	type 2
+914051000006113	1558	C10F1	C10F100	Disorder of eye with type 2 diabetes mellitus	422099009	3698440016		32	type 2
+914061000006110	15	C10F1-1	C10F111	Type II diabetes mellitus with ophthalmic complications	422099009	3698440016		32	type 2
+914071000006115	1998	C10F2	C10F200	Neurologic disorder associated with type 2 diabetes mellitus	421326000	3695406015		32	type 2
+914081000006117	14	C10F2-1	C10F211	Type II diabetes mellitus with neurological complications	421326000	3695406015		32	type 2
+914151000006112	7401	C10F6	C10F600	Retinopathy with type 2 diabetes mellitus	422034002	3699410014		32	type 2
+914161000006114	110	C10F6-1	C10F611	Type II diabetes mellitus with retinopathy	422034002	3699410014		32	type 2
+914221000006113	341	C10FA	C10FA00	Type 2 diabetes mellitus with mononeuropathy	420436000	2618201018		32	type 2
+914231000006111	42	C10FA-1	C10FA11	Type II diabetes mellitus with mononeuropathy	420436000	3697667019		32	type 2
+914241000006118	1228	C10FB	C10FB00	Polyneuropathy due to type 2 diabetes mellitus	713706002	3297353013		32	type 2
+914251000006116	37	C10FB-1	C10FB11	Type II diabetes mellitus with polyneuropathy	713706002	3297353013		32	type 2
+914261000006119	7865	C10FC	C10FC00	Diabetes type 2 with nephropathy	420279001	3035432019		32	type 2
+914271000006114	98	C10FC-1	C10FC11	Type II diabetes mellitus with nephropathy	420279001	3013392012		32	type 2
+914301000006111	545	C10FE	C10FE00	Type 2 diabetes mellitus with diabetic cataract	420756003	3688522015		32	type 2
+914311000006114	108	C10FE-1	C10FE11	Type II diabetes mellitus with diabetic cataract	420756003	3688522015		32	type 2
+914391000006116	863464	C10FJ	C10FJ00	Insulin treated Type 2 diabetes mellitus	237599002	2967820013		32	type 2
+918281000006116	2880	PC0646		Pt advised re diabetic diet	918281000006100	918281000006116		42	unspecified
+928461000006119	4213	C10EK	C10EK00	Persistent proteinuria associated with type 1 diabetes mellitus	420514000	2967914011		32	type 1
+928471000006114	15	C10EK-1	C10EK11	Type I diabetes mellitus with persistent proteinuria	420514000	2967914011		32	type 1
+928491000006110	119	C10EL-1	C10EL11	Type I diabetes mellitus with persistent microalbuminuria	401110002	1780311019		32	type 1
+928501000006119	18031	C10EM	C10EM00	Ketoacidosis in type 1 diabetes mellitus	420270002	2967817017		32	type 1
+928511000006116	799	C10EM-1	C10EM11	Type I diabetes mellitus with ketoacidosis	420270002	2967817017		32	type 1
+928521000006112	904	C10EN	C10EN00	Ketoacidotic coma in type 1 diabetes mellitus	421075007	2967758019		32	type 1
+928531000006110	4	C10EN-1	C10EN11	Type I diabetes mellitus with ketoacidotic coma	421075007	2967758019		32	type 1
+928541000006117	33079	C10FL	C10FL00	Persistent proteinuria associated with type 2 diabetes mellitus	421986006	2967751013		32	type 2
+928551000006115	674	C10FL-1	C10FL11	Type II diabetes mellitus with persistent proteinuria	421986006	2967751013		32	type 2
+928561000006118	75529	C10FM	C10FM00	Persistent microalbuminuria associated with type 2 diabetes mellitus	420715001	2967769016		32	type 2
+928571000006113	2687	C10FM-1	C10FM11	Type II diabetes mellitus with persistent microalbuminuria	420715001	2967769016		32	type 2
+928581000006111	3040	C10FN	C10FN00	Ketoacidosis in type 2 diabetes mellitus	421750000	2967754017		32	type 2
+928591000006114	96	C10FN-1	C10FN11	Type II diabetes mellitus with ketoacidosis	421750000	2967754017		32	type 2
+928601000006118	44	C10FP	C10FP00	Ketoacidotic coma in type 2 diabetes mellitus	421847006	2618218019		32	type 2
+928611000006115	6	C10FP-1	C10FP11	Ketoacidotic coma in type II diabetes mellitus	421847006	2618218019		32	type 2
+931191000006110	425967	9h41	9h41.00	Excepted from diabetes quality indicators - patient unsuitable	717421000000100	1569961000000114		37	unspecified
+9313421000006110	7	^ESCTDI931342		Diabetic ulcer of left foot due to diabetes mellitus type 2	10660471000119109	3332232010		31	type 2
+9313441000006115	10	^ESCTDI931344		Diabetes type 2 with diabetic ulcer of left foot	10660471000119109	3332262016		31	type 2
+932641000006116	27	C103y-99	C103y99	Diabetes with coma	630521000000101	932641000006116		32	unspecified
+933211000006112	156	C10yz-99	C10yz99	DM + persist microalbuminuria	658061000000102	933211000006112		32	unspecified
+933221000006116	77	C10yz-98	C10yz98	DM + persistent proteinuria	658061000000102	933221000006116		32	unspecified
+933231000006118	1	C10yz-97	C10yz97	Hypo states in diabetes	658061000000102	933231000006118		32	unspecified
+9350631000006113	1	^ESCTHI935063		History of diabetic foot ulcer	10995761000119100	3038210013		31	unspecified
+938301000006114	558	C10EP	C10EP00	Exudative maculopathy with type 1 diabetes mellitus	420486006	3698521013		32	type 1
+938311000006112	36	C10EP-1	C10EP11	Type I diabetes mellitus with exudative maculopathy	420486006	2618236019		32	type 1
+938321000006116	1746	C10FQ	C10FQ00	Exudative maculopathy associated with type 2 diabetes mellitus	421779007	2618237011		32	type 2
+938331000006118	338	C10FQ-1	C10FQ11	Exudative maculopathy with type 2 diabetes mellitus	421779007	3698529010		32	type 2
+958321000006115	32	EMISNQDH4		DHDS pilot project outcome - new diagnosis Diabetes	958321000006104	958321000006115		37	unspecified
+96244016	3	ESCTPR17		Protein-deficient diabetes mellitus	57886004	96244016		32	malnutrition
+967631000006115	29	C10H0	C10H000	Diabetes mellitus induced by non-steroid drugs without complication	413183008	2474729016		32	secondary
+967681000006119	22	C10L	C10L.00	Fibrocalculous pancreatic diabetes	2751001	5649018		32	unspecified
+967701000006116	139	C10M	C10M.00	Lipoatrophic diabetes mellitus	127012008	300015		32	other/unspec genetic inc syndromic
+975251000006111	11452	2BBk	2BBk.00	O/E - right eye stable treated proliferative diabetic retinopathy	414910007	2532963013		27	unspecified
+975261000006113	10862	2BBl	2BBl.00	O/E - left eye stable treated proliferative diabetic retinopathy	414894003	2532964019		27	unspecified
+975481000006116	6381	388Y	388Y.00	UKPDS (United Kingdom Prospective Diabetes Study) risk engine score	1089101000000109	2728801000000115		3	unspecified
+98476015	155104	F4201	F420100	Proliferative diabetic retinopathy	59276001	98476015		32	unspecified
+987441000006113	28744	EMISNQSI2		Six month diabetic review	987441000006109	987441000006113		1	unspecified
+9986011	585	ESCTDR3		Drug-induced diabetes mellitus	5368009	9986011		5	secondary
