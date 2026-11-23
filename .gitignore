@@ -1,3 +1,14 @@
+# gold source
+gold/medcodes/medical
+
+gold/readcodes/medical
+
+gold/dmdcodes/product
+
+gold/prodcodes/product
+
+
+#gold compare
 gold/medcodes/compare
 
 gold/prodcodes/compare
@@ -6,6 +17,17 @@ gold/readcodes/compare
 
 gold/dmdcodes/compare
 
+
+# aurum source
+aurum/medcodes/medical
+
+aurum/readcodes/medical
+
+aurum/dmdcodes/product
+
+aurum/prodcodes/product
+
+# aurum compare
 aurum/medcodes/compare
 
 aurum/prodcodes/compare
